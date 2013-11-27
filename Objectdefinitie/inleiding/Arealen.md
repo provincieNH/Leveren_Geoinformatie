@@ -34,6 +34,8 @@ De objectdefinities zijn op deze manier eenvoudiger te beheren in een versie beh
 
 ### GUID
 Elk object heeft een unieke GUID (Global Unique Identifier). Bij het aanmaken van een nieuw object in de FileGeodatabase moet ook een nieuwe GUID gegenereert worden. Er wordt van de opdrachtnemer verwacht dat deze nieuwe GUID's genereert voor nieuwe objecten die worden aangemaakt in de database.
+In de Gisib database komen alleen GUID's voor met hoofdletters. Dus als een GUID met kleine letters wordt aangeleverd door een opdrachtnemer (bv {103b4bd7-c7fa-43f3-882a-bdba86ec7e45} ) dan wordt deze omgezet naar een GUID met hoofdletters en ook op deze manier uitgeleverd ( {103B4BD7-C7FA-43F3-882A-BDBA86EC7E45}). 
+In de Gisib database worden GUID's standaard geformateerd in het volgende format {8-4-4-4-12}.
 
 ### ID
 Er is in het model gekozen om sleutels als number(10) vast te leggen, naast de GUID's die als globale unieke identificatie door het systeem gebruikt worden.
