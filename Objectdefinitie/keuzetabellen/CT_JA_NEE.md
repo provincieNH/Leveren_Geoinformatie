@@ -1,20 +1,12 @@
-SQL> @jdesc_Beperkt CT_JA_NEE;
+## CT_JA_NEE
 
-# BUDATA.CT_JA_NEE
+***
 
-                                                                                                   
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID        	|CODE          	|OMSCHRIJVING	|                                                           
+|------   	|----          	|-----    		|                                                           
+|1			|Ja				|Ja				|
+|2			|Nee			|Nee			|
+|3			|Onbekend		|Onbekend		|
 
-[plaatje]
+***
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off

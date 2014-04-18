@@ -10,3 +10,5 @@ daarna, bewerk objdef.docx
 - kopieer inhoud objdef.docx in nwe versie. LET OP na paragraaf Licentie, dus alles tm licentie behouden.
 - update inhoudsopgave (geheel, niet alleen paginanummers)
 - klaar!
+
+pandoc -o keuzetabellen.docx keuzetabellen/CT_JA_NEE.md keuzetabellen/CT_INSTANTIE.md keuzetabellen/CT_GEMEENTE.md keuzetabellen/CT_STATUS.md keuzetabellen/CT_TYPE_ABRI.md keuzetabellen/CT_TYPE_BUSLIJN.md

@@ -1,15 +1,16 @@
-## CT_STATUS
+## CT_TYPE_BUSLIJN
 
 ***
+
+
 
 |ID                              	|CODE          	|OMSCHRIJVING|
 |------                          	|----          	|-----    |
-|213074|0|0|
-|213080|Actueel|Actueel|
-|1468723|Nieuw|Nieuw|
-|1468724|Gewijzigd|Gewijzigd|
-|1468725|Vervallen|Vervallen|
+|1|R-net|R-net|
+|2|stroomlijn|stroomlijn|
+|3|ontsluitingslijn|ontsluitingslijn|
 
 
 
 ***
+
