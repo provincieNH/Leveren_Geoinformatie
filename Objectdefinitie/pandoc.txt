@@ -1,7 +1,7 @@
 run onderstaande commando in git bash (niet in gewone dos box)
 navigeer naar juiste plek (met slash forwards '/'), bijv cd /d/GITrepo/Documentatie/Objectdefinitie/
 
-pandoc -o objdef.docx inleiding/*.md objectbladen/1_Algemeen/*.md objectbladen/2_Verharding/*.md objectbladen/3_Kunstwerken/*.md objectbladen/4_Ovl_Vri/*.md objectbladen/5_Landschap_milieu/*.md objectbladen/6_Meubilair/*.md objectbladen/7_Vaarwegen/*.md objectbladen/8_Kabels_leidingen/*.md
+pandoc -o objdef.docx inleiding/*.md objectbladen/1_Algemeen/*.md objectbladen/2_Verharding/*.md objectbladen/3_Kunstwerken/*.md objectbladen/4_Ovl_Vri/*.md objectbladen/5_Landschap_milieu/*.md objectbladen/6_Meubilair/*.md objectbladen/7_Vaarwegen/*.md objectbladen/8_Kabels_leidingen/*.md objectbladen/9_HOV/*.md
 
 
 daarna, bewerk objdef.docx
