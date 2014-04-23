@@ -1,6 +1,6 @@
-SQL> @jdesc_Beperkt CT_TYPE_DETECTOR;
+SQL> @jdesc_Beperkt CT_TYPE_DETECTIE;
 
-# BUDATA.CT_TYPE_DETECTOR
+# BUDATA.CT_TYPE_DETECTIE
 
                                                                                             
 * BGT inhoud: 
