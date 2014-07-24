@@ -15,6 +15,7 @@
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |SOORT_LATIJN                    	|VARCHAR2(255) 	|TODO|                                                                
+|SOORT_NL							|VARCHAR2(255) 	|TODO|                                                                
 |SOORT_BESCHERMD                 	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
 
