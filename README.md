@@ -10,4 +10,5 @@ Documenten:
 * Objectdefinitie : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eingenschappen in beschreven staan.
 * BUDATA Template : Dit is een ArcGIS FileGeodatabase template.
 
-
+De folder Objectdefinitie bevat de Markdown documenten op waarmee de Objectdefinitie wordt beheerd/aangemaakt
+De folder Extra bevat aanvullende documentatie
