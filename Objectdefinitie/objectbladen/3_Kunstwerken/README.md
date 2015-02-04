@@ -2,7 +2,6 @@
 
 Een kunstwerk is een samenhangende eenheid binnen een verkeersinfrastructuur voor het vervoeren van mensen en goederen. Het maakt een veilige en betrouwbare kruising tussen landverkeer, scheepvaartverkeer, voorzieningen en water mogelijk. Het kan ook de aanvoer, afvoer, kering en berging van water mogelijk maken. 
 
-
 Kenmerkend voor het kunstwerkbeheer is dat het gaat om een verzameling van objecten die samen een functioneel geheel vormen en die zijn gebonden door locatie. Waar er sprake is van complexe kunstwerken wordt er een onderverdeling aangebracht, in de vorm van een decompositie.
 
 De NEN 2767-4 Decompositie wordt gevolgd voor Kunstwerken en Oeverconstructies. Waarbij de elementen en bouwdelen van Oeverconstructies in dezelde tabellen (element en bouwdeel) worden vastgelegd als de elementen en bouwdelen van kunstwerken. Om de objecteigenschappen zo nauwkeurig mogelijk te modelleren is er wel voor gekozen om het NEN Beheerobject in BU-Data op te 'knippen' in 4 verschillende objecten:
@@ -15,7 +14,6 @@ De NEN 2767-4 Decompositie wordt gevolgd voor Kunstwerken en Oeverconstructies. 
 Deze onderverdeling is vooral ingegeven door de verschillende objecteigenschappen (paspoortgegevens) die van deze objecten bijgehouden worden.
 
 NB. GELUIDWERENDE_VOORZIENING is formeel in de NEN geen beheerobject. Een Geluidwerende Constructie komt in de NEN voor op Element niveau onder Wegen of Kunstwerken. Omdat PNH GELUIDSSCHERM als zelfstandig object beheerd is er voor gekozen om dit toch als entiteit op het hoogste niveau op te nemen.
-
 
 ![Kunstwerken](Kunstwerken.png)
 
