@@ -39,7 +39,7 @@ In de Gisib database worden GUID's standaard geformateerd in het volgende format
 
 ### ID
 Er is in het model gekozen om sleutels als number(10) vast te leggen, naast de GUID's die als globale unieke identificatie door het systeem gebruikt worden.
-Deze sleutels zijn in eerste instantie bedoelt om de relaties tussen objecten aan te kunnen geven (zie PK/FK hieronder)
+Deze sleutels zijn in eerste instantie bedoeld om de relaties tussen objecten aan te kunnen geven (zie PK/FK hieronder)
 
 ### OBJECTID
 Elk object heeft ook een OBJECTID, dit is een interne Identificatie die gebruikt wordt door de ArcGIS software. De waarde in dit attribuut kan veranderen door het kopieren/migreren van data met ArcGIS en is daarom niet altijd betrouwbaar als consistente sleutel. 
