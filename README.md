@@ -1,7 +1,7 @@
 ILS
 ===
 
-Informatie Levering Specificatie
+Informatie Levering Specificatie versie 3.6
 
 In deze repository staan de documenten die samen de informatie levering specificatie vormen voor de BU-Data database van de Provincie Noord-Holland.
 
