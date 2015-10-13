@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_ZIJDE;
+CT_ZIJDE
 
 # BUDATA.CT_ZIJDE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_ZIJDE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

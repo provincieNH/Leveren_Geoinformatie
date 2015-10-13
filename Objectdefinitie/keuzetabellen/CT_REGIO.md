@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_REGIO;
+CT_REGIO
 
 # BUDATA.CT_REGIO
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_REGIO;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

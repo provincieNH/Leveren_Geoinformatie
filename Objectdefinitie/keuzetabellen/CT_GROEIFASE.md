@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_GROEIFASE;
+CT_GROEIFASE
 
 # BUDATA.CT_GROEIFASE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_GROEIFASE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_MEETSNELHEID;
+CT_MEETSNELHEID
 
 # BUDATA.CT_MEETSNELHEID
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_MEETSNELHEID;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

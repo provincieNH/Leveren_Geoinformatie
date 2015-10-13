@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_FLORASOORT;
+CT_FLORASOORT
 
 # BUDATA.CT_FLORASOORT
 
@@ -19,4 +19,4 @@ SQL> @jdesc_Beperkt CT_FLORASOORT;
 |LATIJNSENAAM                    	|VARCHAR2(255) 	|TODO|                                                                
 |BESCHERMD                       	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

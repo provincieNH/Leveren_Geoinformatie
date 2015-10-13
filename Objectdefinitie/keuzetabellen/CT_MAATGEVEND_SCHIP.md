@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_MAATGEVEND_SCHIP;
+CT_MAATGEVEND_SCHIP
 
 # BUDATA.CT_MAATGEVEND_SCHIP
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_MAATGEVEND_SCHIP;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

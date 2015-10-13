@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_LAMP_SPANNING;
+CT_LAMP_SPANNING
 
 # BUDATA.CT_LAMP_SPANNING
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_LAMP_SPANNING;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

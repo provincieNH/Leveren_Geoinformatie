@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_LAMP_KLASSE;
+CT_LAMP_KLASSE
 
 # BUDATA.CT_LAMP_KLASSE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_LAMP_KLASSE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

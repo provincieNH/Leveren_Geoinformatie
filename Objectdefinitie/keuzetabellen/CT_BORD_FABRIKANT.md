@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_BORD_FABRIKANT;
+CT_BORD_FABRIKANT
 
 # BUDATA.CT_BORD_FABRIKANT
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_BORD_FABRIKANT;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

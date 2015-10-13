@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_HOOGTEKLASSE;
+CT_HOOGTEKLASSE
 
 # BUDATA.CT_HOOGTEKLASSE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_HOOGTEKLASSE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

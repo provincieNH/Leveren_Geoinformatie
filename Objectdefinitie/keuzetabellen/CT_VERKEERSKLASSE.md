@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_VERKEERSKLASSE;
+CT_VERKEERSKLASSE
 
 # BUDATA.CT_VERKEERSKLASSE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_VERKEERSKLASSE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

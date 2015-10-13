@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_KAST;
+CT_TYPE_KAST
 
 # BUDATA.CT_TYPE_KAST
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_KAST;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

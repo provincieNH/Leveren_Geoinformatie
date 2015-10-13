@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_BESTEMMING;
+CT_TYPE_BESTEMMING
 
 # BUDATA.CT_TYPE_BESTEMMING
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_BESTEMMING;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

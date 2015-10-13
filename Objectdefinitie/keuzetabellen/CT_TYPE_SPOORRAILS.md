@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_SPOORRAILS;
+CT_TYPE_SPOORRAILS
 
 # BUDATA.CT_TYPE_SPOORRAILS
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_SPOORRAILS;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

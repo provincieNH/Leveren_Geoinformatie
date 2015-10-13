@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_DEKLAAG;
+CT_DEKLAAG
 
 # BUDATA.CT_DEKLAAG
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_DEKLAAG;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

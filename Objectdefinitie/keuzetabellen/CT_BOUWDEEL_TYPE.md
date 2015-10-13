@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_BOUWDEEL_TYPE;
+CT_BOUWDEEL_TYPE
 
 # BUDATA.CT_BOUWDEEL_TYPE
 
@@ -18,4 +18,4 @@ SQL> @jdesc_Beperkt CT_BOUWDEEL_TYPE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

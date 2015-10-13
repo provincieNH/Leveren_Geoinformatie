@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_LANTAARN;
+CT_TYPE_LANTAARN
 
 # BUDATA.CT_TYPE_LANTAARN
 
@@ -16,4 +16,4 @@ SQL> @jdesc_Beperkt CT_TYPE_LANTAARN;
 |ID                              	|NUMBER(10,0)  	|TODO|                                                                
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-SQL> spool off
+

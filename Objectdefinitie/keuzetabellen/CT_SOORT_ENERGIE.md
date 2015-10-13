@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_SOORT_ENERGIE;
+CT_SOORT_ENERGIE
 
 # BUDATA.CT_SOORT_ENERGIE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_SOORT_ENERGIE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

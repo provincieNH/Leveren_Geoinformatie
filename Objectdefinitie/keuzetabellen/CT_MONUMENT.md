@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_MONUMENT;
+CT_MONUMENT
 
 # BUDATA.CT_MONUMENT
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_MONUMENT;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

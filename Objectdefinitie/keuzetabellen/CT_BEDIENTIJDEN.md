@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_BEDIENTIJDEN;
+CT_BEDIENTIJDEN
 
 # BUDATA.CT_BEDIENTIJDEN
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_BEDIENTIJDEN;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

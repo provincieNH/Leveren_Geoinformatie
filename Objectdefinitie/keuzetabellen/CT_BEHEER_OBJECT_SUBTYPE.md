@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_BEHEER_OBJECT_SUBTYPE;
+CT_BEHEER_OBJECT_SUBTYPE
 
 # BUDATA.CT_BEHEER_OBJECT_SUBTYPE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_BEHEER_OBJECT_SUBTYPE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

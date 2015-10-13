@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_HEG_FUNCTIE;
+CT_HEG_FUNCTIE
 
 # BUDATA.CT_HEG_FUNCTIE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_HEG_FUNCTIE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

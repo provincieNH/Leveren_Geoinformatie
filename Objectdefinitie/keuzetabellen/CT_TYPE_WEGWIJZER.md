@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_WEGWIJZER;
+CT_TYPE_WEGWIJZER
 
 # BUDATA.CT_TYPE_WEGWIJZER
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_WEGWIJZER;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

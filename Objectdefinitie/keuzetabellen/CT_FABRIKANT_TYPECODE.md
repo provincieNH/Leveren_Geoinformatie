@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_FABRIKANT_TYPECODE;
+CT_FABRIKANT_TYPECODE
 
 # BUDATA.CT_FABRIKANT_TYPECODE
 
@@ -18,4 +18,4 @@ SQL> @jdesc_Beperkt CT_FABRIKANT_TYPECODE;
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |FABRIKANT                       	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

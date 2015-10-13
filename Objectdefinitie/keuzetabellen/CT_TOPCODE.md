@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TOPCODE;
+CT_TOPCODE
 
 # BUDATA.CT_TOPCODE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TOPCODE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

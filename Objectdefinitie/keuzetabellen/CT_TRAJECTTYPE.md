@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TRAJECTTYPE;
+CT_TRAJECTTYPE
 
 # BUDATA.CT_TRAJECTTYPE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TRAJECTTYPE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_FUNDERING_TYPE;
+CT_FUNDERING_TYPE
 
 # BUDATA.CT_FUNDERING_TYPE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_FUNDERING_TYPE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

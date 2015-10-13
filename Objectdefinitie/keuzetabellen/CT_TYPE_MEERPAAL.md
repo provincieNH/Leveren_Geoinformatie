@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_MEERPAAL;
+CT_TYPE_MEERPAAL
 
 # BUDATA.CT_TYPE_MEERPAAL
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_MEERPAAL;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

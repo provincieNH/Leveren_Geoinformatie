@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_METHODIEK_2010;
+CT_METHODIEK_2010
 
 # BUDATA.CT_METHODIEK_2010
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_METHODIEK_2010;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

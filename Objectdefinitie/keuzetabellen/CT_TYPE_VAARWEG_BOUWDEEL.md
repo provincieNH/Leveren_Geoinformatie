@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_VAARWEG_BOUWDEEL;
+CT_TYPE_VAARWEG_BOUWDEEL
 
 # BUDATA.CT_TYPE_VAARWEG_BOUWDEEL
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_VAARWEG_BOUWDEEL;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(38,0)  	|TODO|                                                                
-SQL> spool off
+

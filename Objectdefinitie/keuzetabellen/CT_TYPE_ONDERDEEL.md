@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_ONDERDEEL;
+CT_TYPE_ONDERDEEL
 
 # BUDATA.CT_TYPE_ONDERDEEL
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_ONDERDEEL;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

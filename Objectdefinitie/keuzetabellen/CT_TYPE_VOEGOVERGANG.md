@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_VOEGOVERGANG;
+CT_TYPE_VOEGOVERGANG
 
 # BUDATA.CT_TYPE_VOEGOVERGANG
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_VOEGOVERGANG;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

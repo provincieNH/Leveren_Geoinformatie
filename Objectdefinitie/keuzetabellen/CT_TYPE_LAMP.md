@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_LAMP;
+CT_TYPE_LAMP
 
 # BUDATA.CT_TYPE_LAMP
 
@@ -19,4 +19,4 @@ SQL> @jdesc_Beperkt CT_TYPE_LAMP;
 |LKL_ID                          	|NUMBER(10,0)  	|TODO|                                                                
 |BRANDUREN                       	|NUMBER(10,0)  	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

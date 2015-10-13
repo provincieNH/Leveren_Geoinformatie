@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_MATERIAALTYPE;
+CT_MATERIAALTYPE
 
 # BUDATA.CT_MATERIAALTYPE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_MATERIAALTYPE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

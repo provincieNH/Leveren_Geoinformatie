@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_VERHARDING;
+CT_VERHARDING
 
 # BUDATA.CT_VERHARDING
 
@@ -18,4 +18,4 @@ SQL> @jdesc_Beperkt CT_VERHARDING;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

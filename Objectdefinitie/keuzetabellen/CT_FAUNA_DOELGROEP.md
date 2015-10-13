@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_FAUNA_DOELGROEP;
+CT_FAUNA_DOELGROEP
 
 # BUDATA.CT_FAUNA_DOELGROEP
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_FAUNA_DOELGROEP;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

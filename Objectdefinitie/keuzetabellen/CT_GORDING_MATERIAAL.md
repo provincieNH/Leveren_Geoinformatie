@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_GORDING_MATERIAAL;
+CT_GORDING_MATERIAAL
 
 # BUDATA.CT_GORDING_MATERIAAL
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_GORDING_MATERIAAL;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

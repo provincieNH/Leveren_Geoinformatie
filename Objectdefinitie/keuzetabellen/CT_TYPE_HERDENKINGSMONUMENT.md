@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_HERDENKINGSMONUMENT;
+CT_TYPE_HERDENKINGSMONUMENT
 
 # BUDATA.CT_TYPE_HERDENKINGSMONUMENT
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_HERDENKINGSMONUMENT;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

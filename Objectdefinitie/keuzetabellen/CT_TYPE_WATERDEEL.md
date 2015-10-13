@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_WATERDEEL;
+CT_TYPE_WATERDEEL
 
 # BUDATA.CT_TYPE_WATERDEEL
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_WATERDEEL;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

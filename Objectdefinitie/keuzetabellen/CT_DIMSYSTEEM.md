@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_DIMSYSTEEM;
+CT_DIMSYSTEEM
 
 # BUDATA.CT_DIMSYSTEEM
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_DIMSYSTEEM;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

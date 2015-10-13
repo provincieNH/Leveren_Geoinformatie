@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_GEBRUIKSFUNCTIE;
+CT_GEBRUIKSFUNCTIE
 
 # BUDATA.CT_GEBRUIKSFUNCTIE
 
@@ -19,4 +19,4 @@ SQL> @jdesc_Beperkt CT_GEBRUIKSFUNCTIE;
 |WEGTYPE							|VARCHAR2(255)	|TODO|  
 |WEGINDELING                        |VARCHAR2(255)  |TODO|                 
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

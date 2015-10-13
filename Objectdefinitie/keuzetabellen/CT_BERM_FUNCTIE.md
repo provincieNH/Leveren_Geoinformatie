@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_BERM_FUNCTIE;
+CT_BERM_FUNCTIE
 
 # BUDATA.CT_BERM_FUNCTIE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_BERM_FUNCTIE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

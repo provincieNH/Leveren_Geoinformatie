@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_WEGTYPE;
+CT_WEGTYPE
 
 # BUDATA.CT_WEGTYPE
 
@@ -18,4 +18,4 @@ SQL> @jdesc_Beperkt CT_WEGTYPE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

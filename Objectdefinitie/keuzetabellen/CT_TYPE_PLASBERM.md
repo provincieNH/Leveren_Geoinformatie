@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_PLASBERM;
+CT_TYPE_PLASBERM
 
 # BUDATA.CT_TYPE_PLASBERM
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_PLASBERM;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

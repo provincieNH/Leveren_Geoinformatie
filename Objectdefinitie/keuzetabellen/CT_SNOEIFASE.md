@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_SNOEIFASE;
+CT_SNOEIFASE
 
 # BUDATA.CT_SNOEIFASE
 
@@ -16,4 +16,4 @@ SQL> @jdesc_Beperkt CT_SNOEIFASE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(38,0)  	|TODO|                                                                
-SQL> spool off
+

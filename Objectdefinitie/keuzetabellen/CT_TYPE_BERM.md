@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_BERM;
+CT_TYPE_BERM
 
 # BUDATA.CT_TYPE_BERM
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_BERM;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

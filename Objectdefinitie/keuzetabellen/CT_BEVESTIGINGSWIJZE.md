@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_BEVESTIGINGSWIJZE;
+CT_BEVESTIGINGSWIJZE
 
 # BUDATA.CT_BEVESTIGINGSWIJZE
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_BEVESTIGINGSWIJZE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

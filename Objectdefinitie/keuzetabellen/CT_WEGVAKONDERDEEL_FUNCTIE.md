@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_WEGVAKONDERDEEL_FUNCTIE;
+CT_WEGVAKONDERDEEL_FUNCTIE
 
 # BUDATA.CT_WEGVAKONDERDEEL_FUNCTIE
 
@@ -18,4 +18,4 @@ SQL> @jdesc_Beperkt CT_WEGVAKONDERDEEL_FUNCTIE;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_THEMAKAART;
+CT_THEMAKAART
 
 # BUDATA.CT_THEMAKAART
 
@@ -18,4 +18,4 @@ SQL> @jdesc_Beperkt CT_THEMAKAART;
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |SUB_TH_ID                       	|NUMBER(10,0)  	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

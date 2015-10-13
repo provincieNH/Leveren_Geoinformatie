@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_KUNSTWERKDEEL;
+CT_TYPE_KUNSTWERKDEEL
 
 # BUDATA.CT_TYPE_KUNSTWERKDEEL
 
@@ -16,4 +16,4 @@ SQL> @jdesc_Beperkt CT_TYPE_KUNSTWERKDEEL;
 |ID                              	|NUMBER(10,0)  	|TODO|                                                                
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-SQL> spool off
+

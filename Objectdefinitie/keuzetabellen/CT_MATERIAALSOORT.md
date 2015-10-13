@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_MATERIAALSOORT;
+CT_MATERIAALSOORT
 
 # BUDATA.CT_MATERIAALSOORT
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_MATERIAALSOORT;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

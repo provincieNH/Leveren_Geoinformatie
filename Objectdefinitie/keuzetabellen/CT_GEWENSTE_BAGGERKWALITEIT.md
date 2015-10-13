@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_GEWENSTE_BAGGERKWALITEIT;
+CT_GEWENSTE_BAGGERKWALITEIT
 
 # BUDATA.CT_GEWENSTE_BAGGERKWALITEIT
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_GEWENSTE_BAGGERKWALITEIT;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_WATERSCHAP;
+CT_WATERSCHAP
 
 # BUDATA.CT_WATERSCHAP
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_WATERSCHAP;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+

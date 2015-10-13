@@ -1,4 +1,4 @@
-SQL> @jdesc_Beperkt CT_TYPE_OEVERBESCHERMING;
+CT_TYPE_OEVERBESCHERMING
 
 # BUDATA.CT_TYPE_OEVERBESCHERMING
 
@@ -17,4 +17,4 @@ SQL> @jdesc_Beperkt CT_TYPE_OEVERBESCHERMING;
 |CODE                            	|VARCHAR2(25)  	|TODO|                                                                
 |OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
 |OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-SQL> spool off
+
