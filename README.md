@@ -8,7 +8,7 @@ In deze repository staan de documenten die samen de informatie levering specific
 Documenten:
 * [Productspecificatie](Productspecificatie BU-Data-v3.2_20140820.docx) : De productspecificatie bevat eisen en richtlijnen voor het maken en leveren van revisiebestanden BU-Data.
 * [Objectdefinitie](objectdefinitie BUDATA v3.8 20160218.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eingenschappen in beschreven staan.
-* [BUDATA Template](BUDATA_3_1_Template.zip) : Dit is een ArcGIS FileGeodatabase template.
+* [BUDATA Template](BUDATA_3_8_Template.zip) : Dit is een ArcGIS FileGeodatabase template.
 
 De folder Objectdefinitie bevat de Markdown documenten op waarmee de Objectdefinitie wordt beheerd/aangemaakt
 
