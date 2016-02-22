@@ -1,20 +1,16 @@
-CT_TYPE_STUW
+## CT_TYPE_STUW
 
-# BUDATA.CT_TYPE_STUW
+***
 
-                                                                                                
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|656|GDS|Gronddamstuw|
+|657|KWS|Keerwandstuw|
+|658|KS|Klepstuw|
+|659|SB|Stuwbak|
+|660|OV|Overig|
+|133871|WIU|Werk in uitvoering|
+|1696201|ONB|Onbekend|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

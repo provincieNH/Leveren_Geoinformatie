@@ -1,20 +1,14 @@
-CT_TYPE_BODEM
+## CT_TYPE_BODEM
 
-# BUDATA.CT_TYPE_BODEM
+***
 
-                                                                                               
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|699|Z|Zand|
+|700|K|Klei|
+|701|V|Veel|
+|702|TA|Teelaarde|
+|703|OB|Onbekend|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

@@ -2,11 +2,11 @@
 
 ***
 
-|ID        	|CODE          	|OMSCHRIJVING	|                                                           
-|------   	|----          	|-----    		|                                                           
-|1			|Ja				|Ja				|
-|2			|Nee			|Nee			|
-|3			|Onbekend		|Onbekend		|
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|2148594|Ja|Ja|
+|2148595|Nee|Nee|
+|2148596|Onbekend|Onbekend|
+
 
 ***
-

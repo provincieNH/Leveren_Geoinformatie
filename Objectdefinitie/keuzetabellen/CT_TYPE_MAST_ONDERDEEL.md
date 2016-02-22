@@ -1,20 +1,17 @@
-CT_TYPE_MAST_ONDERDEEL
+## CT_TYPE_MAST_ONDERDEEL
 
-# BUDATA.CT_TYPE_MAST_ONDERDEEL
+***
 
-                                                                                      
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|826|VSA|Voorschakelapparaat (OVL)|
+|827|LMP|Lamp (OVL)|
+|828|DRK|Drukknop (VRI)|
+|829|RAT|Rateltikker (VRI)|
+|830|GMS|GMS Onderdeel (GMS)|
+|831|WIN|Windmeter (GMS)|
+|832|VER|Verkeersteller|
+|833|OV|Overig|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

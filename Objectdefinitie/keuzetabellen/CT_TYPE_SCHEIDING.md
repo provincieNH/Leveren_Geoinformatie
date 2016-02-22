@@ -1,20 +1,19 @@
-CT_TYPE_SCHEIDING
+## CT_TYPE_SCHEIDING
 
-# BUDATA.CT_TYPE_SCHEIDING
+***
 
-                                                                                           
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|455235|Raster|Raster|
+|455239|Muur|Muur|
+|455255|Raster met bomenrij|Raster met bomenrij|
+|455268|Rij paaltjes in verh|Rij paaltjes in verh|
+|455369|Haag met raster|Haag met raster|
+|455444|Schrikhek|Schrikhek|
+|455585|Schutting|Schutting|
+|456560|Overig|Overig|
+|462057|Fauna geleide rail|Fauna geleide rail|
+|2173210|Hek|Hek|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

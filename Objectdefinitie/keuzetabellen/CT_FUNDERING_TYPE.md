@@ -1,20 +1,15 @@
-CT_FUNDERING_TYPE
+## CT_FUNDERING_TYPE
 
-# BUDATA.CT_FUNDERING_TYPE
+***
 
-                                                                                           
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|314|OS|Op staal|
+|315|BUP|Buispaal|
+|316|BEP|Betonpaal|
+|317|HT|Hout|
+|318|DW|Damwand|
+|319|BOP|Boorpaal|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

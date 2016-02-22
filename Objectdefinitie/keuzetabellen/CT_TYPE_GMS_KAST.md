@@ -1,20 +1,11 @@
-CT_TYPE_GMS_KAST
+## CT_TYPE_GMS_KAST
 
-# BUDATA.CT_TYPE_GMS_KAST
+***
 
-                                                                                                
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|2364292|GMSkast|GMSkast|
+|2364293|Doorverbindingskast|Doorverbindingskast|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

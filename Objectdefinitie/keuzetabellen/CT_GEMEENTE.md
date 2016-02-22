@@ -2,8 +2,6 @@
 
 ***
 
-
-
 |ID                              	|CODE          	|OMSCHRIJVING|
 |------                          	|----          	|-----    |
 |423|Aalsmeer|Aalsmeer|
@@ -121,7 +119,6 @@
 |72582|ONB|Onbekend|
 |72857|Wijdewormer|Wijdewormer|
 |75635|Harrlemmermeer|Harrlemmermeer|
-
 
 
 ***

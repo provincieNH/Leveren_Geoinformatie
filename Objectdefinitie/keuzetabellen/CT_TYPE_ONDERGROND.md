@@ -1,20 +1,13 @@
-CT_TYPE_ONDERGROND
+## CT_TYPE_ONDERGROND
 
-# BUDATA.CT_TYPE_ONDERGROND
+***
 
-                                                                                          
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|141|0|Zand|
+|142|1|Klei|
+|143|2|Klei/Veen|
+|144|3|Veen|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

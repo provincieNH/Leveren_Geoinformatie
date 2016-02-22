@@ -1,20 +1,14 @@
-CT_TYPE_KABEL
+## CT_TYPE_KABEL
 
-# BUDATA.CT_TYPE_KABEL
+***
 
-                                                                                               
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|1101|ADD|Aarddraad|
+|1102|ENE|Energie|
+|1103|DAT|Data|
+|558341|energie|energie|
+|558347|data|data|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

@@ -1,20 +1,14 @@
-CT_TYPE_OVERIG_BOUWWERK
+## CT_TYPE_OVERIG_BOUWWERK
 
-# BUDATA.CT_TYPE_OVERIG_BOUWWERK
+***
 
-                                                                                     
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|471234|Remmingswerk|Remmingswerk|
+|471240|Steiger|Steiger|
+|471253|Trap|Trap|
+|471366|Vlonder|Vlonder|
+|1730781|Waterwerk|IMGeo WAT Water werken ©|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

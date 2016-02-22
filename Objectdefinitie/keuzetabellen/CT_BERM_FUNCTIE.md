@@ -1,20 +1,12 @@
-CT_BERM_FUNCTIE
+## CT_BERM_FUNCTIE
 
-# BUDATA.CT_BERM_FUNCTIE
+***
 
-                                                                                             
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|1988139|BF1|1 meter strook|
+|1988140|BF2|Obstakel vrije zone|
+|1988141|BF3|Overige bermen|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

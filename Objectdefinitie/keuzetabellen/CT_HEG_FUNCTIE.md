@@ -1,20 +1,12 @@
-CT_HEG_FUNCTIE
+## CT_HEG_FUNCTIE
 
-# BUDATA.CT_HEG_FUNCTIE
+***
 
-                                                                                              
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|2145931|RBS|rijbaanscheiding|
+|2145932|RBG|rijbaangeleiding|
+|2145934|OPV|optische versmalling|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

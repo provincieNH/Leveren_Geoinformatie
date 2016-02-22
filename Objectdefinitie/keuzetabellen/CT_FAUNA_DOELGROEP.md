@@ -1,20 +1,13 @@
-CT_FAUNA_DOELGROEP
+## CT_FAUNA_DOELGROEP
 
-# BUDATA.CT_FAUNA_DOELGROEP
+***
 
-                                                                                          
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|709|AM|Amfibieën|
+|710|DA|Das|
+|711|OT|Otter|
+|712|WV|Watervogels|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

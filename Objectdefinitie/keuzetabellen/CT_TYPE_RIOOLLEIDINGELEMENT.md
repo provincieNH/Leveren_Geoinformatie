@@ -1,20 +1,18 @@
-CT_TYPE_RIOOLLEIDINGELEMENT
+## CT_TYPE_RIOOLLEIDINGELEMENT
 
-# BUDATA.CT_TYPE_RIOOLLEIDINGELEMENT
+***
 
-                                                                                 
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|529851|Kolk|Kolk|
+|529860|Rioolpomp|Rioolpomp|
+|541120|Trottoirkolk|Trottoirkolk|
+|541182|Straatkolk|Straatkolk|
+|541661|Inspectieput|Inspectieput|
+|541798|Zandvang|Zandvang|
+|1817154|Infiltratiepunt|Infiltratiepunt|
+|1817155|Infiltratiekolk|Infiltratiekolk|
+|1817160|RWS kolk|RWS kolk|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

@@ -1,20 +1,14 @@
-CT_TYPE_GELEIDERAIL
+## CT_TYPE_GELEIDERAIL
 
-# BUDATA.CT_TYPE_GELEIDERAIL
+***
 
-                                                                                         
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|863|MSB|Mini-Stepbarrier|
+|864|VC|VehCat|
+|865|OV|Overig|
+|1731775|ONB|Onbekend|
+|1731798|GR|Geleiderail|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

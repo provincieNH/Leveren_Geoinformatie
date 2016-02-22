@@ -1,20 +1,14 @@
-CT_TYPE_BOOM
+## CT_TYPE_BOOM
 
-# BUDATA.CT_TYPE_BOOM
+***
 
-                                                                                                
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|1344|KNB|Knotboom|
+|1345|LEB|Leiboom|
+|150873|Overig|Overig|
+|2144748|NVUB|Niet-vrij uitgroeiende boom|
+|2144749|VUB|Vrij uitgroeiende boom|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

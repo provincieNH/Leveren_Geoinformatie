@@ -1,20 +1,13 @@
-CT_TYPE_WEGWIJZER
+## CT_TYPE_WEGWIJZER
 
-# BUDATA.CT_TYPE_WEGWIJZER
+***
 
-                                                                                           
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|1696203|WZK|Wegwijzer zonder kabel (1P)|
+|1696204|WMK|Wegwijzer met kabel (1P)|
+|1696205|WOP|Wegwijzer op portaal (1P)|
+|1696206|ONB|Onbekend|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

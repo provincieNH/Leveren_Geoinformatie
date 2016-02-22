@@ -1,20 +1,14 @@
-CT_VERHARDINGSTYPE
+## CT_VERHARDINGSTYPE
 
-# BUDATA.CT_VERHARDINGSTYPE
+***
 
-                                                                                          
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|152|0|Asfaltbeton|
+|153|1|Elementen|
+|154|2|Cementbeton|
+|155|3|Overig|
+|156|4|Onbekend|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

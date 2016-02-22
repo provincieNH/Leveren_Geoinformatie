@@ -1,21 +1,12 @@
-﻿CT_TYPE_BAGGER
+## CT_TYPE_BAGGER
 
-# BUDATA.CT_TYPE_BAGGER
+***
 
-
-* BGT inhoud:
-* Herkomst Definitie:
-* Meet precisie:
-* Definitie: Het type bagger van de waterloop conform de Besluit Bodemkwaliteit
-
-
-[plaatje]
-
-
-|KOLOM                           	|TYPE          	|DEFINITIE|
+|ID                              	|CODE          	|OMSCHRIJVING|
 |------                          	|----          	|-----    |
-|ID                              	|NUMBER(10,0)  	|TODO|
-|CODE                            	|VARCHAR2(25)  	|TODO|
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|
-|OBJECTID                        	|NUMBER(,0)    	|TODO|
+|715|VB|Verspreidbaar|
+|716|TB|Toepasbaar|
+|717|NTB|Niet toepasbaar|
 
+
+***

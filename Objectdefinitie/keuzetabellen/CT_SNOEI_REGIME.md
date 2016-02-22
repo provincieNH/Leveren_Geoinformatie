@@ -1,20 +1,15 @@
-CT_SNOEI_REGIME
+## CT_SNOEI_REGIME
 
-# BUDATA.CT_SNOEI_REGIME
+***
 
-                                                                                             
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|679|Knot|Knot|
+|680|Lei|Lei|
+|681|BG|Begeleidingssnoei|
+|682|VJG|Verjongingssnoei|
+|683|GI|Geen info|
+|684|Nee|Nee|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

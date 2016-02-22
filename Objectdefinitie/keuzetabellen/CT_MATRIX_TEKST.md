@@ -1,20 +1,15 @@
-CT_MATRIX_TEKST
+## CT_MATRIX_TEKST
 
-# BUDATA.CT_MATRIX_TEKST
+***
 
-                                                                                             
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|745|COM|Combinatie|
+|746|ROU|Route|
+|747|SNE|Snelheid|
+|748|WAA|Waarschuwing|
+|749|OV|Overig|
+|379705|Niet in veld wnb|Niet in veld wnb|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

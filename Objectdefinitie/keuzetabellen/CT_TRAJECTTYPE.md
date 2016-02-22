@@ -1,20 +1,13 @@
-CT_TRAJECTTYPE
+## CT_TRAJECTTYPE
 
-# BUDATA.CT_TRAJECTTYPE
+***
 
-                                                                                              
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|2761|Busbaan|Busbaan|
+|2765|Weg|Weg|
+|2849|Fietspad|Fietspad|
+|2186515|Vaarweg|Vaarweg|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

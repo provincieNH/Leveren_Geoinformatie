@@ -1,20 +1,18 @@
-CT_REFLECTIEKLASSE
+## CT_REFLECTIEKLASSE
 
-# BUDATA.CT_REFLECTIEKLASSE
+***
 
-                                                                                          
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|889|DG3|DG3|
+|890|EG|EG|
+|891|HIP|HIP|
+|892|n.v.t.|n.v.t.|
+|476435|Niet bepaald|Niet bepaald|
+|476465|II|II|
+|476489|III|III|
+|477826|I|I|
+|1732253|ONB|Onbekend|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

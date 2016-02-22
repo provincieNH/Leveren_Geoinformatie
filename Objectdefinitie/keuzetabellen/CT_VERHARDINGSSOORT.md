@@ -1,21 +1,19 @@
-CT_VERHARDINGSSOORT
+## CT_VERHARDINGSSOORT
 
-# BUDATA.CT_VERHARDINGSSOORT
+***
 
-                                                                                         
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|157|0|Dichte deklagen|
+|158|1|ZOAB deklagen|
+|159|2|Oppervlaktebehandelingen|
+|160|3|Betonstraatstenen|
+|161|4|Gebakken klinkers|
+|162|5|Tegels|
+|163|6|Sierbestrating|
+|164|7|Verdeuveld|
+|165|8|Onverdeuveld|
+|166|9|Overig|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|VHT_ID                          	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

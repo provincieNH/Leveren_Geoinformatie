@@ -1,19 +1,17 @@
-CT_SNOEIFASE
+## CT_SNOEIFASE
 
-# BUDATA.CT_SNOEIFASE
+***
 
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|1561509|Begeleidingssnoei aanvaar|Begeleidingssnoei aanvaard|
+|1561510|Begeleidingssnoei achters|Begeleidingssnoei achterstallig|
+|1561511|Begeleidingssnoei verwaar|Begeleidingssnoei verwaarloosd|
+|1561512|Onderhoudssnoei aanvaard|Onderhoudssnoei aanvaard|
+|1561513|Onderhoudssnoei achtersta|Onderhoudssnoei achterstallig|
+|1561514|Rooien|Rooien|
+|1561515|ONB|Onbekend|
+|2110001|Knotten|Knotten|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(38,0)  	|TODO|                                                                
-
+***

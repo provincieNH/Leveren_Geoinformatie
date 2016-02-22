@@ -1,20 +1,13 @@
-CT_GORDING_MATERIAAL
+## CT_GORDING_MATERIAAL
 
-# BUDATA.CT_GORDING_MATERIAAL
+***
 
-                                                                                        
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|718|VK|Voorkant|
+|719|AK|Achterkant|
+|720|BK|Beide kanten|
+|721|NEE|Nee|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

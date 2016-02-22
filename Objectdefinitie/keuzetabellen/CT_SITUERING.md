@@ -1,20 +1,41 @@
-CT_SITUERING
+## CT_SITUERING
 
-# BUDATA.CT_SITUERING
+***
 
-                                                                                                
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|9399|L|L|
+|9405|R|R|
+|9415|M|M|
+|9602|RM|RM|
+|9632|RL|RL|
+|9636|LM|LM|
+|9638|LL|LL|
+|12032|DI|DI|
+|12099|RR|RR|
+|15337|LR|LR|
+|21015|G1|G1|
+|21017|A3|A3|
+|21019|D1|D1|
+|21021|E4|E4|
+|21023|E3|E3|
+|21025|E1|E1|
+|21027|E2|E2|
+|21030|A2|A2|
+|21033|A1|A1|
+|27235|F1|F1|
+|27239|F2|F2|
+|51633|RRR|RRR|
+|56418|C1|C1|
+|58562|?|?|
+|2354799|LLLL|LLLL|
+|2354800|LLL|LLL|
+|2354801|LRR|LRR|
+|2354802|LRRR|LRRR|
+|2354803|RLL|RLL|
+|2354804|RLLL|RLLL|
+|2354805|RLLLL|RLLLL|
+|2354806|RRRR|RRRR|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

@@ -1,19 +1,9 @@
-CT_TYPE_OVERBRUGGINGSDEEL
+## CT_TYPE_OVERBRUGGINGSDEEL
 
-# BUDATA.CT_TYPE_OVERBRUGGINGSDEEL
+***
 
-                                                                                   
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-
+***

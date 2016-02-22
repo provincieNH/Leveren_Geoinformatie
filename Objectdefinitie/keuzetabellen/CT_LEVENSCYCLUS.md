@@ -1,20 +1,19 @@
-CT_LEVENSCYCLUS
+## CT_LEVENSCYCLUS
 
-# BUDATA.CT_LEVENSCYCLUS
+***
 
-                                                                                             
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|304|G|Gebruik|
+|305|O|Ontwikkeling|
+|306|V|Vervallen|
+|64708|Onbekend|Onbekend|
+|64747|In voorbereiding|In voorbereiding|
+|64976|Realisatie|Realisatie|
+|65896|?|?|
+|72579|15 jaar|15 jaar|
+|72630|20 jaar|20 jaar|
+|72658|10 jaar|10 jaar|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

@@ -1,20 +1,16 @@
-CT_TYPE_LEIDINGELEMENT
+## CT_TYPE_LEIDINGELEMENT
 
-# BUDATA.CT_TYPE_LEIDINGELEMENT
+***
 
-                                                                                      
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|1078|DEM|Detectielus mof/las|
+|1079|IPT|Inspectieput|
+|1080|KLK|Kolk|
+|1081|RPP|Rioolpomp|
+|1082|SKK|Straatkolk|
+|1083|TKK|Trottoirkolk|
+|1084|ZNG|Zandvang|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

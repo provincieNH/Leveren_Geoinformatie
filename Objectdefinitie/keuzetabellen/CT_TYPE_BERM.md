@@ -1,20 +1,15 @@
-CT_TYPE_BERM
+## CT_TYPE_BERM
 
-# BUDATA.CT_TYPE_BERM
+***
 
-                                                                                                
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|1646245|BM1|Bermgras|
+|1646246|ONB|Onbekend|
+|1646247|BM2|Gras|
+|1646248|BM3|Schraalgras|
+|2259423|Duin|Duin|
+|2268367|TUI|Tuintje|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***

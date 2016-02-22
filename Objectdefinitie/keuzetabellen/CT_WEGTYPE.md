@@ -1,21 +1,17 @@
-CT_WEGTYPE
+## CT_WEGTYPE
 
-# BUDATA.CT_WEGTYPE
+***
 
-                                                                                                  
-* BGT inhoud: 
-* Herkomst Definitie: 
-* Meet precisie: 
-* Definitie: 
+|ID                              	|CODE          	|OMSCHRIJVING|
+|------                          	|----          	|-----    |
+|241|1|Hoofdwegennet|
+|242|2|Zwaar belaste weg|
+|243|3|Gemiddeld belaste weg|
+|244|4|Licht belaste weg|
+|245|5|Weg in woongebied|
+|246|6|Weg in verblijfsgebied|
+|247|7|Fietspaden|
+|1581|8|Overige|
 
-[plaatje]
 
-                                      
-|KOLOM                           	|TYPE          	|DEFINITIE|                                                           
-|------                          	|----          	|-----    |                                                           
-|ID                              	|NUMBER(10,0)  	|TODO|                                                                
-|VHT_ID                          	|NUMBER(10,0)  	|TODO|                                                                
-|CODE                            	|VARCHAR2(25)  	|TODO|                                                                
-|OMSCHRIJVING                    	|VARCHAR2(255) 	|TODO|                                                                
-|OBJECTID                        	|NUMBER(,0)    	|TODO|                                                                
-
+***
