@@ -10,6 +10,6 @@ Documenten:
 * [Objectdefinitie](objectdefinitie BUDATA v3.81 20160222.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eingenschappen in beschreven staan.
 * [BUDATA Template](BUDATA_3_8_Template.zip) : Dit is een ArcGIS FileGeodatabase template.
 
-De folder Objectdefinitie bevat de Markdown documenten op waarmee de Objectdefinitie wordt beheerd/aangemaakt
+De folder Objectdefinitie bevat de Markdown documenten waarmee de Objectdefinitie wordt beheerd/aangemaakt
 
 De folder Extra bevat aanvullende documentatie
