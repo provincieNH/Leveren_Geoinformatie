@@ -13,3 +13,6 @@ Documenten:
 De folder Objectdefinitie bevat de Markdown documenten waarmee de Objectdefinitie wordt beheerd/aangemaakt
 
 De folder Extra bevat aanvullende documentatie
+
+__Om de word documenten te downloaden klikt u eerst op het document om vervolgens via de link 'view raw' het document te kunnen downloaden.__
+Via de optie 'download zip' krijgt u de complete repository als zipfile.
