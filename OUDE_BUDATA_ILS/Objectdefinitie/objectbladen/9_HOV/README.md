@@ -1,0 +1,16 @@
+﻿# Hoogwaardig Openbaar Vervoer
+
+Objecten voor openbaar vervoer
+Dit datamodel bevat de gegevens voor het NDOV.
+
+![HOV Datamodel](BUDATA_HOV.png)
+HOV Datamodel
+
+
+### BGT
+
+Perron valt onder Wegvakonderdeel. Haltekom valt onder Wegvakonderdeel.
+
+Overige objecten vallen niet onder de BGT.
+
+***
