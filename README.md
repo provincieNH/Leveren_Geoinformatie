@@ -14,7 +14,7 @@ __Toekomstige releases__
 Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
 In voorbereiding zijn de volgende releases:
 * __4.03__: Minor release met een aantal extra relatie tabellen tussen kruinlijnen en terreindelen t.b.v. uitwisseling Areaaldata-BGT: verwachtte releasedatum: **oktober 2017**
-* __4.1__: Major release met veel attribuutcorrecties: verwachtte releasedatum **november 2017**
+* __4.1__: Major release met veel attribuutcorrecties: verwachtte releasedatum **december 2017**
 
 
 ![Release kalender Areaaldata](https://github.com/provincieNH/ILS/blob/master/release_kalender_areaaldata.png)
