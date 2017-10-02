@@ -9,8 +9,8 @@ __LET OP: Vanaf 1 Oktober is het BUDATA datamodel veranderd in Areaaldata!__ In 
 
 Documenten:
 * [Productspecificatie](Productspecificatie Areaaldata-v4 0_20160922.docx) : De productspecificatie bevat eisen en richtlijnen voor het maken en leveren van revisiebestanden Areaaldata.
-* [Objectdefinitie](Objectdefinitie Areaaldata v4.01.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eigenschappen in beschreven staan.
-* [Areaaldata Template](areaaldata_template_v401.gdb.zip) : Dit is een ArcGIS FileGeodatabase template.
+* [Objectdefinitie](Objectdefinitie Areaaldata v4.02.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eigenschappen in beschreven staan.
+* [Areaaldata Template](areaaldata_template_v401.gdb.zip) : Dit is een ArcGIS FileGeodatabase template (nog van 4.01)
 
 De folder Objectbladen bevat de Markdown documenten waarmee de Objectdefinitie wordt beheerd/aangemaakt
 
