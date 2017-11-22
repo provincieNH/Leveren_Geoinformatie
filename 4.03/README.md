@@ -2,8 +2,15 @@ ILS
 ===
 
 Informatie Levering Specificatie versie 4.03
-
 In deze repository staan de documenten die samen de informatie levering specificatie vormen voor de Areaaldata database van de Provincie Noord-Holland.
 
+LET OP: Vanaf 1 Oktober is het BUDATA datamodel veranderd in Areaaldata! In de folder OUDE_BUDATA_ILS staat nog de oude BUDATA ILS.
+
 Documenten:
-verwacht in oktober 2017
+
+[Productspecificatie](Productspecificatie Areaaldata-v4 0 3_20171010.docx): De productspecificatie bevat eisen en richtlijnen voor het maken en leveren van revisiebestanden Areaaldata.
+[Objectdefinitie](Objectdefinitie Areaaldata v4.03.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eigenschappen in beschreven staan.
+Areaaldata Template : Dit is een ArcGIS FileGeodatabase template (nog van 4.01)
+De folder Objectbladen bevat de Markdown documenten waarmee de Objectdefinitie wordt beheerd/aangemaakt
+
+Om de Word documenten te downloaden klikt u eerst op het document om vervolgens via de link 'view raw' het document te kunnen downloaden. Via de optie 'download zip' krijgt u de complete repository als zipfile.
