@@ -8,9 +8,9 @@ LET OP: Vanaf 1 Oktober is het BUDATA datamodel veranderd in Areaaldata! In de f
 
 Documenten:
 
-*[Productspecificatie](https://github.com/provincieNH/ILS/tree/master/4.03/Productspecificatie Areaaldata-v4 0 3_20171010.docx): De productspecificatie bevat eisen en richtlijnen voor het maken en leveren van revisiebestanden Areaaldata.
-*[Objectdefinitie](https://github.com/provincieNH/ILS/tree/master/4.03/Objectdefinitie Areaaldata v4.03.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eigenschappen in beschreven staan.
-*[Areaaldata Template](https://github.com/provincieNH/ILS/tree/master/4.03/AD_PROD_XML_workspace_4_03.zip] : Dit is een XML Workspace document)
+*[Productspecificatie](Productspecificatie Areaaldata-v4 0 3_20171010.docx): De productspecificatie bevat eisen en richtlijnen voor het maken en leveren van revisiebestanden Areaaldata.
+*[Objectdefinitie](Objectdefinitie Areaaldata v4.03.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eigenschappen in beschreven staan.
+*[Areaaldata Template](AD_PROD_XML_workspace_4_03.zip) : Dit is een XML Workspace document)
 
 De folder Objectbladen bevat de Markdown documenten waarmee de Objectdefinitie wordt beheerd/aangemaakt
 
