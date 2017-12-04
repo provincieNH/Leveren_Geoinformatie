@@ -10,7 +10,7 @@ Documenten:
 
 * [Productspecificatie](Productspecificatie_Areaaldata_v4_03_20171010.docx): De productspecificatie bevat eisen en richtlijnen voor het maken en leveren van revisiebestanden Areaaldata.
 * [Objectdefinitie](Objectdefinitie_Areaaldata_4_03.docx) : De objectdefinitie is het 'woordenboek', waar de definities van de objecten en hun eigenschappen in beschreven staan.
-* [Areaaldata Template](AD_PROD_XML_workspace_4_03.zip) : Dit is een XML Workspace document)
+* [Areaaldata Template](AD_PROD_XML_workspace_4_03.zip) : Dit is een XML Workspace document (zie voor uitleg: https://blogs.esri.com/esri/arcgis/2009/03/18/the-xml-schema-of-the-geodatabase/)
 
 De folder Objectbladen bevat de Markdown documenten waarmee de Objectdefinitie wordt beheerd/aangemaakt
 
