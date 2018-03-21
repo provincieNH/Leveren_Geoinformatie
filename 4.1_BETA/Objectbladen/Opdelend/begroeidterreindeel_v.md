@@ -29,13 +29,12 @@ $ Feature dataset: Opdelend
 |TYPESPEC                          |String(255,0,0)         |PNH; Nadere typering van het object; keuzelijst [typeSpecBTD]; Nullable: True; Default: None|
 |FYSIEKVOORKOMEN                   |String(50,0,0)          |BGT; Fysieke omschrijving van het object; keuzelijst [fysiekvoorkomenBTD]; Nullable: False; Default: None|
 |OPTALUD                           |String(1,0,0)           |BGT; Ligt het object op een talud? Ja/Nee. Bij 'Ja', moet er een ondersteunendWegdeelKruin_l geregistreerd zijn; keuzelijst [JaNeeOnbekend]; Nullable: False; Default: None|
-|TRAJECT                           |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
+|BERICHT_ID                        |String(128,0,0)         |BGT; Nummer van het bericht dat PNH heeft verzonden naar LV. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |INONDERZOEK                       |String(1,0,0)           |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
 |TIJDSTIPREGISTRATIE               |Date(8,0,0)             |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |EINDREGISTRATIE                   |Date(8,0,0)             |BGT; Datum en tijdstip waarop deze instantie van het object niet meer geldig is bij de bronhouder. Wanneer deze waarde niet is ingevuld is de instantie nog geldig. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |LV_PUBLICATIEDATUM                |Date(8,0,0)             |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen in de Landelijke Voorziening. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
-|BERICHT_ID                        |String(128,0,0)         |BGT; Nummer van het bericht dat PNH heeft verzonden naar LV. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
-|DATALEVERANCIER                   |String(255,0,0)         |PNH; Leverancier van de data; Nullable: True; Default: None|
+|DATALEVERANCIER                   |String(255,0,0)         |PNH; Leverancier van de data; Nullable: True; Default: None; Visible:No|
 |CREATED_USER                      |String(255,0,0)         |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                      |Date(8,0,0)             |PNH; Aanmaakdatum; Nullable: True|
 |LAST_EDITED_USER                  |String(50,0,0)          |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd; Nullable: True; Default: None|
@@ -43,7 +42,7 @@ $ Feature dataset: Opdelend
 |SHAPE                             |Geometry(0,0,0)         |PNH; Vlak|
 |SHAPE_Length                      |Double(0,0,0)           |PNH; Omtrek in meters, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
 |SHAPE_Area                        |Double(0,0,0)           |PNH; Oppervlakte in m2, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
-
+|TRAJECT                           |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
 
 
 

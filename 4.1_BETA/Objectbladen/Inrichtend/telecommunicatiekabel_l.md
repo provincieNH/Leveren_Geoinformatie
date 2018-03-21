@@ -44,7 +44,6 @@ $ Feature dataset: Inrichtend
 |GEONAUWKEURIGHEIDXY                 |String(50,0,0)       |IMKL; Nauwkeurigheid van de liggingsgegevens in het horizontale vlak; keuzelijst [NauwkeurigheidXYvalue]; Nullable: True; Default: None|
 |DIEPTELEGGING                       |String(255,0,0)      |PNH; FK naar diepteTovMaaiveld_p; Nullable: True; Default: None|
 |KASTVRI                             |String(255,0,0)      |PNH; FK naar kastVri_p; Nullable: True; Default: None|
-|INNETWERK                           |String(255,0,0)      |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)      |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)      |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                        |Date(8,0,0)          |PNH; Aanmaakdatum; Nullable: True|

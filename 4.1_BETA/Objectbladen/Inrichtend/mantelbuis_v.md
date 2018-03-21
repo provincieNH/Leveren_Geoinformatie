@@ -40,7 +40,6 @@ $ Feature dataset: Inrichtend
 |AANTALKABELSLEIDINGEN               |Integer(0,10,0)         |PNH; Aantal kabels en leidingen; Nullable: True|
 |DIEPTELEGGING                       |String(255,0,0)         |PNH; FK naar diepteTovMaaiveld_p; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)         |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
-|LINK                                |String(255,0,0)         |PNH; FK naar utiliteitsLink_l; Nullable: True; Default: None
 |DATALEVERANCIER                     |String(255,0,0)         |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)         |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                        |Date(8,0,0)             |PNH; Aanmaakdatum; Nullable: True|

@@ -88,9 +88,9 @@ Een vast kunstwerk is een beheerobject van het type:
 |GEMEENTE                            |String(255,0,0)        |PNH; Gemeente naam; keuzelijst [GEMEENTE]; Nullable: True; Default: None|
 |GEDEELDBEHEER                       |String(255,0,0)        |PNH; Indien van toepassing, tweede beheerder van het object; keuzelijst [GEDEELD_BEHEER]; Nullable: True; Default: None|
 |LEVENSCYCLUS                        |String(255,0,0)        |PNH; Levenscyclus; keuzelijst [LEVENSCYCLUS]; Nullable: True; Default: None|
-|CONDITIESCORE                       |String(255,0,0)        |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
+|CONDITIESCORE                       |Integer(0,10,0)        |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |CONDITIESCORE_DATUM                 |Date(8,0,0)            |PNH; Datum opname Conditiescore; Nullable: True|
-|RELATIEVEHOOGTELIGGING              |SmallInteger(0,10,0)    |BGT; Aanduiding voor de relatieve hoogte van het object; Nullable: False; Default: 0|
+|RELATIEVEHOOGTELIGGING              |SmallInteger(0,10,0)   |BGT; Aanduiding voor de relatieve hoogte van het object; Nullable: False; Default: 0|
 |MONUMENT                            |String(255,0,0)        |PNH; Monumentale status; keuzelijst [jaNeeOnbekend]; Nullable: True; Default: None|
 |NENBEHEEROBJECT                     |String(255,0,0)        |PNH; NENBEHEEROBJECT; keuzelijst [NENBEHEEROBJECT]; Nullable: True; Default: None|
 |SCHOTBALKAANWEZIG                   |String(1,0,0)          |PNH; Schotbalk aanwezig; keuzelijst [jaNeeOnbekend]; Nullable: True; Default: O|

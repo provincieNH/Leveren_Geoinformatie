@@ -38,7 +38,6 @@ $ Feature dataset: Opdelend
 |OMSCHRIJVING                      |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
 |HMBEGIN                           |Float(0,25,10)           |PNH; Hectometrering begin berm; Nullable: True|
 |HMEIND                            |Float(0,25,10)           |PNH; Hectometrering eind berm; Nullable: True|
-|LENGTE                            |SmallInteger(0,10,0)     |PNH; Lengte; Nullable: True|
 |OPMERKINGMBTONDERH                |String(255,0,0)          |PNH; Opmerking met betrekking tot het onderhoud; Nullable: True; Default: None|
 |STREEFBEELD                       |String(255,0,0)          |PNH; Concrete visuele doelstelling; Nullable: True; Default: None|
 |GRONDSOORT                        |String(255,0,0)          |PNH; Grondsoort; keuzelijst [GRONDSOORT]; Nullable: True; Default: None|
@@ -55,6 +54,7 @@ $ Feature dataset: Opdelend
 |CREATED_DATE                      |Date(8,0,0)              |PNH; Aanmaakdatum; Nullable: True|
 |LAST_EDITED_USER                  |String(50,0,0)           |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd; Nullable: True; Default: None|
 |LAST_EDITED_DATE                  |Date(8,0,0)              |PNH; Datum van de laatste mutatie; Nullable: True|
+|LENGTE                            |Float(0,10,0)            |PNH; Lengte in meters; Nullable: True|
 |SHAPE                             |Geometry(0,0,0)          |PNH; Vlak|
 |SHAPE_Length                      |Double(0,0,0)            |PNH; Omtrek in meters, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
 |SHAPE_Area                        |Double(0,0,0)            |PNH; Oppervlakte in m2, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|

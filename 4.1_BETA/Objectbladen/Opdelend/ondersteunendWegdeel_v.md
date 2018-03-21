@@ -40,7 +40,7 @@ $ Feature dataset: Opdelend
 |OMSCHRIJVING                       |String(255,0,0)           |PNH; Extra toelichting; Nullable: True; Default: None|
 |HMBEGIN                            |Float(0,25,10)            |PNH; Hectometrering begin berm; Nullable: True|
 |HMEIND                             |Float(0,25,10)            |PNH; Hectometrering eind berm; Nullable: True|
-|LENGTE                             |SmallInteger(0,10,0)      |PNH; Lengte; Nullable: True|
+|LENGTE                             |Float(0,10,0)             |PNH; Lengte in meter; Nullable: True|
 |OPMERKINGMBTONDERH                 |String(255,0,0)           |PNH; Opmerking met betrekking tot het onderhoud; Nullable: True; Default: None|
 |PLANJAAR                           |SmallInteger(0,10,0)      |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |RESTLEVENSDUUR                     |SmallInteger(0,10,0)      |PNH; Restlevensduur in maanden; Nullable: True; Default: None|
@@ -52,8 +52,8 @@ $ Feature dataset: Opdelend
 |VERHARDINGCATEGORIE                |String(255,0,0)           |PNH; Verharding categorie conform CROW; keuzelijst [VERHARDING_CATEGORIE]; Nullable: True; Default: None|
 |VERHARDING                         |String(255,0,0)           |PNH; Verharding object conform CROW; keuzelijst [VERHARDING]; Nullable: True; Default: None|
 |GEBRUIKSFUNCTIE                    |String(255,0,0)           |PNH; Gebruiksfunctie conform CROW; keuzelijst [GEBRUIKSFUNCTIE]; Nullable: True; Default: None|
-|OPPERVLAKTE                        |SmallInteger(0,10,0)      |PNH; Oppervlakte van het wegvakonderdeel in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |TRAJECT                            |String(255,0,0)           |PNH; FK naar traject_v; Nullable: True; Default: None; Nullable: True; Default: None|
+|WEGVAK                             |String(255,0,0)           |PNH; FK naar wegvak_v - Nullable: True Default: None| Visible:No
 |INONDERZOEK                        |String(1,0,0)             |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
 |TIJDSTIPREGISTRATIE                |Date(8,0,0)               |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |EINDREGISTRATIE                    |Date(8,0,0)               |BGT; Datum en tijdstip waarop deze instantie van het object niet meer geldig is bij de bronhouder. Wanneer deze waarde niet is ingevuld is de instantie nog geldig. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|

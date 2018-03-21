@@ -35,7 +35,6 @@ $ Feature dataset: Inrichtend
 |JAAR_PLAATSING_AANLEG_GESCHAT       |String(1,0,0)           |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |DETECTIENUMMER                      |String(255,0,0)         |PNH; Detectie nummer. Bestaat over het algemeen uit een hoofdletter, gevolgd door een cijfer (combinatie) met eventueel een decimaal die als punt wordt weergegeven. Voorbeeld: D2.1 of DM1; Nullable: True; Default: None|
 |AFMETING                            |String(255,0,0)         |PNH; Afmeting van sensor in meter afgerond op halve meters. Grootste getal altijd als eerst vermeld en decimalen met een punt weergegeven. Voorbeeld: 5x2.5; Nullable: True; Default: None|
-|TRAJECT                             |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
 |ELEKTRICITEITSKABEL                 |String(255,0,0)         |PNH; FK naar electriciteitskabel_l; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)         |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)         |PNH; Leverancier van de data; Nullable: True; Default: None|

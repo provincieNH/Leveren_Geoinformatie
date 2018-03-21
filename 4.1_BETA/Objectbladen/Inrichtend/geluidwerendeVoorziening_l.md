@@ -29,13 +29,15 @@ Geluidwerende voorzieningen worden als zelfstandige objecten beheerd en niet als
 |BIJZONDERHEID                       |String(255,0,0)        |PNH; Extra toelichting; Nullable: True; Default: None|
 |OMSCHRIJVING                        |String(255,0,0)        |PNH; Extra toelichting; Nullable: True; Default: None|
 |FOTO                                |String(255,0,0)        |PNH; Locatie van de foto op de S schijf bij PNH. Deze hoeft niet gevuld te worden door de aannemer. Nullable: True; Default: None|
-|HMBEGIN                             |SmallInteger(0,8,0)    |PNH; Hectometrering van begin van vlak, met 1 cijfer achter de punt. Voorbeeld 30.9 ; Nullable: True; Default: None|
-|HMEIND                              |SmallInteger(0,8,0)    |PNH; Hectometrering van eind van vlak, met 1 cijfer achter de punt. Voorbeeld 30.9 ; Nullable: True; Default: None|
+|HMBEGIN                             |Float(0,10,1)          |PNH; Hectometrering van begin van vlak, met 1 cijfer achter de punt. Voorbeeld 30.9 ; Nullable: True; Default: None|
+|HMEIND                              |Float(0,10,1)          |PNH; Hectometrering van eind van vlak, met 1 cijfer achter de punt. Voorbeeld 30.9 ; Nullable: True; Default: None|
 |AANLEGJAAR                          |SmallInteger(0,10,0)   |PNH; Aanlegjaar; Nullable: True|
 |VERVANGINGSJAAR                     |SmallInteger(0,10,0)   |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |FUNDERINGTYPE                       |String(255,0,0)        |PNH; Fundering type; keuzelijst [FUNDERING_TYPE]; Nullable: True; Default: None|
 |BEGROEID                            |String(1,0,0)          |PNH; Indicatie of geluidsscherm begroeid is: Ja/Nee/Onbekend; keuzelijst [jaNeeOnbekend]; Nullable: False; Default: O|
+|TRAJECT                             |String(255,0,0)        |PNH; FK naar traject_v; Nullable: True; Default: None|
 |LEVENSCYCLUS                        |String(255,0,0)        |PNH; Levenscyclus; keuzelijst [LEVENSCYCLUS]; Nullable: True; Default: None|
+|TRAJECT                             |String(255,0,0)        |PNH; FK naar traject_v; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)        |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                        |Date(8,0,0)            |PNH; Aanmaakdatum; Nullable: True|
 |LAST_EDITED_USER                    |String(50,0,0)         |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd; Nullable: True; Default: None|

@@ -31,13 +31,13 @@ $ Feature dataset: Inrichtend
 |OMSCHRIJVING                        |String(255,0,0)       |PNH; Extra toelichting; Nullable: True; Default: None|
 |HMBEGIN                             |Float(0,25,10)        |PNH; Begin Hectometrering van Waterdeel; Nullable: True|
 |HMEIND                              |Float(0,25,10)        |PNH; Eind Hectometrering van Waterdeel; Nullable: True|
-|LENGTE                              |SmallInteger(0,10,0)  |PNH; Lengte van het bodemdeel; Nullable: True; Default: None|
 |PEILJAAR                            |Date(8,0,0)           |PNH; Laatste jaar waarin gepeild is; Nullable: True; Default: None|
 |JAAR_BAGGEREN                       |Date(8,0,0)           |PNH; Laatste jaar waarin gebaggerd is; Nullable: True; Default: None|
 |JAAR_PLAATSING_AANLEG_GESCHAT       |String(1,0,0)         |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |ONDERKANTSLIB                       |Float(0,25,10)        |PNH; Is de diepte van de wateroppervlakte tot de onderkant van het slib lichaam; Nullable: True; Default: None|
 |OPMERKING                           |String(255,0,0)       |PNH; Toevoeging van subjectieve informatie met betrekking tot opmerkelijke waarnemingen; Nullable: True; Default: None|
 |VAARWEGDEELTRAJECT                  |String(255,0,0)       |PNH; FK naar vaarwegdeeltraject_v ; Nullable: True; Default: None|
+|LENGTE                              |Float(0,25,10)        |Lengte van het bodemdeel in m - Nullable: True Default: None| Visible:Yes
 |CREATED_USER                        |String(255,0,0)       |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                        |Date(8,0,0)           |PNH; Aanmaakdatum; Nullable: True|
 |LAST_EDITED_USER                    |String(50,0,0)        |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd; Nullable: True; Default: None|
@@ -45,7 +45,6 @@ $ Feature dataset: Inrichtend
 |SHAPE                               |Geometry              |PNH; Vlak|
 |SHAPE_Length                        |Double(0,0,0)         |PNH; Omtrek in meters, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
 |SHAPE_Area                          |Double(0,0,0)         |PNH; Oppervlakte in m2, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
-
 
 ***
 

@@ -33,12 +33,12 @@ $ Feature dataset: Opdelend
 |TYPEPLAAGSOORT                     |String(255,0,0)          |PNH; Type plaagsoort. De soort wordt  ingevuld die geschat qua oppervlak het meeste voorkomt in dat perceel, keuzelijst [TYPE_PLAAGSOORT]; Nullable: True; Default: None|
 |ACTUEELBEELD                       |String(255,0,0)          |PNH; Huidige beeld; Nullable: True; Default: None|
 |BREEDTE                            |Float(0,25,10)           |PNH; Breedte van de plasberm in m, 2 decimalen; Nullable: True; Default: None|
-|OPPERVLAKTE                        |SmallInteger(0,10,0)     |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
+|OPPERVLAKTE                        |Float(0,10,2)            |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |JAAR_PLAATSING_AANLEG_GESCHAT      |String(1,0,0)            |PNH; Jaar plaatsing of aanleg is geschat: ja of nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |OMSCHRIJVING                       |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
 |HMBEGIN                            |Float(0,25,10)           |PNH; Hectometrering begin ondersteunendWaterdeel; Nullable: True; Default: None|
 |HMEIND                             |Float(0,25,10)           |PNH; Hectometrering eind ondersteunendWaterdeel; Nullable: True; Default: None|
-|LENGTE                             |SmallInteger(0,10,0)     |PNH; Lengte plantvak in hele meters; Nullable: True; Default: None|
+|LENGTE                             |Float(0,10,0)            |PNH; Lengte plantvak in hele meters; Nullable: True; Default: None|
 |LEVENSVERWACHTING                  |SmallInteger(0,10,0)     |PNH; Levensverwachting; Nullable: True; Default: None|
 |OPMERKINGMBTONDERH                 |String(255,0,0)          |PNH; Opmerking met betrekking tot het onderhoud; Nullable: True; Default: None|
 |PLANJAAR                           |SmallInteger(0,10,0)     |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|

@@ -29,7 +29,7 @@ $ Feature dataset: Inrichtend
 |DATUMGARANTIE                       |Date(8,0,0)              |PNH; Datum en jaartal tot wanneer de garantie geldig is; Nullable: True; Default: None|
 |DATUMPLAATSING                      |Date(8,0,0)              |PNH; Datum plaatsing; Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
-|LENGTE                              |SmallInteger(0,10,0)     |PNH; Lengte in meters met 1 decimaal; Nullable: True; Default: None|
+|LENGTE                              |Float(0,10,1)            |PNH; Lengte in meters met 1 decimaal; Nullable: True; Default: None|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)     |PNH; Levensverwachting; Nullable: True|
 |PLANJAAR                            |SmallInteger(0,10,0)     |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |TRAJECT                             |String(255,0,0)          |PNH; FK naar traject_v; Nullable: True; Default: None|

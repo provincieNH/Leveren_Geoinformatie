@@ -31,7 +31,6 @@ $ Feature dataset: Inrichtend
 |ZIJDE                               |String(10,0,0)          |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None|
 |HECTOMETER                          |String(255,0,0)         |PNH; Hectometrering; Nullable: True; Default: None|
 |OMSCHRIJVING                        |String(255,0,0)         |PNH; Omschrijving; Nullable: True; Default: None|
-|TRAJECT                             |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
 |BUIS                                |String(255,0,0)         |PNH; FK naar buis_l; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)         |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |INONDERZOEK                         |String(1,0,0)           |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|

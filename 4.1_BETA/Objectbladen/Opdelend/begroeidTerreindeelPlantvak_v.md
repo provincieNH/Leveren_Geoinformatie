@@ -29,7 +29,7 @@ $ Feature dataset: Opdelend
 |TYPESPEC                          |String(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecBTDPlantvak]; Nullable: True; Default: None|
 |FYSIEKVOORKOMEN                   |String(50,0,0)            |BGT; Fysieke omschrijving van het object; keuzelijst [fysiekVoorkomenBTD]; Nullable: False; Default: groenvoorziening|
 |OPTALUD                           |String(1,0,0)             |BGT; Ligt het object op een talud? Ja/Nee; keuzelijst [JaNeeOnbekend]; Nullable: False; Default: None|
-|OPPERVLAKTE                       |SmallInteger(0,10,0)      |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
+|OPPERVLAKTE                       |Float(0,10,2)             |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |GRONDSOORT                        |String(255,0,0)           |PNH; Grondsoort; keuzelijst [GRONDSOORT]; Nullable: True; Default: None|
 |HMBEGIN                           |Float(0,25,10)            |PNH; Hectometrering begin heg; Nullable: True|
 |HMEIND                            |Float(0,25,10)            |PNH; Hectometrering eind heg ; Nullable: True|
@@ -37,7 +37,7 @@ $ Feature dataset: Opdelend
 |STREEFBEELD                       |String(255,0,0)           |PNH; Concrete visuele doelstelling; Nullable: True; Default: None|
 |OPMERKINGMBTONDERH                |String(255,0,0)           |PNH; Opmerking met betrekking tot het onderhoud; Nullable: True; Default: None|
 |PLANJAAR                          |SmallInteger(0,10,0)      |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
-|DATUMAANPLANTING                  |SmallInteger(0,4,0)       |PNH; Jaar aanplanting ; Nullable: True|
+|DATUMAANPLANTING                  |Date(8,0,0)               |PNH; Jaar aanplanting ; Nullable: True|
 |OMSCHRIJVING                      |String(255,0,0)           |PNH; Extra toelichting ; Nullable: True; Default: None|
 |TRAJECT                           |String(255,0,0)           |PNH; FK naar traject_v; Nullable: True; Default: None|
 |OEVERVAK                          |String(255,0,0)           |PNH; FK naar oevervak_v als deze aan een vaarweg ligt; Nullable: True; Default: None

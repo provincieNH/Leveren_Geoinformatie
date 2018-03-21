@@ -52,7 +52,6 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
 |INSPECTEUR                        |String(255,0,0)           |PNH; Inspecterende partij spoorvorming, langsonvlakheid, dwarsonvlakheid; Nullable: True; Default: None| Todo
 |LENGTE                            |SmallInteger(0,10,0)      |PNH; Lengte van het wegvakonderdeel (hele meters); Nullable: True|
 |LENGTEVOEGEN                      |SmallInteger(0,10,0)      |PNH; Lengte van de voegen (m); Nullable: True|
-|OPPERVLAKTE                       |Float(,25,10)             |PNH; Oppervlakte van het wegvakonderdeel in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |SPOORVORMING                      |String(20,0,0)            |PNH; Waarde van de spoorvormingmeting; Nullable: True; Default: None|
 |SPOORVORMING_DATE                 |Date(8,0,0)               |PNH; Datum spoorvorming meting; Nullable: True|
 |GEBRUIKSFUNCTIE                   |String(255,0,0)           |PNH; Gebruiksfunctie conform CROW; keuzelijst [GEBRUIKSFUNCTIE]; Nullable: True; Default: None|

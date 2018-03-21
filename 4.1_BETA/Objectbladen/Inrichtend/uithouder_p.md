@@ -30,7 +30,7 @@ $ Feature dataset: Inrichtend
 |DATUMPLAATSING                      |Date(8,0,0)              |PNH; Datum plaatsing ; Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
 |ELEVHOEK                            |SmallInteger(0,10,0)     |PNH; Elevatie hoek tov horizontaal in graden; Nullable: True|
-|LENGTE                              |SmallInteger(0,10,0)     |PNH; Lengte van de uithouder in meters met 2 decimalen; Nullable: True|
+|LENGTE                              |Float(0,10,2)            |PNH; Lengte van de uithouder in meters met 2 decimalen; Nullable: True|
 |PAAL                                |String(255,0,0)          |PNH; FK naar paalDraagconstructie_p ; Nullable: True; Default: None|
 |TRAJECT                             |String(255,0,0)          |PNH; FK naar traject_v; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)          |PNH; Leverancier van de data; Nullable: True; Default: None|

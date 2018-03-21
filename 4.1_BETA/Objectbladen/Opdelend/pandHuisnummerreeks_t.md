@@ -19,7 +19,7 @@ $ Feature dataset: Opdelend
 |ANNOTATIONCLASSID                 |Integer(0,10,0)     |PNH; Beschrijving; Nullable: True; Default: None|
 |ELEMENT                           |Blob(0,0,0)         |PNH; Beschrijving; Nullable: True; Default: None|
 |SYMBOLID                          |Integer(0,10,0)     |PNH; Beschrijving; Nullable: True; Default: None|
-|STATUS                            |SmallInteger(0,10,0)|PNH; Beschrijving; Nullable: True; Default: 0|
+|STATUS                            |String(10,0,0)      |PNH; Beschrijving; Nullable: True; Default: 0|
 |VERWERKINGSSTATUS                 |String(255,0,0)     |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |TEXTSTRING                        |String(255,0,0)     |PNH; Beschrijving; Nullable: True; Default: None|
 |FONTNAME                          |String(255,0,0)     |PNH; Beschrijving; Nullable: True; Default: None|
@@ -41,7 +41,7 @@ $ Feature dataset: Opdelend
 |IDENTIFICATIEBAGVBOLAAGSTEHNR     |String(16,0,0)      |PNH; Beschrijving; Nullable: False; Default: None|
 |IDENTIFICATIEBAGVBOHOOGSTEHNR     |String(16,0,0)      |PNH; Beschrijving; Nullable: True; Default: None|
 |IDENTIFICATIE                     |String(255,0,0)     |PNH; Beschrijving; Nullable: False; Default: None|
-|GLOBALID                          |Guid(38,0,0)        |PNH; Global Unique Identifier; Nullable: False|
+|GLOBALID                          |GlobalID(38,0,0)    |PNH; Global Unique Identifier; Nullable: False|
 |CREATED_USER                      |String(255,0,0)     |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                      |Date(8,0,0)         |PNH; Aanmaakdatum; Nullable: True|
 |LAST_EDITED_USER                  |String(50,0,0)      |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd; Nullable: True; Default: None|

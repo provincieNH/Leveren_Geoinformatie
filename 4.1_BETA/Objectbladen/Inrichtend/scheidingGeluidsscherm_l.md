@@ -31,9 +31,8 @@ $ Feature dataset: Inrichtend
 |NAAM                                |String(255,0,0)          |PNH; Naam van het Element. Let op hier is een naamgevings systematiek op van toepassing ; Nullable: True; Default: None|
 |KRITISCH                            |String(1,0,0)            |PNH; Kritisch (Ja / Nee); Nullable: True; Default: None|
 |CONFORMNEN                          |String(1,0,0)            |PNH; Is Element conform NEN ja of nee; Nullable: True; Default: None|
-|CONDITIESCORE                       |String(255,0,0)          |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
-|CONDITIESCORE_DATUM                 |String(255,0,0)          |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
-|OPPERVLAKTE                         |Float(0,25,10)           |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
+|CONDITIESCORE                       |Integer(0,10,0)          |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
+|CONDITIESCORE_DATUM                 |Date(8,0,0)              |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
 |OMSCHRIJVING                        |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
 |OPMERKING                           |String(3000,0,0)         |PNH; Extra toelichting; Nullable: True; Default: None|
 |GELUID_VOORZ                        |String(255,0,0)          |PNH; FK naar geluidwerendeVoorziening_l; Nullable: True; Default: None|

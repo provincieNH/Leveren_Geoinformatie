@@ -38,7 +38,6 @@ $ Feature dataset: -
 |DATALEVERANCIER                     |String(255,0,0)         |PNH; Leverancier van de data; Nullable: True; Default: None|
 |TRAJECT                             |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
 |KRUISPUNT                           |String(255,0,0)         |PNH; FK naar kruispunt_p; Nullable: True; Default: None|
-|WEG                                 |String(255,0,0)         |PNH; FK naar weg_l; Nullable: True; Default: None|
 |HUIDIGESTATUS                       |String(50,0,0)          |PNH; Huidige status; keuzelijst [ConditionOfFacilityValue]; Nullable: False; Default: None|
 |STANDAARDDIEPTELEGGING              |String(255,0,0)         |PNH; FK naar diepteTovMaaiveld_p; Nullable: False; Default: None|
 |VERTICALE_POSITIE                   |Float(0,10,2)           |PNH; Verticale positie; Nullable: True; Default: None|

@@ -44,6 +44,8 @@ betreft bewegwijzering voor objecten (zoals 'zwembad' of 'hotel' en niet voor do
 |LAST_EDITED_USER                    |String(50,0,0)         |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd; Nullable: True; Default: None|
 |LAST_EDITED_DATE                    |Date(8,0,0)            |PNH; Datum van de laatste mutatie; Nullable: True|
 |SHAPE                               |Geometry(0,0,0)        |PNH; Punt|
+|PAAL                                |String(255,0,0)        |PNH; FK naar paalDraagconstructie_p; Nullable: True; Default: None|
+|TRAJECT                             |String(255,0,0)        |PNH; FK naar traject_v; Nullable: True; Default: None|
 
 
 ***

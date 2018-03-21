@@ -6,7 +6,7 @@ $ Feature dataset: Inrichtend
 * __Herkomst Definitie:__ BGT/PNH
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Lijn
-* __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie. __LET OP:__ geluidsscherm wordt geadministreerd in het objecttype scheidingGeluidsscherm_l. damwand, kademuur en walbescherming worden geadministreerd in scheidingOevervak_l.
+* __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie, dat een breedte heeft van < 0,3 m.. __LET OP:__ geluidsscherm wordt geadministreerd in het objecttype scheidingGeluidsscherm_l. damwand, kademuur en walbescherming worden geadministreerd in scheidingOevervak_l.
 
 ***
 
@@ -34,7 +34,6 @@ $ Feature dataset: Inrichtend
 |HMBEGIN                             |Float(0,25,10)          |PNH; Hectometrering begin beschoeiing; Nullable: True|
 |HMEIND                              |Float(0,25,10)          |PNH; Hectometrering eind beschoeiing; Nullable: True|
 |HOOGTE                              |SmallInteger(0,10,0)    |PNH; Bovenkant van constructie tov NAP in centimeters en op 5 centimeter nauwkeurig; Nullable: True; Default: None|
-|LENGTE                              |SmallInteger(0,10,0)    |PNH; Lengte van de beschoeiing; Nullable: True|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)    |PNH; Levensverwachting; Nullable: True|
 |OPMERKING                           |String(3000,0,0)        |PNH; Extra toelichting; Nullable: True; Default: None|
 |OPMERKINGMBTONDERH                  |String(255,0,0)         |PNH; Opmerking met betrekking tot het onderhoud; Nullable: True; Default: None|

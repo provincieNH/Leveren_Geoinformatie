@@ -31,7 +31,7 @@ $ Feature dataset: Inrichtend
 |FABRIKANTTYPECODE                   |String(255,0,0)            |PNH; Fabrikanttypecode; keuzelijst [FABRIKANT_TYPECODE]; Nullable: True; Default: None|
 |DATUMPLAATSING                      |Date(8,0,0)                |PNH; Datum plaatsing; Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)            |PNH; Extra toelichting; Nullable: True; Default: None|
-|HOOGTE                              |SmallInteger(0,10,0)       |PNH; Hoogte van het lichtpunt in meter; Nullable: True|
+|HOOGTE                              |Float(0,10,0)              |PNH; Hoogte van het lichtpunt in meter; Nullable: True|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)       |PNH; Levensverwachting; Nullable: True|
 |LICHTPUNTNUMMER                     |String(255,0,0)            |PNH; Lichtpuntnummer ; Nullable: True; Default: None|
 |PLANJAAR                            |SmallInteger(0,10,0)       |PNH; Planjaar; Nullable: True|
@@ -44,7 +44,6 @@ $ Feature dataset: Inrichtend
 |INNETWERK                           |String(255,0,0)            |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |UITLEGGERPORTAAL                    |String(255,0,0)            |PNH; FK naar uitleggerPortaal_l; als armatuur daarop is gemonteerd; Nullable: True; Default: None|
 |PAAL                                |String(255,0,0)            |PNH; FK naar paalDraagconstructie_p; Nullable: True; Default: None|
-|TRAJECT                             |String(255,0,0)            |PNH; FK naar traject_v; Nullable: True; Default: None|
 |INONDERZOEK                         |String(1,0,0)              |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
 |TIJDSTIPREGISTRATIE                 |Date(8,0,0)                |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |EINDREGISTRATIE                     |Date(8,0,0)                |BGT; Datum en tijdstip waarop deze instantie van het object niet meer geldig is bij de bronhouder. Wanneer deze waarde niet is ingevuld is de instantie nog geldig. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|

@@ -31,12 +31,12 @@ $ Feature dataset: Inrichtend
 |HEGFUNCTIE                          |String(255,0,0)          |PNH; Hegfunctie; keuzelijst [HEG_FUNCTIE]; Nullable: True; Default: None|
 |FLORASOORT                          |String(255,0,0)          |PNH; Florasoort; keuzelijst [FLORASOORT]; Nullable: True; Default: None|
 |ZIJDE                               |String(10,0,0)           |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None|
-|DATUMAANPLANTING                    |SmallInteger(0,4,0)      |PNH; Jaar aanplanting; Nullable: True|
+|DATUMAANPLANTING                    |Date(8,0,0)              |PNH; Jaar aanplanting; Nullable: True|
 |JAAR_PLAATSING_AANLEG_GESCHAT       |String(1,0,0)            |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |OMSCHRIJVING                        |String(255,0,0)          |PNH; Extra toelichting Nullable: True; Default: None|
 |HMBEGIN                             |Float(0,25,10)           |PNH; Hectometrering begin heg; Nullable: True|
 |HMEIND                              |Float(0,25,10)           |PNH; Hectometrering eind heg; Nullable: True|
-|LENGTE                              |SmallInteger(0,10,0)     |PNH; Lengte vd heg in hele meters Nullable: True|
+|LENGTE                              |Float(0,10,0)            |PNH; Lengte vd heg in hele meters Nullable: True|
 |OPMERKINGMBTONDERH                  |String(255,0,0)          |PNH; Opmerking met betrekking tot het onderhoud; Nullable: True; Default: None|
 |PLANJAAR                            |SmallInteger(0,10,0)     |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |TRAJECT                             |String(255,0,0)          |PNH; FK naar traject_v; Nullable: True; Default: None|

@@ -14,7 +14,7 @@ $ Feature dataset: -
 |KOLOM                               |TYPE                  |DEFINITIE|
 |------                              |----                  |-----    |
 |VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
-|CONDITIESCORE                       |SmallInteger(0,10,0)  |PNH; NEN 2767-4 Conditiescore; Nullable: True|
+|CONDITIESCORE                       |Integer(0,10,0)       |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |OPMERKING                           |String(255,0,0)       |PNH; Extra opmerking; Nullable: True; Default: None|
 |KW_ELEMENT_ID                       |String(255,0,0)       |PNH; FK naar kwElement_tbl; Nullable: True; Default: None|
 |SCHEIDING_OEVERVAK                  |String(255,0,0)       |PNH; FK naar scheidingOevervak_l; Nullable: True; Default: None|

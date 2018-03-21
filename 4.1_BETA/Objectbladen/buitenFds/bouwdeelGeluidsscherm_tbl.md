@@ -14,8 +14,8 @@ $ Feature dataset: -
 |------                              |----                   |-----    |
 |NENMATERIAALSOORT                   |String(255,0,0)        |PNH; NENMateriaalsoort; keuzelijst [MATERIAALSOORT]; Nullable: True; Default: None|
 |OMSCHRIJVING                        |String(255,0,0)        |PNH; Extra toelichting; Nullable: True; Default: None|
-|CONDITIESCORE                       |String(255,0,0)        |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
-|CONDITIESCORE_DATUM                 |String(255,0,0)        |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
+|CONDITIESCORE                       |Integer(0,10,0)        |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
+|CONDITIESCORE_DATUM                 |Date(8,0,0)            |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
 |CONDITIESCORE_OPM                   |String(3000,0,0)       |PNH; Opmerking bij conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |SCHEIDINGGELUIDSSCHERM              |String(255,0,0)        |PNH; FK naar scheidingGeluidsscherm_l; Nullable: True; Default: None|
 |IDENTIFICATIE                       |String(255,0,0)        |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; Nullable: True; Default: None|

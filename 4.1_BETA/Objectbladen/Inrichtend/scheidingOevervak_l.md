@@ -8,7 +8,8 @@ $ Feature dataset: Inrichtend
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__  lijn
 * __Definitie:__ Een NEN Element is gedefinieerd als 'een samenstel van bouwdelen die tezamen een afzonderlijk herkenbaar 
-component van een beheerobject vormen'. __LET OP:__ Dit is het objecttype waar de NEN 2767-4 decompositie van een oevervak in geadministreerd wordt voor de (BGT) types kademuur, damwand en walbescherming.
+component van een beheerobject vormen'. __LET OP:__ Dit is het objecttype waar de NEN 2767-4 decompositie van een oevervak in geadministreerd wordt voor de (BGT) types kademuur, damwand en walbescherming,
+met een breedte van < 0,3 m.
 
 ***
 
@@ -36,8 +37,8 @@ component van een beheerobject vormen'. __LET OP:__ Dit is het objecttype waar d
 |OMSCHRIJVING                        |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
 |BOUWELEMENTTYPE                     |String(255,0,0)          |PNH; Bouwelement type; keuzelijst [BOUWELEMENT_TYPE]; Nullable: True; Default: None|
 |OPMERKING                           |String(255,0,0)          |PNH; Opmerking; Nullable: True; Default: None|
-|CONDITIESCORE                       |String(255,0,0)          |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
-|CONDITIESCORE_DATUM                 |String(255,0,0)          |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
+|CONDITIESCORE                       |Integer(0,10,0)          |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
+|CONDITIESCORE_DATUM                 |Date(8,0,0)              |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
 |CONDITIESCORE_OPM                   |String(3000,0,0)         |PNH; Opmerking bij conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |KRITISCH                            |String(1,0,0)            |PNH; Kritisch (Ja / Nee); keuzelijst [jaNee]; Nullable: True; Default: N|
 |OEVERVAK                            |String(255,0,0)          |PNH; FK naar oevervak_v; Nullable: True; Default: None|

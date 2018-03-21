@@ -32,7 +32,7 @@ $ Feature dataset: Inrichtend
 |BIJZONDERHEID                      |String(255,0,0)          |PNH; TODO; Nullable: True; Default: None|
 |BOOMSITUERING                      |String(255,0,0)          |PNH; Situering van de boom; keuzelijst [PLANT_SITUERING]; Nullable: True; Default: None|
 |BOOMSOORT                          |String(255,0,0)          |PNH; Boomsoort; keuzelijst [BOOMSOORT]; Nullable: True; Default: None|
-|DATUMAANPLANTING                   |SmallInteger(0,4,0)      |PNH; Jaar aanplanting; Nullable: True|
+|DATUMAANPLANTING                   |Date(8,0,0)              |PNH; Jaar aanplanting; Nullable: True|
 |DATUM_LAATSTE_ONDERH               |Date(8,0,0)              |PNH; Datum laatst onderhoud; Nullable: True|
 |DIAMETER                           |SmallInteger(0,10,0)     |PNH; Diameter op 1.30m; Nullable: True|
 |STREEFBEELD                        |String(255,0,0)          |PNH; Concrete visuele doelstelling; Nullable: True; Default: None|

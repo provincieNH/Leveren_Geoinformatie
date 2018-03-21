@@ -36,12 +36,11 @@ $ Feature dataset: Inrichtend
 |MATERIAALTYPE                       |String(255,0,0)         |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE] ; Nullable: True; Default: None|
 |ZIJDE                               |String(255,0,0)         |PNH; Zijde; keuzelijst [ZIJDE] ; Nullable: True; Default: None|
 |HECTOMETER                          |String(255,0,0)         |PNH; Hectometrering; Nullable: True; Default: None|
-|HOOGTE                              |SmallInteger(0,10,0)    |PNH; Hoogte in meters, 1 decimaal; Nullable: True; Default: None|
+|HOOGTE                              |Float(0,10,1)           |PNH; Hoogte in meters, 1 decimaal; Nullable: True; Default: None|
 |HECTOMETER                          |String(255,0,0)         |PNH; Hectometrering; Nullable: True; Default: None|
 |DETECTIENUMMER                      |String(255,0,0)         |PNH; Bestaat over het algemeen uit een hoofdletter, gevolgd door een cijfer (combinatie) met eventueel een decimaal die als punt wordt weergegeven. Voorbeeld: D2.1 of DM1; Nullable: True; Default: None|
 |UITLEGGERPORTAAL                    |String(255,0,0)         |PNH; FK naar uitleggerPortaal_l; als camera of schemerschakelaar daarop bevestigd is; Nullable: True; Default: None|
 |ELEKTRICITEITSKABEL                 |String(255,0,0)         |PNH; FK naar electriciteitskabel_l; Nullable: True; Default: None|
-|TRAJECT                             |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
 |PAAL                                |String(255,0,0)         |PNH; FK naar mastDraagconstructie_p; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)         |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |INONDERZOEK                         |String(1,0,0)           |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|

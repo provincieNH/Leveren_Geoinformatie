@@ -29,8 +29,8 @@ $ Feature dataset: Opdelend
 |BRONHOUDER                         |String(5,0,0)             |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None|
 |TYPESPEC                           |String(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecOBWVlak]; Nullable: True; Default: None|
 |FABRIKANT                          |String(255,0,0)           |PNH; Naam vd Fabrikant; Nullable: True; Default: None|
-|LENGTE                             |Float(0,10,3)             |PNH; Lengte in Meters, 2 decimalen; Nullable: True|
-|BREEDTE                            |Float(0,10,3)             |PNH; Breedte in Meters, 2 decimalen; Nullable: True|
+|LENGTE                             |Float(0,10,2)             |PNH; Lengte in Meters, 2 decimalen; Nullable: True|
+|BREEDTE                            |Float(0,10,2)             |PNH; Breedte in Meters, 2 decimalen; Nullable: True|
 |KWALITEITSNIVEAU                   |String(255,0,0)           |PNH; Kwaliteitsniveau [ONDERHOUDER]; Nullable: True; Default: None|
 |RECLAME_GEEXPLOITEERD              |String(1,0,0)             |PNH; Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |RECLAME_GEEXPL_ZWARTELIJST         |String(10,0,0)            |PNH; Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|

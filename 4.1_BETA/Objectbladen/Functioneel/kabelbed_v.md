@@ -37,7 +37,6 @@ $ Feature dataset: Functioneel
 |OMSCHRIJVING                        |String(255,0,0)      |PNH; Extra toelichting; Nullable: True; Default: None|
 |OPMERKING                           |String(3000,0,0)     |PNH; Opmerking; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)      |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
-|LINK                                |String(255,0,0)      |PNH; FK naar utiliteitsLink_l; Nullable: True; Default: None|
 |DIEPTELEGGING                       |String(255,0,0)      |PNH; FK naar diepteTovMaaiveld_p; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)      |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)      |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|

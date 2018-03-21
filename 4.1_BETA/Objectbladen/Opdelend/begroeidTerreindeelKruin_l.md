@@ -16,11 +16,10 @@ $ Feature dataset: Opdelend
 |GLOBALID                            |GlobalID(38,0,0)          |PNH; Global Unique Identifier,  aangemaakt door ArcGIS; Nullable: False; Default: None|
 |AD_ID                               |String(255,0,0)           |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; Nullable: False; Default: None|
 |GISIB_ID                            |Integer(0,10,0)           |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; Nullable: True; Default: None|
-|IDENTIFICATIE                       |String(255,0,0)           |BGT; FK naar begroeidterreindeel_v; Nullable: True; Default: None|
+|IDENTIFICATIE                       |String(255,0,0)           |BGT; FK naar begroeidTerreindeel_v; Nullable: True; Default: None|
 |VERWERKINGSSTATUS                   |String(255,0,0)           |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |OBJECTBEGINTIJD                     |Date(8,0,0)               |PNH; Datum waarop het object bij de bronhouder is ontstaan; Nullable: True|
 |OBJECTEINDTIJD                      |Date(8,0,0)               |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; Nullable: True|
-|BEGROEIDTERREINDEEL                 |String(255,0,0)           |PNH; FK naar begroeidterreindeel_v; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)           |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)           |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                        |Date(8,0,0)               |PNH; Aanmaakdatum; Nullable: True|

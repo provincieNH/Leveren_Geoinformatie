@@ -55,7 +55,6 @@ $ Feature dataset: Opdelend
 |SLOOTVEGETATIE                    |String(1,0,0)             |PNH; Slootvegetatie dient verwerkt te worden: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |WATERDIEPTE                       |Float(0,25,10)            |PNH; TODO; Nullable: True|
 |WATERSCHAP                        |String(255,0,0)           |PNH; Naam Waterschap; keuzelijst [WATERSCHAP]; Nullable: True; Default: None|
-|OPPERVLAKTE                       |SmallInteger(0,10,0)      |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |VAARWEGDEELTRAJECT                |String(255,0,0)           |PNH; FK naar vaarwegdeeltraject_v; Nullable: True; Default: None|
 |TRAJECT                           |String(255,0,0)           |PNH; FK naar traject_v; Nullable: True; Default: None|
 |INONDERZOEK                       |String(1,0,0)             |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|

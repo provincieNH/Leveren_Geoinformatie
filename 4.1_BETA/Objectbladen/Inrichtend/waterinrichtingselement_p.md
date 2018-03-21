@@ -40,7 +40,7 @@ $ Feature dataset: Inrichtend
 |JAAR_PLAATSING_AANLEG_GESCHAT       |String(1,0,0)            |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |MAXBELASTING                        |String(255,0,0)          |PNH; Maximale toegestaan kracht wat op de bolder mag uitgedrukt worden (eenheid?) TODO; Nullable: True; Default: None|
 |HECTOMETER                          |String(255,0,0)          |PNH; Hectometrering; Nullable: True; Default: None|
-|HOOGTE                              |SmallInteger(0,10,0)     |PNH; Hoogte (eenheid? TODO); Nullable: True|
+|HOOGTE                              |Float(0,10,0)            |PNH; Hoogte in meters; Nullable: True|
 |VAARWEGDEELTRAJECT                  |String(255,0,0)          |PNH; FK naar vaarwegdeeltraject_v; Nullable: True; Default: None|
 |INONDERZOEK                         |String(1,0,0)            |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
 |TIJDSTIPREGISTRATIE                 |Date(8,0,0)              |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|

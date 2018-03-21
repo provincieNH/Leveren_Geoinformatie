@@ -19,8 +19,8 @@ gemodelleerd zijn als ELEMENT of GELUIDWERENDE_CONSTRUCTIE.
 |CONFORMNEN                          |String(1,0,0)           |PNH; Is Element conform NEN (Ja/Nee); keuzelijst [jaNee] Nullable: True; Default: N|
 |OMSCHRIJVING                        |String(255,0,0)         |PNH; Extra toelichting; Nullable: True; Default: None|
 |OPMERKING                           |String(255,0,0)         |PNH; Opmerking; Nullable: True; Default: None|
-|CONDITIESCORE                       |String(255,0,0)         |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
-|CONDITIESCORE_DATUM                 |String(255,0,0)         |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
+|CONDITIESCORE                       |Integer(0,10,0)         |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
+|CONDITIESCORE_DATUM                 |Date(8,0,0)             |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
 |CONDITIESCORE_OPM                   |String(3000,0,0)        |PNH; Opmerking bij conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |KRITISCH                            |String(1,0,0)           |PNH; Kritisch (Ja/Nee); keuzelijst [jaNee] Nullable: True; Default: N|
 |KW_VAST                             |String(255,0,0)         |PNH; FK naar kunstwerkVast_p; Nullable: True; Default: None|

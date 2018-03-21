@@ -20,7 +20,6 @@ De Oeverconstructie zelf is vastgelegd in [AREAALDATA.scheidingOevervak_l] en [A
 |GLOBALID                            |GlobalID(38,0,0)     |PNH; Global Unique Identifier,  aangemaakt door ArcGIS; Nullable: False; Default: None|
 |AD_ID                               |String(255,0,0)      |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; Nullable: False; Default: None|
 |GISIB_ID                            |Integer(0,10,0)      |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer.; Nullable: True; Default: None|
-|IDENTIFICATIE                       |String(255,0,0)      |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; Nullable: True; Default: None|
 |VERWERKINGSSTATUS                   |String(255,0,0)      |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |OBJECTBEGINTIJD                     |Date(8,0,0)          |PNH; Datum waarop het object bij de bronhouder is ontstaan; Nullable: True|
 |OBJECTEINDTIJD                      |Date(8,0,0)          |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; Nullable: True|
@@ -33,13 +32,13 @@ De Oeverconstructie zelf is vastgelegd in [AREAALDATA.scheidingOevervak_l] en [A
 |GEBRUIK                             |String(255,0,0)      |PNH; Daadwerkelijk gebruik vd oever; Nullable: True; Default: None|
 |HMBEGIN                             |Float(0,25,10)       |PNH; Begin Hectometrering van Oevervak; Nullable: True|
 |HMEIND                              |Float(0,25,10)       |PNH; Eind Hectometrering van Oevervak; Nullable: True|
-|LENGTE                              |SmallInteger(0,10,0) |PNH; Lengte van Oevervak; Nullable: True|
+|LENGTE                              |Float(0,10,0)        |PNH; Lengte van het oevervak in meter; Nullable: True|
 |OPMERKING                           |String(3000,0,0)     |PNH; Extra opmerking; Nullable: True; Default: None|
 |NAAM                                |String(255,0,0)      |PNH; Naam Oevervak; Nullable: True; Default: None|
 |FOTO                                |String(255,0,0)      |PNH; Locatie van de foto op de S schijf bij PNH. Deze hoeft niet gevuld te worden door de aannemer. Nullable: True; Default: None|
 |FOTO2                               |String(255,0,0)      |PNH; Locatie van de foto op de S schijf bij PNH bij een tweede foto. Deze hoeft niet gevuld te worden door de aannemer. Nullable: True; Default: None|
 |HYPERLINK                           |String(255,0,0)      |PNH; Hyperlink naar de locatie op de s-schijf waar het rapport zich bevindt; Nullable: True; Default: None|
-|CONDITIESCORE                       |String(255,0,0)      |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
+|CONDITIESCORE                       |Integer(0,10,0)      |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |CONDITIESCORE_DATUM                 |Date(8,0,0)          |PNH; Datum opname Conditiescore; Nullable: True|
 |CONDITIESCORE_OPM                   |String(3000,0,0)     |PNH; Opmerking bij conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |RISICO_WATERKERING                  |String(255,0,0)      |PNH; Indicatie van de maaiveldhoogte landzijde (achter het eventuele aanwezige dijklichaam) van de kerende constructie.[RISICO_WATERKERING]; Nullable: True; Default: None|

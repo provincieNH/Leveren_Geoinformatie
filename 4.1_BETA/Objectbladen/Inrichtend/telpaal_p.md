@@ -29,14 +29,12 @@ $ Feature dataset: Inrichtend
 |DATUMGARANTIE                       |Date(8,0,0)             |PNH; Datum en jaartal tot wanneer de garantie geldig is; Nullable: True; Default: Non|
 |DATUMPLAATSING                      |Date(8,0,0)             |PNH; Datum plaatsing; Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)         |PNH; Extra toelichting; Nullable: True; Default: None|
-|HOOGTE                              |SmallInteger(0,10,0)    |PNH; Hoogte; Nullable: True|
+|HOOGTE                              |Float(0,10,0)           |PNH; Hoogte; Nullable: True|
 |TELPUNTCODE                         |String(255,0,0)         |PNH; Administratieve code om de ligging van de telkast/telpaal aan te duiden ; Nullable: True; Default: None|
 |VOEDING                             |String(255,0,0)         |PNH; Manier van energieverzorging. Keuze uit:220, Zonne-energie; Nullable: True; Default: None|
 |MATERIAALTYPE                       |String(20,0,0)          |PNH; Type materiaal; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
 |TRAJECT                             |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)         |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
-|WEG                                 |String(255,0,0)         |PNH; FK naar weg_l; Nullable: True; Default: None|
-|KRUISPUNT                           |String(255,0,0)         |PNH; FK naar kruispunt_p; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)         |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)         |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                        |Date(8,0,0)             |PNH; Aanmaakdatum; Nullable: True|

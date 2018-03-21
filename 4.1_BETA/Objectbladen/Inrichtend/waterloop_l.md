@@ -38,7 +38,6 @@ $ Feature dataset: Inrichtend
 |SLOOTVEGETATIE                      |String(1,0,0)            |PNH; Slootvegetatie dient verwerkt te worden: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |WATERDIEPTE                         |Float(0,25,10)           |PNH; TODO; Nullable: True|
 |WATERSCHAP                          |String(30,0,0)           |PNH; Naam Waterschap; keuzelijst [WATERSCHAP]; Nullable: True; Default: None|
-|OPPERVLAKTE                         |SmallInteger(0,10,0)     |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |BERICHT_ID                          |String(128,0,0)          |BGT; Nummer van het bericht dat PNH heeft verzonden naar LV. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |TRAJECT                             |String(255,0,0)          |PNH; FK naar traject_v; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)          |PNH; Leverancier van de data; Nullable: True; Default: None|

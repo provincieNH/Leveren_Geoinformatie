@@ -37,13 +37,12 @@ $ Feature dataset: Inrichtend
 |RELHOOGTELIGGING                    |Integer(0,10,0)        |BGT; Aanduiding voor de relatieve hoogte van het object; Nullable: True; Default: 0|
 |AANTALGROEPEN                       |Integer(0,10,0)        |PNH; Aantal elektriciteitsgroepen aanwezig in de kast; Nullable: True|
 |EANEMETER                           |String(255,0,0)        |PNH; De EAN-code vermeld op de meter; Nullable: True; Default: None|
-|KASTNUMMER                          |Integer(0,10,0)        |PNH; Kastnummer; Nullable: True; Default: None|
-|LEVENSVERWACHTING                   |Integer(0,10,0)        |PNH; Levensverwachting; Nullable: True; Default: None|
-|PLANJAAR                            |Integer(0,10,0)        |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
+|KASTNUMMER                          |String(255,0,0)        |PNH; Kastnummer; Nullable: True; Default: None|
+|LEVENSVERWACHTING                   |SmallInteger(0,10,0)   |PNH; Levensverwachting; Nullable: True; Default: None|
+|PLANJAAR                            |SmallInteger(0,10,0)   |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |VOEDING                             |String(255,0,0)        |PNH; Keuze uit ‘220V’ of ‘OV’; Nullable: True; Default: None|
 |TYPECOMMUNICATIE                    |String(30,0,0)         |PNH; Type communicatie; keuzelijst [TYPE_COMMUNICATIE]; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)        |PNH; Leverancier van de data; Nullable: True; Default: None|
-|TRAJECT                             |String(255,0,0)        |PNH; FK naar traject_v; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)        |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |INONDERZOEK                         |String(1,0,0)          |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
 |TIJDSTIPREGISTRATIE                 |Date(8,0,0)            |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|

@@ -20,7 +20,7 @@ $ Feature dataset: Inrichtend
 |IDENTIFICATIE                       |String(255,0,0)         |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; Nullable: True; Default: None|
 |VERWERKINGSSTATUS                   |String(255,0,0)         |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |STATUS                              |String(10,0,0)          |BGT; BGT status van het object; keuzelijst [status]; Nullable: True; Default: bestaand|
-|HUIDIGESTATUS                       |string(50,0,0)          |IMKL: Huidige status; keuzelijst [ConditionOfFacilityValue]; Nullable: True; Default: None|
+|HUIDIGESTATUS                       |String(50,0,0)          |IMKL: Huidige status; keuzelijst [ConditionOfFacilityValue]; Nullable: True; Default: None|
 |OBJECTBEGINTIJD                     |Date(8,0,0)             |PNH; Datum waarop het object bij de bronhouder is ontstaan; Nullable: True|
 |OBJECTEINDTIJD                      |Date(8,0,0)             |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; Nullable: True|
 |bovengrondsZichtbaar                |String(1,0,0)           |PNH; Aangegeven of het leidingelement bovengronds vanaf het maaiveld zichtbaat is; keuzelijst [JaNee]; Nullable: True; Default: None|
@@ -38,7 +38,7 @@ $ Feature dataset: Inrichtend
 |MATERIAALTYPE                       |String(20,0,0)          |PNH; Type materiaal; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
 |CONSTRUCTIEGEGEVEN                  |String(255,0,0)         |PNH; Constructiegegevens; Nullable: True; Default: None|
 |VERTICALE_POSITIE                   |Float(0,10,2)           |PNH; Verticale positie; Nullable: True; Default: None|
-|HOOGTE                              |SmallInteger(0,10,2)    |PNH; Hoogte (m, 2 decimalen) ; Nullable: True; Default: None|
+|HOOGTE                              |Float(0,10,2)           |PNH; Hoogte (m, 2 decimalen) ; Nullable: True; Default: None|
 |DIEPTELEGGING                       |String(255,0,0)         |PNH; FK naar diepteTovMaaiveld_p; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)         |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |GEONAUWKEURIGHEIDXY                 |String(50,0,0)          |IMKL; Nauwkeurigheid van de liggingsgegevens in het horizontale vlak; keuzelijst [NauwkeurigheidXYvalue]; Nullable: True; Default: False\

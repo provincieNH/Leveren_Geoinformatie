@@ -38,9 +38,9 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
 |VERWARMING_AANW                     |String(1,0,0)            |PNH; Verwarming aanwezig : Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N|
 |MATERIAALTYPE                       |String(20,0,0)           |PNH; Materiaaltype; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
 |BLINDEGELEIDESTR_AANW               |String(1,0,0)            |PNH; Blindegeleidestrook aanwezig : Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N|
-|HOOGTE                              |Float(0,10,3)            |PNH; Hoogte van het instappunt van het perron in meters, 2 decimalen; Nullable: True|
-|LENGTE                              |Float(0,10,3)            |PNH; Lengte van de voorkant van het perron in meters, 2 decimalen; Nullable: True|
-|BREEDTE                             |Float(0,10,3)            |PNH; Breedte in Meters, 2 decimalen; Nullable: True|
+|HOOGTE                              |Float(0,10,2)            |PNH; Hoogte van het instappunt van het perron in meters, 2 decimalen; Nullable: True|
+|LENGTE                              |Float(0,10,2)            |PNH; Lengte van de voorkant van het perron in meters, 2 decimalen; Nullable: True|
+|BREEDTE                             |Float(0,10,2)            |PNH; Breedte in Meters, 2 decimalen; Nullable: True|
 |HEKWERK_AANW                        |String(1,0,0)            |PNH; Hekwerk aanwezig : Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N|
 |HALTEPAAL_AANW                      |String(1,0,0)            |PNH; Haltepaal aanwezig : Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N|
 |AANPASSING_VISUEEL_BEPERKTEN        |String(1,0,0)            |PNH; Aanpassing visueel beperkten; keuzelijst [jaNeeOnbekend]; Nullable: False; Default: None|

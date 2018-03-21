@@ -26,7 +26,7 @@ Een Beweegbaar kunstwerk is een beheerobject van het type:
 |VERWERKINGSSTATUS                   |String(255,0,0)         |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |OBJECTBEGINTIJD                     |Date(8,0,0)             |PNH; Datum waarop het object bij de bronhouder is ontstaan; Nullable: True|
 |OBJECTEINDTIJD                      |Date(8,0,0)             |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; Nullable: True|
-|RELATIEVEHOOGTELIGGING              |SmallInteger(0,0,0)     |PNH; Aanduiding voor de relatieve hoogte van het object; Nullable: False;; Default: 0|
+|RELATIEVEHOOGTELIGGING              |SmallInteger(0,10,0)    |PNH; Aanduiding voor de relatieve hoogte van het object; Nullable: False;; Default: 0|
 |BEHEERDER                           |String(255,0,0)         |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None|
 |ONDERHOUDER                         |String(255,0,0)         |PNH; Onderhouder van het object: kan meerdere door puntkomma gescheiden waardes bevatten; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None|
 |EIGENAAR                            |String(255,0,0)         |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None|
@@ -69,7 +69,7 @@ Een Beweegbaar kunstwerk is een beheerobject van het type:
 |KWBREEDTE                           |Float(0,25,10)          |PNH; Breedte kunstwerk; Nullable: True|
 |KWHOOGTE                            |Float(0,25,10)          |PNH; Hoogte kunstwerk; Nullable: True|
 |KWLENGTE                            |Float(0,25,10)          |PNH; Totale lengte kunstwerk; Nullable: True|
-|KWOPPERVLAKTE                       |SmallInteger(0,10,0)    |PNH; Oppervlakte van het kunstwerk in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
+|KWOPPERVLAKTE                       |Float(0,25,10)          |PNH; Oppervlakte van het kunstwerk in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |NAAM                                |String(255,0,0)         |PNH; Naam van het kunstwerk; Nullable: True; Default: None|
 |ONDERHOUDBIJZONDER                  |BLOB(60000,0,0)         |PNH; Bijzonderheden over onderhoud; Nullable: True; Default: None|
 |ONDERHOUDOPMERKING                  |BLOB(60000,0,0)         |PNH; Opmerkingen over het onderhoud; Nullable: True; Default: None|
@@ -89,7 +89,7 @@ Een Beweegbaar kunstwerk is een beheerobject van het type:
 |CE_MARKERING                        |String(1,0,0)           |PNH; CE markering: Ja/Nee/Onbekend; keuzelijst [jaNeeOnbekend]; Nullable: True; Default: O|
 |CE_MARKERING_DATUM                  |Date(8,0,0)             |PNH; CE markering sinds (datum); Nullable: True|
 |AFSTANDSBEDIENING                   |String(1,0,0)           |PNH; Afstandsbediening (Ja/Nee/Onbekend; keuzelijst [jaNeeOnbekend]; Nullable: True; Default: O|
-|CONDITIESCORE                       |String(255,0,0)         |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
+|CONDITIESCORE                       |Integer(0,10,0)         |PNH; Conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |CONDITIESCORE_DATUM                 |Date(8,0,0)             |PNH; Datum opname Conditiescore; Nullable: True|
 |TRAJECT                             |String(255,0,0)         |PNH; FK naar traject_v; Nullable: True; Default: None|
 |TRAJECT2                            |String(255,0,0)         |PNH; Foreign Key naar traject_v, in het geval van een tweede traject; Nullable: True; Default: None|

@@ -6,7 +6,7 @@ $ Feature dataset: Opdelend
 * __Herkomst Definitie:__ BGT
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Vlak
-* __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie.
+* __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie, dat een breedte heeft van > 0,3 m.
 
 ***
 
@@ -32,7 +32,7 @@ $ Feature dataset: Opdelend
 |DATALEVERANCIER                    |String(255,0,0)           |PNH; Leverancier van de data; Nullable: True; Default: None|
 |FUNDERING                          |String(255,0,0)           |PNH; Fundering; Nullable: True; Default: None|
 |HECTOMETER                         |String(255,0,0)           |PNH; Hectometrering; Nullable: True; Default: None|
-|HOOGTE                             |SmallInteger(0,10,0)      |PNH; Hoogte in centimeter; Nullable: True|
+|HOOGTE                             |Float(0,10,0)             |PNH; Hoogte in centimeter; Nullable: True|
 |ZIJDE                              |String(10,0,0)            |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None|
 |FABRIKANT                          |String(255,0,0)           |PNH; Fabrikant; Nullable: True; Default: None|
 |GARANTIECERTIFICAAT                |String(255,0,0)           |PNH; Garantie certificaat aanwezig; Nullable: True; Default: None|

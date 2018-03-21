@@ -19,9 +19,6 @@ $ Feature dataset: -
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)   |PNH; TODO; Nullable: True|
 |PLANJAAR                            |SmallInteger(0,10,0)   |PNH; TODO; Nullable: True|
 |RESTLEVENSDUUR                      |SmallInteger(0,10,0)   |PNH; Restlevensduur; Nullable: True; Default: None|
-|KRUISPUNT                           |String(255,0,0)        |PNH; FK naar kruispunt_p; Nullable: True; Default: None|
-|TRAJECT                             |String(255,0,0)        |PNH; FK naar traject_v; Nullable: True; Default: None|
-|WEG                                 |String(255,0,0)        |PNH; FK naar weg_l; Nullable: True; Default: None|
 |IDENTIFICATIE                       |String(255,0,0)        |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; Nullable: True; Default: None|
 |OBJECTID                            |OID(38,0,0)            |PNH; Interne ID ArcGIS; Nullable: False|
 |GLOBALID                            |GlobalID(38,0,0)       |PNH; Global Unique Identifier; Nullable: False|

@@ -28,7 +28,7 @@ $ Feature dataset: Inrichtend
 |BRONHOUDER                          |String(5,0,0)             |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None|
 |TYPESPEC                            |String(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecSTM]; Nullable: True; Default: None|
 |BGTPLUSTYPE                         |String(50,0,0)            |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeSTM]; Nullable: False; Default: None|
-|HOOGTE                              |SmallInteger(0,10,0)      |PNH; Hoogte van het lichtpunt (m; Nullable: True|
+|HOOGTE                              |Float(0,10,0)             |PNH; Hoogte van het lichtpunt in meter; Nullable: True|
 |MATERIAALTYPE                       |String(20,0,0)            |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
 |ZIJDE                               |String(10,0,0)            |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None|
 |HECTOMETER                          |String(255,0,0)           |PNH; Hectometrering; Nullable: True; Default: None|
@@ -43,15 +43,13 @@ $ Feature dataset: Inrichtend
 |JAAR_PLAATSING_AANLEG_GESCHAT       |String(1,0,0)             |PNH; Jaar plaatsing of aanleg is geschat: ja of nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |OMSCHRIJVING                        |String(255,0,0)           |PNH; Extra toelichting; Nullable: True; Default: None|
 |MATERIAALTYPE                       |String(20,0,0)            |PNH; Materiaaltype; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
-|LENGTE                              |SmallInteger(0,10,0)      |PNH; Lengte van de boom (m); Nullable: True|
-|LEVENSVERWACHTING                   |SmallInteger(0,10,0)      |PNH; Levensverwachting (jaar TODO); Nullable: True|
+|LENGTE                              |Float(0,10,0)             |PNH; Lengte van de boom in meter; Nullable: True|
+|LEVENSVERWACHTING                   |SmallInteger(0,10,0)      |PNH; Levensverwachting in jaren jaar; Nullable: True|
 |PLANJAAR                            |SmallInteger(0,10,0)      |PNH; Planjaar; Nullable: True|
 |RESTLEVENSDUUR                      |SmallInteger(0,10,0)      |PNH; Restlevensduur in maanden; Nullable: True; Default: None|
 |FABRIKANTTYPECODE                   |String(255,0,0)           |PNH; Fabrikanttypecode; keuzelijst [FABRIKANT_TYPECODE]; Nullable: True; Default: None|
 |RECREATIEPLEK                       |String(255,0,0)           |PNH; FK naar recreatieplek_v; Nullable: True; Default: None
 |TRAJECT                             |String(255,0,0)           |PNH; FK naar traject_v; Nullable: True; Default: None|
-|WEG                                 |GUID(38,0,0)              |PNH; FK naar weg_l; Nullable: True; Default: None|
-|GEBIEDSCONTRACTREGIO                |String(255,0,0)           |PNH; FK naar gebiedscontractregio_v; Nullable: True; Default: None|
 |INONDERZOEK                         |String(1,0,0)             |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
 |TIJDSTIPREGISTRATIE                 |Date(8,0,0)               |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |EINDREGISTRATIE                     |Date(8,0,0)               |BGT; Datum en tijdstip waarop deze instantie van het object niet meer geldig is bij de bronhouder. Wanneer deze waarde niet is ingevuld is de instantie nog geldig. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|

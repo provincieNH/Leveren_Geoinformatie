@@ -37,7 +37,6 @@ warmte of een opgeloste of verpulverde stof. NB. Bij PNH eigenlijk alleen gebrui
 |RESTLEVENSDUUR                      |SmallInteger(0,10,0)   |PNH; Verwachte restlevensduur in jaren vanaf moment van inspectie; Nullable: True; Default: None|
 |VOORZORGMAATREGEL                   |String(255,0,0)        |PNH; Vermelding of er voorzorgsmaatregelen getroffen dienen te worden. Aangegeven wordt wat de voorzorgsmaatregel is; Nullable: True; Default: None|
 |MATERIAALTYPE                       |String(255,0,0)        |PNH; Type materiaal; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
-|TRAJECT                             |String(255,0,0)        |PNH; FK naar traject_v; Nullable: True; Default: None|
 |INNETWERK                           |String(255,0,0)        |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)        |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)        |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|

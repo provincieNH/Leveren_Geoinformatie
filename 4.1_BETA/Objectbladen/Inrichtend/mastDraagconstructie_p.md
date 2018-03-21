@@ -39,7 +39,7 @@ $ Feature dataset: Inrichtend
 |DATUMGARANTIE                       |Date(8,0,0)              |PNH; Datum en jaartal tot wanneer de garantie geldig is; Nullable: True; Default: None|
 |DATUMPLAATSING                      |Date(8,0,0)              |PNH; Datum plaatsing ; Nullable: True|
 |ELEVATIEHOEK                        |SmallInteger(0,10,0)     |PNH; Hoek van de uithouder indien aanwezig ; Nullable: True|
-|HOOGTE                              |SmallInteger(0,10,0)     |PNH; Lichtpunt hoogte ; Nullable: True|
+|HOOGTE                              |Float(0,10,0)            |PNH; Lichtpunt hoogte ; Nullable: True|
 |LENGTEUITHOUDER1                    |Float(0,25,10)           |PNH; Lengte van de uithouder indien aanwezig ; Nullable: True|
 |MASTNUMMER                          |String(255,0,0)          |PNH; Mast nummer; Nullable: True; Default: None|
 |OPMERKING                           |String(255,0,0)          |PNH; Toevoeging van subjectieve informatie met betrekking tot opmerkelijke waarnemingen; Nullable: True; Default: None|

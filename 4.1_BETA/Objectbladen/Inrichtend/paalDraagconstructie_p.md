@@ -37,7 +37,7 @@ $ Feature dataset: Inrichtend
 |DATUMGARANTIE                       |Date(8,0,0)              |PNH; Datum en jaartal tot wanneer de garantie geldig is; Nullable: True; Default: None|
 |DATUMPLAATSING                      |Date(8,0,0)              |PNH; Datum plaatsing; Nullable: True|
 |ELEVATIEHOEK                        |SmallInteger(0,10,0)     |PNH; Hoek van de uithouder indien aanwezig ; Nullable: True|
-|HOOGTE                              |SmallInteger(0,10,0)     |PNH; Lichtpunt hoogte in meters, 1 decimaal achter de komma; Nullable: True; Default: none|
+|HOOGTE                              |Float(0,10,1)            |PNH; Lichtpunt hoogte in meters, 1 decimaal achter de komma; Nullable: True; Default: none|
 |LENGTEUITHOUDER1                    |Float(0,25,10)           |PNH; De lengte van de uithouder indien aanwezig in meters, 2 decimalen achter de komma; Nullable: True; Default: none|
 |PAALNUMMER                          |String(255,0,0)          |PNH; Paalnummer; Nullable: True; Default: None|
 |OPMERKING                           |String(3000,0,0)         |PNH; Extra toelichting; Nullable: True; Default: None|
@@ -47,7 +47,6 @@ $ Feature dataset: Inrichtend
 |LENGTEUITHOUDER2                    |Float(0,25,10)           |PNH; De lengte van de uithouder indien aanwezig in meters, 2 decimalen achter de komma; Nullable: True; Default: none|
 |INNETWERK                           |String(255,0,0)          |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None
 |TRAJECT                             |String(255,0,0)          |PNH; FK naar traject_v; Nullable: True; Default: None|
-|KRUISPUNT                           |String(255,0,0)          |PNH; FK naar kruispunt_p; Nullable: True; Default: None|
 |UITLEGGERPORTAAL                    |String(255,0,0)          |PNH; FK naar uitleggerPortaal_l; als armatuur daarop is gemonteerd; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)          |PNH; Leverancier van de data; Nullable: True; Default: None|
 |INONDERZOEK                         |String(1,0,0)            |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|

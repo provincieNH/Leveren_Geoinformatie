@@ -27,7 +27,6 @@ $ Feature dataset: Inrichtend
 |BRONHOUDER                          |String(5,0,0)            |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None|
 |TYPESPEC                            |String(255,0,0)          |PNH; Nadere typering van het object; keuzelijst [typeSpecSHDGeleidewand]; Nullable: True; Default: None|
 |NAAM                                |String(255,0,0)          |PNH; Naam van het Element. Let op hier is een naamgevings systematiek op van toepassing ; Nullable: True; Default: None|
-|OPPERVLAKTE                         |Float(0,25,10)           |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |OMSCHRIJVING                        |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
 |OPMERKING                           |String(3000,0,0)         |PNH; Extra toelichting; Nullable: True; Default: None|
 |MATERIAALTYPE                       |String(20,0,0)           |PNH; Type materiaal; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|

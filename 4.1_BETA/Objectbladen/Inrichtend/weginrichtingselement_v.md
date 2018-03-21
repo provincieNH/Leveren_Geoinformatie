@@ -29,7 +29,6 @@ $ Feature dataset: Inrichtend
 |BRONHOUDER                          |String(5,0,0)             |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None|
 |TYPESPEC                            |String(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecBTDPlantvak]; Nullable: True; Default: None|
 |BGTPLUSTYPE                         |String(50,0,0)            |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeWGIVlak]; Nullable: False; Default: None|
-|OPPERVLAKTE                         |SmallInteger(0,10,0)      |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |GRONDSOORT                          |String(255,0,0)           |PNH; Grondsoort; keuzelijst [GRONDSOORT]; Nullable: True; Default: None|
 |HMBEGIN                             |Float(0,25,10)            |PNH; Hectometrering begin heg; Nullable: True|
 |HMEIND                              |Float(0,25,10)            |PNH; Hectometrering eind heg; Nullable: True|

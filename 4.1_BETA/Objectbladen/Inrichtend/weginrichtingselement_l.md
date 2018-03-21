@@ -38,7 +38,6 @@ Een geleiderail of vangrail is een barrière die naast wegen wordt geplaatst om 
 |HMBEGIN                           |Float(0,25,10)           |PNH; Hectometrering in kilometers; Nullable: True|
 |HMEIND                            |Float(0,25,10)           |PNH; Hectometrering in kilometers; Nullable: True|
 |HOOGTESCHILD                      |String(30,0,0)           |PNH; Hoogte van het schild: kort 600mm / middel 900mm . Hoog 1200mm; Nullable: True; Default: None|
-|LENGTE                            |SmallInteger(0,10,0)     |PNH; Lengte (m) van de geleiderail, bij tweezijdig uitgebouwde geleiderails dient de lengte aan beide zijden opgenomen te worden.- Nullable: True|
 |MOTORVRIENDELIJK                  |String(1,0,0)            |PNH; MotorVriendelijk: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |PLANJAAR                          |SmallInteger(0,10,0)     |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |REFLECTOR                         |String(1,0,0)            |PNH; Reflector: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|

@@ -32,7 +32,6 @@ $ Feature dataset: Inrichtend
 |MATERIAALTYPE                       |String(255,0,0)         |PNH; Type materiaal; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
 |HECTOMETER                          |String(255,0,0)         |PNH; Hectometrering ; Nullable: True; Default: None|
 |ZIJDE                               |String(255,0,0)         |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None|
-|HOOGTE                              |SmallInteger(0,10,0)    |PNH; Hoogte ; Nullable: True|
 |WILDREFLECTOR                       |String(1,0,0)           |PNH; Wildreflector aanwezig, Ja/Nee/Onbekend; keuzelijst [jaNeeOnbekend]; Nullable: True; Default: O|
 |DATUMPLAATSING                      |Date(8,0,0)             |PNH; Datum plaatsing; Nullable: True|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)    |PNH; Levensverwachting; Nullable: True|

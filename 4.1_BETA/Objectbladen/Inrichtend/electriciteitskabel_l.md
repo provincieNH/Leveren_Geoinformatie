@@ -42,12 +42,9 @@ $ Feature dataset: Inrichtend
 |TOELICHTING                         |String(255,0,0)     |PNH; Extra toelichting; Nullable: True; Default: None|
 |VERTICALE_POSITIE                   |Float(0,10,2)       |PNH; Verticale positie; Nullable: True; Default: None|
 |WAARSCHUWINGSTYPE                   |String(255,0,0)     |PNH; ToDo Waarschuwingstype; Nullable: True; Default: None|
-|KRUISPUNT                           |String(255,0,0)     |PNH; FK naar kruispunt_p; Nullable: True; Default: None|
 |KASTVRI                             |String(255,0,0)     |PNH; FK naar kastVri_p; Nullable: True; Default: None|
 |KASTOVL                             |String(255,0,0)     |PNH; FK naar kastOvl_p; Nullable: True; Default: None|
 |DIEPTELEGGING                       |String(255,0,0)     |PNH; FK naar diepteTovMaaiveld_p; Nullable: False; Default: None|
-|INNETWERK                           |String(255,0,0)     |PNH; FK naar utiliteitsNet_tbl; Nullable: True; Default: None|
-|LINK                                |String(255,0,0)     |PNH; FK naar utiliteitsLink_l; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)     |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)     |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
 |CREATED_DATE                        |Date(8,0,0)         |PNH; Aanmaakdatum; Nullable: True|

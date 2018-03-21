@@ -1,4 +1,4 @@
-﻿## AREAALDATA.weg_l
+﻿﻿## AREAALDATA.weg_l
 
 $ Feature dataset: Functioneel
 
@@ -22,7 +22,6 @@ $ Feature dataset: Functioneel
 |OBJECTBEGINTIJD                     |Date(8,0,0)         |PNH; Datum waarop het object bij de bronhouder is ontstaan; Nullable: True|
 |OBJECTEINDTIJD                      |Date(8,0,0)         |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; Nullable: True|
 |CODE                                |String(25,0,0)      |PNH; Unieke code ter identificatie van een weg; Nullable: True; Default: None|
-|LENGTE                              |Float(0,25,10)      |PNH; Lengte (m); Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)     |PNH; Extra toelichting; Nullable: True; Default: None|
 |DATALEVERANCIER                     |String(255,0,0)     |PNH; Leverancier van de data; Nullable: True; Default: None|
 |CREATED_USER                        |String(255,0,0)     |PNH; Naam van gebruiker die de rij heeft aangemaakt; Nullable: True; Default: None|
@@ -30,6 +29,7 @@ $ Feature dataset: Functioneel
 |LAST_EDITED_USER                    |String(50,0,0)      |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd; Nullable: True; Default: None|
 |LAST_EDITED_DATE                    |Date(8,0,0)         |PNH; Datum van de laatste mutatie; Nullable: True|
 |SHAPE                               |Geometry            |PNH; Lijn|
+|SHAPE_Length                        |Double(0,0,0)       |PNH; Omtrek in meters, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
 |TRAJECT                             |String(255,0,0)     |PNH; FK naar traject_v; Nullable: True; Default: None|
 
 ***

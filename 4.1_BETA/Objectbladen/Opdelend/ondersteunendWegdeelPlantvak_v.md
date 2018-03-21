@@ -39,7 +39,6 @@ $ Feature dataset: Opdelend
 |DATUMAANPLANTING                   |Date(8,0,0)               |PNH; Datum en jaar van aanplanting in het format 30-1-2017; Nullable: True; Default: None|
 |OMSCHRIJVING                       |String(255,0,0)           |PNH; Extra toelichting ; Nullable: True; Default: None|
 |STREEFBEELD                        |String(255,0,0)           |PNH; Concrete visuele doelstelling; Nullable: True; Default: None|
-|OPPERVLAKTE                        |SmallInteger(0,10,0)      |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |ACTUEELBEELD                       |String(255,0,0)           |PNH; Huidige beeld; Nullable: True; Default: None|
 |OPMERKINGMBTONDERH                 |String(255,0,0)           |PNH; Opmerking mbt onderhoud; Nullable: True; Default: None|
 |TRAJECT                            |String(255,0,0)           |PNH; FK naar traject_v; Nullable: True; Default: None|
