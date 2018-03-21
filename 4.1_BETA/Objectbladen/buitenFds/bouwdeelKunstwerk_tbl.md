@@ -18,7 +18,6 @@ $ Feature dataset: -
 |CONDITIESCORE_DATUM                 |Date(8,0,0)            |PNH; Datum opname Conditiescore; Nullable: True; Default: None|
 |CONDITIESCORE_OPM                   |String(3000,0,0)       |PNH; Opmerking bij conditiescore conform NEN 2767-4; Nullable: True; Default: None|
 |KWELEMENT                           |String(255,0,0)        |PNH; FK naar kwElement_tbl; Nullable: True; Default: None|
-|IDENTIFICATIE                       |String(255,0,0)        |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; Nullable: True; Default: None|
 |TYPESPEC                            |String(255,0,0)        |PNH; Nadere typering van het object; keuzelijst [typeSpecBWD]; Nullable: True; Default: None|
 |VERWERKINGSSTATUS                   |String(255,0,0)        |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |OBJECTBEGINTIJD                     |Date(8,0,0)            |BGT; Datum waarop het object bij de bronhouder is ontstaan; Nullable: True|

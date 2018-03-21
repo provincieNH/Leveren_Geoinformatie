@@ -21,7 +21,6 @@ $ Feature dataset: -
 |AANLEGJAAR                          |SmallInteger(0,10,0)    |PNH; Aanlegjaar; Nullable: True|
 |RENOVATIEJAAR                       |SmallInteger(0,10,0)    |PNH; Renovatiejaar; Nullable: True|
 |SCHEIDINGOEVERVAK                   |String(255,0,0)         |PNH; FK naar scheidingOevervak_l; Nullable: True; Default: None|
-|IDENTIFICATIE                       |String(255,0,0)         |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; Nullable: True; Default: None|
 |TYPESPEC                            |String(255,0,0)         |PNH; Nadere typering van het object; keuzelijst [typeSpecBWD]; Nullable: True; Default: None|
 |VERWERKINGSSTATUS                   |String(255,0,0)         |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |OBJECTBEGINTIJD                     |Date(8,0,0)             |BGT; Datum waarop het object bij de bronhouder is ontstaan; Nullable: True|
