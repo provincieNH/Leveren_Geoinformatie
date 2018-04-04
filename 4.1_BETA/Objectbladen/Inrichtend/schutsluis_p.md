@@ -39,7 +39,7 @@ Een SCHUTSLUIS is een beheerobject van het type:
 |KWBREEDTE                           |Float(0,25,10)           |PNH; Breedte kunstwerk; Nullable: True|
 |KWHOOGTE                            |Float(0,25,10)           |PNH; Hoogte kunstwerk; Nullable: True|
 |KWLENGTE                            |Float(0,25,10)           |PNH; Totale lengte kunstwerk; Nullable: True|
-|KWOPPERVLAKTE                       |Float(0,25,10)           |PNH; Oppervlakte van het kunstwerk in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
+|KWOPPERVLAKTE                       |Float(0,10,2)            |PNH; Oppervlakte van het kunstwerk in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
 |NAAM                                |String(255,0,0)          |PNH; Naam van het kunstwerk; Nullable: True; Default: None|
 |REMMINGSWERKVERVANGINGSJAAR         |SmallInteger(0,10,0)     |PNH; Vervangingsjaar Remwerk ; Nullable: True|
 |RENOVATIEJAAR                       |SmallInteger(0,10,0)     |PNH; Renovatiejaar ; Nullable: True; Default: None|

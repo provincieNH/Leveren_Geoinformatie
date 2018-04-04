@@ -38,7 +38,7 @@ $ Feature dataset: Opdelend
 |HMBEGIN                           |Float(0,25,10)            |PNH; Begin Hectometrering; Nullable: True|
 |HMEIND                            |Float(0,25,10)            |PNH; Eind Hectometrering; Nullable: True|
 |KEURMAAT                          |Float(0,25,10)            |PNH; Minimale breedte volgens het Waterschap in centimeters; Nullable: True|
-|LENGTE                            |SmallInteger(0,10,0)      |PNH; Lengte; Nullable: True|
+|LENGTE                            |Float(0,10,0)             |PNH; Lengte in meters; Nullable: True|
 |CAT_WATERLOOP                     |String(255,0,0)           |PNH; Categorie waterloop; keuzelijst [CAT_WATERLOOP]; Nullable: True; Default: None|
 |JAAR_PLAATSING_AANLEG_GESCHAT     |String(1,0,0)             |PNH; Jaar plaatsing of aanleg is geschat: ja of nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |BODEMHOOGTE                       |Float(0,25,10)            |PNH; Hoogte t.o.v. NAP; Nullable: True|

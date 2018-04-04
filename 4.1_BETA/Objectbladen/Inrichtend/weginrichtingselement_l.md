@@ -43,7 +43,7 @@ Een geleiderail of vangrail is een barrière die naast wegen wordt geplaatst om 
 |REFLECTOR                         |String(1,0,0)            |PNH; Reflector: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |RESTLEVENSDUUR                    |SmallInteger(0,10,0)     |PNH; Restlevensduur in maanden; Nullable: True; Default: None
 |MATERIAALTYPE                     |String(20,0,0)           |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None|
-|CEKEUR                            |String(255,0,0)          |PNH; PNH; CE-Keurmerk aanwezig; Nullable: True; Default: None|
+|CEKEUR                            |String(255,0,0)          |PNH; CE-Keurmerk aanwezig; Nullable: True; Default: None|
 |FOTO                              |String(255,0,0)          |PNH; Locatie van de foto op de S schijf bij PNH. Deze hoeft niet gevuld te worden door de aannemer. Nullable: True; Default: None|
 |FABRIKANT                         |String(255,0,0)          |PNH; Fabrikant; Nullable: True; Default: None|
 |TRAJECT                           |String(255,0,0)          |PNH; FK naar traject_v; Nullable: True; Default: None|

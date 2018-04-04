@@ -50,7 +50,7 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
 |DWARSONVLAKHEID                   |String(255,0,0)           |PNH; Dwarsonvlakheid meting; Nullable: True; Default: None| Todo
 |DWARSONVLAKHEID_DATE              |Date(8,0,0)               |PNH; Datum dwarsonvlakheid meting; Nullable: True| Todo
 |INSPECTEUR                        |String(255,0,0)           |PNH; Inspecterende partij spoorvorming, langsonvlakheid, dwarsonvlakheid; Nullable: True; Default: None| Todo
-|LENGTE                            |SmallInteger(0,10,0)      |PNH; Lengte van het wegvakonderdeel (hele meters); Nullable: True|
+|LENGTE                            |Float(0,10,0)             |PNH; Lengte van het wegvakonderdeel (hele meters); Nullable: True|
 |LENGTEVOEGEN                      |SmallInteger(0,10,0)      |PNH; Lengte van de voegen (m); Nullable: True|
 |SPOORVORMING                      |String(20,0,0)            |PNH; Waarde van de spoorvormingmeting; Nullable: True; Default: None|
 |SPOORVORMING_DATE                 |Date(8,0,0)               |PNH; Datum spoorvorming meting; Nullable: True|

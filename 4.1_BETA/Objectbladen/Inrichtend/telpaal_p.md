@@ -26,7 +26,7 @@ $ Feature dataset: Inrichtend
 |ONDERHOUDER                         |String(255,0,0)         |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None|
 |EIGENAAR                            |String(255,0,0)         |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None|
 |DATATRANSPORT                       |String(255,0,0)         |PNH; Manier van datatransport. Keuze uit: Vaste lijn (KPN lijn), GSM ; Nullable: True; Default: None|
-|DATUMGARANTIE                       |Date(8,0,0)             |PNH; Datum en jaartal tot wanneer de garantie geldig is; Nullable: True; Default: Non|
+|DATUMGARANTIE                       |Date(8,0,0)             |PNH; Datum en jaartal tot wanneer de garantie geldig is; Nullable: True; Default: None|
 |DATUMPLAATSING                      |Date(8,0,0)             |PNH; Datum plaatsing; Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)         |PNH; Extra toelichting; Nullable: True; Default: None|
 |HOOGTE                              |Float(0,10,0)           |PNH; Hoogte; Nullable: True|

@@ -75,7 +75,7 @@ Een vast kunstwerk is een beheerobject van het type:
 |KWBREEDTE                           |Float(0,25,10)         |PNH; Breedte kunstwerk; Nullable: True|
 |KWHOOGTE                            |Float(0,25,10)         |PNH; Hoogte kunstwerk; Nullable: True|
 |KWLENGTE                            |Float(0,25,10)         |PNH; Totale lengte kunstwerk; Nullable: True|
-|KWOPPERVLAKTE                       |Float(0,25,10)         |PNH; Totale oppervlakte kunstwerk; Nullable: True|
+|KWOPPERVLAKTE                       |Float(0,10,2)          |PNH; Totale oppervlakte kunstwerk; Nullable: True|
 |NAAM                                |String(255,0,0)        |PNH; Naam van het kunstwerk; Nullable: True; Default: None|
 |ONDERHOUDBIJZONDER                  |BLOB(60000,0,0)        |PNH; Bijzonderheden over onderhoud []; Nullable: True; Default: None|
 |ONDERHOUDOPMERKING                  |BLOB(60000,0,0)        |PNH; Opmerkingen over het onderhoud []; Nullable: True; Default: None|

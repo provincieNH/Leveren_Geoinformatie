@@ -33,7 +33,7 @@ $ Feature dataset: Inrichtend
 |FOTO                                |String(255,0,0)         |PNH; Verwijzing naar Foto; Nullable: True; Default: None|
 |HMBEGIN                             |Float(0,25,10)          |PNH; Hectometrering begin beschoeiing; Nullable: True|
 |HMEIND                              |Float(0,25,10)          |PNH; Hectometrering eind beschoeiing; Nullable: True|
-|HOOGTE                              |SmallInteger(0,10,0)    |PNH; Bovenkant van constructie tov NAP in centimeters en op 5 centimeter nauwkeurig; Nullable: True; Default: None|
+|HOOGTE                              |Float(0,10,0)           |PNH; Bovenkant van constructie tov NAP in centimeters en op 5 centimeter nauwkeurig; Nullable: True; Default: None|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)    |PNH; Levensverwachting; Nullable: True|
 |OPMERKING                           |String(3000,0,0)        |PNH; Extra toelichting; Nullable: True; Default: None|
 |OPMERKINGMBTONDERH                  |String(255,0,0)         |PNH; Opmerking met betrekking tot het onderhoud; Nullable: True; Default: None|
