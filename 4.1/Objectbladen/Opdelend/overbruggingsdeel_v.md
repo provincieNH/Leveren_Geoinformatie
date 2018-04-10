@@ -28,7 +28,7 @@ $ Feature dataset: Opdelend
 |BEHEERDER                         |String(255,0,0)          |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None|
 |BRONHOUDER                        |String(5,0,0)            |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None|
 |EIGENAAR                          |String(255,0,0)          |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None|
-|TYPESPEC                          |String(255,0,0)          |PNH; Nadere typering van het object; keuzelijst [typeSpecOBD]; Nullable: True; Default: None|
+|TYPESPEC                          |String(255,0,0)          |PNH; Nadere typering van het object; Nullable: True; Default: None|
 |TYPEOVERBRUGGINGSDEEL             |String(50,0,0)           |BGT; nadere typering van het object; keuzelijst [typeOBD]; Nullable: False; Default: None|
 |HOORTBIJTYPEOVERBRUGGING          |String(50,0,0)           |BGT; Nadere classificatie van het overbrugging waar het overbruggingsdeel een onderdeel van is; keuzelijst [hoortBijTypeOverbrugging]; Nullable: False; Default: None|
 |ISBEWEEGBAAR                      |String(1,0,0)            |BGT; Aanduiding of de brug waar het overbruggingsdeel bij hoort al dan niet beweegbaar is; keuzelijst [JaNeeOnbekend]; Nullable: True; Default: N|

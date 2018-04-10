@@ -8,7 +8,7 @@ $ Feature dataset: Inrichtend
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
-* __Definitie:__ Hoge draagconstructie, vervaardigd van metaal, hout, steen of kunststof dat dient om iets te dragen. __LET OP:__ In dit objecttype worden worden de IMGEO palen geadministreerd die primair een dragende functie hebben, zoals lichtmast, verkeersregelinstallatiepaal, verkeersbordpaal en haltepaal.
+* __Definitie:__ Hoge draagconstructie, vervaardigd van metaal, hout, steen of kunststof dat dient om iets te dragen. __LET OP:__ In dit objecttype worden de IMGEO palen geadministreerd die primair een dragende functie hebben, zoals lichtmast, verkeersregelinstallatiepaal, verkeersbordpaal en haltepaal.
 
 
 

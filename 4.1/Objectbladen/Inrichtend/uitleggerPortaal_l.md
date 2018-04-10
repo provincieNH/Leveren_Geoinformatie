@@ -8,7 +8,7 @@ $ Feature dataset: Inrichtend
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ 15 cm
 * __SHAPE:__ Lijn
-* __Definitie:__ Uitlegger/Portaal is het lijnvormige element van een uitlegger of portaal. In het geval van een uitlegger bestaat het totaal uit 1 mast en een uitleggePortaal. In het geval van een portaal bestaat het geheel uit 2 masten en een uitleggePortaal. Aan een uitleggePortaal kunnen vervolgens lantaarns of armaturen gekoppeld zijn.
+* __Definitie:__ Uitlegger/Portaal is het lijnvormige element van een uitlegger of portaal. In het geval van een uitlegger bestaat het totaal uit 1 mast (object in paalDraagconstructie_p) en een object in uitleggerPortaal_l. In het geval van een portaal bestaat het geheel uit 2 masten (objecten in paalDraagconstructie_p) en een object in uitleggerPortaal_l. Aan een uitleggePortaal kunnen vervolgens lantaarns of armaturen gekoppeld zijn.
 
 
 ***
@@ -27,7 +27,7 @@ $ Feature dataset: Inrichtend
 |BEHEERDER                           |String(255,0,0)          |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None|
 |ONDERHOUDER                         |String(255,0,0)          |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None|
 |EIGENAAR                            |String(255,0,0)          |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None|
-|TYPESPEC                            |String(255,0,0)          |PNH; Nadere typering van het object, 'Uitlegger' of 'Portaal'; keuzelijst [typeSpecUIP]; Nullable: True; Default: None|
+|TYPESPEC                            |String(255,0,0)          |PNH; Nadere typering van het object, 'Uitlegger' of 'Portaal'; Nullable: True; Default: None|
 |DATUMGARANTIE                       |Date(8,0,0)              |PNH; Datum en jaartal tot wanneer de garantie geldig is; Nullable: True; Default: None|
 |DATUMPLAATSING                      |Date(8,0,0)              |PNH; Datum plaatsing; Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)          |PNH; Extra toelichting; Nullable: True; Default: None|
