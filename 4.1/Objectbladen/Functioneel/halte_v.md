@@ -47,7 +47,7 @@ $ Feature dataset: Functioneel
 |SHAPE                               |Geometry            |PNH; Vlak|
 |SHAPE_Length                        |Double(0,0,0)       |PNH; Omtrek in meters, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
 |SHAPE_Area                          |Double(0,0,0)       |PNH; Oppervlakte in m2, 5 decimalen. Dit wordt automatisch gevuld; Nullable: False; Default: None|
-|CONSESSIEVERLENER                   |String(255,0,0)     |PNH; FK naar concessieverlener_tbl; voor de plaatsing; Nullable: True; Default: None|
+|CONCESSIEVERLENER                   |String(255,0,0)     |PNH; FK naar concessieverlener_tbl; voor de plaatsing; Nullable: True; Default: None|
 |TRAJECT                             |String(255,0,0)     |PNH; FK naar traject_v; Nullable: True; Default: None|
 
 ***
