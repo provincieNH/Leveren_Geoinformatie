@@ -20,7 +20,7 @@ Richtlijn voor omvang vaarwegtraject:
 het gebied dat is gedefinieerd in de vaarwegverordening (breedte) en een
 logisch doorvaartraject (lengte).
 
-In BUDATA behoren tot een traject alle (beheer)objecten van de provincie Noord-Holland die binnen de beheergrenzen
+In Areaaldata behoren tot een traject alle (beheer)objecten van de provincie Noord-Holland die binnen de beheergrenzen
 van het traject liggen.
 
 ***
