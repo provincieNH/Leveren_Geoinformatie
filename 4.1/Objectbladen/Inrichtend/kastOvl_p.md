@@ -39,7 +39,7 @@ $ Feature dataset: Inrichtend
 |AANWEZGIHEIDDIM                     |String(1,0,0)          |PNH; Aanwezigheid van een diminstallatie in de kast: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |AANWTELEMANAGEMENT                  |String(1,0,0)          |PNH; Aanwezigheid van een telemanagementvoorziening in de kast (t.b.v. het op afstand kunnen instellen): Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N|
 |AUTOMAATKOPPELING                   |String(20,0,0)         |PNH; Aangeven of er een koppeling is tussen automaat en Ovlkast [JaNeeOnbekend]; Nullable: True; Default: none|
-|AUTOMAATNUMMER                      |SmallInteger(0,10,0)   |PNH; Indien een een automaat gekoppeld is aan een Ovlkast, het kastnummer invullen; Nullable: True; Default: None|
+|AUTOMAATNUMMER                      |Integer(0,10,0)        |PNH; Indien een een automaat gekoppeld is aan een Ovlkast, het kastnummer invullen; Nullable: True; Default: None|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)   |PNH; Levensverwachting; Nullable: True|
 |PLANJAAR                            |SmallInteger(0,10,0)   |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |RALKLEUR                            |String(30,0,0)         |PNH; De RAL-kleur(en) die gebruikt zijn voor het object. Eerst de kleurcode gevolgd door de naam van de kleur; keuzelijst [RALKLEUR]; Nullable: True; Default: None|
