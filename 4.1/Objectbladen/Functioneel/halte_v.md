@@ -1,4 +1,4 @@
-﻿﻿## AREAALDATA.halte_v
+﻿## AREAALDATA.halte_v
 
 $ Feature dataset: Functioneel
 

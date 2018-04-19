@@ -48,7 +48,7 @@ $ Feature dataset: Opdelend
 |STREEFBEELD                        |String(255,0,0)           |PNH; Concrete visuele doelstelling; Nullable: True; Default: None|
 |GRONDSOORT                         |String(255,0,0)           |PNH; Grondsoort; keuzelijst [GRONDSOORT]; Nullable: True; Default: None|
 |ZAADMENGSEL                        |String(255,0,0)           |PNH; Zaadmengsel; keuzelijst [ZAADMENGSEL]; Nullable: True; Default: None|
-|SITUERING                          |String(255,0,0)           |PNH; Situering conform CROW; keuzelijst [SITUERING]; Nullable: True; Default: None|
+|SITUERING                          |String(255,0,0)           |PNH; Situering conform CROW (L: Links, M: Midden en R: Rechts); keuzelijst [SITUERING]; Nullable: True; Default: None|
 |JAARAANLEG                         |SmallInteger(0,10,0)      |PNH; Jaar aanleg van de weg; Nullable: True|
 |VERHARDINGCATEGORIE                |String(255,0,0)           |PNH; Verharding categorie conform CROW; keuzelijst [VERHARDING_CATEGORIE]; Nullable: True; Default: None|
 |VERHARDING                         |String(255,0,0)           |PNH; Verharding object conform CROW; keuzelijst [VERHARDING]; Nullable: True; Default: None|

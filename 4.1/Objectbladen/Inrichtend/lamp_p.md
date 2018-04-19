@@ -1,4 +1,4 @@
-﻿﻿## AREAALDATA.lamp_p
+﻿## AREAALDATA.lamp_p
 
 $ Feature dataset: Inrichtend
 

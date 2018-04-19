@@ -1,4 +1,4 @@
-﻿﻿## AREAALDATA.kwElement_tbl
+﻿## AREAALDATA.kwElement_tbl
 
 $ Feature dataset: -
 

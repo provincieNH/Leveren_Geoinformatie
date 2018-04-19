@@ -57,7 +57,7 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
 |SPOORVORMING                      |String(20,0,0)            |PNH; Waarde van de spoorvormingmeting; Nullable: True; Default: None|
 |SPOORVORMING_DATE                 |Date(8,0,0)               |PNH; Datum spoorvorming meting; Nullable: True|
 |GEBRUIKSFUNCTIE                   |String(255,0,0)           |PNH; Gebruiksfunctie conform CROW; keuzelijst [GEBRUIKSFUNCTIE]; Nullable: True; Default: None|
-|SITUERING                         |String(255,0,0)           |PNH; Situering conform CROW; keuzelijst [SITUERING]; Nullable: True; Default: None|
+|SITUERING                         |String(255,0,0)           |PNH; Situering conform CROW (L: Links, M: Midden en R: Rechts); keuzelijst [SITUERING]; Nullable: True; Default: None|
 |STROEFHEID                        |String(20,0,0)            |PNH; Waarde van de stroefheidmeting; Nullable: True; Default: None|
 |STROEFHEID_DATE                   |Date(8,0,0)               |PNH; Datum stroefheid meting; Nullable: True|
 |VERHARDING                        |String(255,0,0)           |PNH; Verharding object conform CROW; keuzelijst [VERHARDING]; Nullable: True; Default: None|
