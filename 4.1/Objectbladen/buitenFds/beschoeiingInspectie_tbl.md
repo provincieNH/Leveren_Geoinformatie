@@ -1,6 +1,6 @@
 ﻿## AREAALDATA.beschoeiingInspectie_tbl
 
-$ Feature dataset: -
+*Feature dataset: -*
 
 
 * __Areaaldata model versie:__ 4.1

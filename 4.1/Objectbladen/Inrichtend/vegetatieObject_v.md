@@ -1,6 +1,6 @@
 ## AREAALDATA.vegetatieObject_v
 
-$ Feature dataset: Inrichtend
+*Feature dataset: Inrichtend*
 
 
 * __Areaaldata model versie:__ 4.1

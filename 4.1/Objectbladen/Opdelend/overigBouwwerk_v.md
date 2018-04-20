@@ -1,6 +1,6 @@
 ## AREAALDATA.overigBouwwerk_v
 
-$ Feature dataset: Opdelend
+*Feature dataset: Opdelend*
 
 
 * __Areaaldata model versie:__ 4.1

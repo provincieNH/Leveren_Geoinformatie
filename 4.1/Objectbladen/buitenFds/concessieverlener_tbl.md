@@ -1,6 +1,6 @@
 ## AREAALDATA.concessieverlener_tbl
 
-$ Feature dataset: -
+*Feature dataset: -*
 
 * __Areaaldata model versie:__ 4.1
 * __BGT inhoud:__ Nee
