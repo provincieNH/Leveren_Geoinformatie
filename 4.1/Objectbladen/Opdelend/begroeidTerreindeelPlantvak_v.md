@@ -41,6 +41,7 @@
 |PLANJAAR                          |SmallInteger(0,10,0)      |PNH; Het geplande jaar dat het object vervangen wordt; Nullable: True; Default: None|
 |DATUMAANPLANTING                  |Date(8,0,0)               |PNH; Jaar aanplanting ; Nullable: True|
 |OMSCHRIJVING                      |String(255,0,0)           |PNH; Extra toelichting ; Nullable: True; Default: None|
+|TYPEPLAAGINVASIESOORT             |String(255,0,0)          |PNH; Type plaagsoort of type invasie soort. Alleen invullen mits van toepassing is. Bij meerderen waarden, slechts meest voorkomende invullen en andere bij OPMERKING; keuzelijst [TYPE_PLAAG_INVASIESOORT]; Nullable: True; Default: None|
 |TRAJECT                           |String(255,0,0)           |PNH; FK naar traject_v; Nullable: True; Default: None|
 |OEVERVAK                          |String(255,0,0)           |PNH; FK naar oevervak_v; als deze aan een vaarweg ligt; Nullable: True; Default: None
 |INONDERZOEK                       |String(1,0,0)             |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
