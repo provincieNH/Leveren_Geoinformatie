@@ -11,6 +11,7 @@
 
 ***
 
+
 |KOLOM                             |TYPE          	        |DEFINITIE|
 |------                            |----          	        |-----    |
 |OBJECTID                          |OID(38,0,0)             |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; Nullable: False; Default: None|

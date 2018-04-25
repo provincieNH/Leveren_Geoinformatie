@@ -32,7 +32,7 @@
 |BGTPLUSTYPE                        |String(50,0,0)           |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeOWT]; Nullable: False; Default: None|
 |TYPE_BEHEER                        |String(50,0,0)           |PNH; Type beheer (maaien, klepelen, uitzuigen etc); keuzelijst [TYPE_BEHEER]; Nullable: True; Default: None|
 |TYPEBODEM                          |String(255,0,0)          |PNH; Type bodem; keuzelijst [TYPE_BODEM]; Nullable: True; Default: None|
-|TYPEPLAAGSOORT                     |String(255,0,0)          |PNH; Type plaagsoort. De soort wordt  ingevuld die geschat qua oppervlak het meeste voorkomt in dat perceel; keuzelijst [TYPE_PLAAGSOORT]; Nullable: True; Default: None|
+|TYPEPLAAGSOORT                     |String(255,0,0)          |PNH; Type plaagsoort. De soort wordt  ingevuld die geschat qua oppervlak het meeste voorkomt in dat perceel; keuzelijst [TYPE_PLAAG_INVASIESOORT]; Nullable: True; Default: None|
 |ACTUEELBEELD                       |String(255,0,0)          |PNH; Huidige beeld; Nullable: True; Default: None|
 |BREEDTE                            |Float(0,25,10)           |PNH; Breedte van de plasberm in m, 2 decimalen; Nullable: True; Default: None|
 |OPPERVLAKTE                        |Float(0,10,2)            |PNH; Oppervlakte in m2, afgerond op 2 decimalen; Nullable: True; Default: None|
