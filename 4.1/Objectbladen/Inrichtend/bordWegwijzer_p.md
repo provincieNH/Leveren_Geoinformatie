@@ -8,8 +8,8 @@
 * __Herkomst Definitie:__ PNH/IMGEO
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
-* __Definitie:__ Constructie voorzien van een of meer panelen met informatie ten behoeve van de bewegwijzering. Let op: dit
-betreft bewegwijzering voor objecten (zoals 'zwembad' of 'hotel' en niet voor doelen (zoals 'Uitgeest').
+* __Definitie:__ Constructie voorzien van een of meer panelen met informatie ten behoeve van de bewegwijzering.
+Let op: dit betreft bewegwijzering voor objecten (zoals 'zwembad' of 'hotel') en voor doelen (zoals 'Uitgeest').
 ***
 
 |KOLOM                               |TYPE          	     |DEFINITIE|
