@@ -11,7 +11,6 @@
 
 ***
 
-
 |KOLOM                             |TYPE          	        |DEFINITIE|
 |------                            |----          	        |-----    |
 |OBJECTID                          |OID(38,0,0)             |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; Nullable: False; Default: None|
@@ -29,8 +28,8 @@
 |EIGENAAR                          |String(255,0,0)         |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None|
 |BRONHOUDER                        |String(5,0,0)           |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None|
 |TYPESPEC                          |String(255,0,0)         |PNH; Nadere typering van het object; keuzelijst [typeSpecBTD]; Nullable: True; Default: None|
-|FYSIEKVOORKOMEN                   |String(50,0,0)          |BGT; Fysieke omschrijving van het object; keuzelijst [fysiekvoorkomenBTD]; Nullable: False; Default: None|
-|OPTALUD                           |String(1,0,0)           |BGT; Ligt het object op een talud? Ja/Nee. Bij 'Ja', moet er een ondersteunendWegdeelKruin_l geregistreerd zijn; keuzelijst [JaNeeOnbekend]; Nullable: False; Default: None|
+|FYSIEKVOORKOMEN                   |String(50,0,0)          |BGT; Fysieke omschrijving van het object; keuzelijst [fysiekVoorkomenBTD]; Nullable: False; Default: None|
+|OPTALUD                           |String(1,0,0)           |BGT; Ligt het object op een talud? Ja/Nee/Onbekend. Bij 'Ja', moet er een begroeidTerreindeelKruin_l geregistreerd zijn; keuzelijst [OPTALUD]; Nullable: False; Default: None|
 |BERICHT_ID                        |String(128,0,0)         |BGT; Nummer van het bericht dat PNH heeft verzonden naar LV. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|
 |INONDERZOEK                       |String(1,0,0)           |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible:No|
 |TIJDSTIPREGISTRATIE               |Date(8,0,0)             |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; Nullable: True; Default: None; Visible:No|

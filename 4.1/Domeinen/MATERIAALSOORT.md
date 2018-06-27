@@ -1,0 +1,63 @@
+## MATERIAALSOORT				
+				
+|	Code	|	Description	|
+|	---	|	---	|
+|	102	|	Bomen	|
+|	111	|	Steenpuin	|
+|	110	|	Betonpuin	|
+|	113	|	Zetsteen	|
+|	112	|	Stortsteen	|
+|	Divers	|	Divers	|
+|	24	|	Kurk	|
+|	25	|	Textiel	|
+|	26	|	Vilt	|
+|	27	|	Jute	|
+|	21	|	Asfalt (ZOAB)	|
+|	Elementenverharding	|	Elementenverharding	|
+|	23	|	Pneumatiek	|
+|	106	|	Fauna	|
+|	28	|	Emaille	|
+|	29	|	Installaties	|
+|	3	|	Beton	|
+|	2	|	Hout	|
+|	5	|	Glas	|
+|	4	|	Steen	|
+|	7	|	Asfalt	|
+|	6	|	Kunststof	|
+|	8	|	Grond	|
+|	92	|	Elementen	|
+|	105	|	Asfaltbeton (ZOAB)	|
+|	201	|	Metselwerk	|
+|	8888887	|	Epoxy	|
+|	202	|	Riet	|
+|	97	|	Gravel	|
+|	999	|	Onbekend	|
+|	108	|	Keramiek	|
+|	109	|	Granulaat	|
+|	17	|	Gietijzer	|
+|	91	|	Asfaltbeton	|
+|	103	|	Halfverhard	|
+|	93	|	Cementbeton	|
+|	101	|	Beplanting	|
+|	95	|	Thermoplast	|
+|	107	|	Kunstgras	|
+|	104	|	Onverhard	|
+|	96	|	Wegenverf	|
+|	11	|	Mechaniek	|
+|	10	|	Gras	|
+|	13	|	Hydrauliek	|
+|	12	|	Elektrotechniek	|
+|	15	|	Aluminium	|
+|	22	|	Koper	|
+|	14	|	Staal	|
+|	16	|	Zink	|
+|	19	|	Rubber	|
+|	18	|	Metaal; overig	|
+|	31	|	Grind	|
+|	30	|	Water	|
+|	Coating	|	Coating	|
+|	34	|	Boomschors	|
+|	33	|	Schelpen	|
+|	32	|	Zand	|
+|	Hout/Kunststof	|	Hout/Kunststof	|
+|	Bitumen	|	Bitumen	|

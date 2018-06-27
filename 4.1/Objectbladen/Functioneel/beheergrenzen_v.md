@@ -1,4 +1,4 @@
-﻿## AREAALDATA.beheergrenzen_v
+## AREAALDATA.beheergrenzen_v
 
 *Feature dataset: Functioneel*
 

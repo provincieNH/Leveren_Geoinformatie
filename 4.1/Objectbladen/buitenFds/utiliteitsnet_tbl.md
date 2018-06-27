@@ -1,4 +1,4 @@
-ï»¿## AREAALDATA.utiliteitsNet_tbl
+## AREAALDATA.utiliteitsNet_tbl
 
 *Feature dataset: -*
 
@@ -8,14 +8,14 @@
 * __Herkomst Definitie:__ IMKL (2015)
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __SHAPE:__ Geen
-* __Definitie:__ Een verzameling netwerkelementen die tot Ã©Ã©n type nutsvoorzieningennet behoren. (Bron: INSPIRE)
+* __Definitie:__ Een verzameling netwerkelementen die tot één type nutsvoorzieningennet behoren. (Bron: INSPIRE)
 
 ***
 
 |KOLOM                               |TYPE                    |DEFINITIE|
 |------                              |----                    |-----    |
 |IDENTIFICATIE                       |String(255,0,0)         |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; Nullable: True; Default: None|
-|TYPESPEC                            |String(255,0,0)         |PNH; Nadere typering van het object, uit INSPIRE:UtilityNetworkTypeValue; keuzelijst [typeSpecUTN]; Nullable: True; Default: onbekend|
+|TYPESPEC                            |String(255,0,0)         |PNH; Nadere typering van het object, uit INSPIRE:UtilityNetworkTypeValue; keuzelijst [TypeSpecUTN]; Nullable: True; Default: onbekend|
 |VERWERKINGSSTATUS                   |String(255,0,0)         |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw|
 |OBJECTID                            |OID(38,0,0)             |PNH; Interne ID ArcGIS; Nullable: False|
 |GLOBALID                            |GlobalID(38,0,0)        |PNH; Global Unique Identifier; Nullable: False|
@@ -29,7 +29,7 @@
 |LAST_EDITED_DATE                    |Date(8,0,0)             |PNH; Datum van de laatste mutatie; Nullable: True|
 |DATUMPLAATSING                      |Date(8,0,0)             |PNH; Datum plaatsing installatie; Nullable: True|
 |OMSCHRIJVING                        |String(255,0,0)         |PNH; Extra toelichting; Nullable: True; Default: None|
-|INSTALLATIENUMMER                   |Integer(0,10,0)         |PNH; Bestaande uit 4 cijfers: de eerste drie het nummerdeel van het wegnummer (N201 -> 201), de laatste een volgnummer van Ã©Ã©n positie (1 t/m 9); Nullable: True|
+|INSTALLATIENUMMER                   |Integer(0,10,0)         |PNH; Bestaande uit 4 cijfers: de eerste drie het nummerdeel van het wegnummer (N201 -> 201), de laatste een volgnummer van één positie (1 t/m 9); Nullable: True|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)    |PNH; TODO; Nullable: True|
 |PLANJAAR                            |SmallInteger(0,10,0)    |PNH; TODO; Nullable: True|
 |RESTLEVENSDUUR                      |SmallInteger(0,10,0)    |PNH; Restlevensduur; Nullable: True; Default: None|
