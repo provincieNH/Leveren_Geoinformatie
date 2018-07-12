@@ -18,6 +18,6 @@
 |DOMEIN_NAAM                         |String(255,0,0)    |Naam van het domein - Nullable: True Default: None; Visible:Yes|
 |CODE                                |String(255,0,0)    |Code - Nullable: True Default: None; Visible:Yes|
 |OMSCHRIJVING                        |String(255,0,0)    |Waarde - Nullable: True Default: None; Visible:Yes|
-|DATALEVERANCIER                     |String(255,0,0)    |Leverancier van de data - Nullable: True Default: None|
+|DATALEVERANCIER                     |String(255,0,0)    |Leverancier van de data - Nullable: True; Default: None|
 
 ***
