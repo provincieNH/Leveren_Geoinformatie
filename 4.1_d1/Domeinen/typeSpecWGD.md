@@ -1,6 +1,6 @@
 ## typeSpecWGD
 
-*domeinlijst versie: d1* 
+*domeinlijst versie: d1'* 
 
  |Code |Description	|
 |	---	|	---	|
@@ -12,9 +12,11 @@
 | FP | Fietspad |
 | FS | Fietsstrook |
 | IV | Invoegstrook |
+| In-Uitrit | In-Uitrit |
 | LA | Links afslaand |
 | OndersteunendWVO: onbekend | OndersteunendWVO: onbekend |
 | OP | Oprit |
+| Molgoot | Molgoot |
 | PW | Parallelweg |
 | PT | Parkeerterrein |
 | RA | Rechts afslaand |
