@@ -4,8 +4,7 @@
 
  |Code |Description	|
 |	---	|	---	|
-| 0 | 0 |
-| Actueel | Actueel |
-| Nieuw | Nieuw |
-| Gewijzigd | Gewijzigd |
-| Vervallen | Vervallen |
+| plan | plan |
+| bestaand | bestaand|
+| historisch | historisch |
+
