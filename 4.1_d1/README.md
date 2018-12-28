@@ -1,7 +1,7 @@
-ILS
+~~ILS~~ Leveren Geoinformatie
 ===
 
-Informatie Levering Specificatie versie 4.1
+Informatie Levering Specificatie Geoinformatie versie 4.1
 
 
 * [Productspecificatie](Productspecificatie_Areaaldata_4_1.pdf) : De productspecificatie bevat eisen en richtlijnen voor het maken en leveren van revisiebestanden Areaaldata.

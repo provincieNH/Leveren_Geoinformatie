@@ -27,4 +27,4 @@ In voorbereiding zijn de volgende releases:
 * __4.2:d5__: Minor release: opwaardering van domeinlijstenversie in **oktober 2019** 
 
 
-![Release kalender Areaaldata](https://github.com/provincieNH/ILS/blob/master/release_kalender_areaaldata.png)
+![Release kalender Areaaldata](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/release_kalender_areaaldata.png)
