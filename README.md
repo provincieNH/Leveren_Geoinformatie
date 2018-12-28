@@ -1,7 +1,14 @@
-ILS
+~~ILS~~ Leveren Geoinformatie
 ===
 
-__Informatie Levering Specificatie__
+Deze repository is van naam veranderd (van ILS naar Leveren_Geoinformatie) omdat de term ILS inmiddels bij 
+de provincie Noord-Holland gebruikt wordt voor de Integrale Informatie Levering Specificatie. Deze repository
+is specifiek bedoelt voor de documentatie over Geoinformatie leveringen.
+
+Bestaande locale clones kunnen aangepast worden met het command: git remote set-url origin https://github.com/provincieNH/Leveren_Geoinformatie
+
+
+__Informatie Levering Specificatie voor Geoinformatie__
 
 In deze repository staan de mappen met documenten die samen de informatie levering specificatie vormen voor de Areaaldata database van de Provincie Noord-Holland:
 
