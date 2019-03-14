@@ -14,7 +14,7 @@
 
 ***
 
-|KOLOM                               |TYPE (length, precision, scale)          	       |DEFINITIE (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
+|KOLOM                               |TYPE (length, precision, scale)       	|DEFINITIE (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                         	 |----          	       |-----    |
 |OBJECTID                            |OID(38,0,0)              |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
 |GLOBALID                            |GlobalID(38,0,0)         |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
@@ -43,7 +43,7 @@
 |LENGTEUITHOUDER1                    |Float(0,25,10)           |PNH; De lengte van de uithouder indien aanwezig in meters, 2 decimalen achter de komma; ; Nullable: True; Default: none; Visible: Yes|
 |PAALNUMMER                          |String(255,0,0)          |PNH; Paalnummer; ; Nullable: True; Default: None; Visible: Yes|
 |OPMERKING                           |String(3000,0,0)         |PNH; Extra toelichting; ; Nullable: True; Default: None; Visible: No|
-|RALKLEUR                            |String(30,0,0)           |PNH; De RAL-kleur(en) die gebruikt zijn voor het object. Eerst de kleurcode gevolgd door de naam van de kleur; keuzelijst [RALKLEUR]; Nullable: True; Default: None; Visible: No|
+|RALKLEUR                            |String(30,0,0)           |PNH; De RAL-kleur(en) die gebruikt zijn voor het object. Eerst de kleurcode gevolgd door de naam van de kleur; ; Nullable: True; Default: None; Visible: No|
 |LEVENSVERWACHTING                   |SmallInteger(0,10,0)     |PNH; Levensverwachting; ; Nullable: True; Default: None; Visible: No|
 |PLANJAAR                            |SmallInteger(0,10,0)     |PNH; Het jaar dat nu gepland staat om item te vervangen; ; Nullable: True; Default: None; Visible: No|
 |LENGTEUITHOUDER2                    |Float(0,25,10)           |PNH; De lengte van de uithouder indien aanwezig in meters, 2 decimalen achter de komma; ; Nullable: True; Default: none; Visible: Yes|
