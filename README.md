@@ -27,3 +27,5 @@ In voorbereiding zijn de volgende releases:
 
 
 ![Release kalender Areaaldata](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/release_kalender_areaaldata.png)
+
+![Globale rolverdeling doorontwikkeling Areaaldata binnen BNH/B&U](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/rollen_doorontwikkeling_areaaldata_2019_q1.png)
