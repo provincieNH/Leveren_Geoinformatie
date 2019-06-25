@@ -21,11 +21,9 @@ __Toekomstige releases__
 
 Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
 In voorbereiding zijn de volgende releases:
-* __4.1:d3__: Minor release: opwaardering van domeinlijstenversie in **april 2019**
-* __4.2:d4__: Major release: (o.m.) inpassing van het Informatiemodel kabels en leidingen en algemene vereenvoudiging van attributen en tabellen en domeinlijstenversie in in **juli 2019**
-* __4.2:d5__: Minor release: opwaardering van domeinlijstenversie in **oktober 2019** 
+* __4.2:d3__: Major release: (o.m.) inpassing van het Informatiemodel kabels en leidingen en algemene vereenvoudiging van attributen en tabellen en domeinlijstenversie in in **juli 2019**
 
 
-![Release kalender Areaaldata](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/release_kalender_areaaldata.png)
+![Release kalender Areaaldata](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/opwaardering_ad_4_2d3_planning.png)
 
-![Globale rolverdeling doorontwikkeling Areaaldata binnen BNH/B&U](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/rollen_doorontwikkeling_areaaldata_2019_q1.png)
+![Globale rolverdeling doorontwikkeling Areaaldata binnen PNH/B&U](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/rollen_doorontwikkeling_areaaldata_2019_q1.png)
