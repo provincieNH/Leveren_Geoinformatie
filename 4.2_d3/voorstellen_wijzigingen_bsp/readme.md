@@ -1,0 +1,1 @@
+Hier staat het grootste deel van de inbreng van BU/BSP voor keuzelijst en datamodelwijzigingen voor Areaaldata 4.2d3. Deze informatie is verzameld Patricia Gutterswijk en verwerkt door IGI.
