@@ -10,6 +10,8 @@
 * __Geometrie:__ Vlak
 * __Definitie:__ Administratief afgebakend gedeelte van een weg waarbinnen de inspectiemetingen uitgevoerd worden.
 Een wegvak is doorgaands 100 meter en loopt in de meeste gevallen gelijk aan de wegindexering (hectometerpalen). In de breedte dient een wegvak alle wegdelen en ondersteunende wegdelen te omvatten.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Wegvak
 
 ***
 

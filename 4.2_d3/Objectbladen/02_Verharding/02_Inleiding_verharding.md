@@ -4,7 +4,7 @@ De provincie Noord-Holland beheert in de rol van eigenaar en beheerder van de pr
 
 In de areaaldefinitie zijn verhardingen gedefinieerd als gebaande gedeelten voor het wegverkeer die onder de verantwoordelijkheid van de provincie Noord-Holland vallen. De verhardingstyperingen (rijbaan, voetpad, fietspad etc.) sluiten aan op de CROW methodiek. (weg functies)
 
-De bermen zijn hier ook gemodelleerd in ondersteunendWegdeel, evenals de inspecties.
+De bermen zijn hier ook gemodelleerd in ondersteunendWegdeel, evenals de inspecties. Er zijn ook ecologische bermen gedefinieerd (deze beginnen in het algemeen 2 meter van de weg), en deze staan bij Landschap en milieu.
 
 ### Relaties
 

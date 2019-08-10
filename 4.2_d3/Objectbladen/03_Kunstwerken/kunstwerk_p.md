@@ -9,11 +9,8 @@
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen. De NEN 2767-4 decompositie wordt gevolgd. Dit is een samenvattende feature class van de vorige feature classes: KunstwerkBeweegbaar_p, Kunstwerkvast_p en Schutsluis_p
-
-Een Beweegbaar kunstwerk is een beheerobject van het type:  
-
-* Bruggen (beweegbaar)
-
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Beheerobject
 
 ***
 

@@ -9,8 +9,8 @@
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Lijn
 * __Definitie:__ Een duurzaam verankerd rek in de openbare ruimte voor het stallen van fietsen. Voor Fietsenstallingen/kluizen wordt de omtrek van de constructie als lijn vastgelegd. 
-
-![Fietsparkeervoorziening illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\09_HOV\fietsparkeervoorziening.png)
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Fietsparkeervoorziening
 
 ***
 

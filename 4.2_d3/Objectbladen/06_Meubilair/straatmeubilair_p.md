@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Een ruimtelijk object ter inrichting van de openbare ruimte. __LET OP:__ in afwijking op de BGT/IMGEO indeling worden abri's als vlak geadministreerd in overigBouwwerk_v en lichtpunten in straatmeubilairLichtpunt_p.
+* __Mapping_BGT:__ straatmeubilair_p
+* __Mapping_Gisib:__ Straatmeubilair
 
 ***
 

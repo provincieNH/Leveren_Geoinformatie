@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 7,5 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Een mantelbuis is een buis bestemd voor de doorvoer en bescherming van kabels
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Mantelbuis
 
 ***
 

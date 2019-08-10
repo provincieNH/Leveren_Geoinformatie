@@ -8,7 +8,9 @@
 * __Herkomst Definitie:__ BGT/PNH
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Lijn
-* __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie, dat een breedte heeft van < 0,3 m.. __LET OP:__ geluidsscherm wordt geadministreerd in het objecttype scheidingGeluidsscherm_l. damwand, kademuur en walbescherming worden geadministreerd in scheidingWater_l.
+* __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie, dat een breedte heeft van < 0,3 m.. __LET OP:__ geluidsscherm wordt geadministreerd in het objecttype scheidingGeluidsscherm_l. damwand, kademuur en walbescherming van vaarwegen worden geadministreerd in scheidingWater_l.
+* __Mapping_BGT:__ scheiding_l
+* __Mapping_Gisib:__ x
 
 ***
 

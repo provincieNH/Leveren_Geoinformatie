@@ -10,6 +10,8 @@
 * __Geometrie:__ Punt
 * __Definitie:__ Een ruimtelijk object ter inrichting van het water. Objecten als meerpalen en betonning worden in dit objecttype geadministreerd. Daar waar het object onderdeel uitmaakt van een kunstwerk wordt dit opgenomen in de NEN-2767-4 decompositie van het kunstwerk. In deze decompositie worden verder geen 
                 geometrieën vastgelegd.
+* __Mapping_BGT:__ waterinrichtingselement_p
+* __Mapping_Gisib:__ Betonning, Meerpaal
 
 ***
 

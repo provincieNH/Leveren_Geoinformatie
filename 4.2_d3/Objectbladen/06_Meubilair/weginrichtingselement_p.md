@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ 	Een ruimtelijk object dat dient voor de inrichting van de openbare weg
-
+* __Mapping_BGT:__ weginrichtingselement_p
+* __Mapping_Gisib:__ x
 
 ***
 

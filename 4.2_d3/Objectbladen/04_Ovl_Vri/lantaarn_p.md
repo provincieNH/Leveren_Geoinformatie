@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__  De lichten van een verkeersregelinstallatie samen met het achtergrondschild en de zonnekappen
-
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Lantaarn
 
 ***
 

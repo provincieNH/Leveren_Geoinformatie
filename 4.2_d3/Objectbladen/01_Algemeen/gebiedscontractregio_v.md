@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t. (abstracte indeling)
 * __Geometrie:__ Vlak
 * __Definitie:__ Perceelsindeling t.b.v. de onderhoudsbestekken en contractregio's.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Gebiedscontractregio
 
 
 ***

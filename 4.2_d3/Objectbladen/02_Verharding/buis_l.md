@@ -11,6 +11,9 @@
 * __Definitie:__ Holle leiding voor het doorstromen van gassen, vloeistoffen of capsules, bestemd om hetzij gas,
 een vloeistof of capsules te transporteren, hetzij een vloeistof als intermediair te gebruiken voor het transport van
 warmte of een opgeloste of verpulverde stof. NB. Bij PNH eigenlijk alleen gebruikt voor riolering.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Buis
+
 
 ***
 

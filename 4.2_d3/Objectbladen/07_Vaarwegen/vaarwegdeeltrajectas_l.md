@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Lijn
 * __Definitie:__ As van de vaarwegdeeltrajecten
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Vaarwegdeeltrajectas
 
 ***
 

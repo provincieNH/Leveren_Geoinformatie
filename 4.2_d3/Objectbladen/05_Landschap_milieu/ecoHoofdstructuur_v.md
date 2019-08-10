@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Vlak
 * __Definitie:__ De ecologische hoofdstructuur is een samenhangend netwerk van bestaande en nog te ontwikkelen belangrijke natuurgebieden. Met dit vlak wordt het gebied afgebakend wat als EHS wordt aangemerkt.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Ecologische Hoofdstructuur
 
 ***
 

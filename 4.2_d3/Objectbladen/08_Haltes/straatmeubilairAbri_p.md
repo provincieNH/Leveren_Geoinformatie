@@ -8,10 +8,10 @@
 * __Herkomst Definitie:__ IMGEO/PNH
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
-* __Definitie:__ Een abri, gerepresenteerd als punt.
-* __Mapping_BGT:__ straatmeubilair_p
-
-![Abri illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\09_HOV\abri.jpg)
+* __Definitie:__ Een abri, gerepresenteerd als punt. 
+![Abri illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\08_Haltes\abri.jpg)
+* __Mapping_BGT:__ overigBouwwerk_v
+* __Mapping_Gisib:__ Abri, Overig Bouwwerk
 
 
 ***

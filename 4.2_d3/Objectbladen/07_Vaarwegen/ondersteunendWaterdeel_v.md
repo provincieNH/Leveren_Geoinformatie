@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Object dat in het kader van de waterhuishouding periodiek gedeeltelijk of geheel met water is bedekt. Een vegetatie van voornamelijk riet en andere soorten langs een waterloop. In breedte variabel van 0,50 tot 3,00 meter. 
+* __Mapping_BGT:__ ondersteunendWaterdeel_v
+* __Mapping_Gisib:__ Oeverbescherming, Plasberm
 
 ***
 

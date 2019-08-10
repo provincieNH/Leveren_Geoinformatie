@@ -8,8 +8,9 @@
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ 15cm
 * __Geometrie:__ Punt
-* __Definitie:__ Een uithouder bevestigd aan een verlichtingsmast maakt het mogelijk om een daarvoor geschikt armatuur excentrisch van de mast te plaatsen zodat er een optimale lichtopbrengst gehaald wordt.(http://www.wegenwiki.nl/Uithouder) __NB:__ Een uithouder wordt alleen geregistreerd bij bijv. een portaal. Als het een enkelvoudige lichtmast betreft worden de uithouder gegevens bij de draagconstructie vastgelegd.
-
+* __Definitie:__ Een uithouder bevestigd aan een verlichtingsmast maakt het mogelijk om een daarvoor geschikt armatuur excentrisch van de mast te plaatsen zodat er een optimale lichtopbrengst gehaald wordt.(http://www.wegenwiki.nl/Uithouder) __NB:__ Als het een enkelvoudige lichtmast betreft worden de uithouder gegevens bij de draagconstructie vastgelegd.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Uithouder
 
 ***
 

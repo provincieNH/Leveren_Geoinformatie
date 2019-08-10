@@ -8,6 +8,8 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Kleinste functioneel onafhankelijk stukje van een terrein dat er binnen het objecttype Terrein van NEN 3610 wordt onderscheiden, met aaneengesloten vegetatie. Minus de specifieke objecten die PNH geadministreerd wil hebben in begroeidTerreindeelBerm_v en begroeidTerreindeelPlantvak_v
+* __Mapping_BGT:__ begroeidTerreindeel_v
+* __Mapping_Gisib:__ x
 
 ***
 

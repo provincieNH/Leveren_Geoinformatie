@@ -3,8 +3,7 @@
 Objecten voor openbaar vervoer
 Dit datamodel bevat de gegevens voor het NDOV.
 
-![HOV Datamodel](BUDATA_HOV.png)
-HOV Datamodel
+
 
 
 ### BGT

@@ -12,7 +12,8 @@
 * __Definitie:__ Een lijnvormige beplanting van struiken. In verschijningsvorm variabel in breedte en hoogte. Vlakken zijn onderdeel van BGT object Begroeid terreindeel.
 
 ![Heg](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\05_Landschap_milieu\heg.png)
-
+* __Mapping_BGT:__ vegetatieObject_l
+* __Mapping_Gisib:__ Heg
 
 ***
 

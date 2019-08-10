@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Lijn
 * __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie, met kleinere afmetingen dan toegestaan voor opname in de BGT
+* __Mapping_BGT:__ overigeScheiding_l
+* __Mapping_Gisib:__ x
 
 ***
 

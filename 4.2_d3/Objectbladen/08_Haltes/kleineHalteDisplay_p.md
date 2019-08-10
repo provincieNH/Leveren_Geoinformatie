@@ -11,7 +11,8 @@
 * __Definitie:__ Kleine halte display: klein scherm dat actuele vertrektijden toont, maar daarnaast ook een 
 audiovoorziening voor slechthorenden heefy én een stoplamp waarmee de reiziger in het donker de aandacht van de 
 buschauffeur kan trekken. Werkt op zonnecellen.
-
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ x
 
 
 

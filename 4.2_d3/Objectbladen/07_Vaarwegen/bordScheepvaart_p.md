@@ -9,8 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Een paneel waarop informatie wordt afgebeeld, specifiek bedoelt voor de scheepvaart.
-
-![Scheepsvaartbord illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\07_Vaarwegen\bord_type_scheepvaartbord_0.jpg)
+* __Mapping_BGT:__ bord_p
+* __Mapping_Gisib:__ Bord
 
 
 ***

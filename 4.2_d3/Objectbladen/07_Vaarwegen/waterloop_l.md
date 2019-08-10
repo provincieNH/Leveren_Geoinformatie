@@ -9,6 +9,9 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Lijn
 * __Definitie:__ Terrein ingericht voor afvoer en berging van oppervlaktewater. BGT kent alleen vlakken. Dit objecttype zal uitgefaseerd worden.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Waterloop
+
 
 ***
 

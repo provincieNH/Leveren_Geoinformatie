@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Peilbuis tbv opname grondwaterstanden.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ x
 
 ***
 

@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Vlakvormige groep gelijksoortige vegetatieobjecten met een beperkte omvang. __LET OP:__ In principe wordt dit objecttype in areaaldata vooralsnog niet gebruikt. Heggen worden als lijn geadministreerd in vegetatieObject_l, plantvakken worden geadministreerd in begroeidTerreindeel_v.
+* __Mapping_BGT:__ vegetatieObject_v
+* __Mapping_Gisib:__ x
 
 ***
 

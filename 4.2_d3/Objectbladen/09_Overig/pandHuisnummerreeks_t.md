@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ conform BAG
 * __Geometrie:__ Annotatie
 * __Definitie:__ Bevat de reeks nummeraanduidingen behorend bij het pand ten behoeve van visualisatie.
-
+* __Mapping_BGT:__ pandHuisnummerreeks_t
+* __Mapping_Gisib:__ x
 
 ***
 

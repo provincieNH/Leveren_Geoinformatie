@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ in afwijking op de BGT/IMGEO indeling worden lichtpunten in dit objecttype geadministreerd. Het betreft hier armaturen en markeringsunits.
+* __Mapping_BGT:__ straatmeubilair_p
+* __Mapping_Gisib:__ Armatuur, Markeringsunit
 
 ***
 

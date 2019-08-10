@@ -10,6 +10,8 @@
 * __Geometrie:__ Vlak
 * __Definitie:__ Kleinste functioneel onafhankelijk stukje van een terrein, dat er binnen het objecttype Terrein van NEN 3610 wordt onderscheiden, zonder aaneengesloten vegetatie.
                  Alle vlakken die geen vegetatie bedekking hebben en geen (ondersteunend) wegdeel, waterdeel of bouwwerk zijn. __LET OP:__ Oeverbescherming (zoals basaltblokken) langs vaarwegen niet zijnde damwanden, kademuren of walbescherming worden zowel in dit objecttype geadministreerd alswel (indien van toepassing) in de NEN2767-4 decompositie in scheidingWater_l.
+* __Mapping_BGT:__ onbegroeidTerreindeel_v
+* __Mapping_Gisib:__ x, Oeverbescherming
 				 
 ***
 

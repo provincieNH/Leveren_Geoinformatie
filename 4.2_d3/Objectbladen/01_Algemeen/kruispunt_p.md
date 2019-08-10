@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Punt
 * __Definitie:__ Kruisingen hebben een uniek nummer.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Kruispunt
 
 ***
 

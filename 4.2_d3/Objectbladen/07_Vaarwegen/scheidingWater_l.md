@@ -9,8 +9,9 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__  Lijn
 * __Definitie:__ Een NEN Element is gedefinieerd als 'een samenstel van bouwdelen die tezamen een afzonderlijk herkenbaar 
-component van een beheerobject vormen'. __LET OP:__ Dit is het objecttype waar de NEN 2767-4 decompositie van een oevervak in geadministreerd wordt voor de (BGT) types kademuur, damwand en walbescherming,
-met een breedte van < 0,3 m. Indien het element breder is, dient deze ondergebracht te worden in scheiding_v.
+component van een beheerobject vormen'. __LET OP:__ Dit is het objecttype waar de NEN 2767-4 decompositie van een oevervak in geadministreerd wordt voor de (BGT) types kademuur, damwand en walbescherming. Wanneer de breedte aan het oppervlak >0,3 m bedraagt dient zowel de lijn scheidingWater_l als een scheiding_v worden ingetekend.
+* __Mapping_BGT:__ scheiding_l
+* __Mapping_Gisib:__ Oevervak element
 
 ***
 

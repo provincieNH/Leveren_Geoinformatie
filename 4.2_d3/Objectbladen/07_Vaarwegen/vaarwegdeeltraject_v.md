@@ -14,6 +14,8 @@ bereik van de geldende beperking en de geldende functie
 zoals die is aangegeven door de beheerder of vanuit het
 beheerplan. Het heeft geen vaste afmetingen maar past
 altijd binnen het vaarwegtraject.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Vaarwegdeeltraject
 
 
 ***

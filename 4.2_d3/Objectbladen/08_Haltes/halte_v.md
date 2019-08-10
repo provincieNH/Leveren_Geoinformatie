@@ -9,8 +9,11 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Vlak
 * __Definitie:__ Het geheel van objecten behorende bij een stopplaats van een autobus. (Integraal Gegevens Model Ideaal Areaal 1.2). STOPPLACE in NDOV terminologie
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Halte
 
-![Halte illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\09_HOV\halte.png)
+
+![Halte illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\08_Haltes\halte.png)
 
 ***
 

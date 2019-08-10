@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Apparaat voor de meting van een fysieke grootheid (bijv. temperatuur, licht, druk, elektriciteit). __LET OP:__ Snelheids camera's/roodlicht camera's zijn niet van de Provincie en worden NIET geregistreerd.
+* __Mapping_BGT:__ sensor_p
+* __Mapping_Gisib:__ Detectie, Observatiecamera
 
 ***
 

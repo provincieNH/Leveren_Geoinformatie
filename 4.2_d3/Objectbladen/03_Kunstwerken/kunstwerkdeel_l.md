@@ -8,7 +8,10 @@
 * __Herkomst Definitie:__ IMGeo BGT 
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Lijn
-* __Definitie:__ Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen met een breedte <30cm.
+* __Definitie:__ Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen met een breedte <30cm, bijvoorbeeld een duiker.
+* __Mapping_BGT:__ kunstwerkdeel_l
+* __Mapping_Gisib:__ Overig kunstwerk
+
 ***
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|

@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ conform BAG
 * __Geometrie:__ Vlak
 * __Definitie:__ Een PAND is de kleinste bij de totstandkoming functioneel en bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde is verbonden en betreedbaar en afsluitbaar is.
-
+* __Mapping_BGT:__ pand_v
+* __Mapping_Gisib:__ x
 
 
 ***

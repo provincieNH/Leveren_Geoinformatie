@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Lijn
 * __Definitie:__ Kunstmatig, meestal lineair obstakel met een werende functie. __LET OP:__ Dit is het element niveau van de NEN 2767-4 decompositie van geluidwerende Voorzieningen __EN__ het BGT objecttype.
+* __Mapping_BGT:__ scheiding_l
+* __Mapping_Gisib:__ Geluidwerende constructie
 
 ***
 

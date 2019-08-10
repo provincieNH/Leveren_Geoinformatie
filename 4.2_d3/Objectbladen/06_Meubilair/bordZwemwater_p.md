@@ -9,6 +9,9 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Een paneel waarop informatie wordt afgebeeld ten behoeve van zwemwater locaties.
+* __Mapping_BGT:__ bord_p
+* __Mapping_Gisib:__ Zwemwaterbord
+
 
 ***
 

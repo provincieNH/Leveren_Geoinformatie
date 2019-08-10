@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Vlak
 * __Definitie:__ Een Ligplaatsstrook is een gebied waar ligplaatsen toegestaan zijn
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Ligplaatsstrook
 
 ***
 

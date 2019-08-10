@@ -9,6 +9,9 @@
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen met een breedte >30cm.
+* __Mapping_BGT:__ kunstwerkdeel_v
+* __Mapping_Gisib:__ Stuw, Overig Bouwwerk
+
 ***
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|

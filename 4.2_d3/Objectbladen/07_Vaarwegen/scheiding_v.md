@@ -13,6 +13,8 @@
 Kan voor oeverconstructies dienen als NEN Element: een samenstel van bouwdelen die tezamen een afzonderlijk herkenbaar 
 component van een beheerobject vormen' __LET OP:__ Dit is het objecttype waar de NEN 2767-4 decompositie van een oevervak in geadministreerd wordt voor de (BGT) types kademuur, damwand en walbescherming,
 met een breedte van > 0,3 m. Indien het element smaller is, dient deze ondergebracht te worden in scheidingWater_l.
+* __Mapping_BGT:__ scheiding_v
+* __Mapping_Gisib:__ Scheiding
 
 ***
 

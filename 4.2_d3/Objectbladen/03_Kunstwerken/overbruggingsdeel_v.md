@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Onderdeel van een beweegbare of vaste verbinding tussen twee punten, die door water, een weg of anderszins gescheiden zijn, dat essentieel is voor de constructie . 
-
+* __Mapping_BGT:__ overbruggingsdeel_v
+* __Mapping_Gisib:__ x
 
 ***
 

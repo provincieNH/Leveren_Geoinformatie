@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Een component aan de buitenzijde van een gebouw, die het aanzicht van het gebouw mede bepaalt.
+* __Mapping_BGT:__ gebouwInstallatie_v
+* __Mapping_Gisib:__ x
 
 ***
  

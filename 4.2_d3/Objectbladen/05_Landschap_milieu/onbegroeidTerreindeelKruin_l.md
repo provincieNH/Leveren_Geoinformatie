@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ Afgeleid van object waar kruinlijn bij hoort
 * __Geometrie:__ Lijn
 * __Definitie:__  Lijngeometrie van de hoogstgelegen begrenzing van een kunstmatig aangelegd en onderhouden helling. 
+* __Mapping_BGT:__ OnbegroeidTerreindeelKruin_l
+* __Mapping_Gisib:__ x
 
 ***
 

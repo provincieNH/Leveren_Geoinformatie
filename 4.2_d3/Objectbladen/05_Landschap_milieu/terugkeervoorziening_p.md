@@ -10,9 +10,10 @@
 * __Geometrie:__ Punt
 * __Definitie:__ een voorziening in een raster of geleidingswand waardoor fauna dat aan de wegkant van het raster/de geleidingswand staat weer aan de andere kant van het raster/de geleidingswand kan komen, maar waarbij dezelfde faunasoort aan de niet-wegkant niét het raster/de geleidingswand kan passeren om de weg op te komen.
 Een faunaterugkeervoorziening kan geschikt zijn voor één of meerdere faunasoorten. Voorbeelden van faunaterugkeervoorzieningen in raster of geleidingswand zijn:
-
 -	Terugspringvoorzieningen voor reeën (zie afbeelding);
 -	Klapluik voor das (zie afbeelding).
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ x
 
 ***
 

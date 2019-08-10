@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Onderdeel van een civiel-technisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen. Bijvoorbeeld voetpunten van een elektriciteitsmast.
-
+* __Mapping_BGT:__ kunstwerkdeel_mp
+* __Mapping_Gisib:__ x
 
 ***
 

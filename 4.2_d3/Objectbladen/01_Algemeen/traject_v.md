@@ -8,19 +8,15 @@
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ n.v.t. (abstracte indeling)
 * __Geometrie:__ Vlak
-* __Definitie:__ Een abstract functioneel gebied rondom een weg of vaarweg dat onder de verantwoordelijkheid van de provincie Noord-Holland valt.
-
-Richtlijnen voor omvang van een wegtraject:
-    + Een traject start/eindigt bij een eigendoms/beheergrens
-    + Een traject start/eindigt bij een aansluiting op een weg van een hogere orde.
-    + Een traject start/eindigt op een weg van een gelijke orde.
-
-Richtlijn voor omvang vaarwegtraject:
+* __Definitie:__ Een abstract functioneel gebied rondom een weg of vaarweg dat onder de verantwoordelijkheid van de provincie Noord-Holland valt. Richtlijnen voor omvang van een wegtraject:
+    + Een traject start/eindigt bij een eigendoms/beheergrens + Een traject start/eindigt bij een aansluiting op een weg van een hogere orde.
+    + Een traject start/eindigt op een weg van een gelijke orde. Richtlijn voor omvang vaarwegtraject:
 het gebied dat is gedefinieerd in de vaarwegverordening (breedte) en een
-logisch doorvaartraject (lengte).
-
-In Areaaldata behoren tot een traject alle (beheer)objecten van de provincie Noord-Holland die binnen de beheergrenzen
+logisch doorvaartraject (lengte). In Areaaldata behoren tot een traject alle (beheer)objecten van de provincie Noord-Holland die binnen de beheergrenzen
 van het traject liggen.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Traject
+
 
 ***
 

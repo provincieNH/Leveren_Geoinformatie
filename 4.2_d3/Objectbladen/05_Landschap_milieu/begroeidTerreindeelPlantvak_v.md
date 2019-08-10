@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Terreindeel met aangelegde beplanting, meestal planten, heesters of struiken. BGT Begroeid Terreindeel. 
+* __Mapping_BGT:__ begroeidTerreindeel_v
+* __Mapping_Gisib:__ Plantvak
 
 ***
 
@@ -64,15 +66,15 @@
  
  |__Fysiek voorkomen__ | __Illustratie__ |
  |-----------------------------------------|----|
- |groenvoorziening bodembedekkers|![groenvoorziening bodembedekkers](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_bodembedekkers\BTD_fysiekvoorkomen_groenvoorziening_plusbodembedekkers.jpg)
+ |groenvoorziening bodembedekkers|![groenvoorziening bodembedekkers](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_bodembedekkers\BTD_fysvoork_groenvoorz_plusbodembedekkers.jpg)
  |
- |groenvoorziening bosplantsoen | ![groenvoorziening bosplantsoen ](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_bosplantsoen\BTD_fysiekvoorkomen_groenvoorziening_plusbosplantsoen.jpg)
+ |groenvoorziening bosplantsoen | ![groenvoorziening bosplantsoen ](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_bosplantsoen\BTD_fysvoork_groenvoorz_plusbosplantsoen.jpg)
  |
- |groenvoorziening heesters |![groenvoorziening heesters](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_heesters\BTD_fysiekvoorkomen_groenvoorziening_plusheesters.png)
+ |groenvoorziening heesters |![groenvoorziening heesters](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_heesters\BTD_fysvoork_groenvoorz_plusheesters.png)
  |
- |groenvoorziening planten | ![groenvoorziening planten](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_planten\BTD_fysiekvoorkomen_groenvoorziening_plusplanten.jpg)
+ |groenvoorziening planten | ![groenvoorziening planten](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_planten\BTD_fysvoork_groenvoorz_plusplanten.jpg)
  |
- |groenvoorziening struikrozen | ![groenvoorziening struikrozen](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_struikrozen\BTD_fysiekvoorkomen_groenvoorziening_plusstruikrozen.jpg)
+ |groenvoorziening struikrozen | ![groenvoorziening struikrozen](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_begroeidTerreindeelPlantvak_v\FysiekVoorkomenBTD\groenvoorziening_struikrozen\BTD_fysvoork_groenvoorz_plusstruikrozen.jpg)
  
 
 

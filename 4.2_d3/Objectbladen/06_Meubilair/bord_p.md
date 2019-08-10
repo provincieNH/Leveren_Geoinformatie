@@ -10,7 +10,8 @@
 * __Geometrie:__ Punt
 * __Definitie:__ Een paneel waarop informatie wordt afgebeeld. Dit zijn zowel RVV borden als matrix borden (voor automobilisten);  DRIP panelen zijn in Areaaldata te vinden als matrix borden met een TOPdesk ID
 __LET OP:__ Bebording voor scheepvaartverkeer, wegwijzers, zwemwaterbebording en DRIS Panelen (voor OV reizigers) worden apart geadministreerd.
-
+* __Mapping_BGT:__ bord_p
+* __Mapping_Gisib:__ Bord, Matrix
 
 
 ***

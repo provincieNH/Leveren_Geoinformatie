@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Een ecologische berm met een vegetatie van grassen en kruiden. BGT Begroeid Terreindeel, verbijzonderd naar fysiek voorkomen groenvoorziening: gras- en kruidachtigen. Deze berm ligt verder dan 3 meter van een provinciale weg. Bermen dichter dan 3 meter bij een provinciale weg worden vastgelegd in ondersteunendWegdeel_v.
+* __Mapping_BGT:__ begroeidTerreindeel_v
+* __Mapping_Gisib:__ Berm
 
 ***
 

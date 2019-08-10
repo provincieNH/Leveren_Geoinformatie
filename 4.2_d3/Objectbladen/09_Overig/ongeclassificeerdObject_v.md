@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Vlak
 * __Definitie:__Object waarvoor geen bronhouder aangewezen is en/of dat niet nader is geclassificeerd. Er mogen geen nieuwe objecten van dit objecttype worden aangemaakt/aangeleverd.
-
+* __Mapping_BGT:__ OndrsteunendWegdeelKruin_l
+* __Mapping_Gisib:__ x
 
 ***
 

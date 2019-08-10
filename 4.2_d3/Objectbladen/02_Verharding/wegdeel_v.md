@@ -10,6 +10,8 @@
 * __Geometrie:__ Vlak
 * __Definitie:__ Kleinste functioneel onafhankelijk stuk van een NEN 3610 Weg met gelijkblijvende, homogene eigenschappen
 en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te land.
+* __Mapping_BGT:__ wegdeel_v
+* __Mapping_Gisib:__ Wegvakonderdeel, Ondersteunend wegvakonderdeel
 
 
 ***

@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Gegraven of geboorde kokervormige diepte waarin zich (vloei)stoffen bevinden. __LET OP:__ In dit objecttype worden alleen die objecten geadministreerd die __GEEN__ onderdeel uitmaken van een netwerk. Omdat deze definitie arbitrair is, maakt het attribuut appurtenancetype voorlopig gebruik van dezelfde domeinwaarden.
+* __Mapping_BGT:__ put_p
+* __Mapping_Gisib:__ Put
 
 ***
 

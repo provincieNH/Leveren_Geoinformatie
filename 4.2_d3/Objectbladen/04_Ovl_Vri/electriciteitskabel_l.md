@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 7,5 cm
 * __Geometrie:__ Lijn
 * __Definitie:__ Een aansluiting of reeks aansluitingen van een nutsvoorzieningennet voor het overbrengen van elektriciteit van de ene locatie naar een andere. (Bron: INSPIRE)
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Kabel
 
 ***
 

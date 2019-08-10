@@ -10,6 +10,11 @@
 * __Geometrie:__ Punt
 * __Definitie:__ Constructie voorzien van een of meer panelen met informatie ten behoeve van de bewegwijzering.
 Let op: dit betreft bewegwijzering voor objecten (zoals 'zwembad' of 'hotel') en voor doelen (zoals 'Uitgeest').
+Borden die bij de Nationale Bewegwijzeringsdienst worden geregistreerd kunnen, gegroepeerd, onder een bordWegwijzer object worden geregistreerd in Areaaldata met vermelding in het veld 'OPMERKING'
+* __Mapping_BGT:__ bord_p
+* __Mapping_Gisib:__ Wegwijzer
+
+
 ***
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__(oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|

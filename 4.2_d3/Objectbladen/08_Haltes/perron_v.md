@@ -8,10 +8,9 @@
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ 7,5 cm
 * __Geometrie:__ Vlak
-* __Definitie:__ Kleinste functioneel onafhankelijk stuk van een NEN 3610 Weg met gelijkblijvende, homogene eigenschappen en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te land. __LET OP:__ In dit objecttype worden een kopie van BGT Voetpad opgenomen die als perron bij een bushalte in gebruik is.
-
-![Perron illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\09_HOV\perron.jpg)
-
+* __Definitie:__ Kleinste functioneel onafhankelijk stuk van een NEN 3610 Weg met gelijkblijvende, homogene eigenschappen en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te land. __LET OP:__ In dit objecttype worden een kopie van wegdeel_v met BGTPlustype Voetpad opgenomen die als perron bij een bushalte in gebruik is. ![Perron illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\08_Haltes\perron.jpg)
+* __Mapping_BGT:__ wegdeel_v
+* __Mapping_Gisib:__ Perron
 ***
 
 |__KOLOM__                           |__TYPE (length, precision, scale)__       |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|

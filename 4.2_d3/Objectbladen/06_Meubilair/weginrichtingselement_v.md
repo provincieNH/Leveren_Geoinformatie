@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Een ruimtelijk object dat dient voor de inrichting van de openbare weg. 
-
+* __Mapping_BGT:__ weginrichtingselement_v
+* __Mapping_Gisib:__ Plantvak
 
 ***
 

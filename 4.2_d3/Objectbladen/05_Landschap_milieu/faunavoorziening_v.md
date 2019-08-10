@@ -10,7 +10,8 @@
 * __Geometrie:__ Vlak
 * __Definitie:__ Een faunavoorziening is een voorziening die het passeren door dieren van infrastructuur geleidt, bevordert of juist voorkomt (bron: Leidraad Faunavoorzieningen bij Infrastructuur).
 [Leidraad faunavoorzieningen](http://www.mjpo.nl/publicaties/leidraad_faunavoorzieningen_bij_infrastructuur/?page=leidraad)
-
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Fauna voorziening
 
 ***
 

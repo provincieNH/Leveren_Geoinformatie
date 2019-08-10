@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Lijn
 * __Definitie:__ De as van de verschillende vaarwegen zoals verwerkt in de grootschalige topografie.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Vaarweg
 
 ***
 

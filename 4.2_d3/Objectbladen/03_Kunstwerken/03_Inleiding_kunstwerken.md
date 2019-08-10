@@ -4,13 +4,16 @@ Een kunstwerk is een samenhangende eenheid binnen een verkeersinfrastructuur voo
 
 Kenmerkend voor het kunstwerkbeheer is dat het gaat om een verzameling van objecten die samen een functioneel geheel vormen en die zijn gebonden door locatie. Waar er sprake is van complexe kunstwerken wordt er een onderverdeling aangebracht, in de vorm van een decompositie.
 
-De NEN 2767-4 Decompositie wordt gevolgd voor Kunstwerken en Oeverconstructies. Waarbij de elementen en bouwdelen van Oeverconstructies in dezelde tabellen (element en bouwdeel) worden vastgelegd als de elementen en bouwdelen van kunstwerken. Om de objecteigenschappen zo nauwkeurig mogelijk te modelleren is er wel voor gekozen om het NEN Beheerobject in BU-Data op te 'knippen' in 4 verschillende objecten:
+De NEN 2767-4 Decompositie wordt gevolgd voor Kunstwerken en Oeverconstructies. Tevens wordt afgeweken van de NEN2767-4 door ook geluidswerende voorzieningen als beheerobject te benaderen. Voor bevorderen van het assetmanagement worden van de genoemde typen beheerobjecten ook de elementen en bouwdelen vastgelegd.
 
-* kunstwerk_p
-* kw_element_tbl
-* bouwdeelKunstwerk_tbl
 
-NB. GELUIDWERENDE_VOORZIENING is formeel in de NEN geen beheerobject. Een Geluidwerende Constructie komt in de NEN voor op Element niveau onder Wegen of Kunstwerken. Omdat PNH GELUIDSSCHERM als zelfstandig object beheerd is er voor gekozen om dit toch als entiteit op het hoogste niveau op te nemen.
+| | | | |
+|------          |----         |----                        |----|
+|__Beheerobject__ |	kunstwerk_p	| geluidwerendeVoorziening_l |	oevervak_v|
+|__Element__ |	kwElement_tbl |	scheidingGeluidsscherm_l |	scheidingWater_l|
+|__Bouwdeel__ |	bouwdeelKunstwerk_tbl |	bouwdeelGeluidscherm_tbl |	bouwdeelOevervak_tbl|
+
+Om te voldoen aan het vereiste van de BGT worden de objecten met een topografisch component ook in de vorm van opdelende en inrichtende features vastgelegd. Bijvoorbeeld een hek op een brug moet zowel in scheiding_l als in bouwdeelKunstwerk_tbl worden vastgelegd. Ook zijn er voor de BGT specifieke aan een kunstwerken gerelateerde objecten, welke hieronder bij het kopje ‘BGT’ worden benoemd. 
 
 ### Relaties
 
@@ -18,15 +21,11 @@ NB. GELUIDWERENDE_VOORZIENING is formeel in de NEN geen beheerobject. Een Geluid
 
 ### BGT
 
-Kunstwerken is in het Areaaldata datamodel opgebouwd conform de NEN 2767-4 decompositie. Overkoepelend is er nog een Complex gedefinieerd om Beheer objecten te bundelen in 1 te beheren object.
-In deze decompositie wordt het kunstwerk beheerobject met een punt, lijn of vlak vastgelegd. De Bouwdelen worden alleen alfanumeriek vastgelegd. De Elementen van Oeverconstructies (vaarwegen) en Geluidschermen hebben een lijngeometrie die overeen moet komen met het betreffende BGT object.
-De BGT sluit niet aan op de NEN 2767-4. Er zijn aparte objecten gedefinieerd om de Kunstwerken conform BGT vast te kunnen leggen. Het is dus de bedoeling dat een kunstwerk zowel vastgelegd wordt conform de NEN als de BGT.
+Omdat de BGT niet aanluit op de NEN 2767-4 zijn er zijn aparte objecten gedefinieerd om de Kunstwerken conform BGT vast te kunnen leggen. Het is dus de bedoeling dat een kunstwerk zowel vastgelegd wordt conform de NEN als de BGT. Specifiek voor kunstwerken bestaan de volgende objecten:
 
-Voor de BGT zijn de objecten:
-
-* kunstwerkdeel_mp/l/v
-* tunneldeel_v
-* overbruggingsdeel_v
+•	kunstwerkdeel_mp/l/v
+•	tunneldeel_v
+•	overbruggingsdeel_v
 
 ***
 

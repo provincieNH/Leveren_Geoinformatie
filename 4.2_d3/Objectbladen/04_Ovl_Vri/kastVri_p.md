@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Kast ten behoeve van de regeling van verkeerslichten
-
+* __Mapping_BGT:__ kast_p
+* __Mapping_Gisib:__ VRI kast
 
 ***
 

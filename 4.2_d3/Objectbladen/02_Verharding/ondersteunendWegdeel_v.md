@@ -8,7 +8,8 @@
 * __Positionele nauwkeurigheid:__ Bij FysiekVoorkomen: gesloten verharding en open verharding 7,5 cm (NB, groter dan BGT) Bij FysiekVoorkomen: onverhard, half verhard en groenvoorziening 25 cm (NB, groter dan BGT)
 * __Geometrie:__ Vlak
 * __Definitie:__ Een deel van de weg dat niet primair bedoeld is voor gebruik door het verkeer. Dit omvat o.a. verkeerseiland en berm daar waar de berm onderdeel uitmaakt van de constructie van de weg. Indien eeen berm geen onderdeel uitmaakt van de constructie van de weg, en verder dan 3 meter van een provinciale weg ligt, wordt deze vastgelegd in begroeidTerrteindeelBerm_v.
-
+* __Mapping_BGT:__ ondersteunendWegdeel_v
+* __Mapping_Gisib:__ Berm, Ondersteunend wegvakonderdeel
 
 ***
 

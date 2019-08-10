@@ -9,6 +9,9 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Lijn
 * __Definitie:__ Een passage onder of boven een weg voor dieren. Behoort toe aan een faunavoorziening.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__  X
+
 ***
 
 |__KOLOM__                           |__TYPE (length, precision, scale)__          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|

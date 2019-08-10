@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Punt
 * __Definitie:__  Hectometrering (indexeringspunten) van de wegen, vaarwegen en OV-trajecten in beheer bij de PNH.
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Theoretische hectometering
 
 ***
 

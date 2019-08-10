@@ -11,6 +11,8 @@
 * __Definitie:__ Een ruimtelijk object ter inrichting van het water. Dit objecttype is bedoeld om alleenstaande geleide- of remmingswerken in op te nemen. Daar waar een geleide- of 
                 remmingswerk onderdeel uitmaakt van een kunstwerk wordt dit opgenomen in de NEN-2767-4 decompositie van het kunstwerk. In deze decompositie worden verder geen 
                 geometrieën vastgelegd.
+* __Mapping_BGT:__ waterinrichtingselement_l
+* __Mapping_Gisib:__ Overig bouwwerk
 
 ***
 

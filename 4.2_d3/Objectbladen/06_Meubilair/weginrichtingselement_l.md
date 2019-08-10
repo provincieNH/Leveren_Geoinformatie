@@ -10,6 +10,8 @@
 * __Geometrie:__ Lijn
 * __Definitie:__ Een ruimtelijk object dat dient voor de inrichting van de openbare weg. __LET OP:__ Voornamelijk bedoelt om Geleideconstructies te administreren. Een geleiderail of vangrail is een barrière die naast wegen wordt geplaatst om te voorkomen 
 dat voertuigen de weg in zijdelingse richting verlaten, kantelen of de middenberm doorkruisen
+* __Mapping_BGT:__ weginrichtingselement_l
+* __Mapping_Gisib:__ Geleiderail
 
 ***
 

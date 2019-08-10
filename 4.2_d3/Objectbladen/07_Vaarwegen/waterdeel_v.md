@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, homogene eigenschappen en relaties dat er binnen het objecttype Water van NEN 3610 wordt onderscheiden en dat permanent met water bedekt is. 
+* __Mapping_BGT:__ waterdeel_v
+* __Mapping_Gisib:__ Waterdeel, Waterloop
 
 ***
 

@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 7,5 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Een ondergronds object dat bij een leiding of een themakaart hoort. __LET OP:__ dit is het objecttype waar kolken etc. in vastgelegd worden!
+* __Mapping_BGT:__ x, put_p
+* __Mapping_Gisib:__ Leidingelement
 
 ***
 

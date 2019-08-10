@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ 5 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Onderdeel van een kunstmatig aangelegde, kokervormige onderdoorgang dat essentieel is voor de constructie. 
+* __Mapping_BGT:__ tunneldeel_v
+* __Mapping_Gisib:__ x
 
 ***
 

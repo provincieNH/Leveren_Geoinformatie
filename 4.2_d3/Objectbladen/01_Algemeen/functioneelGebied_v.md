@@ -9,6 +9,8 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Vlak
 * __Definitie:__ Begrensd en benoemd gebied dat door een functionele eenheid beschreven wordt.
+* __Mapping_BGT:__ functioneelGebied_v
+* __Mapping_Gisib:__ x
 
 ***
 

@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 25 cm
 * __Geometrie:__ Vlak
 * __Definitie:__ Bodem van een waterdeel, hier worden de gegevens bijgehouden die van belang zijn voor o.a. baggeren
-
+* __Mapping_BGT:__ x
+* __Mapping_Gisib:__ Bodem
 
 ***
 

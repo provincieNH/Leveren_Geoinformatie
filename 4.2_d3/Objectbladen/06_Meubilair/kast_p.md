@@ -9,7 +9,8 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Object met een permanent karakter dat dient om iets in te bergen en te beschermen. __LET OP:__ OVL- en VRI-Kasten worden apart geadministreerd.
-
+* __Mapping_BGT:__ kast_p
+* __Mapping_Gisib:__ GMS Kast, Kast, Telkast
 
 ***
 

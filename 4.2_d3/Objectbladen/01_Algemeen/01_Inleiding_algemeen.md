@@ -1,7 +1,7 @@
 ﻿# Algemeen
 
-In dit hoofdstuk worden de algemene objecten beschreven: objecten die niet over een specifiek areaal gaan, maar 
-areaal oversteigende informatie vastleggen.
+In dit hoofdstuk worden de algemene objecten beschreven: enerzijds objecten die niet over een specifiek areaal gaan, maar 
+areaal oversteigende informatie vastleggen. Anderzijds objecten die relaties hebben net objecten in verschillende thema's.
 
 Bovendien bevat dit hoofstuk de regels voor een aantal berekende velden: velden die niet ingevuld worden, maar berekend 
 door een script op basis van een formule en waardes uit andere velden.
