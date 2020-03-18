@@ -1,4 +1,4 @@
-## typeSpecMBUI
+## typeSpecLPS
 
 *__Domeinlijst versie:__ d3*
 *__Herkomst definitie:__ BSP*

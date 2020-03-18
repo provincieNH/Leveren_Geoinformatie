@@ -1,4 +1,4 @@
-## typeSpecKSW
+## typeSpecSSS
 
 *__Domeinlijst versie:__ d3*
 *__Herkomst definitie:__ PNH*

@@ -5,24 +5,25 @@
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| AB | Aquaducten |
-| AF | Bruggen (beweegbaar) |
-| AG | Bruggen (vast) |
-| AI | Coupures |
-| AM | Duikers |
-| AO | Ecoducten |
-| AR | Gemalen |
-| AS | Grondkeringen |
-| BB | Onderdoorgangen |
-| BD | Open Tunnelbakken |
-| BE | Overkluizingen |
-| BL | Spoorwegen |
-| BR | Tunnels |
-| BW | Viaducten |
-| BZ | Waterreguleringswerken |
-| CC | Object Overstijgende Voorzieningen |
-| CD | Recreatieve gebieden |
-| CG | Sifons |
-| CJ | Wateren en watergangen (niet lijnvormig), overig |
-| CK | Wateren en watergangen (lijnvormig), overig |
+| Aquaducten | Aquaducten |
+| Bruggen (beweegbaar) | Bruggen (beweegbaar) |
+| Bruggen (vast) | Bruggen (vast) |
+| Coupures | Coupures |
+| Duikers | Duikers |
+| Ecoducten | Ecoducten |
+| Gemalen | Gemalen |
+| Schutsluizen | Schutsluizen |
+| Grondkeringen | Grondkeringen |
+| Onderdoorgangen | Onderdoorgangen |
+| Open Tunnelbakken | Open Tunnelbakken |
+| Overkluizingen | Overkluizingen |
+| Spoorwegen | Spoorwegen |
+| Tunnels | Tunnels |
+| Viaducten | Viaducten |
+| Waterreguleringswerken | Waterreguleringswerken |
+| Object Overstijgende Voorzieningen | Object Overstijgende Voorzieningen |
+| Recreatieve gebieden | Recreatieve gebieden |
+| Sifons | Sifons |
+| Wateren en watergangen (niet lijnvormig), overig | Wateren en watergangen (niet lijnvormig), overig |
+| Wateren en watergangen (lijnvormig), overig | Wateren en watergangen (lijnvormig), overig |
 | Onbekend | Onbekend |
