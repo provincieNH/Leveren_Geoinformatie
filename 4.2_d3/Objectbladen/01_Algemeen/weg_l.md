@@ -8,7 +8,7 @@
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Lijn
-* __Definitie:__ De as van de verschillende wegen zoals verwerkt in de grootschalige topografie
+* __Definitie:__ De as van de verschillende wegen zoals verwerkt in de grootschalige topografie. De lijn wordt in de richting van de oplopende hectometrering getekend. Het startpunt is altijd bij de laagste hectrometerwaarde. Het eindpunt altijd bij de hoogste.
 * __Mapping_BGT:__ x
 * __Mapping_Gisib:__ Weg
 * __Aanwezig in BeheerApp (onder alias)__: Alle BeheerApps als referentielaag - is niet bewerktbaar (wegnummers)
