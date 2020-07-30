@@ -3,10 +3,9 @@ Leveren Geoinformatie
 
 __Informatie Levering Specificatie voor Geoinformatie__
 
-In deze repository staan de mappen met documenten die samen de informatie levering specificatie vormen voor de Areaaldata database van de Provincie Noord-Holland:
+Op deze pagina staan de courante versies van de [objectdefintiies](objectdefinities) en [keuzelijsten](keuzelijsten) voor de Areaaldata database van de Provincie Noord-Holland:
 
-De courante versie is [**4.1:d2**](4.1_d2) uit maart 2019. Let op: sinds september 2018 worden de domeinlijsten met toegestane attribuutwaarden als aparte versies gereleased met indicatie '_d1', '_d2' etc. 
-
+De courante versie is **4.1:d2** uit maart 2019. Let op: sinds september 2018 worden de domeinlijsten met toegestane attribuutwaarden als aparte versies gereleased met indicatie '_d1', '_d2' etc. 
 
 Op [https://provincienh.github.io/databeheer/mapping.html](https://provincienh.github.io/databeheer/mapping.html) is een visualisatie te vinden hoe Areaaldata samenhangt met de BGT en met het beheerpakket Gisib.
 
