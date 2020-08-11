@@ -3,7 +3,7 @@ Leveren Geoinformatie
 
 __Informatie Levering Specificatie voor Geoinformatie__
 
-Op deze pagina staan de courante versies van de [objectdefintiies](objectdefinities) en [keuzelijsten](keuzelijsten) voor de Areaaldata database van de Provincie Noord-Holland:
+Op deze pagina staan de courante versies van de [objectdefinities](objectdefinities) en [keuzelijsten](keuzelijsten) voor de Areaaldata database van de Provincie Noord-Holland:
 
 De courante versie is **4.1:d2** uit maart 2019. Let op: sinds september 2018 worden de domeinlijsten met toegestane attribuutwaarden als aparte versies gereleased met indicatie '_d1', '_d2' etc. 
 
