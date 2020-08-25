@@ -3,7 +3,7 @@ Leveren Geoinformatie
 
 __Informatie Levering Specificatie voor Geoinformatie__
 
-Op deze pagina staat de courante versie van het Provincie Noord-Holland Areaaldata model:<br/>
+Op deze pagina staat de courante versie van het Provincie Noord-Holland Areaaldata model:<br/><br/>
  [objectdefinities](objectdefinities)<br/>
  [keuzelijsten](keuzelijsten) 
  
