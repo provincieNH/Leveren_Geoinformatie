@@ -21,8 +21,8 @@
 |ZORDER                            |Integer(0,10,0)     |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|
 |ANNOTATIONCLASSID                 |Integer(0,10,0)     |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|
 |SYMBOLID                          |Integer(0,10,0)     |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|
-|STATUS                            |String(10,0,0)      |PNH; Beschrijving; keuzelijst [status]; Nullable: True; Default: bestaand; Visible: No|
-|VERWERKINGSSTATUS                 |String(255,0,0)     |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
+|STATUS                            |String(10,0,0)      |PNH; Beschrijving; keuzelijst [status](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/status.md); Nullable: True; Default: bestaand; Visible: No|
+|VERWERKINGSSTATUS                 |String(255,0,0)     |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
 |TEXTSTRING                        |String(255,0,0)     |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|
 |FONTNAME                          |String(255,0,0)     |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|
 |FONTSIZE                          |Double(0,10,0)      |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|

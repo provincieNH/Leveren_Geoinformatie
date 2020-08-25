@@ -14,7 +14,7 @@
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                |-----    |
-|VERWERKINGSSTATUS                   |String(255,0,0)     |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)     |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
 |METING_WAARDE                       |Float(0,10,4)       |PNH; Waarde van de Meting; ; Nullable: True; Default: None; Visible: No|
 |METING_DATUM                        |Date(8,0,0)         |PNH; Datum van de Meting; ; Nullable: True; Default: None; Visible: No|
 |METING_TYPE                         |String(50,0,0)      |PNH; Soort Meting; ; Nullable: True; Default: None; Visible: No|

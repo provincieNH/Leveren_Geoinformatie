@@ -20,20 +20,20 @@
 |GLOBALID                          |GlobalID(38,0,0)          |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: No|
 |AD_ID                             |String(255,0,0)           |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
 |GISIB_ID                          |Integer(0,10,0)           |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
-|BGTPLUSTYPE                       |String(50,0,0)            |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeWTD]; Nullable: False; Default: None; Visible: No|
+|BGTPLUSTYPE                       |String(50,0,0)            |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeWTD](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeWTD.md); Nullable: False; Default: None; Visible: No|
 |IDENTIFICATIE                     |String(255,0,0)           |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
-|STATUS                            |String(10,0,0)            |BGT; BGT status van het object; keuzelijst [status]; Nullable: False; Default: bestaand; Visible: No|
-|VERWERKINGSSTATUS                 |String(255,0,0)           |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
+|STATUS                            |String(10,0,0)            |BGT; BGT status van het object; keuzelijst [status](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/status.md); Nullable: False; Default: bestaand; Visible: No|
+|VERWERKINGSSTATUS                 |String(255,0,0)           |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
 |OBJECTBEGINTIJD                   |Date(8,0,0)               |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                    |Date(8,0,0)               |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |RELATIEVEHOOGTELIGGING            |SmallInteger(0,5,0)       |BGT; Aanduiding voor de relatieve hoogte van het object; ; Nullable: False; Default: 0; Visible: Yes|
-|BEHEERDER                         |String(255,0,0)           |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None; Visible: Yes|
-|ONDERHOUDER                       |String(255,0,0)           |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: Yes|
-|EIGENAAR                          |String(255,0,0)           |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: Yes|
-|BRONHOUDER                        |String(5,0,0)             |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None; Visible: No|
-|TYPESPEC                          |String(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecWTD]; Nullable: True; Default: None; Visible: Yes|
-|BREEDTEINSTEKEN                   |String(255,0,0)           |PNH; Breedte tussen de twee kanten daar waar er een knik is tussen land en slootkant in meters (< 6 m of > 6 m); keuzelijst [BREEDTE_INSTEKEN]; Nullable: True; Default: None; Visible: No|
-|ZIJDE                             |String(10,0,0)            |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|BEHEERDER                         |String(255,0,0)           |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.md); Nullable: True; Default: None; Visible: Yes|
+|ONDERHOUDER                       |String(255,0,0)           |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.md); Nullable: True; Default: None; Visible: Yes|
+|EIGENAAR                          |String(255,0,0)           |PNH; Eigenaar van het object; keuzelijst [INSTANTIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/INSTANTIE.md); Nullable: True; Default: None; Visible: Yes|
+|BRONHOUDER                        |String(5,0,0)             |BGT; De bronhoudercode van het object; keuzelijst [bronhouder](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/bronhouder.md); Nullable: False; Default: None; Visible: No|
+|TYPESPEC                          |String(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecWTD](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecWTD.md); Nullable: True; Default: None; Visible: Yes|
+|BREEDTEINSTEKEN                   |String(255,0,0)           |PNH; Breedte tussen de twee kanten daar waar er een knik is tussen land en slootkant in meters (< 6 m of > 6 m); keuzelijst [BREEDTE_INSTEKEN](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BREEDTE_INSTEKEN.md); Nullable: True; Default: None; Visible: No|
+|ZIJDE                             |String(10,0,0)            |PNH; Zijde; keuzelijst [ZIJDE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ZIJDE.md); Nullable: True; Default: None; Visible: No|
 |AANLEGJAAR                        |SmallInteger(0,5,0)       |PNH; Aanlegjaar; ; Nullable: True; Default: None; Visible: No|
 |BREEDTENATPROFIEL                 |Float(0,25,10)            |PNH; Breedte tussen de twee kanten van het water in centimeters; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                         |String(255,0,0)           |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
@@ -42,8 +42,8 @@
 |HMEIND                            |Float(0,25,10)            |PNH; Eind Hectometrering; ; Nullable: True; Default: None; Visible: No|
 |KEURMAAT                          |Float(0,25,10)            |PNH; Minimale breedte volgens het Waterschap in centimeters; ; Nullable: True; Default: None; Visible: No|
 |LENGTE                            |Float(0,10,0)             |PNH; Lengte in meters; ; Nullable: True; Default: None; Visible: Yes|
-|CAT_WATERLOOP                     |String(255,0,0)           |PNH; Categorie waterloop; keuzelijst [CAT_WATERLOOP]; Nullable: True; Default: None; Visible: No|
-|JAAR_PLAATSING_AANLEG_GESCHAT     |String(1,0,0)             |PNH; Jaar plaatsing of aanleg is geschat: ja of nee; keuzelijst [jaNee]; Nullable: True; Default: N; Visible: No|
+|CAT_WATERLOOP                     |String(255,0,0)           |PNH; Categorie waterloop; keuzelijst [CAT_WATERLOOP](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/CAT_WATERLOOP.md); Nullable: True; Default: None; Visible: No|
+|JAAR_PLAATSING_AANLEG_GESCHAT     |String(1,0,0)             |PNH; Jaar plaatsing of aanleg is geschat: ja of nee; keuzelijst [jaNee](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/jaNee.md); Nullable: True; Default: N; Visible: No|
 |BODEMHOOGTE                       |Float(0,25,10)            |PNH; Hoogte t.o.v. NAP; ; Nullable: True; Default: None; Visible: Yes|
 |LEVENSVERWACHTING                 |SmallInteger(0,5,0)       |PNH; Levensverwachting; ; Nullable: True; Default: None; Visible: No|
 |BIJZONDEREWAARDE                  |String(255,0,0)           |PNH; Indicatie van bijzondere waarde; ; Nullable: True; Default: None; Visible: No|
@@ -54,12 +54,12 @@
 |PLANJAAR                          |SmallInteger(0,5,0)       |PNH; Het geplande jaar dat het object vervangen wordt; ; Nullable: True; Default: None; Visible: No|
 |VERKANTINGTALUD                   |String(255,0,0)           |PNH; TODO; ; Nullable: True; Default: None; Visible: No|
 |WATERBREEDTE                      |Float(0,25,10)            |PNH; Breedte Natte profiel in meters (2 decimalen); ; Nullable: True; Default: None; Visible: No|
-|SLOOTVEGETATIE                    |String(1,0,0)             |PNH; Slootvegetatie dient verwerkt te worden: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N; Visible: No|
+|SLOOTVEGETATIE                    |String(1,0,0)             |PNH; Slootvegetatie dient verwerkt te worden: Ja/Nee; keuzelijst [jaNee](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/jaNee.md); Nullable: True; Default: N; Visible: No|
 |WATERDIEPTE                       |Float(0,25,10)            |PNH; TODO; ; Nullable: True; Default: None; Visible: Yes|
-|WATERSCHAP                        |String(255,0,0)           |PNH; Naam Waterschap; keuzelijst [WATERSCHAP]; Nullable: True; Default: None; Visible: No|
+|WATERSCHAP                        |String(255,0,0)           |PNH; Naam Waterschap; keuzelijst [WATERSCHAP](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/WATERSCHAP.md); Nullable: True; Default: None; Visible: No|
 |VAARWEGDEELTRAJECT                |String(255,0,0)           |PNH; Verwijzende sleutel naar vaarwegdeeltraject_v (simpel); ; Nullable: True; Default: None; Visible: Yes|
-|TRAJECT                           |String(255,0,0)           |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM]; Nullable: True; Default: None; Visible: Yes|
-|INONDERZOEK                       |String(1,0,0)             |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible: No|
+|TRAJECT                           |String(255,0,0)           |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/TRAJECT_NAAM.md); Nullable: True; Default: None; Visible: Yes|
+|INONDERZOEK                       |String(1,0,0)             |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/jaNee.md); Nullable: False; Default: N; Visible: No|
 |TIJDSTIPREGISTRATIE               |Date(8,0,0)               |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |EINDREGISTRATIE                   |Date(8,0,0)               |BGT; Datum en tijdstip waarop deze instantie van het object niet meer geldig is bij de bronhouder. Wanneer deze waarde niet is ingevuld is de instantie nog geldig. Dit mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |LV_PUBLICATIEDATUM                |Date(8,0,0)               |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen in de Landelijke Voorziening. Dit mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|

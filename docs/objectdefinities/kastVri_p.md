@@ -21,26 +21,26 @@
 |AD_ID                               |String(255,0,0)        |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
 |GISIB_ID                            |Integer(0,10,0)        |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |IDENTIFICATIE                       |String(255,0,0)        |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
-|VERWERKINGSSTATUS                   |String(255,0,0)        |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
-|HUIDIGESTATUS                       |String(50,0,0)         |PNH; Huidige status; keuzelijst [ConditionOfFacilityValue]; Nullable: False; Default: functional; Visible: No|
-|STATUS                              |String(10,0,0)         |BGT; BGT status van het object; keuzelijst [status]; Nullable: False; Default: bestaand; Visible: No|
+|VERWERKINGSSTATUS                   |String(255,0,0)        |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
+|HUIDIGESTATUS                       |String(50,0,0)         |PNH; Huidige status; keuzelijst [ConditionOfFacilityValue](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ConditionOfFacilityValue.md); Nullable: False; Default: functional; Visible: No|
+|STATUS                              |String(10,0,0)         |BGT; BGT status van het object; keuzelijst [status](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/status.md); Nullable: False; Default: bestaand; Visible: No|
 |OBJECTBEGINTIJD                     |Date(8,0,0)            |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)            |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |RELATIEVEHOOGTELIGGING              |SmallInteger(0,5,0)    |BGT; Aanduiding voor de relatieve hoogte van het object; ; Nullable: False; Default: 0; Visible: Yes|
-|BEHEERDER                           |String(255,0,0)        |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None; Visible: Yes|
-|ONDERHOUDER                         |String(255,0,0)        |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: Yes|
-|EIGENAAR                            |String(255,0,0)        |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: Yes|
-|BRONHOUDER                          |String(5,0,0)          |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None; Visible: No|
-|VERTICALE_POSITIE                   |Integer(0,10,0)        |PNH; Verticale positie; keuzelijst [VerticalePositie]; Nullable: False; Default: 3; Visible: No|
-|BGTPLUSTYPE                         |String(50,0,0)         |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeKST]; Nullable: False; Default: None; Visible: No|
+|BEHEERDER                           |String(255,0,0)        |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.md); Nullable: True; Default: None; Visible: Yes|
+|ONDERHOUDER                         |String(255,0,0)        |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.md); Nullable: True; Default: None; Visible: Yes|
+|EIGENAAR                            |String(255,0,0)        |PNH; Eigenaar van het object; keuzelijst [INSTANTIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/INSTANTIE.md); Nullable: True; Default: None; Visible: Yes|
+|BRONHOUDER                          |String(5,0,0)          |BGT; De bronhoudercode van het object; keuzelijst [bronhouder](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/bronhouder.md); Nullable: False; Default: None; Visible: No|
+|VERTICALE_POSITIE                   |Integer(0,10,0)        |PNH; Verticale positie; keuzelijst [VerticalePositie](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VerticalePositie.md); Nullable: False; Default: 3; Visible: No|
+|BGTPLUSTYPE                         |String(50,0,0)         |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeKST](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeKST.md); Nullable: False; Default: None; Visible: No|
 |TOPDESK_ID                          |String(255,0,0)        |PNH; Verwijzing naar ObjectID TOPdesk; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                           |String(255,0,0)        |PNH; Toevoeging van subjectieve informatie met betrekking tot opmerkelijke waarnemingen; ; Nullable: True; Default: None; Visible: Yes|
 |AUTOMAATKOPPELING                   |String(255,0,0)        |PNH; Indicatie of de automaat gekoppeld is aan één of meer andere automaten; ; Nullable: True; Default: None; Visible: Yes|
 |CONTRACTNUMONDERH                   |String(255,0,0)        |PNH; Telefoonnummer van het contract met de onderhouder; ; Nullable: True; Default: None; Visible: Yes|
 |DATUMGARANTIE                       |Date(8,0,0)            |PNH; Datum en jaartal tot wanneer de garantie geldig is; ; Nullable: True; Default: None; Visible: No|
 |DATUMPLAATSING                      |Date(8,0,0)            |PNH; Datum plaatsing kast; ; Nullable: True; Default: None; Visible: No|
-|JAAR_PLAATSING_AANLEG_GESCHAT       |String(1,0,0)          |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N; Visible: No|
-|TYPESPEC                            |String(255,0,0)        |PNH; Nadere typering van het object; keuzelijst [typeSpecKST]; Nullable: True; Default: None; Visible: Yes|
+|JAAR_PLAATSING_AANLEG_GESCHAT       |String(1,0,0)          |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/jaNee.md); Nullable: True; Default: N; Visible: No|
+|TYPESPEC                            |String(255,0,0)        |PNH; Nadere typering van het object; keuzelijst [typeSpecKST](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecKST.md); Nullable: True; Default: None; Visible: Yes|
 |LEVENSVERWACHTING                   |SmallInteger(0,5,0)    |PNH; Levensverwachting; ; Nullable: True; Default: None; Visible: No|
 |NUMMERGEKOPPELDEAU                  |String(255,0,0)        |PNH; Indien een automatenkoppeling: de soort koppeling (groene golf, peletonkoppeling, etc.); ; Nullable: True; Default: None; Visible: Yes|
 |PLANJAAR                            |SmallInteger(0,5,0)    |PNH; Het jaar dat nu gepland staat om item te vervangen; ; Nullable: True; Default: None; Visible: No|
@@ -51,12 +51,12 @@
 |ZIJWEG                              |String(255,0,0)        |PNH; Straatnaam (één vermelden, ook al zijn er meer); ; Nullable: True; Default: None; Visible: Yes|
 |LAMPSPANNING                        |String(255,0,0)        |PNH; Lampspanning waarde; ; Nullable: True; Default: None; Visible: No|
 |SOORTAUTOMAATKOPPE                  |String(255,0,0)        |PNH; Soort Automaatkoppeling; ; Nullable: True; Default: None; Visible: No|
-|TYPECOMMUNICATIE                    |String(30,0,0)         |PNH; Type communicatie; keuzelijst [TYPE_COMMUNICATIE]; Nullable: True; Default: None; Visible: No|
+|TYPECOMMUNICATIE                    |String(30,0,0)         |PNH; Type communicatie; keuzelijst [TYPE_COMMUNICATIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/TYPE_COMMUNICATIE.md); Nullable: True; Default: None; Visible: No|
 |ADRES                               |String(255,0,0)        |PNH; Verwijzende sleutel naar adres_tbl (simpel); ; Nullable: True; Default: None; Visible: No|
 |INNETWERK                           |String(255,0,0)        |PNH; Verwijzende sleutel naar utiliteitsNet_tbl (simpel); ; Nullable: True; Default: None; Visible: Yes|
 |EISVOORZORGSMAATRBUFFER             |Integer(0,10,0)        |PNH; Wanneer de asset een verhoogd risico/impact op/bij graafschade heeft, kan hier een veiligheidsbuffer in meters worden opgegeven. Wanneer aan de algemene EV-voorwaarden is voldaan en er binnen deze buffer gegraven wordt, ontvangt de grondroerder een eisvoorzorgsmaatregelbrief. Zonder opgaaf gelden algemene uitgangspunten en voorgedefinieerde bufferafstand. Bij een negatieve waarde, als -1, wordt geen brief uitgestuurd; ; Nullable: True; Default: None; Visible: No|
 |DATALEVERANCIER                     |String(255,0,0)        |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
-|INONDERZOEK                         |String(1,0,0)          |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible: No|
+|INONDERZOEK                         |String(1,0,0)          |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/jaNee.md); Nullable: False; Default: N; Visible: No|
 |TIJDSTIPREGISTRATIE                 |Date(8,0,0)            |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen door de bronhouder. Dit mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |EINDREGISTRATIE                     |Date(8,0,0)            |BGT; Datum en tijdstip waarop deze instantie van het object niet meer geldig is bij de bronhouder. Wanneer deze waarde niet is ingevuld is de instantie nog geldig. Dit mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |LV_PUBLICATIEDATUM                  |Date(8,0,0)            |BGT; Datum en tijdstip waarop deze instantie van het object is opgenomen in de Landelijke Voorziening. Dit mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
@@ -73,13 +73,13 @@
 |LEVERANCIER                         |String(50,0,0)         |PNH; SP LEVERANCIER; Nullable: True; Default: None; Visible: Yes|
 |CONTACTNR                           |String(15,0,0)         |PNH; SP CONTACTNR; Nullable: True; Default: None; Visible: Yes|
 |OPMERKING_SP                        |String(255,0,0)        |PNH; SP OPMERKING_SP; Nullable: True; Default: None; Visible: Yes|
-|IMPACT_VEILIGHEID                   |Integer(0,10,0)        |PNH; SCORE IMPACT_VEILIGHEID; keuzelijst [VRI_SCORE_VEILIGHEID]; Nullable: True; Default: None; Visible: Yes|
-|IMPACT_VERTRAGING_MIN               |Integer(0,10,0)        |PNH; SCORE IMPACT_VERTRAGING_MIN; keuzelijst [VRI_SCORE_VERTRAGING_MIN]; Nullable: True; Default: None; Visible: Yes|
-|OVERSTEEKBAARHEID                   |Integer(0,10,0)        |PNH; SCORE OVERSTEEKBAARHEID; keuzelijst [VRI_SCORE_OVERSTEEKBAARHEID]; Nullable: True; Default: None; Visible: Yes|
-|HINDER_LANGZAAM_VERKEER             |Integer(0,10,0)        |PNH; SCORE HINDER_LANGZAAM_VERKEER; keuzelijst [VRI_SCORE_HINDER_LANGZAAM_VERKEER]; Nullable: True; Default: None; Visible: Yes|
+|IMPACT_VEILIGHEID                   |Integer(0,10,0)        |PNH; SCORE IMPACT_VEILIGHEID; keuzelijst [VRI_SCORE_VEILIGHEID](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VEILIGHEID.md); Nullable: True; Default: None; Visible: Yes|
+|IMPACT_VERTRAGING_MIN               |Integer(0,10,0)        |PNH; SCORE IMPACT_VERTRAGING_MIN; keuzelijst [VRI_SCORE_VERTRAGING_MIN](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VERTRAGING_MIN.md); Nullable: True; Default: None; Visible: Yes|
+|OVERSTEEKBAARHEID                   |Integer(0,10,0)        |PNH; SCORE OVERSTEEKBAARHEID; keuzelijst [VRI_SCORE_OVERSTEEKBAARHEID](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_OVERSTEEKBAARHEID.md); Nullable: True; Default: None; Visible: Yes|
+|HINDER_LANGZAAM_VERKEER             |Integer(0,10,0)        |PNH; SCORE HINDER_LANGZAAM_VERKEER; keuzelijst [VRI_SCORE_HINDER_LANGZAAM_VERKEER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_HINDER_LANGZAAM_VERKEER.md); Nullable: True; Default: None; Visible: Yes|
 |HINDER_OV                           |Integer(0,10,0)        |PNH; SCORE HINDER_OV; ; Nullable: True; Default: None; Visible: Yes|
-|PRIO_NETWERKVISIE                   |Integer(0,10,0)        |PNH; SCORE PRIO_NETWERKVISIE; keuzelijst [VRI_SCORE_PRIO_NETWERKVISIE]; Nullable: True; Default: None; Visible: Yes|
-|VM_KWALITEITSNIVEAU                 |Integer(0,10,0)        |PNH; SCORE VM_KWALITEITSNIVEAU; keuzelijst [VRI_SCORE_VM_KWALITEITSNIVEAU]; Nullable: True; Default: None; Visible: Yes|
+|PRIO_NETWERKVISIE                   |Integer(0,10,0)        |PNH; SCORE PRIO_NETWERKVISIE; keuzelijst [VRI_SCORE_PRIO_NETWERKVISIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_PRIO_NETWERKVISIE.md); Nullable: True; Default: None; Visible: Yes|
+|VM_KWALITEITSNIVEAU                 |Integer(0,10,0)        |PNH; SCORE VM_KWALITEITSNIVEAU; keuzelijst [VRI_SCORE_VM_KWALITEITSNIVEAU](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VM_KWALITEITSNIVEAU.md); Nullable: True; Default: None; Visible: Yes|
 |TOTAALSCORE                         |Integer(0,10,0)        |PNH; TOTAALSCORE calculated field; Nullable: True; Default: None; Visible: Yes|
 |TOTAALPRIO                          |Integer(0,10,0)        |PNH; TOTAALPRIO calculated field; Nullable: True; Default: None; Visible: Yes|
 |SHAPE                               |Geometry(0,0,0)        |PNH; Punt; ; Nullable: False; Default: None; Visible: Yes|

@@ -26,12 +26,12 @@ van het traject liggen.
 |GLOBALID                            |GlobalID(38,0,0)      |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes; Visible: No|
 |AD_ID                               |String(255,0,0)       |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes; Visible: Yes|
 |GISIB_ID                            |Integer(0,10,0)       |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No; Visible: No|
-|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes; Visible: Yes|
 |OBJECTBEGINTIJD                     |Date(8,0,0)           |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)           |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
-|TYPESPEC                            |String(255,0,0)       |PNH; Nadere typering van het object; keuzelijst [typeSpecTRA]; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
+|TYPESPEC                            |String(255,0,0)       |PNH; Nadere typering van het object; keuzelijst [typeSpecTRA](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecTRA.md); Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |CODE                                |String(25,0,0)        |PNH; Unieke code ter identificatie van een traject; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
-|GEBRUIKSFUNCTIE                     |String(255,0,0)       |PNH; Gebruiksfunctie; keuzelijst [GEBRUIKSFUNCTIE]; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
+|GEBRUIKSFUNCTIE                     |String(255,0,0)       |PNH; Gebruiksfunctie; keuzelijst [GEBRUIKSFUNCTIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/GEBRUIKSFUNCTIE.md); Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |OPMERKING                           |String(255,0,0)       |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |PLANJAAR                            |SmallInteger(0,5,0)   |PNH; Het geplande jaar dat het object vervangen wordt; ; Nullable: True; Default: None; Visible: No; Visible: Yes|
 |RANGORDE                            |SmallInteger(0,5,0)   |PNH; TODO; ; Nullable: True; Default: None; Visible: No; Visible: Yes|
@@ -46,8 +46,8 @@ van het traject liggen.
 |LENGTERECHTEROEVER                  |Float(0,25,10)        |PNH; Lengte rechteroever (m); ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |STREEFBEELD                         |String(255,0,0)       |PNH; Concrete visuele doelstelling; ; Nullable: True; Default: None; Visible: No; Visible: Yes|
 |VOLDOET                             |SmallInteger(0,1,0)   |PNH; Geeft aan als de vaarweg voldoet aan het streefbeeld omschrijving; ; Nullable: True; Default: None; Visible: No; Visible: Yes|
-|CEMTKLASSE                          |String(255,0,0)       |PNH; CEMTKLASSE object; keuzelijst [CEMT_KLASSE]; Nullable: True; Default: None; Visible: No; Visible: Yes|
-|MAATGEVENDSCHIP                     |String(255,0,0)       |PNH; MAATGEVENDSCHIP waarde; keuzelijst [MAATGEVEND_SCHIP]; Nullable: True; Default: None; Visible: No; Visible: Yes|
+|CEMTKLASSE                          |String(255,0,0)       |PNH; CEMTKLASSE object; keuzelijst [CEMT_KLASSE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/CEMT_KLASSE.md); Nullable: True; Default: None; Visible: No; Visible: Yes|
+|MAATGEVENDSCHIP                     |String(255,0,0)       |PNH; MAATGEVENDSCHIP waarde; keuzelijst [MAATGEVEND_SCHIP](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/MAATGEVEND_SCHIP.md); Nullable: True; Default: None; Visible: No; Visible: Yes|
 |DATALEVERANCIER                     |String(255,0,0)       |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No; Visible: Yes|
 |CREATED_USER                        |String(255,0,0)       |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No; Visible: No|
 |CREATED_DATE                        |Date(8,0,0)           |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No; Visible: No|
@@ -58,6 +58,6 @@ van het traject liggen.
 |SHAPE_Area                          |Double(0,0,0)         |PNH; Oppervlakte in m2, 5 decimalen. Dit wordt berekend in bepaalde applicaties; ; Nullable: False; Default: None; Visible: No; Visible: Yes|
 |OMTREK                              |Double(0,0,0)         |PNH; Omtrek in meters, 5 decimalen. Dit wordt automatisch gevuld uit SHAPE_Length; ; Nullable: False; Default: None; Visible: Yes; Visible: Yes|
 |OPPERVLAKTE                         |Double(0,0,0)         |PNH; Oppervlakte in m2, 5 decimalen. Dit wordt automatisch gevuld uit SHAPE_Area; ; Nullable: False; Default: None; Visible: Yes; Visible: Yes|
-|GEBIEDSCONTRACTREGIO                |String(255,0,0)       |PNH; Verwijzende sleutel naar gebiedscontractregio_v (simpel); keuzelijst [GCR_NAAM]; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
+|GEBIEDSCONTRACTREGIO                |String(255,0,0)       |PNH; Verwijzende sleutel naar gebiedscontractregio_v (simpel); keuzelijst [GCR_NAAM](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/GCR_NAAM.md); Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 
 ***

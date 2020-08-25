@@ -16,7 +16,7 @@ wegvakonderdeel vast te leggen.
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__(oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                  |-----    |
-|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
 |SCHADESOORT                         |String(10,0,0)        |PNH; Soort schade opname; ; Nullable: True; Default: None; Visible: No|
 |SCHADEWAARDE                        |String(10,0,0)        |PNH; numerieke waarde, indien van toepassing; ; Nullable: True; Default: None; Visible: No|
 |SCHADECODE                          |String(10,0,0)        |PNH; alfanumerieke waarde, indien van toepassing; ; Nullable: True; Default: None; Visible: Yes|

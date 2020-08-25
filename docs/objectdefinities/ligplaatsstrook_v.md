@@ -20,14 +20,14 @@
 |GLOBALID                            |GlobalID(38,0,0)     |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: No|
 |AD_ID                               |String(255,0,0)      |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
 |GISIB_ID                            |Integer(0,10,0)      |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
-|TYPESPEC                            |String(255,0,0)      |PNH; Nadere typering van het object; keuzelijst [typeSpecLPS]; Nullable: True; Default: None; Visible: Yes|
-|VERWERKINGSSTATUS                   |String(255,0,0)      |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
+|TYPESPEC                            |String(255,0,0)      |PNH; Nadere typering van het object; keuzelijst [typeSpecLPS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecLPS.md); Nullable: True; Default: None; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)      |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
 |OBJECTBEGINTIJD                     |Date(8,0,0)          |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)          |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
-|BEHEERDER                           |String(255,0,0)      |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None; Visible: Yes|
-|ONDERHOUDER                         |String(255,0,0)      |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: Yes|
-|EIGENAAR                            |String(255,0,0)      |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |String(255,0,0)      |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|BEHEERDER                           |String(255,0,0)      |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.md); Nullable: True; Default: None; Visible: Yes|
+|ONDERHOUDER                         |String(255,0,0)      |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.md); Nullable: True; Default: None; Visible: Yes|
+|EIGENAAR                            |String(255,0,0)      |PNH; Eigenaar van het object; keuzelijst [INSTANTIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/INSTANTIE.md); Nullable: True; Default: None; Visible: Yes|
+|ZIJDE                               |String(255,0,0)      |PNH; Zijde; keuzelijst [ZIJDE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ZIJDE.md); Nullable: True; Default: None; Visible: No|
 |CULTUURHISTORISCHE                  |String(255,0,0)      |PNH; Cultuur Historische Waarde; ; Nullable: True; Default: None; Visible: No|
 |GEMIDDELDEBREEDTE                   |Float(0,25,10)       |PNH; Gemiddelde Breedte; ; Nullable: True; Default: None; Visible: No|
 |HMBEGIN                             |Float(0,25,10)       |PNH; Begin Hectometrering van Ligplaatsstrook; ; Nullable: True; Default: None; Visible: No|
@@ -35,7 +35,7 @@
 |LENGTE                              |Float(0,10,0)        |PNH; Lengte Ligplaatsstrook in meter; ; Nullable: True; Default: None; Visible: Yes|
 |LIGPLAATSSTROOKLIN                  |Float(0,25,10)       |PNH; Ligplaatsstrook Linker Oever; ; Nullable: True; Default: None; Visible: No|
 |LIGPLAATSSTROOKREC                  |Float(0,25,10)       |PNH; Ligplaatsstrook Rechter Oever; ; Nullable: True; Default: None; Visible: No|
-|OPENBAAR                            |String(1,0,0)        |PNH; Is het een openbare ligplaats; keuzelijst [jaNee]; Nullable: True; Default: None; Visible: Yes|
+|OPENBAAR                            |String(1,0,0)        |PNH; Is het een openbare ligplaats; keuzelijst [jaNee](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/jaNee.md); Nullable: True; Default: None; Visible: Yes|
 |OPMERKING                           |String(3000,0,0)     |PNH; Extra toelichting; ; Nullable: True; Default: None; Visible: No|
 |RESTRUIMTE                          |Float(0,25,10)       |PNH; Beschikbare ruimte in nautisch profiel; ; Nullable: True; Default: None; Visible: No|
 |DATALEVERANCIER                     |String(255,0,0)      |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|

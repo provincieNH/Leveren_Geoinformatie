@@ -22,8 +22,8 @@
 |ROTATIEHOEK                        |Float(0,10,1)          |PNH; Hoek van het annotatiepunt tussen de -180 en +180 graden, met max 1 decimaal nauwkeurig; ; Nullable: False; Default: None; Visible: No|
 |AANGRIJPINGHORIZONTAAL             |String(255,0,0)        |PNH; Horizontale afstand van de labeltekst tot het labelpoint; ; Nullable: False; Default: http://definities.geostandaarden.nl/imkl2015/id/waarde/LabelpositieValue/0.5; Visible: No|
 |AANGRIJPINGVERTICAAL               |String(255,0,0)        |PNH; Verticale afstand van de labeltekst tot het labelpoint; ; Nullable: False; Default: http://definities.geostandaarden.nl/imkl2015/id/waarde/LabelpositieValue/0.5; Visible: No|
-|IMKL_InNetwork                     |String(255,0,0)        |PNH; Provincie aanduiding voor het type net, VB: VRI of OVL; keuzelijst [IMKL_InNetwork]; Nullable: False; Default: None; Visible: No|
-|BRONHOUDER                         |String(255,0,0)        |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: No|
+|IMKL_InNetwork                     |String(255,0,0)        |PNH; Provincie aanduiding voor het type net, VB: VRI of OVL; keuzelijst [IMKL_InNetwork](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/IMKL_InNetwork.md); Nullable: False; Default: None; Visible: No|
+|BRONHOUDER                         |String(255,0,0)        |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.md); Nullable: True; Default: None; Visible: No|
 |CREATED_USER                       |String(255,0,0)        |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |CREATED_DATE                       |Date(8,0,0)            |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |LAST_EDITED_USER                   |String(50,0,0)         |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|

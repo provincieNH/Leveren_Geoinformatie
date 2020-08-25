@@ -19,7 +19,7 @@
 |IDENTIFICATIE                       |String(255,0,0)           |PNH; Verwijzende sleutel naar begroeidTerreindeelBerm_v (composiet); ;Nullable: True; Default: None; Visible: No|
 |SHAPE                               |Geometry(0,0,0)           |PNH; Lijn; ; Nullable: False; Default: None; Visible: Yes|
 |SHAPE_Length                        |Double(0,0,0)             |PNH; Lengte in meters, 5 decimalen. Dit wordt automatisch gevuld; ; Nullable: False; Default: None; Visible: Yes|
-|VERWERKINGSSTATUS                   |String(255,0,0)           |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)           |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
 |OBJECTID                            |OID(38,0,0)               |PNH; Interne ID ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
 |GLOBALID                            |GlobalID(38,0,0)          |PNH; Global Unique Identifier; ; Nullable: False; Default: None; Visible: Yes|
 |GISIB_ID                            |Integer(0,10,0)           |PNH; ID beheer openbare ruimte (GISIB); ; Nullable: True; Default: None; Visible: Yes|

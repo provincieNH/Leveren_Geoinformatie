@@ -20,13 +20,13 @@
 |GLOBALID                            |GlobalID(38,0,0)   |PNH; Global Unique Identifier,  aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: No; Visible: No|
 |AD_ID                               |String(255,0,0)    |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes; Visible: Yes|
 |GISIB_ID                            |Integer(0,10,0)    |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No; Visible: No|
-|VERWERKINGSSTATUS                   |String(255,0,0)    |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)    |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes; Visible: Yes|
 |OBJECTBEGINTIJD                     |Date(8,0,0)        |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)        |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
-|BEHEERDER                           |String(255,0,0)    |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None; Visible: Yes; Visible: No|
-|ONDERHOUDER                         |String(255,0,0)    |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: Yes; Visible: No|
-|EIGENAAR                            |String(255,0,0)    |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: No; Visible: No|
-|TYPESPEC                            |String(255,0,0)    |PNH; Nadere typering van het object; keuzelijst [typeSpecKRU]; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
+|BEHEERDER                           |String(255,0,0)    |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.md); Nullable: True; Default: None; Visible: Yes; Visible: No|
+|ONDERHOUDER                         |String(255,0,0)    |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.md); Nullable: True; Default: None; Visible: Yes; Visible: No|
+|EIGENAAR                            |String(255,0,0)    |PNH; Eigenaar van het object; keuzelijst [INSTANTIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/INSTANTIE.md); Nullable: True; Default: None; Visible: No; Visible: No|
+|TYPESPEC                            |String(255,0,0)    |PNH; Nadere typering van het object; keuzelijst [typeSpecKRU](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecKRU.md); Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |CODE                                |String(25,0,0)     |PNH; Kruispunt nummer; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |OPMERKING                           |String(255,0,0)    |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes; Visible: Yes|
 |INNETWERK                           |String(255,0,0)    |PNH; Verwijzende sleutel naar utiliteitsNet_tbl (simpel); ; Nullable: True; Default: None; Visible: No; Visible: Yes|
