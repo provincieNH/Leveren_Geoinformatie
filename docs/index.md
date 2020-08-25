@@ -3,9 +3,9 @@ Leveren Geoinformatie
 
 __Informatie Levering Specificatie voor Geoinformatie__
 
-Op deze pagina staat de courante versie van het Provincie Noord-Holland Areaaldata model:
- [**objectdefinities**](objectdefinities) <br>
- [**keuzelijsten**](keuzelijsten) 
+Op deze pagina staat de courante versie van het Provincie Noord-Holland Areaaldata model:<br/>
+ [objectdefinities](objectdefinities)<br/>
+ [keuzelijsten](keuzelijsten) 
  
 De courante versie is **4.2:d3** uit maart 2019. Let op: sinds september 2018 worden de domeinlijsten met toegestane attribuutwaarden als aparte versies gereleased met indicatie '_d1', '_d2' etc. 
 
