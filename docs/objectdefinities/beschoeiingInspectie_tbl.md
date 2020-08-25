@@ -16,7 +16,7 @@
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                  |-----    |
-|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |ADVIES_INSPECTIE                    |String(255,0,0)       |PNH; Onderhoudsadvies n.a.v. inspectie; ; Nullable: True; Default: None; Visible: No|
 |DATUM                               |Date(8,0,0)           |PNH; Datum van inspectie; ; Nullable: True; Default: None; Visible: No|
 |GESCHATTE_RESTLEVENSDUUR            |SmallInteger(0,5,0)   |PNH; Inschatting van resterende levensduur op het moment van de inspectie; ; Nullable: True; Default: None; Visible: No|

@@ -14,5 +14,5 @@
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                    |-----    |
 |OBJECTID                            |OID(38,0,0)             |KLIC; Interne ID ArcGIS; ; Nullable: False; Default: None; Visible: No|
-|soortWerkzaamheden                  |String(200,0,0)         |KLIC; Binnen IMKL 1.2.1 erkende werkzaamheden; keuzelijst [Werkzaamheden](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/Werkzaamheden.md); Nullable: True; Default: None; Visible: No|
+|soortWerkzaamheden                  |String(200,0,0)         |KLIC; Binnen IMKL 1.2.1 erkende werkzaamheden; keuzelijst [Werkzaamheden](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/Werkzaamheden.html); Nullable: True; Default: None; Visible: No|
 |netbeheerderWerkAanduiding          |String(50,0,0)          |KLIC; Duiding van de werkzaamheden door de netbeheerder in termen van prioriteit; ; Nullable: True; Default: None; Visible: No|

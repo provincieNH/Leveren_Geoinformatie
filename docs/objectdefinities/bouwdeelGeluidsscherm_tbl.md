@@ -14,14 +14,14 @@
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__(oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                   |-----    |
 |OBJECTID                            |OID(38,0,0)            |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
-|NENMATERIAALSOORT                   |String(255,0,0)        |PNH; NENMateriaalsoort; keuzelijst [MATERIAALSOORT](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/MATERIAALSOORT.md); Nullable: True; Default: None; Visible: No|
+|NENMATERIAALSOORT                   |String(255,0,0)        |PNH; NENMateriaalsoort; keuzelijst [MATERIAALSOORT](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/MATERIAALSOORT.html); Nullable: True; Default: None; Visible: No|
 |OMSCHRIJVING                        |String(255,0,0)        |PNH; Extra toelichting; ; Nullable: True; Default: None; Visible: Yes|
 |CONDITIESCORE                       |Integer(0,10,0)        |PNH; Conditiescore conform NEN 2767-4; ; Nullable: True; Default: None; Visible: No|
 |CONDITIESCORE_DATUM                 |Date(8,0,0)            |PNH; Datum opname Conditiescore; ; Nullable: True; Default: None; Visible: No|
 |CONDITIESCORE_OPM                   |String(3000,0,0)       |PNH; Opmerking bij conditiescore conform NEN 2767-4; ; Nullable: True; Default: None; Visible: Yes|
 |SCHEIDINGGELUIDSSCHERM              |String(255,0,0)        |PNH; Verwijzende sleutel naar scheidingGeluidsscherm_l (simpel); ; Nullable: True; Default: None; Visible: No|
-|TYPESPEC                            |String(255,0,0)        |PNH; Nadere typering van het object; keuzelijst [typeSpecBWD](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecBWD.md); Nullable: True; Default: None; Visible: Yes|
-|VERWERKINGSSTATUS                   |String(255,0,0)        |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
+|TYPESPEC                            |String(255,0,0)        |PNH; Nadere typering van het object; keuzelijst [typeSpecBWD](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecBWD.html); Nullable: True; Default: None; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)        |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |OBJECTBEGINTIJD                     |Date(8,0,0)            |BGT; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)            |BGT; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |GLOBALID                            |GlobalID(38,0,0)       |PNH; Global Unique Identifier; ; Nullable: False; Default: None; Visible: No|

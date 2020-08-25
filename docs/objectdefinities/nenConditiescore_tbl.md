@@ -14,7 +14,7 @@
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                  |-----    |
-|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |CONDITIESCORE                       |Integer(0,10,0)       |PNH; Conditiescore conform NEN 2767-4; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                           |String(255,0,0)       |PNH; Extra opmerking; ; Nullable: True; Default: None; Visible: No|
 |KW_ELEMENT_ID                       |String(255,0,0)       |PNH; Verwijzende sleutel naar kwElement_tbl (simpel); ; Nullable: True; Default: None; Visible: No|

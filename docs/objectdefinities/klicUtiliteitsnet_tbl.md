@@ -14,6 +14,6 @@
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                    |-----    |
 |OBJECTID                            |OID(38,0,0)             |KLIC; Interne ID ArcGIS; ; Nullable: False; Default: None; Visible: No|
-|thema                               |String(250,0,0)         |KLIC; IMKL-thema uit waardelijsten 1.2.1. Begint doorgaans met 'http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/'; keuzelijst [THEMA](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/THEMA.md); Nullable: True; Default: None; Visible: No|
+|thema                               |String(250,0,0)         |KLIC; IMKL-thema uit waardelijsten 1.2.1. Begint doorgaans met 'http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/'; keuzelijst [THEMA](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/THEMA.html); Nullable: True; Default: None; Visible: No|
 |netbeheerderNetAanduiding           |String(50,0,0)          |KLIC; Eigen definitie van het utiliteitsnet waar de objecten waar een EV (eisvoorzorgsmaatregel) op van toepassing is; ; Nullable: True; Default: None; Visible: No|
 |netbeheerderNetOmschrijving         |String(250,0,0)         |KLIC; Omschrijving van de netbeheerderNetAanduiding; ; Nullable: True; Default: None; Visible: No|

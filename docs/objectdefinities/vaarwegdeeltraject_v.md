@@ -26,11 +26,11 @@ altijd binnen het vaarwegtraject.
 |GLOBALID                            |GlobalID(38,0,0)    |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
 |AD_ID                               |String(255,0,0)     |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
 |GISIB_ID                            |Integer(0,10,0)     |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
-|VERWERKINGSSTATUS                   |String(255,0,0)     |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.md); Nullable: False; Default: Nieuw; Visible: Yes|
+|VERWERKINGSSTATUS                   |String(255,0,0)     |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |OBJECTBEGINTIJD                     |Date(8,0,0)         |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)         |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
-|BEHEERDER                           |String(255,0,0)     |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.md); Nullable: True; Default: None; Visible: Yes|
-|ONDERHOUDER                         |String(255,0,0)     |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.md); Nullable: True; Default: None; Visible: Yes|
+|BEHEERDER                           |String(255,0,0)     |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.html); Nullable: True; Default: None; Visible: Yes|
+|ONDERHOUDER                         |String(255,0,0)     |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.html); Nullable: True; Default: None; Visible: Yes|
 |NAAM                                |String(255,0,0)     |PNH; Deeltraject-naam, bijvoorbeeld k20n-d; ; Nullable: True; Default: None; Visible: Yes|
 |DEELTRAJECTNUMMER                   |String(25,0,0)      |PNH; Deeltraject Nr; ; Nullable: True; Default: None; Visible: Yes|
 |OPMERKING                           |String(255,0,0)     |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
@@ -41,10 +41,10 @@ altijd binnen het vaarwegtraject.
 |GELDENDEBEPERKING                   |String(255,0,0)     |PNH; Waar een vaarwegdeeltraject niet voldoet aan een streefbeeld worden beperking opgelegd qua gebruik; ; Nullable: True; Default: None; Visible: No|
 |LENGTELINKEROEVER                   |Float(0,25,10)      |PNH; Lengte linkeroever (m); ; Nullable: True; Default: None; Visible: Yes|
 |LENGTERECHTEROEVER                  |Float(0,25,10)      |PNH; Lengte rechteroever (m); ; Nullable: True; Default: None; Visible: Yes|
-|BESLUITNUMMER                       |String(255,0,0)     |PNH; Besluitnummer waarde; keuzelijst [BESLUITNUMMER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BESLUITNUMMER.md); Nullable: True; Default: None; Visible: Yes|
+|BESLUITNUMMER                       |String(255,0,0)     |PNH; Besluitnummer waarde; keuzelijst [BESLUITNUMMER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BESLUITNUMMER.html); Nullable: True; Default: None; Visible: Yes|
 |GEWENSTEBAGGERKWAL                  |String(255,0,0)     |PNH; Gewenste baggerkwaliteit; ; Nullable: True; Default: None; Visible: No|
 |DATALEVERANCIER                     |String(255,0,0)     |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
-|TRAJECT                             |String(255,0,0)     |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/TRAJECT_NAAM.md); Nullable: True; Default: None; Visible: Yes|
+|TRAJECT                             |String(255,0,0)     |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/TRAJECT_NAAM.html); Nullable: True; Default: None; Visible: Yes|
 |CREATED_USER                        |String(255,0,0)     |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |CREATED_DATE                        |Date(8,0,0)         |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |LAST_EDITED_USER                    |String(50,0,0)      |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
