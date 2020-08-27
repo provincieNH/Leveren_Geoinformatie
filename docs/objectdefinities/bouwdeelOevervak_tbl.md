@@ -8,7 +8,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Geen
 * __Definitie:__ Laagste niveau van decompositie van scheidingWater_l. Het begrip NEN Bouwdeel is niet gedefinieerd.
-
+* __Mapping_NTA8035:__ bs:PhysicalObject
 
 ***
 
@@ -26,7 +26,7 @@
 |SCHEIDINGVLAK                       |String(255,0,0)         |PNH; Verwijzende sleutel naar scheiding_v (simpel); ; Nullable: True; Default: None; Visible: Yes|
 |TYPESPEC                            |String(255,0,0)         |PNH; Nadere typering van het object; keuzelijst [typeSpecBWD](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/typeSpecBWD.html); Nullable: True; Default: None; Visible: Yes|
 |VERWERKINGSSTATUS                   |String(255,0,0)         |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
-|OBJECTBEGINTIJD                     |Date(8,0,0)             |BGT; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
+|OBJECTBEGINTIJD                     |Date(8,0,0)             |BGT; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)             |BGT; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |GLOBALID                            |GlobalID(38,0,0)        |PNH; Global Unique Identifier; ; Nullable: False; Default: None; Visible: No|
 |GISIB_ID                            |Integer(0,10,0)         |PNH; ID beheer openbare ruimte (GISIB); ; Nullable: True; Default: None; Visible: No|

@@ -8,7 +8,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Punt
 * __Definitie:__ Annotatie behorend bij IMKL-objecten, tijdelijk nodig tbv weergave labels in KLIC-viewers. Deze feature class wordt enkel vanuit de FME IMKL-conversie workbench gemuteerd (bij iedere conversie leeg gegooid, en opnieuw gevuld.
-
+* __Mapping_NTA8035:__ bs:InformationObject
 
 ***
 

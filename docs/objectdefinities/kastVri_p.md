@@ -11,6 +11,7 @@
 * __Definitie:__ Kast ten behoeve van de regeling van verkeerslichten
 * __Mapping_BGT:__ kast_p
 * __Mapping_Gisib:__ VRI kast
+* __Mapping_NTA8035:__ bs:PhysicalObject
 
 ***
 
@@ -24,7 +25,7 @@
 |VERWERKINGSSTATUS                   |String(255,0,0)        |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |HUIDIGESTATUS                       |String(50,0,0)         |PNH; Huidige status; keuzelijst [ConditionOfFacilityValue](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ConditionOfFacilityValue.html); Nullable: False; Default: functional; Visible: No|
 |STATUS                              |String(10,0,0)         |BGT; BGT status van het object; keuzelijst [status](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/status.html); Nullable: False; Default: bestaand; Visible: No|
-|OBJECTBEGINTIJD                     |Date(8,0,0)            |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
+|OBJECTBEGINTIJD                     |Date(8,0,0)            |PNH; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)            |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |RELATIEVEHOOGTELIGGING              |SmallInteger(0,5,0)    |BGT; Aanduiding voor de relatieve hoogte van het object; ; Nullable: False; Default: 0; Visible: Yes|
 |BEHEERDER                           |String(255,0,0)        |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.html); Nullable: True; Default: None; Visible: Yes|
@@ -66,22 +67,22 @@
 |LAST_EDITED_USER                    |String(50,0,0)         |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |LAST_EDITED_DATE                    |Date(8,0,0)            |PNH; Datum van de laatste mutatie, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |KP_CODE                             |Integer(15,0,0)        |PNH; kruispuntcode;  ; Nullable: True; Default: None; Visible: Yes|
-|WEGNR                               |String(15,0,0)         |PNH; Wegnr, bijv: N241; Nullable: True; Default: None; Visible: Yes|
-|EERSTELIJN                          |String(50,0,0)         |PNH; SP eerstelijn onderhoud; Nullable: True; Default: None; Visible: Yes|
-|TELEFOON                            |String(15,0,0)         |PNH; SP Telefoon; Nullable: True; Default: None; Visible: Yes|
-|KENMERKEN                           |String(255,0,0)        |PNH; SP Kenmerken; Nullable: True; Default: None; Visible: Yes|
-|LEVERANCIER                         |String(50,0,0)         |PNH; SP LEVERANCIER; Nullable: True; Default: None; Visible: Yes|
-|CONTACTNR                           |String(15,0,0)         |PNH; SP CONTACTNR; Nullable: True; Default: None; Visible: Yes|
-|OPMERKING_SP                        |String(255,0,0)        |PNH; SP OPMERKING_SP; Nullable: True; Default: None; Visible: Yes|
-|IMPACT_VEILIGHEID                   |Integer(0,10,0)        |PNH; SCORE IMPACT_VEILIGHEID; keuzelijst [VRI_SCORE_VEILIGHEID](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VEILIGHEID.html); Nullable: True; Default: None; Visible: Yes|
-|IMPACT_VERTRAGING_MIN               |Integer(0,10,0)        |PNH; SCORE IMPACT_VERTRAGING_MIN; keuzelijst [VRI_SCORE_VERTRAGING_MIN](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VERTRAGING_MIN.html); Nullable: True; Default: None; Visible: Yes|
-|OVERSTEEKBAARHEID                   |Integer(0,10,0)        |PNH; SCORE OVERSTEEKBAARHEID; keuzelijst [VRI_SCORE_OVERSTEEKBAARHEID](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_OVERSTEEKBAARHEID.html); Nullable: True; Default: None; Visible: Yes|
-|HINDER_LANGZAAM_VERKEER             |Integer(0,10,0)        |PNH; SCORE HINDER_LANGZAAM_VERKEER; keuzelijst [VRI_SCORE_HINDER_LANGZAAM_VERKEER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_HINDER_LANGZAAM_VERKEER.html); Nullable: True; Default: None; Visible: Yes|
-|HINDER_OV                           |Integer(0,10,0)        |PNH; SCORE HINDER_OV; ; Nullable: True; Default: None; Visible: Yes|
-|PRIO_NETWERKVISIE                   |Integer(0,10,0)        |PNH; SCORE PRIO_NETWERKVISIE; keuzelijst [VRI_SCORE_PRIO_NETWERKVISIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_PRIO_NETWERKVISIE.html); Nullable: True; Default: None; Visible: Yes|
-|VM_KWALITEITSNIVEAU                 |Integer(0,10,0)        |PNH; SCORE VM_KWALITEITSNIVEAU; keuzelijst [VRI_SCORE_VM_KWALITEITSNIVEAU](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VM_KWALITEITSNIVEAU.html); Nullable: True; Default: None; Visible: Yes|
-|TOTAALSCORE                         |Integer(0,10,0)        |PNH; TOTAALSCORE calculated field; Nullable: True; Default: None; Visible: Yes|
-|TOTAALPRIO                          |Integer(0,10,0)        |PNH; TOTAALPRIO calculated field; Nullable: True; Default: None; Visible: Yes|
+|WEGNR                               |String(15,0,0)         |PNH; Wegnr, bijv: N241;  ; Nullable: True; Default: None; Visible: Yes|
+|EERSTELIJN                          |String(50,0,0)         |PNH; SP eerstelijn onderhoud;  ; Nullable: True; Default: None; Visible: No|
+|TELEFOON                            |String(15,0,0)         |PNH; SP Telefoon;  ; Nullable: True; Default: None; Visible: No|
+|KENMERKEN                           |String(255,0,0)        |PNH; SP Kenmerken;  ; Nullable: True; Default: None; Visible: No|
+|LEVERANCIER                         |String(50,0,0)         |PNH; SP LEVERANCIER;  ; Nullable: True; Default: None; Visible: No|
+|CONTACTNR                           |String(15,0,0)         |PNH; SP CONTACTNR;  ; Nullable: True; Default: None; Visible: No|
+|OPMERKING_SP                        |String(255,0,0)        |PNH; SP OPMERKING_SP;  ; Nullable: True; Default: None; Visible: No|
+|IMPACT_VEILIGHEID                   |Integer(0,10,0)        |PNH; SCORE IMPACT_VEILIGHEID; keuzelijst [VRI_SCORE_VEILIGHEID](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VEILIGHEID.html); Nullable: True; Default: None; Visible: No|
+|IMPACT_VERTRAGING_MIN               |Integer(0,10,0)        |PNH; SCORE IMPACT_VERTRAGING_MIN; keuzelijst [VRI_SCORE_VERTRAGING_MIN](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VERTRAGING_MIN.html); Nullable: True; Default: None; Visible: No|
+|OVERSTEEKBAARHEID                   |Integer(0,10,0)        |PNH; SCORE OVERSTEEKBAARHEID; keuzelijst [VRI_SCORE_OVERSTEEKBAARHEID](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_OVERSTEEKBAARHEID.html); Nullable: True; Default: None; Visible: No|
+|HINDER_LANGZAAM_VERKEER             |Integer(0,10,0)        |PNH; SCORE HINDER_LANGZAAM_VERKEER; keuzelijst [VRI_SCORE_HINDER_LANGZAAM_VERKEER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_HINDER_LANGZAAM_VERKEER.html); Nullable: True; Default: None; Visible: No|
+|HINDER_OV                           |Integer(0,10,0)        |PNH; SCORE HINDER_OV; ; Nullable: True; Default: None; Visible: No|
+|PRIO_NETWERKVISIE                   |Integer(0,10,0)        |PNH; SCORE PRIO_NETWERKVISIE; keuzelijst [VRI_SCORE_PRIO_NETWERKVISIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_PRIO_NETWERKVISIE.html); Nullable: True; Default: None; Visible: No|
+|VM_KWALITEITSNIVEAU                 |Integer(0,10,0)        |PNH; SCORE VM_KWALITEITSNIVEAU; keuzelijst [VRI_SCORE_VM_KWALITEITSNIVEAU](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VRI_SCORE_VM_KWALITEITSNIVEAU.html); Nullable: True; Default: None; Visible: No|
+|TOTAALSCORE                         |Integer(0,10,0)        |PNH; TOTAALSCORE calculated field;  ; Nullable: True; Default: None; Visible: No|
+|TOTAALPRIO                          |Integer(0,10,0)        |PNH; TOTAALPRIO calculated field;  ; Nullable: True; Default: None; Visible: No|
 |SHAPE                               |Geometry(0,0,0)        |PNH; Punt; ; Nullable: False; Default: None; Visible: Yes|
 
 

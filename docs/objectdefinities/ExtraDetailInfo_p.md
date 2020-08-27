@@ -8,7 +8,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Punt
 * __Definitie:__ Puntgeometrie voor het leggen van een link naar aan een asset te koppelen document (nu enkel nog pdf's ondersteund).
-
+* __Mapping_NTA8035:__ bs:InformationObject
 
 ***
 

@@ -8,6 +8,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Geen
 * __Definitie:__Daadwerkelijke EV-prioriteittabel. De prioriteit die in deze tabel wordt opgegeven (let op: 1 = hoogste) is bepalend voor het EV-briefsjabloon dat wordt uitgestuurd. De waarden uit de kenmerken uit deze tabel zijn ook als placeholder te gebruiken in het te selecteren EV-sjabloon.
+* __Mapping_NTA8035:__ bs:InformationObject
 
 ***
 

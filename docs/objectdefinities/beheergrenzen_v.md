@@ -18,7 +18,8 @@ Waterverordening en Wegenverordening de publiekrechtelijke nadere regels voor de
 voor kan schrijven. Daarmee regelt de beheergrens eenduidigheid en transparantie over het beheer. Dit om te
 behoeden voor nadelige gevolgen voor beheerbaarheid, doorstroming en veiligheid van activiteiten op of rond
 de infrastructuur.
-
+* __Aanwezig in BeheerApp (onder alias)__: Alle BeheerApps als referentielaag - is niet bewerktbaar (Beheergrenzen)
+* __Mapping_NTA8035:__ bs:SpatialRegion
 
 ***
 
@@ -26,7 +27,7 @@ de infrastructuur.
 |------                              |----                  |-----    |
 |OBJECTID                            |OID(38,0,0)           |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
 |AD_ID                               |String(255,0,0)       |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
-|STATUS                              |String(255,0,0)       |PNH; Nadere toelichting op het beheer en onderhoud van het gebied indien bekend; ; Nullable: True; Default: None; Visible: No|
+|STATUS                              |String(255,0,0)       |PNH; Nadere toelichting op het beheer en onderhoud van het gebied indien bekend; ; Nullable: True; Default: None; Visible: Yes|
 |CREATED_USER                        |String(255,0,0)       |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |CREATED_DATE                        |Date(8,0,0)           |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |LAST_EDITED_USER                    |String(50,0,0)        |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|

@@ -13,8 +13,7 @@ audiovoorziening voor slechthorenden heefy én een stoplamp waarmee de reiziger 
 buschauffeur kan trekken. Werkt op zonnecellen.
 * __Mapping_BGT:__ x
 * __Mapping_Gisib:__ x
-
-
+* __Mapping_NTA8035:__ bs:PhysicalObject
 
 ***
 
@@ -25,7 +24,7 @@ buschauffeur kan trekken. Werkt op zonnecellen.
 |AD_ID                               |String(255,0,0)                               |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
 |VERWERKINGSSTATUS                   |String(255,0,0)                               |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |STATUS                              |String(10,0,0)                                |BGT; BGT status van het object; keuzelijst [status](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/status.html); Nullable: False; Default: bestaand; Visible: No|
-|OBJECTBEGINTIJD                     |Date(8,0,0)                                   |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
+|OBJECTBEGINTIJD                     |Date(8,0,0)                                   |PNH; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)                                   |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |BEHEERDER                           |String(255,0,0)                               |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.html); Nullable: True; Default: None; Visible: Yes|
 |ONDERHOUDER                         |String(255,0,0)                               |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/ONDERHOUDER.html); Nullable: True; Default: None; Visible: Yes|

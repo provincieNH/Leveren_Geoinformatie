@@ -8,6 +8,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Geen
 * __Definitie:__alle mogelijke werkzaamheden en duiding daarvan door de netbeheerder in termen van prioriteit.
+* __Mapping_NTA8035:__ bs:InformationObject
 
 ***
 

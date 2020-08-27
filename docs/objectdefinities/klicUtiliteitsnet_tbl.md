@@ -8,6 +8,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Geen
 * __Definitie:__Definitie van het utiliteitsnet waar de objecten waar een EV (eisvoorzorgsmaatregel) op van toepassing is onder vallen. Dit utiliteitsnet wordt omschreven onder het attribuut 'netbeheerderNetAanduiding' met een eigen naam. Deze naam hoeft niet per se te corresponderen met een bestaand utiliteitsnet, maar dient slechts als een van de variabelen, die bepaalt welke prioriteit aan een AanduidigsEisvoorzorgsmaatregelpolygoon dient te worden toegekend. Hierdoor kan bij een orientatie/graaf/calamiteitmelding op een locatie met overlappende AanduidingEisvoorzorgsmaatregelpolygonen, de polygoon met hoogste prioriteit, en het daaraan gekoppelde EV-brief-sjabloon geselecteerd worden. De kenmerken van deze tabel zijn ook kenmerken van de AanduidingEisvoorzorgsmaatregelpolygoon.
+* __Mapping_NTA8035:__ bs:InformationObject
 
 ***
 

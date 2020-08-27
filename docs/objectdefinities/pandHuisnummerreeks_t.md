@@ -11,6 +11,7 @@
 * __Definitie:__ Bevat de reeks nummeraanduidingen behorend bij het pand ten behoeve van visualisatie.
 * __Mapping_BGT:__ pandHuisnummerreeks_t
 * __Mapping_Gisib:__ x
+* __Mapping_NTA8035:__ bs:SpatialRegion
 
 ***
 

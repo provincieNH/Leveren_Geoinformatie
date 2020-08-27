@@ -9,6 +9,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Geen
 * __Definitie:__ Een verzameling netwerkelementen die tot 1 type IMKL utiliteitsnet behoren. Dit object wordt voorlopig gevuld obv het IMKL-conversie-model. Op termijn kan er voor gekozen worden deze waarden rechtstreeks uit andere objecten af te leiden.
+* __Mapping_NTA8035:__ bs:InformationObject
 
 ***
 
@@ -19,7 +20,7 @@
 |OBJECTID                            |OID(38,0,0)             |PNH; Interne ID ArcGIS; ; Nullable: False; Default: None; Visible: No|
 |GLOBALID                            |GlobalID(38,0,0)        |PNH; Global Unique Identifier; ; Nullable: False; Default: None; Visible: No|
 |AD_ID                               |String(255,0,0)         |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'; ; Nullable: False; Default: None; Visible: No|
-|OBJECTBEGINTIJD                     |Date(8,0,0)             |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: False; Default: None; Visible: No|
+|OBJECTBEGINTIJD                     |Date(8,0,0)             |PNH; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: False; Default: None; Visible: No|
 |OBJECTEINDTIJD                      |Date(8,0,0)             |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: No|
 |CREATED_USER                        |String(255,0,0)         |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |CREATED_DATE                        |Date(8,0,0)             |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|

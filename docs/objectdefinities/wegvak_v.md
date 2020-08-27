@@ -12,6 +12,7 @@
 Een wegvak is doorgaands 100 meter en loopt in de meeste gevallen gelijk aan de wegindexering (hectometerpalen). In de breedte dient een wegvak alle wegdelen en ondersteunende wegdelen te omvatten.
 * __Mapping_BGT:__ x
 * __Mapping_Gisib:__ Wegvak
+* __Mapping_NTA8035:__ bs:SpatialRegion
 
 ***
 
@@ -23,7 +24,7 @@ Een wegvak is doorgaands 100 meter en loopt in de meeste gevallen gelijk aan de 
 |GISIB_ID                            |Integer(0,10,0)       |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |IDENTIFICATIE                       |String(255,0,0)       |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
 |VERWERKINGSSTATUS                   |String(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
-|OBJECTBEGINTIJD                     |Date(8,0,0)           |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
+|OBJECTBEGINTIJD                     |Date(8,0,0)           |PNH; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)           |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |NUMMER                              |SmallInteger(0,5,0)   |PNH; Wegvak nummer, uniek per weg; ; Nullable: True; Default: None; Visible: Yes|
 |AFSTANDTOT                          |Float(0,25,10)        |PNH; Aanduiding bij welk wegindexeringspaal (hectometerpaal) het inspectievak eindigt; ; Nullable: True; Default: None; Visible: No|

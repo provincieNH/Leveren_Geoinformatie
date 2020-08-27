@@ -8,6 +8,7 @@
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Geen
 * __Definitie:__Definitie van de Eisvoorzorgsmaatregelen-sjabloonbrief/brieven.
+* __Mapping_NTA8035:__ bs:InformationObject
 
 ***
 

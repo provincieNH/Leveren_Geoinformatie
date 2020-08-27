@@ -14,6 +14,7 @@ Een faunaterugkeervoorziening kan geschikt zijn voor één of meerdere faunasoor
 -	Klapluik voor das (zie afbeelding).
 * __Mapping_BGT:__ x
 * __Mapping_Gisib:__ x
+* __Mapping_NTA8035:__ bs:PhysicalObject
 
 ***
 

@@ -12,7 +12,7 @@
 en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te land.
 * __Mapping_BGT:__ wegdeel_v
 * __Mapping_Gisib:__ Wegvakonderdeel, Ondersteunend wegvakonderdeel
-
+* __Mapping_NTA8035:__ bs:PhysicalObject
 
 ***
 
@@ -25,7 +25,7 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
 |IDENTIFICATIE                     |String(255,0,0)                                |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
 |VERWERKINGSSTATUS                 |String(255,0,0)                                |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |STATUS                            |String(10,0,0)                                 |BGT; BGT status van het object; keuzelijst [status](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/status.html); Nullable: False; Default: bestaand; Visible: No|
-|OBJECTBEGINTIJD                   |Date(8,0,0)                                    |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
+|OBJECTBEGINTIJD                   |Date(8,0,0)                                    |PNH; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                    |Date(8,0,0)                                    |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |RELATIEVEHOOGTELIGGING            |SmallInteger(0,5,0)                            |BGT; Aanduiding voor de relatieve hoogte van het object; ; Nullable: False; Default: 0; Visible: Yes|
 |BEHEERDER                         |String(255,0,0)                                |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.html); Nullable: True; Default: None; Visible: Yes|
@@ -37,31 +37,31 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
 |FUNCTIE                           |String(50,0,0)                                 |BGT; Functionele omschrijving van het object; keuzelijst [functieWGD](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/functieWGD.html); Nullable: False; Default: None; Visible: Yes|
 |OPTALUD                           |String(1,0,0)                                  |BGT; Ligt het object op een talud? Ja/Nee/Onbekend. Bij 'Ja', moet er een wegdeelKruin_l geregistreerd zijn; keuzelijst [OPTALUD](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/OPTALUD.html); Nullable: False; Default: N; Visible: No|
 |BREEDTE                           |Float(0,25,10)                                 |PNH; Breedte van het wegvakonderdeel (m, 2 decimalen); ; Nullable: True; Default: None; Visible: No|
-|COMFORT                           |String(255,0,0)                                |PNH; Comfort waarde; ; Nullable: True; Default: None; Visible: No|
-|COMFORT_DATE                      |Date(8,0,0)                                    |PNH; Datum comfort meting; ; Nullable: True; Default: None; Visible: No|
-|DEFLECTIE                         |String(255,0,0)                                |PNH; Deflectie waarde; ; Nullable: True; Default: None; Visible: No|
-|DEFLECTIE_DATE                    |Date(8,0,0)                                    |PNH; Datum deflectie meting; ; Nullable: True; Default: None; Visible: No|
+|COMFORT                           |String(255,0,0)                                |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
+|COMFORT_DATE                      |Date(8,0,0)                                    |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
+|DEFLECTIE                         |String(255,0,0)                                |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
+|DEFLECTIE_DATE                    |Date(8,0,0)                                    |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                         |String(255,0,0)                                |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
-|KOMGRENS                          |String(255,0,0)                                |PNH; Komgrens; ; Nullable: True; Default: None; Visible: Yes|
+|KOMGRENS                          |String(255,0,0)                                |PNH; Komgrens o.b.v. de wegenverkeerswet; ; Nullable: True; Default: None; Visible: Yes|
 |WEGTYPE                           |String(255,0,0)                                |PNH; Wegtype; keuzelijst [WEGTYPE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/WEGTYPE.html); Nullable: True; Default: None; Visible: Yes|
 |WEGINDELING                       |String(255,0,0)                                |PNH; Wegindeling; keuzelijst [WEGINDELING](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/WEGINDELING.html); Nullable: True; Default: None; Visible: No|
 |JAARAANLEG                        |SmallInteger(0,5,0)                            |PNH; Jaar aanleg van de weg; ; Nullable: True; Default: None; Visible: No|
 |JAARDEKLAAG                       |SmallInteger(0,5,0)                            |PNH; Jaar deklaag gelegd; ; Nullable: True; Default: None; Visible: No|
 |JAARHERSTRATEN                    |SmallInteger(0,5,0)                            |PNH; Jaar Herbestrating gelegd; ; Nullable: True; Default: None; Visible: No|
 |JAARVERNIEUWEN                    |SmallInteger(0,5,0)                            |PNH; TODO; ; Nullable: True; Default: None; Visible: No|
-|LANGSONVLAKHEID                   |String(255,0,0)                                |PNH; Waarde van langsonvlakheidmeting; ; Nullable: True; Default: None; Visible: No|
-|LANGSONVLAKHEID_DATE              |Date(8,0,0)                                    |PNH; Datum langsonvlakheid meting; ; Nullable: True; Default: None; Visible: No|
-|DWARSONVLAKHEID                   |String(255,0,0)                                |PNH; Dwarsonvlakheid meting; ; Nullable: True; Default: None; Visible: No|
-|DWARSONVLAKHEID_DATE              |Date(8,0,0)                                    |PNH; Datum dwarsonvlakheid meting; ; Nullable: True; Default: None; Visible: No|
-|INSPECTEUR                        |String(255,0,0)                                |PNH; Inspecterende partij spoorvorming, langsonvlakheid, dwarsonvlakheid; ; Nullable: True; Default: None; Visible: No|
+|LANGSONVLAKHEID                   |String(255,0,0)                                |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
+|LANGSONVLAKHEID_DATE              |Date(8,0,0)                                    |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
+|DWARSONVLAKHEID                   |String(255,0,0)                                |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
+|DWARSONVLAKHEID_DATE              |Date(8,0,0)                                    |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
+|INSPECTEUR                        |String(255,0,0)                                |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Inspecterende partij spoorvorming, langsonvlakheid, dwarsonvlakheid.; ; Nullable: True; Default: None; Visible: No|
 |LENGTE                            |Float(0,10,0)                                  |PNH; Lengte van het wegvakonderdeel (hele meters); ; Nullable: True; Default: None; Visible: Yes|
 |LENGTEVOEGEN                      |SmallInteger(0,5,0)                            |PNH; Lengte van de voegen (m); ; Nullable: True; Default: None; Visible: Yes|
-|SPOORVORMING                      |String(20,0,0)                                 |PNH; Waarde van de spoorvormingmeting; ; Nullable: True; Default: None; Visible: No|
-|SPOORVORMING_DATE                 |Date(8,0,0)                                    |PNH; Datum spoorvorming meting; ; Nullable: True; Default: None; Visible: No|
+|SPOORVORMING                      |String(20,0,0)                                 |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Waarde van de spoorvormingmeting; ; Nullable: True; Default: None; Visible: No|
+|SPOORVORMING_DATE                 |Date(8,0,0)                                    |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Datum spoorvorming meting; ; Nullable: True; Default: None; Visible: No|
 |GEBRUIKSFUNCTIE                   |String(255,0,0)                                |PNH; Gebruiksfunctie conform CROW; keuzelijst [GEBRUIKSFUNCTIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/GEBRUIKSFUNCTIE.html); Nullable: True; Default: None; Visible: Yes|
 |SITUERING                         |String(255,0,0)                                |PNH; Situering conform CROW (L: Links, M: Midden en R: Rechts); keuzelijst [SITUERING](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/SITUERING.html); Nullable: True; Default: None; Visible: Yes|
-|STROEFHEID                        |String(20,0,0)                                 |PNH; Waarde van de stroefheidmeting; ; Nullable: True; Default: None; Visible: No|
-|STROEFHEID_DATE                   |Date(8,0,0)                                    |PNH; Datum stroefheid meting; ; Nullable: True; Default: None; Visible: No|
+|STROEFHEID                        |String(20,0,0)                                 |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting; ; Nullable: True; Default: None; Visible: No|
+|STROEFHEID_DATE                   |Date(8,0,0)                                    |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting; ; Nullable: True; Default: None; Visible: No|
 |VERHARDING                        |String(255,0,0)                                |PNH; Verharding object conform CROW; keuzelijst [VERHARDING](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERHARDING.html); Nullable: True; Default: None; Visible: No|
 |VERHARDINGCATEGORIE               |String(255,0,0)                                |PNH; Verharding categorie conform CROW; keuzelijst [VERHARDING_CATEGORIE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERHARDING_CATEGORIE.html); Nullable: True; Default: None; Visible: Yes|
 |WGV_AFSTANDTOT                    |Float(0,25,10)                                 |PNH; Wegvak, Aanduiding bij welk wegindexeringspaal (hectometerpaal) het inspectievak eindigt; ; Nullable: True; Default: None; Visible: No|
@@ -103,5 +103,10 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
  |
  |open verharding tegels A | ![open verharding tegels A](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding tegels A\wegdeel_fysiekvoorkomen_openverharding.jpg)
  |
-
+ |gecombineerd fietspad rijstrook | ![gecombineerd fietspad rijstrook](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gecombineerd fietspad rijstrook\gecombineerd_fietspad_rijstrook.png)
+ |
+ 
+ ### Illustratie van Situering
+ |Situering | ![Situering](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\Situering\Situering.jpg)
+ |
 ***

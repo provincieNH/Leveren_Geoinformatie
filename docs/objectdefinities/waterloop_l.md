@@ -11,7 +11,7 @@
 * __Definitie:__ Terrein ingericht voor afvoer en berging van oppervlaktewater. BGT kent alleen vlakken. Dit objecttype zal uitgefaseerd worden.
 * __Mapping_BGT:__ x
 * __Mapping_Gisib:__ Waterloop
-
+* __Mapping_NTA8035:__ bs:PhysicalObject
 
 ***
 
@@ -23,7 +23,7 @@
 |GISIB_ID                            |Integer(0,10,0)                               |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |IDENTIFICATIE                       |String(255,0,0)                               |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
 |STATUS                              |String(10,0,0)                                |BGT; BGT status van het object; keuzelijst [status](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/status.html); Nullable: False; Default: bestaand; Visible: No|
-|OBJECTBEGINTIJD                     |Date(8,0,0)                                   |BGT; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: False; Default: None; Visible: Yes|
+|OBJECTBEGINTIJD                     |Date(8,0,0)                                   |BGT; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: False; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)                                   |BGT; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |VERWERKINGSSTATUS                   |String(255,0,0)                               |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |BEHEERDER                           |String(255,0,0)                               |PNH; Beheerder van het object; keuzelijst [BEHEERDER](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/BEHEERDER.html); Nullable: True; Default: None; Visible: Yes|
