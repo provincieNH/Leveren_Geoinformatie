@@ -12,7 +12,7 @@ __Toekomstige releases__
 
 Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
 In voorbereiding zijn de volgende releases:
-* __4.2:d4__: Minor release: Het up-to-date houden van alle domeinen en polijsten van de domeinverschillen tussen de huidige versie van AD en de documentatie daarvan. AD 4.2_d4 staat op de planning om uit te komen in **September 2020**.
+* __4.2:d4__: Minor release: Het up-to-date houden van alle domeinen en polijsten van de domeinverschillen tussen de huidige versie van AD en de documentatie daarvan. AD 4.2_d4 staat op de planning om uit te komen in **December 2020**.
 
 Doorontwikkeling gaat volgens dit proces:
 
