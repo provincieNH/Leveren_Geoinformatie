@@ -35,7 +35,7 @@
 |BGTPLUSTYPE                       |String(50,0,0)          |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeKWDVlak]; Nullable: False; Default: None; Visible: No|
 |FUNCTIE                           |String(255,0,0)         |PNH; Functie; ; Nullable: True; Default: None; Visible: No|
 |AANLEGJAAR                        |SmallInteger(0,4,0)     |PNH; Aanlegjaar; ; Nullable: True; Default: None; Visible: No|
-|OPMERKING                           |String(255,0,0)        |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
+|OPMERKING                         |String(255,0,0)         |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
 |FOTO                              |String(255,0,0)         |PNH; Locatie van de foto op de S schijf bij PNH. Deze hoeft niet gevuld te worden door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                        |String(255,0,0)         |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |KERENDEHOOGTE                     |Float(0,25,10)          |PNH; Bovenkant van de constructie tov NAP; ; Nullable: True; Default: None; Visible: Yes|

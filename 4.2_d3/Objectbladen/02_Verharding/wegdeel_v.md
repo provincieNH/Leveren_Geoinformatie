@@ -42,7 +42,7 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
 |DEFLECTIE                         |String(255,0,0)                                |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
 |DEFLECTIE_DATE                    |Date(8,0,0)                                    |PNH; Dit attribuut wordt automatisch afgeleid uit de laatste crowmeting. Zie crowMeting_tbl; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                         |String(255,0,0)                                |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
-|KOMGRENS                          |String(255,0,0)                                |PNH; Komgrens; ; Nullable: True; Default: None; Visible: Yes|
+|KOMGRENS                          |String(255,0,0)                                |PNH; Komgrens o.b.v. de wegenverkeerswet; ; Nullable: True; Default: None; Visible: Yes|
 |WEGTYPE                           |String(255,0,0)                                |PNH; Wegtype; keuzelijst [WEGTYPE]; Nullable: True; Default: None; Visible: Yes|
 |WEGINDELING                       |String(255,0,0)                                |PNH; Wegindeling; keuzelijst [WEGINDELING]; Nullable: True; Default: None; Visible: No|
 |JAARAANLEG                        |SmallInteger(0,5,0)                            |PNH; Jaar aanleg van de weg; ; Nullable: True; Default: None; Visible: No|
@@ -104,5 +104,9 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
  |open verharding tegels A | ![open verharding tegels A](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding tegels A\wegdeel_fysiekvoorkomen_openverharding.jpg)
  |
  |gecombineerd fietspad rijstrook | ![gecombineerd fietspad rijstrook](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gecombineerd fietspad rijstrook\gecombineerd_fietspad_rijstrook.png)
+ |
+ 
+ ### Illustratie van Situering
+ |Situering | ![Situering](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\Situering\Situering.jpg)
  |
 ***

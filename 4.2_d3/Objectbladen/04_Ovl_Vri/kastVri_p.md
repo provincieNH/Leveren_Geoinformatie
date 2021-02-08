@@ -67,13 +67,13 @@
 |LAST_EDITED_USER                    |String(50,0,0)         |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |LAST_EDITED_DATE                    |Date(8,0,0)            |PNH; Datum van de laatste mutatie, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |KP_CODE                             |Integer(15,0,0)        |PNH; kruispuntcode;  ; Nullable: True; Default: None; Visible: Yes|
-|WEGNR                               |String(15,0,0)         |PNH; Wegnr, bijv: N241; Nullable: True; Default: None; Visible: Yes|
-|EERSTELIJN                          |String(50,0,0)         |PNH; SP eerstelijn onderhoud; Nullable: True; Default: None; Visible: No|
-|TELEFOON                            |String(15,0,0)         |PNH; SP Telefoon; Nullable: True; Default: None; Visible: No|
-|KENMERKEN                           |String(255,0,0)        |PNH; SP Kenmerken; Nullable: True; Default: None; Visible: No|
-|LEVERANCIER                         |String(50,0,0)         |PNH; SP LEVERANCIER; Nullable: True; Default: None; Visible: No|
-|CONTACTNR                           |String(15,0,0)         |PNH; SP CONTACTNR; Nullable: True; Default: None; Visible: No|
-|OPMERKING_SP                        |String(255,0,0)        |PNH; SP OPMERKING_SP; Nullable: True; Default: None; Visible: No|
+|WEGNR                               |String(15,0,0)         |PNH; Wegnr, bijv: N241;  ; Nullable: True; Default: None; Visible: Yes|
+|EERSTELIJN                          |String(50,0,0)         |PNH; SP eerstelijn onderhoud;  ; Nullable: True; Default: None; Visible: No|
+|TELEFOON                            |String(15,0,0)         |PNH; SP Telefoon;  ; Nullable: True; Default: None; Visible: No|
+|KENMERKEN                           |String(255,0,0)        |PNH; SP Kenmerken;  ; Nullable: True; Default: None; Visible: No|
+|LEVERANCIER                         |String(50,0,0)         |PNH; SP LEVERANCIER;  ; Nullable: True; Default: None; Visible: No|
+|CONTACTNR                           |String(15,0,0)         |PNH; SP CONTACTNR;  ; Nullable: True; Default: None; Visible: No|
+|OPMERKING_SP                        |String(255,0,0)        |PNH; SP OPMERKING_SP;  ; Nullable: True; Default: None; Visible: No|
 |IMPACT_VEILIGHEID                   |Integer(0,10,0)        |PNH; SCORE IMPACT_VEILIGHEID; keuzelijst [VRI_SCORE_VEILIGHEID]; Nullable: True; Default: None; Visible: No|
 |IMPACT_VERTRAGING_MIN               |Integer(0,10,0)        |PNH; SCORE IMPACT_VERTRAGING_MIN; keuzelijst [VRI_SCORE_VERTRAGING_MIN]; Nullable: True; Default: None; Visible: No|
 |OVERSTEEKBAARHEID                   |Integer(0,10,0)        |PNH; SCORE OVERSTEEKBAARHEID; keuzelijst [VRI_SCORE_OVERSTEEKBAARHEID]; Nullable: True; Default: None; Visible: No|
@@ -81,8 +81,8 @@
 |HINDER_OV                           |Integer(0,10,0)        |PNH; SCORE HINDER_OV; ; Nullable: True; Default: None; Visible: No|
 |PRIO_NETWERKVISIE                   |Integer(0,10,0)        |PNH; SCORE PRIO_NETWERKVISIE; keuzelijst [VRI_SCORE_PRIO_NETWERKVISIE]; Nullable: True; Default: None; Visible: No|
 |VM_KWALITEITSNIVEAU                 |Integer(0,10,0)        |PNH; SCORE VM_KWALITEITSNIVEAU; keuzelijst [VRI_SCORE_VM_KWALITEITSNIVEAU]; Nullable: True; Default: None; Visible: No|
-|TOTAALSCORE                         |Integer(0,10,0)        |PNH; TOTAALSCORE calculated field; Nullable: True; Default: None; Visible: No|
-|TOTAALPRIO                          |Integer(0,10,0)        |PNH; TOTAALPRIO calculated field; Nullable: True; Default: None; Visible: No|
+|TOTAALSCORE                         |Integer(0,10,0)        |PNH; TOTAALSCORE calculated field;  ; Nullable: True; Default: None; Visible: No|
+|TOTAALPRIO                          |Integer(0,10,0)        |PNH; TOTAALPRIO calculated field;  ; Nullable: True; Default: None; Visible: No|
 |SHAPE                               |Geometry(0,0,0)        |PNH; Punt; ; Nullable: False; Default: None; Visible: Yes|
 
 
