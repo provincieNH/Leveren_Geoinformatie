@@ -26,7 +26,7 @@
 |OBJECTBEGINTIJD                     |Date(8,0,0)        |PNH; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |Date(8,0,0)        |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |WEGZIJDE                            |String(10,0,0)     |PNH; Kant van de weg; keuzelijst [WEGZIJDE](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/WEGZIJDE.html); Nullable: True; Default: None; Visible: Yes|
-|HECTOMETER                          |String(255,0,0)    |PNH; Hectometer aanduiding; ; Nullable: True; Default: None; Visible: Yes|
+|HECTOMETER                          |String(255,0,0)    |PNH; Hectometer aanduiding, gescheiden door een komma; ; Nullable: True; Default: None; Visible: Yes|
 |WEG_OF_VAARWEGNUMMER                |String(255,0,0)    |PNH; Het nummer van de naastgelegen (vaar)weg of het OV-traject; ; Nullable: True; Default: None; Visible: Yes|
 |DATALEVERANCIER                     |String(255,0,0)    |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
 |CREATED_USER                        |String(255,0,0)    |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|

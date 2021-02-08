@@ -15,7 +15,7 @@
 
 ***
 
-|__KOLOM__                         |__TYPE (length, precision, scale)__      |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
+|__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                            |----          	    |-----    |
 |OBJECTID                          |OID(0,38,0)         |PNH; Interne ID ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
 |FEATUREID                         |Integer(0,10,0)     |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|

@@ -32,7 +32,7 @@
 |ACHTERGRONDSCHILD                   |String(255,0,0)        |PNH; Achtergrond schild aanwezig; ; Nullable: True; Default: None; Visible: No|
 |DATUMPLAATSING                      |Date(8,0,0)            |PNH; Datum plaatsing; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                           |String(255,0,0)        |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
-|LANTAARNNUMMER                      |String(255,0,0)        |PNH; Lantaarn Nummer; ; Nullable: True; Default: None; Visible: Yes|
+|LANTAARNNUMMER                      |String(255,0,0)        |PNH; Lantaarn Nummer, gescheiden door een punt; ; Nullable: True; Default: None; Visible: Yes|
 |LEVENSVERWACHTING                   |SmallInteger(0,5,0)    |PNH; Levensverwachting; ; Nullable: True; Default: None; Visible: No|
 |PLANJAAR                            |SmallInteger(0,5,0)    |PNH; Het geplande jaar dat het object vervangen wordt; ; Nullable: True; Default: None; Visible: No|
 |FABRIKANTTYPECODE                   |String(255,0,0)        |PNH; Fabrikanttypecode; ; Nullable: True; Default: None; Visible: Yes|
