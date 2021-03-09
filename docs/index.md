@@ -17,4 +17,6 @@ In voorbereiding zijn de volgende releases:
 Doorontwikkeling gaat volgens dit proces:
 
 
-![proces doorontwikkeling Areaaldata](doorontwikkeling_areaaldata_4x_proces.png){:height="945px" width="810px"}
+![proces doorontwikkeling Areaaldata](doorontwikkeling_areaaldata_4x_proces.png)
+
+[comment]: <> ({:height="945px" width="810px"})
