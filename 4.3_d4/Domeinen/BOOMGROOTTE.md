@@ -9,5 +9,5 @@
 | 1e grootte | 1e grootte |
 | 2e grootte | 2e grootte |
 | 3e grootte | 3e grootte |
-| Vormboom kleinder dan 3 m | Vormboom kleinder dan 3 m |
+| Vormboom kleiner dan 3 m | Vormboom kleinder dan 3 m |
 | Vormboom groter dan 3 m | Vormboom groter dan 3 m |

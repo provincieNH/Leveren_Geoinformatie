@@ -26,7 +26,7 @@ de infrastructuur.
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE(oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)__|
 |------                              |----                  |-----    |
 |OBJECTID                            |OID(38,0,0)           |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
-|GLOBALID                            |GlobalID(38,0,0)      |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
+|GLOBALID                            |GlobalID(38,0,0)      |PNH; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken; ; Nullable: False; Default: None; Visible: Yes|
 |AD_ID                               |TEXT(255,0,0)         |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
 |STATUS                              |TEXT(255,0,0)         |PNH; Nadere toelichting op het beheer en onderhoud van het gebied indien bekend; ; Nullable: True; Default: None; Visible: Yes|
 |OPMERKING                           |TEXT(255,0,0)         |PNH; Toevoeging van subjectieve informatie met betrekking tot opmerkelijke waarnemingen; ; Nullable: True; Default: None; Visible: Yes|

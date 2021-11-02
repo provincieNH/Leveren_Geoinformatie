@@ -18,14 +18,14 @@
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
 |------                              |----                     |-----    |
 |OBJECTID                            |OID(38,0,0)              |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
-|GLOBALID                            |GlobalID(38,0,0)         |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
+|GLOBALID                            |GlobalID(38,0,0)         |PNH; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken; ; Nullable: False; Default: None; Visible: Yes|
 |AD_ID                               |TEXT(255,0,0)            |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: Yes|
 |VAARWEGBERMSLOOT                    |TEXT(255,0,0)            |BGT; Vaarweg of Bermsloot; keuzelijst [VAARWEGBERMSLOOT]; Nullable: True; Default: None; Visible: No|
 |GISIB_ID                            |LONG(0,10,0)             |PNH; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer; ; Nullable: True; Default: None; Visible: No|
 |BGTPLUSTYPE                         |TEXT(50,0,0)             |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeSHDWater]; Nullable: False; Default: None; Visible: No|
 |IDENTIFICATIE                       |TEXT(255,0,0)            |BGT; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
 |VERWERKINGSSTATUS                   |TEXT(255,0,0)            |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
-|STATUS                              |TEXT(10,0,0)             |BGT; BGT status van het object; keuzelijst [status]; Nullable: False; Default: bestaand; Visible: No|
+|STATUS                              |TEXT(10,0,0)             |BGT; BGT status van het object; keuzelijst [Status]; Nullable: False; Default: bestaand; Visible: No|
 |OBJECTBEGINTIJD                     |DATE(8,0,0)              |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |DATE(8,0,0)              |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
 |RELATIEVEHOOGTELIGGING              |SHORT(0,5,0)             |BGT; Aanduiding voor de relatieve hoogte van het object; ; Nullable: False; Default: 0; Visible: Yes|
@@ -47,7 +47,7 @@
 |HOOGTE                              |FLOAT(0,10,0)            |PNH; Hoogte boven het gemiddelde waterpeil; ; Nullable: True; Default: None; Visible: Yes|
 |RESTLEVENSDUUR                      |SHORT(0,5,0)             |PNH; Restlevensduur (berekend op basis van planjaar en datum inspectieopname; ; Nullable: True; Default: None; Visible: No|
 |ZIJDE                               |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
-|MATERIAALTYPE                       |TEXT(255,0,0)            |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
+|MATERIAALTYPE                       |TEXT(255,0,0)            |PNH; Gerbuikte materiaal van het hoofdobject (damwand, kademuur of walbescherming); keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
 |HECTOMETER                          |TEXT(255,0,0)            |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |FABRIKANT                           |TEXT(255,0,0)            |PNH; Fabrikant; ; Nullable: True; Default: None; Visible: No|
 |GARANTIECERTIFICAAT                 |TEXT(255,0,0)            |PNH; Garantie certificaat aanwezig; ; Nullable: True; Default: None; Visible: No|

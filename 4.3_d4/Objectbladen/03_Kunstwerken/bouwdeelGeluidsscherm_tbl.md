@@ -28,7 +28,7 @@
 |VERWERKINGSSTATUS                   |TEXT(255,0,0)          |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
 |OBJECTBEGINTIJD                     |DATE(8,0,0)            |BGT; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |DATE(8,0,0)            |BGT; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|
-|GLOBALID                            |GlobalID(38,0,0)       |PNH; Global Unique Identifier; ; Nullable: False; Default: None; Visible: No|
+|GLOBALID                            |GlobalID(38,0,0)       |PNH; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken; ; Nullable: False; Default: None; Visible: No|
 |GISIB_ID                            |LONG(0,10,0)           |PNH; ID beheer openbare ruimte (GISIB); ; Nullable: True; Default: None; Visible: No|
 |LOCATIEDUIDING                      |String(255,0,0)        |PNH; Om de locatie van verschillende bouwdelen aan te duiden; keuzelijst [LOCATIEDUIDING]; Nullable: True; Default: None; Visible: Yes|
 |AD_ID                               |TEXT(255,0,0)          |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'; ; Nullable: False; Default: None; Visible: Yes|

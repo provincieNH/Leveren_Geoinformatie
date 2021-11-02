@@ -17,7 +17,7 @@
 |OBJECTID                            |OID(38,0,0)          |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
 |VERWERKINGSSTATUS                   |TEXT(255,0,0)        |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS]; Nullable: False; Default: Nieuw; Visible: Yes|
 |IDENTIFICATIE                       |TEXT(255,0,0)        |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
-|GLOBALID                            |GlobalID(38,0,0)     |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
+|GLOBALID                            |GlobalID(38,0,0)     |PNH; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken; ; Nullable: False; Default: None; Visible: Yes|
 |GISIB_ID                            |LONG(0,10,0)         |PNH; ID beheer openbare ruimte (GISIB); ; Nullable: True; Default: None; Visible: No|
 |AD_ID                               |TEXT(255,0,0)        |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'; ; Nullable: False; Default: None; Visible: Yes|
 |NAAM                                |TEXT(255,0,0)        |PNH; Naam van de Concessieverlener; ; Nullable: True; Default: None; Visible: Yes|

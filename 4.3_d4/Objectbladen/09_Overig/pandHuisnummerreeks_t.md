@@ -43,7 +43,7 @@
 |IDENTIFICATIEBAGVBOLAAGSTEHNR     |TEXT(16,0,0)        |PNH; Beschrijving; ; Nullable: False; Default: None; Visible: No|
 |IDENTIFICATIEBAGVBOHOOGSTEHNR     |TEXT(16,0,0)        |PNH; Beschrijving; ; Nullable: True; Default: None; Visible: No|
 |IDENTIFICATIE                     |TEXT(255,0,0)       |PNH; Beschrijving; ; Nullable: False; Default: None; Visible: No|
-|GLOBALID                          |GlobalID(38,0,0)    |PNH; Global Unique Identifier, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: Yes|
+|GLOBALID                          |GlobalID(38,0,0)    |PNH; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken; ; Nullable: False; Default: None; Visible: Yes|
 |CREATED_USER                      |TEXT(255,0,0)       |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |CREATED_DATE                      |DATE(8,0,0)         |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |LAST_EDITED_USER                  |TEXT(50,0,0)        |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
