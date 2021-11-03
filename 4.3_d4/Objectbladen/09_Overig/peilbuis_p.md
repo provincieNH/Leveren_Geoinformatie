@@ -19,10 +19,10 @@
 |------                          	 |----          	     |-----    |
 |OBJECTID                            |OID(38,0,0)            |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None; Visible: No|
 |GLOBALID                            |GlobalID(38,0,0)       |PNH; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken; ; Nullable: False; Default: None; Visible: Yes|
-|Peilbuis                            |TEXT(20,0,0)           |PNH; Peilbuisidentificatie afkomstig uit BRO; Nullable: False; Default: None; Visible: No|
-|Hoogte_cm                           |LONG(0,10,0)           |PNH; Gemeten hoogte in cm; Nullable: True; Default: None; Visible: No|
-|AantalFilters                       |LONG(0,10,0)           |PNH; Aantal filters in de peilbuis; Nullable: True; Default: None; Visible: No|
-|Diepte_m                            |LONG(0,10,0)           |PNH; Diepte van de buis in m; Nullable: True; Default: None; Visible: No|
+|Peilbuis                            |TEXT(20,0,0)           |PNH; Peilbuisidentificatie afkomstig uit BRO; ;Nullable: False; Default: None; Visible: No|
+|Hoogte_cm                           |LONG(0,10,0)           |PNH; Gemeten hoogte in cm; ;Nullable: True; Default: None; Visible: No|
+|AantalFilters                       |LONG(0,10,0)           |PNH; Aantal filters in de peilbuis; ;Nullable: True; Default: None; Visible: No|
+|Diepte_m                            |LONG(0,10,0)           |PNH; Diepte van de buis in m; ;Nullable: True; Default: None; Visible: No|
 |AD_ID                               |TEXT(255,0,0)          |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer; ; Nullable: False; Default: None; Visible: No|
 |HUIDIGESTATUS                       |TEXT(50,0,0)           |PNH; Huidige status; keuzelijst [ConditionOfFacilityValue]; Nullable: False; Default: functional; Visible: No|
 |OBJECTBEGINTIJD                     |DATE(8,0,0)            |PNH; Datum waarop het object bij de bronhouder is ontstaan; ; Nullable: True; Default: None; Visible: No|
