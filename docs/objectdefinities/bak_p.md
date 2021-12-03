@@ -13,7 +13,7 @@
 * __Aanwezig in BeheerApp (onder alias)__: Verharding (wegvakonderdeel)
 * __Mapping_NTA8035:__ bs:PhysicalObject
 
-![Bak](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\06_Meubilair\bak_type_afvalbak_0.jpg)
+![Bak](C:\Leveren_Geoinformatie\4.3_d4\Objectbladen\06_Meubilair\bak_type_afvalbak_0.jpg)
 
 ***
 
