@@ -9,7 +9,7 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Een abri, gerepresenteerd als punt. 
-![Abri illustratie](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\08_Haltes\abri.jpg)
+![Abri illustratie](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\08_Haltes\abri.jpg)
 * __Mapping_BGT:__ overigBouwwerk_v
 * __Mapping_Gisib:__ Abri, Overig Bouwwerk
 * __Mapping_NTA8035:__ bs:PhysicalObject
