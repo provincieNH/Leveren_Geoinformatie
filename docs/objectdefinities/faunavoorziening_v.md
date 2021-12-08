@@ -59,6 +59,6 @@
 
  |__Naam__ | __Illustratie__ |
  |-----------------------------------------|----|
- |faunavoorziening_decompositie |[faunavoorziening_decompositie ](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_Landschap_milieu\faunavoorziening_decompositie.png)
+ |faunavoorziening_decompositie |[faunavoorziening_decompositie ](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_Landschap_milieu\faunavoorziening_decompositie.png)
  |
 ***

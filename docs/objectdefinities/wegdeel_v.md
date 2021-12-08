@@ -93,20 +93,21 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
  
  |__Fysiek voorkomen__ | __Illustratie__ |
  |-----------------------------------------|----|
- |gesloten verharding asfalt A en C |[gesloten verharding asfalt A en C ](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gesloten verharding asfalt A en C\asfalt.jpg)
+ |gesloten verharding asfalt A en C |![gesloten verharding asfalt A en C ](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gesloten verharding asfalt A en C\asfalt.jpg)
  |
- |half verhard grasklinkers |![half verhard grasklinkers](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\half verhard grasklinkers\wegdeel_fysiekvoorkomen_halfverhard_plusgrasklinkers.jpg)
+ |half verhard grasklinkers |![half verhard grasklinkers](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\half verhard grasklinkers\wegdeel_fysiekvoorkomen_halfverhard_plusgrasklinkers.jpg)
  |
- |open verharding beton element C | ![open verharding beton element C](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding beton element C\wegdeel_fysiekvoorkomen_openverharding.jpg)
+ |open verharding beton element C | ![open verharding beton element C](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding beton element C\wegdeel_fysiekvoorkomen_openverharding.jpg)
  |
- |open verharding sierbestrating B en C |![open verharding sierbestrating B en C ](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding sierbestrating B en D\sierbestrating.jpg)
+ |open verharding sierbestrating B en C |![open verharding sierbestrating B en C ](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding sierbestrating B en D\sierbestrating.jpg)
  |
- |open verharding tegels A | ![open verharding tegels A](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding tegels A\wegdeel_fysiekvoorkomen_openverharding.jpg)
+ |open verharding tegels A | ![open verharding tegels A](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding tegels A\wegdeel_fysiekvoorkomen_openverharding.jpg)
  |
- |gecombineerd fietspad rijstrook | ![gecombineerd fietspad rijstrook](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gecombineerd fietspad rijstrook\gecombineerd_fietspad_rijstrook.png)
+ |gecombineerd fietspad rijstrook | ![gecombineerd fietspad rijstrook](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gecombineerd fietspad rijstrook\gecombineerd_fietspad_rijstrook.png)
  |
  
  ### Illustratie van Situering
- |Situering | ![Situering](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\00_Illustraties\illustraties_wegdeel_v\Situering\Situering.jpg)
+ |Situering | ![Situering](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\Situering\Situering.jpg)
  |
 ***
+

@@ -8,7 +8,7 @@
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
-* __Definitie:__ Paal; Langwerpig stuk hout, ijzer, steen enz., dat in de grond staat. __LET OP:__ Areaaldata maakt onderscheidt in objecten die een primaire functie hebben als draagconstructie, deze worden in paalDraagconstructie_P of mastDraagconstructie_p geadministreerd. Objecten die primair bedoelt zijn om iets af te bakenen worden in dit objecttype geadministreerd. Dit zijn o.a. Bermplanken, Indexeringspalen en Schamppalen. ![Bermplank](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\06_Meubilair\bermplank.png)
+* __Definitie:__ Paal; Langwerpig stuk hout, ijzer, steen enz., dat in de grond staat. __LET OP:__ Areaaldata maakt onderscheidt in objecten die een primaire functie hebben als draagconstructie, deze worden in paalDraagconstructie_P of mastDraagconstructie_p geadministreerd. Objecten die primair bedoelt zijn om iets af te bakenen worden in dit objecttype geadministreerd. Dit zijn o.a. Bermplanken, Indexeringspalen en Schamppalen. ![Bermplank](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\06_Meubilair\bermplank.png)
 * __Mapping_BGT:__ paal_p
 * __Mapping_Gisib:__ Paal, Bermplank, Indexeringspaal
 * __Mapping_NTA8035:__ bs:PhysicalObject

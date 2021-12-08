@@ -8,7 +8,7 @@
 * __Herkomst Definitie:__ BGT/PNH
 * __Positionele nauwkeurigheid:__ 15 cm 
 * __Geometrie:__ Lijn
-* __Definitie:__ Een fysiek detectiesysteem bestaande uit wikkelingen (lussen) in het wegdek bijvoorbeeld voor het beïnvloeden van de regeling van verkeerslichten of een virtueel detectieveld van een videodetector of radardetector, gebruikt voor het beïnvloeden van regelingen van verkeerslichten ![Lus](D:\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.2d3\Objectbladen\04_Ovl_Vri\lus_1.png)
+* __Definitie:__ Een fysiek detectiesysteem bestaande uit wikkelingen (lussen) in het wegdek bijvoorbeeld voor het beïnvloeden van de regeling van verkeerslichten of een virtueel detectieveld van een videodetector of radardetector, gebruikt voor het beïnvloeden van regelingen van verkeerslichten ![Lus](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\04_Ovl_Vri\lus_1.png)
 * __Mapping_BGT:__ sensor_l
 * __Mapping_Gisib:__ Lus
 * __Mapping_NTA8035:__ bs:PhysicalObject
