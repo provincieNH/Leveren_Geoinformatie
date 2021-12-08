@@ -103,7 +103,7 @@ en relaties en primair bedoeld voor gebruik door weg-, spoor- en vliegverkeer te
  |
  |open verharding tegels A | ![open verharding tegels A](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\open verharding tegels A\wegdeel_fysiekvoorkomen_openverharding.jpg)
  |
- |gecombineerd fietspad rijstrook | ![gecombineerd fietspad rijstrook](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gecombineerd fietspad rijstrook\gecombineerd_fietspad_rijstrook.png)
+ |gecombineerd fietspad rijstrook | ![gecombineerd fietspad rijstrook](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_wegdeel_v\fysiekVoorkomenWGD\gecombineerd fietspad rijstrook\gecombineerd_fietspad_rijstrook.PNG)
  |
  
  ### Illustratie van Situering

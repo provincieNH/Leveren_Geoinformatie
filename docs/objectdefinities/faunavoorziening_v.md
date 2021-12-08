@@ -59,6 +59,6 @@
 
  |__Naam__ | __Illustratie__ |
  |-----------------------------------------|----|
- |faunavoorziening_decompositie |[faunavoorziening_decompositie ](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_Landschap_milieu\faunavoorziening_decompositie.png)
+ |faunavoorziening_decompositie |![faunavoorziening_decompositie ](https://github.com/provincieNH/Leveren_Geoinformatie/raw/master/4.3_d4/Objectbladen\00_Illustraties\illustraties_Landschap_milieu\faunavoorziening_decompositie.png)
  |
 ***
