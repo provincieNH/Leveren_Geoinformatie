@@ -37,7 +37,7 @@
 |BERMFUNCTIE                        |TEXT(255,0,0)               |PNH; Berm functie; keuzelijst [BERM_FUNCTIE]; Nullable: True; Default: None; Visible: No|
 |TYPE_BEHEER                        |TEXT(50,0,0)                |PNH; Type beheer (maaien, klepelen, uitzuigen etc); keuzelijst [TYPE_BEHEER]; Nullable: True; Default: None; Visible: Yes|
 |TYPEPLAAGINVASIESOORT              |TEXT(255,0,0)               |PNH; Type plaagsoort. Indien op een bermperceel Japanse duizendknoop voor komt, dan wordt deze ingevuld, ongeacht het oppervlak of aantal ten opzichte van andere soorten uit de domeinlijst. Komt er geen Japanse duizendknoop voor op een perceel, dan wordt de soort ingevuld die geschat qua oppervlak het meeste voorkomt in dat perceel; keuzelijst [TYPE_PLAAGSOORT_LAND]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                              |TEXT(10,0,0)                |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                              |TEXT(10,0,0)                |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |BIJZONDEREWAARDE                   |TEXT(255,0,0)               |PNH; Indicatie van bijzondere waarde; ; Nullable: True; Default: None; Visible: No|
 |DATUMAANPLANTING                   |DATE(8,0,0)                 |PNH; Datum aanplanting; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                          |TEXT(255,0,0)               |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
@@ -80,25 +80,25 @@
 
  |__Fysiek voorkomen__ | __Illustratie__ |
  |---------------------------------- |---- |
- |gesloten verharding asfalt A en C |![gesloten verharding asfalt A en C](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\gesloten verharding asfalt A en C\asfalt.jpg)
+ |gesloten verharding asfalt A en C |![gesloten verharding asfalt A en C](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\gesloten verharding asfalt A en C\asfalt.jpg)
  |
- |groenvoorziening bodembedekkers|![groenvoorziening bodembedekkers](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening bodembedekkers\BTDl_fysiekvoorkomen_groenvoorziening_plusbodembedekkers.jpg)
+ |groenvoorziening bodembedekkers|![groenvoorziening bodembedekkers](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening bodembedekkers\BTDl_fysiekvoorkomen_groenvoorziening_plusbodembedekkers.jpg)
  |
- |groenvoorziening bosplantsoen | ![groenvoorziening bosplantsoen ](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening bosplantsoen\BTD_fysiekvoorkomen_groenvoorziening_plusbosplantsoen.jpg)
+ |groenvoorziening bosplantsoen | ![groenvoorziening bosplantsoen ](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening bosplantsoen\BTD_fysiekvoorkomen_groenvoorziening_plusbosplantsoen.jpg)
  |
- |groenvoorziening heesters |![groenvoorziening heesters](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening heesters\BTD_fysiekvoorkomen_groenvoorziening_plusheesters.png)
+ |groenvoorziening heesters |![groenvoorziening heesters](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening heesters\BTD_fysiekvoorkomen_groenvoorziening_plusheesters.png)
  |
- |groenvoorziening planten | ![groenvoorziening planten](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening planten\BTD_fysiekvoorkomen_groenvoorziening_plusplanten.jpg)
+ |groenvoorziening planten | ![groenvoorziening planten](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening planten\BTD_fysiekvoorkomen_groenvoorziening_plusplanten.jpg)
  |
- |groenvoorziening struikrozen | ![groenvoorziening struikrozen](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening struikrozen\BTD_fysiekvoorkomen_groenvoorziening_plusstruikrozen.jpg)
+ |groenvoorziening struikrozen | ![groenvoorziening struikrozen](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\groenvoorziening struikrozen\BTD_fysiekvoorkomen_groenvoorziening_plusstruikrozen.jpg)
  |
- |half verhard grasklinkers | ![half verhard grasklinkers](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\half verhard grasklinkers\WGD_fysiekvoorkomen_halfverhard_plusgrasklinkers.jpg)
+ |half verhard grasklinkers | ![half verhard grasklinkers](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\half verhard grasklinkers\WGD_fysiekvoorkomen_halfverhard_plusgrasklinkers.jpg)
  |
- |open verharding beton element B | ![open verharding beton element B ](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\open verharding beton element B\betonelement.jpg)
+ |open verharding beton element B | ![open verharding beton element B ](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\open verharding beton element B\betonelement.jpg)
  |
- |open verharding sierbestrating B en D | ![open verharding sierbestrating B en D ](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\open verharding sierbestrating B en D\sierbestrating.jpg)
+ |open verharding sierbestrating B en D | ![open verharding sierbestrating B en D ](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\open verharding sierbestrating B en D\sierbestrating.jpg)
  |
- |open verharding tegels A | ![open verharding tegels A](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\open verharding tegels A\WGD_fysiekvoorkomen_openverharding.jpg)
+ |open verharding tegels A | ![open verharding tegels A](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_ondersteunendWegdeel_v\open verharding tegels A\WGD_fysiekvoorkomen_openverharding.jpg)
  |
 
 ***

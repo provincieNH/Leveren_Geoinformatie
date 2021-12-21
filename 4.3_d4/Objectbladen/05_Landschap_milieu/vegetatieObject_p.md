@@ -35,7 +35,7 @@
 |BOOMSOORT                          |TEXT(255,0,0)                                  |PNH; Boomsoort; keuzelijst [BOOMSOORT]; Nullable: True; Default: None; Visible: Yes|
 |DATUMAANPLANTING                   |DATE(8,0,0)                                    |PNH; Jaar aanplanting; ; Nullable: True; Default: None; Visible: No|
 |DATUM_LAATSTE_ONDERH               |DATE(8,0,0)                                    |PNH; Datum laatst onderhoud; ; Nullable: True; Default: None; Visible: No|
-|DIAMETER                           |SHORT(0,5,0)                                   |PNH; Diameter in cm; keuzelijst [DIAMETER] ; Nullable: True; Default: None; Visible: Yes|
+|DIAMETER                           |TEXT(50,0,0)                                   |PNH; Diameter in cm; keuzelijst [DIAMETER] ; Nullable: True; Default: None; Visible: Yes|
 |STREEFBEELD                        |TEXT(255,0,0)                                  |PNH; Concrete visuele doelstelling; keuzelijst [EINDBEELD] ; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                         |TEXT(255,0,0)                                  |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |INSPECTEUR                         |TEXT(255,0,0)                                  |PNH; Naam van de inspecteur die laatste inspectie heeft uitgevoerd; ; Nullable: True; Default: None; Visible: No|
@@ -47,7 +47,7 @@
 |GROEIPLAATSINRICHTING              |TEXT(255,0,0)                                  |NIB; Toegepaste constructie en hoofdsamenstelling van de groeiplaats/bodem; keuzelijst [Groeiplaatsinrichting]; Nullable: True; Default: None; Visible: No|
 |SNOEIFASE                          |TEXT(255,0,0)                                  |PNH; Snoeifase; keuzelijst [SNOEIFASE]; Nullable: True; Default: None; Visible: Yes|
 |TERMIJN_UITVOERING                 |TEXT(255,0,0)                                  |PNH; Termijn waarbinnen de geadviseerde maatregelen uitgevoerd dienen te worden; ; Nullable: True; Default: None; Visible: No|
-|ZIJDE                              |TEXT(10,0,0)                                   |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: Yes|
+|ZIJDE                              |TEXT(10,0,0)                                   |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: Yes|
 |JAAR_PLAATSING_AANLEG_GESCHAT      |TEXT(1,0,0)                                    |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N; Visible: No|
 |TRAJECT                            |TEXT(255,0,0)                                  |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM]; Nullable: True; Default: None; Visible: Yes|
 |DATALEVERANCIER                    |TEXT(255,0,0)                                  |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|

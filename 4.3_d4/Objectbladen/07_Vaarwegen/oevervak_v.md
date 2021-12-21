@@ -9,7 +9,7 @@
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ Vlak
-* __Definitie:__ Een Oevervak is de rand van een kanaal, vaarweg of rivier. Het begint bij bodem van het nautisch profiel en gaat door tot 1m achter de oeverconstructie. __NB:__ Dit is het equivalent van Beheerobject bij Vaarwegen conform de NEN 2767-4 Decompositie. Een oevervak is ongeveer 100 meter lang en bestaat uit een uniforme oeverconstructie. De Oeverconstructie zelf is vastgelegd in [AREAALDATA.scheidingWater_l] en [AREAALDATA.bouwdeelOevervak_tbl]
+* __Definitie:__ Een Oevervak is de rand van een kanaal, vaarweg of rivier. Het begint bij bodem van het nautisch profiel en gaat door tot 1m achter de oeverconstructie. __NB:__ Dit is het equivalent van Beheerobject bij Vaarwegen conform de NEN 2767-4 Decompositie. Een oevervak is ongeveer 100 meter lang en bestaat uit een uniforme oeverconstructie. De Oeverconstructie zelf is vastgelegd in [AREAALDATA.elementOevervak_tbl] en [AREAALDATA.bouwdeelOevervak_tbl]
 * __Mapping_BGT:__ x
 * __Mapping_Gisib:__ Oevervak
 * __Mapping_NTA8035:__ bs:SpatialRegion
@@ -29,7 +29,7 @@
 |ONDERHOUDER                         |TEXT(255,0,0)        |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: Yes|
 |EIGENAAR                            |TEXT(255,0,0)        |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: Yes|
 |TYPESPEC                            |TEXT(255,0,0)        |PNH; Nadere typering van het object; keuzelijst [typeSpecOEV]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(255,0,0)        |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(255,0,0)        |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |OPMERKING                           |TEXT(255,0,0)        |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
 |GEBRUIK                             |TEXT(255,0,0)        |PNH; Daadwerkelijk gebruik vd oever; ; Nullable: True; Default: None; Visible: No|
 |HMBEGIN                             |FLOAT(0,25,10)       |PNH; Begin Hectometrering van Oevervak; ; Nullable: True; Default: None; Visible: No|

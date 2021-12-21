@@ -24,7 +24,7 @@
 |BEHEERDER                           |TEXT(255,0,0)       |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None; Visible: Yes|
 |HM_MIN                              |DOUBLE(0,0,0)       |PNH; Begin HM van het traject; ; Nullable: True; Default: None; Visible: Yes|
 |HM_MAX                              |DOUBLE(0,0,0)       |PNH; Eind HM van het traject; ; Nullable: True; Default: None; Visible: Yes|
-|WEGNR                               |TEXT(25,0,0)        |PNH; Nummer van de weg; Nullable: True; Default: None; Visible: Yes|
+|WEGNR                               |TEXT(25,0,0)        |PNH; Nummer van de weg; ;Nullable: True; Default: None; Visible: Yes|
 |OPMERKING                           |TEXT(255,0,0)       |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTBEGINTIJD                     |DATE(8,0,0)         |PNH; Datum waarop het object voor het eerst volgens het areaaldata datamodel wordt vastgelegd ; ; Nullable: True; Default: None; Visible: Yes|
 |OBJECTEINDTIJD                      |DATE(8,0,0)         |PNH; Datum waarop het object bij de bronhouder niet meer geldig is; ; Nullable: True; Default: None; Visible: Yes|

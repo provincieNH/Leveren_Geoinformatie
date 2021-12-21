@@ -2,6 +2,7 @@
 
 *__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ Ed Lamper*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|

@@ -13,7 +13,7 @@
 * __Aanwezig in BeheerApp (onder alias)__: Verharding (wegvakonderdeel)
 * __Mapping_NTA8035:__ bs:PhysicalObject
 
-![Bak](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\06_Meubilair\bak_type_afvalbak_0.jpg)
+![Bak](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\06_Meubilair\bak_type_afvalbak_0.jpg)
 
 ***
 
@@ -32,7 +32,7 @@
 |EIGENAAR                            |TEXT(255,0,0)          |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: Yes|
 |TYPESPEC                            |TEXT(255,0,0)          |PNH; Nadere typering van het object; keuzelijst [typeSpecBAK]; Nullable: True; Default: None; Visible: Yes|
 |BGTPLUSTYPE                         |TEXT(50,0,0)           |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeBAK]; Nullable: False; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(10,0,0)           |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)           |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |OPMERKING                           |TEXT(255,0,0)          |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
 |HECTOMETER                          |TEXT(255,0,0)          |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |TRAJECT                             |TEXT(255,0,0)          |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM]; Nullable: True; Default: None; Visible: Yes|

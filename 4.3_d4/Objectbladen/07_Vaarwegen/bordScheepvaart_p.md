@@ -31,7 +31,7 @@
 |TYPESPEC                            |TEXT(255,0,0)          |PNH; Nadere typering van het object; keuzelijst [typeSpecBRDScheepvaart]; Nullable: True; Default: None; Visible: Yes|
 |BGTPLUSTYPE                         |TEXT(50,0,0)           |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeBRD]; Nullable: False; Default: None; Visible: No|
 |DATALEVERANCIER                     |TEXT(255,0,0)          |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
-|ZIJDE                               |TEXT(255,0,0)          |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(255,0,0)          |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |BPRTYPEBORD                         |TEXT(255,0,0)          |PNH; Officiele code van het bord als bij TYPESPEC 'BPR bord' is ingevuld; ; Nullable: True; Default: None; Visible: Yes|
 |DATUMPLAATSING                      |DATE(8,0,0)            |PNH; Datum Plaatsing; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                           |TEXT(255,0,0)          |PNH; Toevoeging van subjectieve informatie met betrekking tot opmerkelijke waarnemingen; ; Nullable: True; Default: None; Visible: No|

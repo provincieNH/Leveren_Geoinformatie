@@ -38,7 +38,7 @@
 |DATALEVERANCIER                     |TEXT(255,0,0)          |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
 |VOLGNR                              |LONG(0,10,0)           |PNH; Indien een reeks van dezelfde bouwdelen voorkomen dan dienen deze worden met een volgnummer te worden geduid. De nummering dient logischerwijs te worden gestart met noord georiënteerde item als eerste te benoemen en vervolgens de daaropvolgende items door te nummeren met de klok mee.; keuzelijst [VOLGNUMMER]; Nullable: True; Default: None; Visible: No |
 |WINDRICHTING                        |TEXT(255,0,0)          |PNH; Om de locatie van verschillende bouwdelen aan te duiden; keuzelijst [WINDRICHTING]; Nullable: True; Default: None; Visible: Yes|
-|LOCATIEDUIDING                      |TEXT(255,0,0)          |PNH; Om de locatie van verschillende bouwdelen aan te duiden waar volgnr en windrichting niet volstaan; keuzelijst [Locatieduiding]; Nullable: True; Default: None; Visible: Yes|
+|LOCATIEDUIDING                      |TEXT(255,0,0)          |PNH; Om de locatie van verschillende bouwdelen aan te duiden waar volgnr en windrichting niet volstaan; keuzelijst [LOCATIEDUIDING]; Nullable: True; Default: None; Visible: Yes|
 |AANTAL_BOUWDELEN                    |LONG(0,10,0)           |PNH; Indien een of meer dezelfde bouwdelen als een enkel bouwdeel mogen worden opgenomen, kan in dit attribuut worden aangegeven hoeveel bouwdelen het betreft. Let op: Enkel door PNH in te vullen; ; Nullable: True; Default: 1; Visible: No |
 |CAD_CODE                            |TEXT(255,0,0)          |PNH; Afkorting van het bouwdeel zoals opgenomen in bijbehorende CAD-tekeningen; keuzelijst [CAD_code]; Nullable: True; Default: None; Visible: Yes|
 

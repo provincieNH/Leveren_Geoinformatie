@@ -33,7 +33,7 @@
 |VERTICALE_POSITIE                   |LONG(0,10,0)           |PNH; Verticale positie; keuzelijst [VerticalePositie]; Nullable: False; Default: 3; Visible: No|
 |TYPESPEC                            |TEXT(255,0,0)          |PNH; Nadere typering van het object; keuzelijst [typeSpecINS]; Nullable: True; Default: None; Visible: Yes|
 |BGTPLUSTYPE                         |TEXT(50,0,0)           |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeINS]; Nullable: False; Default: None; Visible: No|
-|ZIJDE                               |TEXT(10,0,0)           |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)           |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                          |TEXT(255,0,0)          |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |TRAJECT                             |TEXT(255,0,0)          |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM]; Nullable: True; Default: None; Visible: Yes|
 |DATALEVERANCIER                     |TEXT(255,0,0)          |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|

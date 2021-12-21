@@ -32,7 +32,7 @@
 |BGTPLUSTYPE                         |TEXT(50,0,0)              |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeSTM]; Nullable: False; Default: None; Visible: No|
 |HOOGTE                              |FLOAT(0,10,0)             |PNH; Hoogte van het lichtpunt in meter; ; Nullable: True; Default: None; Visible: Yes|
 |MATERIAALTYPE                       |TEXT(20,0,0)              |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                          |TEXT(255,0,0)             |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |CONTACTPERSOON                      |TEXT(255,0,0)             |PNH; Contactpersoon namens de herdenkers; ; Nullable: True; Default: None; Visible: No|
 |DATUMAANLEG                         |DATE(8,0,0)               |PNH; Datum Aanleg; ; Nullable: True; Default: None; Visible: No|

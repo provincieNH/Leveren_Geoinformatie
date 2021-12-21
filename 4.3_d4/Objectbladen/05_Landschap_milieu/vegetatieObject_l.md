@@ -11,7 +11,7 @@
 * __Geometrie:__ Lijn
 * __Definitie:__ Een lijnvormige beplanting van struiken. In verschijningsvorm variabel in breedte en hoogte. Vlakken zijn onderdeel van BGT object Begroeid terreindeel.
 
-![Heg](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\05_Landschap_milieu\heg.png)
+![Heg](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\05_Landschap_milieu\heg.png)
 * __Mapping_BGT:__ vegetatieObject_l
 * __Mapping_Gisib:__ Heg
 * __Mapping_NTA8035:__ bs:PhysicalObject
@@ -35,7 +35,7 @@
 |BGTPLUSTYPE                         |TEXT(50,0,0)                                  |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeVGOLijn]; Nullable: False; Default: None; Visible: No|
 |HEGFUNCTIE                          |TEXT(255,0,0)                                 |PNH; Hegfunctie; ; Nullable: True; Default: None; Visible: No|
 |FLORASOORT                          |TEXT(255,0,0)                                 |PNH; Florasoort; keuzelijst [FLORASOORT]; Nullable: True; Default: None; Visible: No|
-|ZIJDE                               |TEXT(10,0,0)                                  |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)                                  |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |DATUMAANPLANTING                    |DATE(8,0,0)                                   |PNH; Jaar aanplanting; ; Nullable: True; Default: None; Visible: No|
 |JAAR_PLAATSING_AANLEG_GESCHAT       |TEXT(1,0,0)                                   |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N; Visible: No|
 |OPMERKING                           |TEXT(255,0,0)                                 |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|

@@ -30,7 +30,7 @@
 |ONDERHOUDER                         |TEXT(255,0,0)           |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: Yes|
 |EIGENAAR                            |TEXT(255,0,0)           |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: Yes|
 |TYPESPEC                            |TEXT(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecPUT]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(10,0,0)            |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)            |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                          |TEXT(255,0,0)           |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |OPMERKING                           |TEXT(255,0,0)           |PNH; Toevoeging van subjectieve informatie met betrekking tot opmerkelijke waarnemingen; ; Nullable: True; Default: None; Visible: No|
 |INNETWERK                           |TEXT(255,0,0)           |PNH; Verwijzende sleutel naar utiliteitsNet_tbl (simpel); ; Nullable: True; Default: None; Visible: No|

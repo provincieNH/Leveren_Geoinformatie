@@ -43,7 +43,7 @@
 |PLANJAAR                            |SHORT(0,5,0)            |PNH; Planjaar; ; Nullable: True; Default: None; Visible: No|
 |RESTLEVENSDUUR                      |SHORT(0,5,0)            |PNH; Restlevensduur (berekend op basis van planjaar en datum inspectieopname; ; Nullable: True; Default: None; Visible: No|
 |MATERIAALTYPE                       |TEXT(20,0,0)            |PNH; Type materiaal; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(10,0,0)            |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)            |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |FUNDERING                           |TEXT(255,0,0)           |PNH; Fundering; ; Nullable: True; Default: None; Visible: No|
 |FABRIKANT                           |TEXT(255,0,0)           |PNH; Fabrikant; ; Nullable: True; Default: None; Visible: No|
 |GARANTIECERTIFICAAT                 |TEXT(255,0,0)           |PNH; Garantie certificaat aanwezig; ; Nullable: True; Default: None; Visible: No|

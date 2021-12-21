@@ -39,7 +39,7 @@
 |OPMERKING                           |TEXT(255,0,0)           |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|
 |PLANJAAR                            |SHORT(0,5,0)            |PNH; Het geplande jaar dat het object vervangen wordt; ; Nullable: True; Default: None; Visible: No|
 |RESTLEVENSDUUR                      |SHORT(0,5,0)            |PNH; Restlevensduur; ; Nullable: True; Default: None; Visible: No|
-|ZIJDE                               |TEXT(255,0,0)           |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(255,0,0)           |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |DATALEVERANCIER                     |TEXT(255,0,0)           |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
 |CREATED_USER                        |TEXT(255,0,0)           |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |CREATED_DATE                        |DATE(8,0,0)             |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
@@ -59,6 +59,6 @@
 
  |__Naam__ | __Illustratie__ |
  |-----------------------------------------|----|
- |faunavoorziening_decompositie |[faunavoorziening_decompositie ](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_Landschap_milieu\faunavoorziening_decompositie.png)
+ |faunavoorziening_decompositie |[faunavoorziening_decompositie ](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\00_Illustraties\illustraties_Landschap_milieu\faunavoorziening_decompositie.png)
  |
 ***

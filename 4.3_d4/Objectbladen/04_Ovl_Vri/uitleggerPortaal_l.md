@@ -10,7 +10,7 @@
 * __Geometrie:__ Lijn
 * __Definitie:__ Uitlegger/Portaal is het lijnvormige element van een uitlegger of portaal. In het geval van een uitlegger bestaat het totaal uit 1 mast (object in paalDraagconstructie_p) en een object in uitleggerPortaal_l. In het geval van een portaal bestaat het geheel uit 2 masten (objecten in paalDraagconstructie_p) en een object in uitleggerPortaal_l. Aan een uitleggePortaal kunnen vervolgens lantaarns of armaturen gekoppeld zijn.
 
-![Portaal](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\04_Ovl_Vri\portaal_uithouder.png)
+![Portaal](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\04_Ovl_Vri\portaal_uithouder.png)
 * __Mapping_BGT:__ x
 * __Mapping_Gisib:__ Uitlegger portaal
 * __Mapping_NTA8035:__ bs:PhysicalObject

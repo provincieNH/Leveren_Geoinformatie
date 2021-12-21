@@ -46,7 +46,7 @@
 |HMEIND                              |FLOAT(0,25,10)           |PNH; Hectometrering eind beschoeiing; ; Nullable: True; Default: None; Visible: No|
 |HOOGTE                              |FLOAT(0,10,0)            |PNH; Hoogte boven het gemiddelde waterpeil; ; Nullable: True; Default: None; Visible: Yes|
 |RESTLEVENSDUUR                      |SHORT(0,5,0)             |PNH; Restlevensduur (berekend op basis van planjaar en datum inspectieopname; ; Nullable: True; Default: None; Visible: No|
-|ZIJDE                               |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |MATERIAALTYPE                       |TEXT(255,0,0)            |PNH; Gerbuikte materiaal van het hoofdobject (damwand, kademuur of walbescherming); keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
 |HECTOMETER                          |TEXT(255,0,0)            |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |FABRIKANT                           |TEXT(255,0,0)            |PNH; Fabrikant; ; Nullable: True; Default: None; Visible: No|

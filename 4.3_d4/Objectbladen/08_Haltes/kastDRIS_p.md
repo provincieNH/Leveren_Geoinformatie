@@ -34,7 +34,7 @@
 |VERTICALE_POSITIE                   |LONG(0,10,0)           |PNH; Verticale positie; keuzelijst [VerticalePositie]; Nullable: False; Default: 3; Visible: No|
 |TYPESPEC                            |TEXT(255,0,0)          |PNH; Nadere typering van het object; keuzelijst [typeSpecKSTDRIS] ; Nullable: True; Default: None; Visible: Yes|
 |BGTPLUSTYPE                         |TEXT(50,0,0)           |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeKST]; Nullable: False; Default: None; Visible: No|
-|ZIJDE                               |TEXT(10,0,0)           |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)           |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |DATUMGARANTIE                       |DATE(8,0,0)            |PNH; Datum en jaartal tot wanneer de garantie geldig is; ; Nullable: True; Default: None; Visible: No|
 |DATUMPLAATSING                      |DATE(8,0,0)            |PNH; Datum plaatsing; ; Nullable: True; Default: None; Visible: No|
 |AANTALGROEPEN                       |LONG(0,10,0)           |PNH; Aantal elektriciteitsgroepen aanwezig in de kast; ; Nullable: True; Default: None; Visible: Yes|

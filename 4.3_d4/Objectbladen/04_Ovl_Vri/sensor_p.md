@@ -36,7 +36,7 @@
 |PLANJAAR                            |SHORT(0,5,0)          |PNH; Planjaar; ; Nullable: True; Default: None; Visible: No|
 |TOPDESK_ID                          |TEXT(255,0,0)         |PNH; Verwijzing naar ObjectID TOPdesk ; ; Nullable: True; Default: None; Visible: No|
 |MATERIAALTYPE                       |TEXT(255,0,0)         |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE] ; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(255,0,0)         |PNH; Zijde; keuzelijst [ZIJDE] ; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(255,0,0)         |PNH; Zijde; keuzelijst [Zijde] ; Nullable: True; Default: None; Visible: No|
 |HOOGTE                              |FLOAT(0,10,1)         |PNH; Hoogte in meters, 1 decimaal; ; Nullable: True; Default: None; Visible: Yes|
 |HECTOMETER                          |TEXT(255,0,0)         |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |DETECTIENUMMER                      |TEXT(255,0,0)         |PNH; Bestaat over het algemeen uit een hoofdletter, gevolgd door een cijfer (combinatie) met eventueel een decimaal die als punt wordt weergegeven. Voorbeeld: D2.1 of DM1; ; Nullable: True; Default: None; Visible: No|

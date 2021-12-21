@@ -10,7 +10,7 @@ Een PAAL is een object wat in eerste instantie bedoelt is om iets af te bakenen 
 ### Relaties
 
 
-![OVL&VRI relaties](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\04_Ovl_Vri\ovlvri_relaties.png)
+![OVL&VRI relaties](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\04_Ovl_Vri\ovlvri_relaties.png)
 
 ### BGT
 

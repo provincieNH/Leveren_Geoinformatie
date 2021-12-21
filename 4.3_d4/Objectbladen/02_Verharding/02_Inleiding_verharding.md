@@ -8,11 +8,11 @@ De bermen zijn hier ook gemodelleerd in ondersteunendWegdeel, evenals de inspect
 
 ### Relaties
 
-![Verharding](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\02_Verharding\verharding_relaties.png)
+![Verharding](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\02_Verharding\verharding_relaties.png)
 
 ### BGT
 
 Ten behoeve van de BGT hebben wegdelen en ondersteunende wegdelen een kruinlijn:
 
-![Kruijnlijn illustratie](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\02_Verharding\kruinlijn.png)
+![Kruijnlijn illustratie](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\02_Verharding\kruinlijn.png)
 

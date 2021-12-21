@@ -13,7 +13,7 @@
 * __Mapping_Gisib:__ Halte
 * __Mapping_NTA8035:__ bs:SpatialRegion
 
-![Halte illustratie](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\08_Haltes\halte.png)
+![Halte illustratie](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\08_Haltes\halte.png)
 
 ***
 

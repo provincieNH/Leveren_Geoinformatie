@@ -45,8 +45,7 @@
 |LEVENSVERWACHTING                   |SHORT(0,5,0)             |PNH; Levensverwachting; ; Nullable: True; Default: None; Visible: No|
 |PLANJAAR                            |SHORT(0,5,0)             |PNH; Het jaar dat nu gepland staat om item te vervangen; ; Nullable: True; Default: None; Visible: No|
 |LENGTEUITHOUDER2                    |FLOAT(0,25,10)           |PNH; De lengte van de uithouder indien aanwezig in meters, 2 decimalen achter de komma; ; Nullable: True; Default: None; Visible: Yes|
-|INNETWERK_VRI                       |TEXT(255,0,0)          |PNH; Verwijzende sleutel naar utiliteitsNet_tbl (simpel); ; Nullable: True; Default: None; Visible: Yes|
-|INNETWERK_OVL                       |TEXT(255,0,0)            |PNH; Verwijzende sleutel naar utiliteitsNet_tbl (simpel); ; Nullable: True; Default: None; Visible: Yes|
+|INNETWERK                           |String(255,0,0)          |PNH; Verwijzende sleutel naar utiliteitsNet_tbl (simpel); ; Nullable: True; Default: None; Visible: Yes|
 |VERTICALE_POSITIE                   |LONG(0,10,0)             |PNH; Verticale positie; keuzelijst [VerticalePositie]; Nullable: False; Default: 3; Visible: No|
 |TRAJECT                             |TEXT(255,0,0)            |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM]; Nullable: True; Default: None; Visible: Yes|
 |UITLEGGERPORTAAL                    |TEXT(255,0,0)            |PNH; Verwijzende sleutel naar uitleggerPortaal_l (simpel), als armatuur daarop is gemonteerd; ; Nullable: True; Default: None; Visible: No|

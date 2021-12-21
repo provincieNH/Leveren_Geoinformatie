@@ -8,7 +8,7 @@ Let op: bermen die binnen 2 meter van de weg liggen zijn opgenomen bij verhardin
 
 ### Relaties
 
-![Landschap & milieu relaties](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\05_Landschap_milieu\landschapmilieu_relaties.png)
+![Landschap & milieu relaties](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\05_Landschap_milieu\landschapmilieu_relaties.png)
 
 
 ***

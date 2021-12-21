@@ -2,6 +2,7 @@
 
 *__Domeinlijst versie:__ d4* *
 *herkomst IMKL1.2.1 definitie: https://definities.geostandaarden.nl/imkl2015/doc/waardelijst/RioolleidingTypeValue*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|

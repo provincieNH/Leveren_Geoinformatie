@@ -10,11 +10,11 @@ door een script op basis van een formule en waardes uit andere velden.
 
 In elk hoofdstuk worden de relaties binnen en buiten het thema geïllustreerd met een relatiediagram. Hierbij hoort onderstaande legenda:
 
-![Legenda](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\01_Algemeen\legenda_relaties.png)
+![Legenda](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\01_Algemeen\legenda_relaties.png)
 
 Het diagram voor de algemene objecten is:
 
-![Algemeen_relaties](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\01_Algemeen\algemeen_relaties.png)
+![Algemeen_relaties](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\01_Algemeen\algemeen_relaties.png)
 
 
 

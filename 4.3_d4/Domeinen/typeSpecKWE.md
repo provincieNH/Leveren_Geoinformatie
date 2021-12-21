@@ -2,6 +2,7 @@
 
 *__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ NEN2767-4, versie1.5 met kleine PNH-specifieke wijzigingen*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|

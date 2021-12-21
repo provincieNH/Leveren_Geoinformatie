@@ -38,7 +38,7 @@
 |FUNDERING                          |TEXT(255,0,0)             |PNH; Fundering; ; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                         |TEXT(255,0,0)             |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |HOOGTE                             |FLOAT(0,10,0)             |PNH; Hoogte in centimeter tov NAP; ; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                              |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                              |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |FABRIKANT                          |TEXT(255,0,0)             |PNH; Fabrikant; ; Nullable: True; Default: None; Visible: No|
 |MATERIAALTYPE                      |TEXT(20,0,0)              |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
 |FOTO                               |TEXT(255,0,0)             |PNH; Locatie van de foto op de S schijf bij PNH. Deze hoeft niet gevuld te worden door de aannemer; ; Nullable: True; Default: None; Visible: No|

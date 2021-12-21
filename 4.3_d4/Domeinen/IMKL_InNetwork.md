@@ -2,6 +2,7 @@
 
 *__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ eigen, tbv aansluiting op IMKL1.2.1*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|

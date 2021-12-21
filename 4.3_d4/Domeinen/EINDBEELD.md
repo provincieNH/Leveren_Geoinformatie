@@ -2,6 +2,7 @@
 
 *__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH: De getallen geven de takvrije ruimte aan die uiteindelijk bereikt moet worden. Aan de bermzijde een andere hoogte dan aan de wegzijde.*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|

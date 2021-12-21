@@ -45,7 +45,7 @@
 |LENGTE_VLAK                        |FLOAT(0,10,0)            |PNH; Lengte oever in hele meters, scriptmatig bepaald obv lengterichting waterdeel; ; Nullable: True; Default: None; Visible: Yes|
 |PLANJAAR                           |SHORT(0,5,0)             |PNH; Het geplande jaar dat het object vervangen wordt; ; Nullable: True; Default: None; Visible: No|
 |STREEFBEELD                        |TEXT(255,0,0)            |PNH; Concrete visuele doelstelling; ; Nullable: True; Default: None; Visible: No|
-|ZIJDE                              |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                              |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |OEVERVAK                           |TEXT(255,0,0)            |PNH; Verwijzende sleutel naar oevervak_v (simpel); ; Nullable: True; Default: None; Visible: Yes|
 |TRAJECT                            |TEXT(255,0,0)            |PNH; Verwijzende sleutel naar traject_v (simpel); keuzelijst [TRAJECT_NAAM]; Nullable: True; Default: None; Visible: Yes|
 |INONDERZOEK                        |TEXT(1,0,0)              |BGT; Een aanduiding waarmee wordt aangegeven dat een onderzoek wordt uitgevoerd naar de juistheid van een of meer gegevens van het betreffende object: Ja/Nee; keuzelijst [jaNee]; Nullable: False; Default: N; Visible: No|

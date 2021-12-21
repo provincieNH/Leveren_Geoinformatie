@@ -28,7 +28,7 @@
 |BEHEERDER                           |TEXT(255,0,0)        |PNH; Beheerder van het object; keuzelijst [BEHEERDER]; Nullable: True; Default: None; Visible: Yes|
 |ONDERHOUDER                         |TEXT(255,0,0)        |PNH; Onderhouder van het object; keuzelijst [ONDERHOUDER]; Nullable: True; Default: None; Visible: Yes|
 |EIGENAAR                            |TEXT(255,0,0)        |PNH; Eigenaar van het object; keuzelijst [INSTANTIE]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(255,0,0)        |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(255,0,0)        |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |CULTUURHISTORISCHE                  |TEXT(255,0,0)        |PNH; Cultuur Historische Waarde; ; Nullable: True; Default: None; Visible: No|
 |GEMIDDELDEBREEDTE                   |FLOAT(0,25,10)       |PNH; Gemiddelde Breedte; ; Nullable: True; Default: None; Visible: No|
 |HMBEGIN                             |FLOAT(0,25,10)       |PNH; Begin Hectometrering van Ligplaatsstrook; ; Nullable: True; Default: None; Visible: No|

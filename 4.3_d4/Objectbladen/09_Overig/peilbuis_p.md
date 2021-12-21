@@ -39,7 +39,7 @@
 |LAST_EDITED_USER                    |TEXT(50,0,0)           |PNH; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |LAST_EDITED_DATE                    |DATE(8,0,0)            |PNH; Datum van de laatste mutatie, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|       
 |TYPESPEC                            |TEXT(10,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecPBU]; Nullable: True; Default: None; Visible: Yes|
-|JAARAANLEG                          |LONG(255,0,0)          |PNH; Jaar waarin de peilbuis is aangelegd; Nullable: True; Default: None; Visible: No|
+|JAARAANLEG                          |LONG(255,0,0)          |PNH; Jaar waarin de peilbuis is aangelegd; ;Nullable: True; Default: None; Visible: No|
 |DATALEVERANCIER                     |TEXT(255,0,0)          |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
 |SHAPE                               |Geometry(0,0,0)        |PNH; Punt; ; Nullable: False; Default: None; Visible: No|
 

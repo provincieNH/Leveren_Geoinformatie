@@ -34,7 +34,7 @@
 |BRONHOUDER                        |TEXT(5,0,0)               |BGT; De bronhoudercode van het object; keuzelijst [bronhouder]; Nullable: False; Default: None; Visible: No|
 |TYPESPEC                          |TEXT(255,0,0)             |PNH; Nadere typering van het object; keuzelijst [typeSpecWTD]; Nullable: True; Default: None; Visible: Yes|
 |BREEDTEINSTEKEN                   |TEXT(255,0,0)             |PNH; Breedte tussen de twee kanten daar waar er een knik is tussen land en slootkant in meters (< 6 m of > 6 m); keuzelijst [BREEDTE_INSTEKEN]; Nullable: True; Default: None; Visible: No|
-|ZIJDE                             |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                             |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |AANLEGJAAR                        |SHORT(0,5,0)              |PNH; Aanlegjaar; ; Nullable: True; Default: None; Visible: No|
 |BREEDTENATPROFIEL                 |FLOAT(0,25,10)            |PNH; Breedte tussen de twee kanten van het water in centimeters; ; Nullable: True; Default: None; Visible: No|
 |OPMERKING                         |TEXT(255,0,0)             |PNH; Algemene opmerking voor het object, zoals een omschrijving of toelichting; ; Nullable: True; Default: None; Visible: Yes|

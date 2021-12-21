@@ -8,7 +8,7 @@
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
-* __Definitie:__ Paal; Langwerpig stuk hout, ijzer, steen enz., dat in de grond staat. __LET OP:__ Areaaldata maakt onderscheidt in objecten die een primaire functie hebben als draagconstructie, deze worden in paalDraagconstructie_P of mastDraagconstructie_p geadministreerd. Objecten die primair bedoelt zijn om iets af te bakenen worden in dit objecttype geadministreerd. Dit zijn o.a. Bermplanken, Indexeringspalen en Schamppalen. ![Bermplank](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\06_Meubilair\bermplank.png)
+* __Definitie:__ Paal; Langwerpig stuk hout, ijzer, steen enz., dat in de grond staat. __LET OP:__ Areaaldata maakt onderscheidt in objecten die een primaire functie hebben als draagconstructie, deze worden in paalDraagconstructie_P of mastDraagconstructie_p geadministreerd. Objecten die primair bedoelt zijn om iets af te bakenen worden in dit objecttype geadministreerd. Dit zijn o.a. Bermplanken, Indexeringspalen en Schamppalen. ![Bermplank](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\06_Meubilair\bermplank.png)
 * __Mapping_BGT:__ paal_p
 * __Mapping_Gisib:__ Paal, Bermplank, Indexeringspaal
 * __Mapping_NTA8035:__ bs:PhysicalObject
@@ -33,7 +33,7 @@
 |TYPESPEC                            |TEXT(255,0,0)           |PNH; Nadere typering van het object; keuzelijst [typeSpecPALAfbakening]; Nullable: True; Default: None; Visible: Yes|
 |MATERIAALTYPE                       |TEXT(255,0,0)           |PNH; Type materiaal; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
 |HECTOMETER                          |TEXT(255,0,0)           |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(255,0,0)           |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(255,0,0)           |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |WILDREFLECTOR                       |TEXT(1,0,0)             |PNH; Wildreflector aanwezig, Ja/Nee/Onbekend; keuzelijst [jaNeeOnbekend]; Nullable: True; Default: O; Visible: No|
 |ANTI_KERKUIL_ROL                    |TEXT(1,0,0)             |PNH; Aanwezigheid van een roller (al dan niet) ter voorkoming gebruik als zitplaats door kerkuilen (ter voorkoming van sterfte door aanrijding): Ja/Nee;	 keuzelijst [jaNee];	 Nullable: False;	 Default: N;	 Visible: No|	
 |DATUMPLAATSING                      |DATE(8,0,0)             |PNH; Datum plaatsing; ; Nullable: True; Default: None; Visible: No|

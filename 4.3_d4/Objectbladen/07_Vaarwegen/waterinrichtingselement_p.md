@@ -38,7 +38,7 @@
 |BEVESTIGINGSWIJZE                   |TEXT(255,0,0)            |PNH; Bevestigingswijze; keuzelijst [BEVESTIGINGSWIJZE]; Nullable: True; Default: None; Visible: No|
 |MATERIAALTYPE                       |TEXT(20,0,0)             |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
 |SOORT_ENERGIE                       |TEXT(10,0,0)             |PNH; Soort Energie; keuzelijst [SOORT_ENERGIE]; Nullable: True; Default: None; Visible: No|
-|ZIJDE                               |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |JAAR_PLAATSING_AANLEG_GESCHAT       |TEXT(1,0,0)              |PNH; Jaar plaatsing of aanleg is geschat: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N; Visible: No|
 |MAXBELASTING                        |TEXT(255,0,0)            |PNH; Maximale toegestaan kracht wat op de bolder mag uitgedrukt worden (eenheid?) TODO; ; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                          |TEXT(255,0,0)            |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|

@@ -9,7 +9,7 @@
 * __Positionele nauwkeurigheid:__ 15 cm
 * __Geometrie:__ Punt
 * __Definitie:__ Een abri, gerepresenteerd als punt. 
-![Abri illustratie](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\08_Haltes\abri.jpg)
+![Abri illustratie](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\08_Haltes\abri.jpg)
 * __Mapping_BGT:__ overigBouwwerk_v
 * __Mapping_Gisib:__ Abri, Overig Bouwwerk
 * __Mapping_NTA8035:__ bs:PhysicalObject
@@ -33,7 +33,7 @@
 |BGTPLUSTYPE                         |TEXT(50,0,0)              |BGT; Nadere type omschrijving in de BGT; ; Nullable: False; Default: niet-bgt:abri; Visible: No|
 |HOOGTE                              |FLOAT(0,10,0)             |PNH; Hoogte van het lichtpunt in meter; ; Nullable: True; Default: None; Visible: Yes|
 |MATERIAALTYPE                       |TEXT(255,0,0)             |PNH; Materiaalkeuze; keuzelijst [MATERIAALTYPE]; Nullable: True; Default: None; Visible: Yes|
-|ZIJDE                               |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                               |TEXT(10,0,0)              |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |HECTOMETER                          |TEXT(255,0,0)             |PNH; Hectometrering; ; Nullable: True; Default: None; Visible: Yes|
 |CONTACTPERSOON                      |TEXT(255,0,0)             |PNH; Contactpersoon namens de herdenkers; ; Nullable: True; Default: None; Visible: No|
 |DATUMAANLEG                         |DATE(8,0,0)               |PNH; Datum Aanleg; ; Nullable: True; Default: None; Visible: No|

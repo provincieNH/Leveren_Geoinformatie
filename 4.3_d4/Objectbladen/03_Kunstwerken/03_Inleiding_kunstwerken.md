@@ -17,7 +17,7 @@ Om te voldoen aan het vereiste van de BGT worden de objecten met een topografisc
 
 ### Relaties
 
-![Kunstwerk relaties](c:\git\bu_geodata_beheer_43d4\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\03_Kunstwerken\kw_relaties.png)
+![Kunstwerk relaties](D:\git\bu_geodata_beheer\gereedschap\documentatie\areaaldata_datamodel\4.3d4\Objectbladen\03_Kunstwerken\kw_relaties.png)
 
 ### BGT
 

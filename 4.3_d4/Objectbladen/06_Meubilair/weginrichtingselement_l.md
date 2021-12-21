@@ -36,7 +36,7 @@ dat voertuigen de weg in zijdelingse richting verlaten, kantelen of de middenber
 |GEBRUIKSFUNCTIE                   |TEXT(255,0,0)            |PNH; Gebruiksfunctie conform CROW; keuzelijst [GEBRUIKSFUNCTIE]; Nullable: True; Default: None; Visible: Yes|
 |TYPESPEC                          |TEXT(255,0,0)            |PNH; Nadere typering van het object; keuzelijst [typeSpecWGILijn]; Nullable: True; Default: None; Visible: Yes|
 |BGTPLUSTYPE                       |TEXT(50,0,0)             |BGT; Nadere type omschrijving in de BGT; keuzelijst [typeWGILijn]; Nullable: False; Default: None; Visible: No|
-|ZIJDE                             |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                             |TEXT(10,0,0)             |PNH; Zijde; keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |ANTIVERBLINDINGSSC                |TEXT(1,0,0)              |PNH; AntiVerblindingsScherm: Ja/Nee; keuzelijst [jaNee]; Nullable: True; Default: N; Visible: No|
 |BEVESTIGING                       |TEXT(255,0,0)            |PNH; Bevestiging; ; Nullable: True; Default: None; Visible: No|
 |DATUMPLAATSING                    |DATE(8,0,0)              |PNH; Datum Plaatsing; ; Nullable: True; Default: None; Visible: No|

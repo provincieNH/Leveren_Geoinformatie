@@ -34,7 +34,7 @@
 |SCHADE_OMVANG3                      |TEXT(255,0,0)         |PNH; Omvang schade; ; Nullable: True; Default: None; Visible: No|
 |INSP_INTENSITEIT3                   |TEXT(255,0,0)         |PNH; Intensiteit van de inspectie; ; Nullable: True; Default: None; Visible: No|
 |SCHADE_TOELICHTING3                 |TEXT(255,0,0)         |PNH; Toelichting schade; ; Nullable: True; Default: None; Visible: No|
-|BESCHOEIING_LM                      |TEXT(255,0,0)         |PNH; Verwijzende sleutel naar scheiding_l (simpel); ; Nullable: True; Default: None; Visible: No|
+|BESCHOEIING_LM                      |TEXT(255,0,0)         |PNH; Verwijzende sleutel naar scheidingWater_l (simpel); ; Nullable: True; Default: None; Visible: No|
 |DATALEVERANCIER                     |TEXT(255,0,0)         |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
 |IDENTIFICATIE                       |TEXT(255,0,0)         |PNH; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat: bevat indien van toepassing BGT/IMKL ID in format 'nl.imgeo/imkl.bronhouderscode.LokaalID' of anders: '00000'.LokaalID; ; Nullable: True; Default: None; Visible: No|
 |OBJECTID                            |OID(38,0,0)           |PNH; Interne ID ArcGIS; ; Nullable: False; Default: None; Visible: Yes|

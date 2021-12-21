@@ -35,7 +35,7 @@
 |FYSIEKVOORKOMEN                   |TEXT(50,0,0)                             |PNH; Fysieke omschrijving van het object; keuzelijst [fysiekVoorkomenBTDB]; Nullable: False; Default: groenvoorziening:gras- en kruidachtigen; Visible: No|
 |OPTALUD                           |TEXT(1,0,0)                              |PNH; Ligt het object op een talud? Ja/Nee/Onbekend. Bij 'Ja', moet er een begroeidTerreindeelBermKr_l geregistreerd zijn; keuzelijst [OPTALUD]; Nullable: True; Default: N; Visible: No|
 |TYPE_BEHEER                       |TEXT(50,0,0)                             |PNH; Type beheer (maaien, klepelen, uitzuigen etc); keuzelijst [TYPE_BEHEER]; Nullable: True; Default: None; Visible: No|
-|ZIJDE                             |TEXT(10,0,0)                             |PNH; Zijde (vd weg); keuzelijst [ZIJDE]; Nullable: True; Default: None; Visible: No|
+|ZIJDE                             |TEXT(10,0,0)                             |PNH; Zijde (vd weg); keuzelijst [Zijde]; Nullable: True; Default: None; Visible: No|
 |ACTUEELBEELD                      |TEXT(255,0,0)                            |PNH; Huidig beeld van begroeiing; ; Nullable: True; Default: None; Visible: No|
 |BIJZONDEREWAARDE                  |TEXT(255,0,0)                            |PNH; Indicatie van bijzondere waarde; ; Nullable: True; Default: None; Visible: No|
 |JAARAANPLANTING                   |LONG(0,4,0)                              |PNH; Jaar van aanplanting; ; Nullable: True; Default: None; Visible: No|
