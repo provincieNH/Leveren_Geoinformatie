@@ -4,7 +4,7 @@ Op deze pagina staat de courante versie van het Provincie Noord-Holland Areaalda
  [objectdefinities](objectdefinities)<br/>
  [keuzelijsten](keuzelijsten) 
  
-De courante versie is **4.2:d3** uit maart 2019. Let op: sinds september 2018 worden de domeinlijsten met toegestane attribuutwaarden als aparte versies gereleased met indicatie '_d1', '_d2' etc. 
+De courante versie is **4.3:d4** uit december 2021. Let op: sinds september 2018 worden de domeinlijsten met toegestane attribuutwaarden als aparte versies gereleased met indicatie '_d1', '_d2' etc. 
 
 [Hier](https://provincienh.github.io/databeheer/mapping.html) is een visualisatie te vinden hoe Areaaldata samenhangt met de BGT en met het beheerpakket Gisib.
 
@@ -12,7 +12,8 @@ __Toekomstige releases__
 
 Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
 In voorbereiding zijn de volgende releases:
-* __4.3:d4__: Major release: aantal aanpassingen aan keuzelijsten en datamodel, met name voor de domeinen groen en kunstwerken (opwaardering NEN-2767). Areaaldata versie 4.3_d4 staat op de planning om uit te komen **eind 2021**.
+* __4.3:d5__: Minor release:**midden 2022**.
+* __5:d6__: Major release: Implementatie IMBOR **eind 2022**.
 
 Doorontwikkeling gaat volgens dit proces:
 
