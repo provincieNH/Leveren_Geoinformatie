@@ -14,7 +14,7 @@
 ***
 
 |__KOLOM__                             |__TYPE (length, precision, scale)__          	          |__DEFINITIE__ (oorsprong; beschrijving; keuzelijst; nullable; default; zichtbaar in Areaalviewer)|
-|------                              |----                |-----    |
+|------                            |----          	        |-----    |
 |VERWERKINGSSTATUS                   |TEXT(255,0,0)       |PNH; Status van de gegevens; keuzelijst [VERWERKINGSSTATUS](http://provincienh.github.io/Leveren_Geoinformatie/keuzelijsten/VERWERKINGSSTATUS.html); Nullable: False; Default: Nieuw; Visible: Yes|
 |DATUM                               |DATE(8,0,0)         |PNH; Datum Inspectie; ; Nullable: True; Default: None; Visible: No|
 |INSPECTEUR                          |TEXT(255,0,0)       |PNH; Naam van de Inspecteur; ; Nullable: True; Default: None; Visible: No|
