@@ -1,13 +1,16 @@
 ## typeSpecOWA
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| KAN | Kanaal  |
-| ONB | Onbekend |
-| OWA | Open water |
-| OGW | Overig water |
 | PLA | Plasberm |
-| OEV | Oever, Slootkant |
+| NVO | Natuurvriendelijke oever |
+| BAS | Basalt |
+| SST | Stortsteen |
+| ZET | Zetsteen |
+| BET | Beton |
+| GRA | Gras-en kruidachtigen |
+| OV | Overig |

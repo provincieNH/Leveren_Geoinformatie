@@ -1,7 +1,8 @@
 ## BOOMSOORT
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -27,6 +28,7 @@
 | Betula pendula | Betula pendula |
 | Betula pubescens | Betula pubescens |
 | Carpinus betul | Carpinus betulus |
+| Castanea sativa | Castanea sativa |
 | Catalpa bignonioides Aurea | Catalpa bignonioides Aurea |
 | Cedrus atlantica glauca | Cedrus atlantica glauca |
 | Cedrus deodara | Cedrus deodara |
@@ -56,6 +58,7 @@
 | Juglans regia | Juglans regia |
 | Liquidambar styraciflua | Liquidambar styraciflua |
 | Malus cv. (sierappel) | Malus cv. (sierappel) |
+| Malus sylvestris | Malus sylvestris |
 | Metasequoia glyptostroboides | Metasequoia glyptostroboides |
 | Morus nigra | Morus nigra |
 | Onbekend | Onbekend |

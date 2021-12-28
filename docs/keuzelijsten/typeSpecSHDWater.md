@@ -1,11 +1,14 @@
 ## typeSpecSHDWater
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| Beschoeiing | Beschoeiing |
+| Natuurvriendelijke oever | Natuurvriendelijke oever |
 | Damwand | Damwand |
-| Keermuur | Keermuur |
+| Beschoeiing | Beschoeiing |
+| walbescherming | walbescherming |
+| Keermuur | Keermuur | 
 | Geen | Geen |

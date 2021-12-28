@@ -1,7 +1,8 @@
 ## typeSpecLAN
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -9,6 +10,7 @@
 | 1LW | Eénlichter (waarschuwingslicht) |
 | VGL | VTG (Voetganger 2-lichter) |
 | 2LRO | Tweelichter (rood - oranje) |
+| 3L | Drielichter |
 | BL9 | Buslicht (negenoog) |
 | OV | Overig |
 | SL | Secundaire lantaarn |

@@ -1,14 +1,21 @@
 ## typeSpecKWD
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| Keerwandstuw | Keerwandstuw |
-| Klepstuw | Klepstuw |
-| Kunstwerkdeel: onbekend | Kunstwerkdeel: onbekend |
 | Onbekend | Onbekend |
 | Overig | Overig |
-| Stuw: onbekend | Stuw: onbekend |
-| Werk in uitvoering | Werk in uitvoering |
+| Stuw | Stuw |
+| Bodemval | Bodemval |
+| Coupure | Coupure |
+| Gemaal | Gemaal |
+| Ponton | Ponton |
+| Sluis | Sluis |
+| Steiger | Steiger |
+| Strekdam | Strekdam |
+| Vispassage | Vispassage |
+| Perron | Perron |
+| Duiker | Duiker |

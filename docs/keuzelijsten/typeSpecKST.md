@@ -1,7 +1,8 @@
 ## typeSpecKST
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -13,4 +14,8 @@
 | Rioolpompkast | Rioolpompkast |
 | Schakelkast PTT | Schakelkast PTT |
 | Slagboomkast | Slagboomkast |
+| GMS-kast | GMS-kast |
 | Telkast: onbekend | Telkast: onbekend |
+| Kast VRI | Kast VRI |
+| Kast IVRI | Kast IVRI |
+| Kast CVRI | Kast Crossman VRI |

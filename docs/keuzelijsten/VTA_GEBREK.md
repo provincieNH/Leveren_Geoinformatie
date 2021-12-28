@@ -1,7 +1,8 @@
 ## VTA_GEBREK
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -9,9 +10,9 @@
 | (torsie)scheuren | (torsie)scheuren |
 | aantasting insecten/ hout | aantasting insecten/ houtboorders |
 | dood hout/ afgestorven t | dood hout/ afgestorven takken |
-| eenzijdige kroon/ kroon | eenzijdige kroon/ kroonschade |
 | geen | geen |
 | holten/ ingerotte snoeiw | holten/ ingerotte snoeiwonden |
+| Kroonschade | Kroonschade |
 | ONB | onbekend |
 | opdrukken verharding | opdrukken verharding |
 | plakoksels | plakoksels |

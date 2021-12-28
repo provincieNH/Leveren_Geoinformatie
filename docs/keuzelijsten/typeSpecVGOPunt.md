@@ -1,14 +1,20 @@
 ## typeSpecVGOPunt
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| LEB | Leiboom |
-| STB | Straatboom |
-| PSB | Plantsoenboom |
-| KNB | Knotboom |
-| BMR | Laan- of rijboom |
-| OV | Overig |
-| VGB | Vrijgroeiende boom |
+| Beplantingsvak | Beplantingsvak |
+| Bomenrij-/laan | Bomenrij-/laan |
+| Bomengroep | Bomengroep |
+| Ecologisch beheerde boom | Ecologisch beheerde boom |
+| Fruitboom | Fruitboom |
+| Klimboom | Klimboom |
+| Meerstammig | Meerstammig |
+| Niet bepaald | Niet bepaald |
+| Solitair | Solitair |
+| Veterane boom | Veterane boom |
+| Vrij uitgroeiende boom | Vrij uitgroeiende boom |
+| niet vrij uitgroeiend | niet vrij uitgroeiend | 

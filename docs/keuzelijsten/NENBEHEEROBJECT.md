@@ -1,7 +1,8 @@
 ## NENBEHEEROBJECT
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -11,6 +12,7 @@
 | Coupures | Coupures |
 | Duikers | Duikers |
 | Ecoducten | Ecoducten |
+| Faunatunnel | Faunatunnel |
 | Gemalen | Gemalen |
 | Schutsluizen | Schutsluizen |
 | Grondkeringen | Grondkeringen |

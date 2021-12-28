@@ -1,8 +1,19 @@
 ## typeSpecOBWVlak
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| OverigBouwwerk: onbekend | OverigBouwwerk: onbekend |
+| open loods | open loods |
+| overkapping | overkapping |
+| opslagtank | opslagtank |
+| bezinkbak | bezinkbak |
+| windturbine | windturbine |
+| lage trafo | lage trafo |
+| bassin | bassin |
+| schuur | schuur |
+| bunker | bunker |
+| voedersilo | voedersilo |
+| OverigBouwwerk | OverigBouwwerk |

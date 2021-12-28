@@ -1,7 +1,8 @@
 ## fysiekVoorkomenOTD
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -25,7 +26,6 @@
 | open verharding:gebakken klinkers | open verharding: gebakken klinkers |
 | open verharding:sierbestrating | open verharding: sierbestrating |
 | open verharding:tegels | open verharding: tegels |
-| transitie | transitie |
 | zand | zand |
 | zand:strand en strandwal | zand: strand en strandwal |
 | zand:zandverstuiving | zand: zandverstuiving |

@@ -1,15 +1,19 @@
 ## typeSpecBTDPlantvak
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| BOD | Bodembedekkers |
-| BO | Bos |
-| BOSP | Bosplantsoen |
-| HEES | Heesters |
-| KLIP | Klimplanten |
-| STRR | Struikrozen |
-| ONB | Onbekend |
-| VASP | Vaste planten |
+| Bos | Bos |
+| Bodembedekkers | Bodembedekkers |
+| Klimplanten | Klimplanten |
+| Heide | Heide |
+| Rietland | Rietland |
+| Beplante rotonde  | Beplante rotonde  |
+| Bosplantsoen | Bosplantsoen |
+| Onbekend | Onbekend |
+| Sierheesters | Sierheesters |
+| Vaste planten en sierheesters | Vaste planten en sierheesters |
+| Vaste planten | Vaste planten |

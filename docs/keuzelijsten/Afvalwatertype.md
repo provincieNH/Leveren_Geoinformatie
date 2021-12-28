@@ -1,12 +1,12 @@
 ## Afvalwatertype
 
-*__Domeinlijst versie:__ d3*
-
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ IMKL 1.2.1*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| gecombineerd | http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/combined |
-| huishoudelijk | http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary |
-| storm | http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/storm |
-| teruggewonnen | http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/reclaimed |
+| gecombineerd | combined |
+| huishoudelijk | sanitary |
+| storm | storm |
+| teruggewonnen | reclaimed |

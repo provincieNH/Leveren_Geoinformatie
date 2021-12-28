@@ -1,19 +1,21 @@
 ## typeSpecBUI
 
-*__Domeinlijst versie:__ d3* *
+*__Domeinlijst versie:__ d4* *
 *herkomst IMKL1.2.1 definitie: https://definities.geostandaarden.nl/imkl2015/doc/waardelijst/RioolleidingTypeValue*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| aansluitleiding | http://data.gwsw.nl/aansluitleiding |
-| bergbezinkleiding | http://data.gwsw.nl/bergbezinkleiding |
-| bergingsleiding | http://data.gwsw.nl/bergingsleiding |
-| doorlatendeleiding | http://data.gwsw.nl/doorlatendeleiding |
-| gemengd riool | http://data.gwsw.nl/gemengdRiool |
-| hemelwaterriool | http://data.gwsw.nl/hemelwaterriool |
-| openLeiding | http://data.gwsw.nl/openLeiding |
-| overstortleiding | http://data.gwsw.nl/overstortleiding |
-| stuwrioolleiding | http://data.gwsw.nl/stuwrioolleiding |
-| transportrioolleiding | http://data.gwsw.nl/transportrioolleiding |
-| vuilwaterriool | http://data.gwsw.nl/vuilwaterriool |
-| zinker | http://data.gwsw.nl/zinker |
+| aansluitleiding | aansluitleiding |
+| bergbezinkleiding | bergbezinkleiding |
+| bergingsleiding | bergingsleiding |
+| doorlatendeleiding | doorlatendeleiding |
+| drainagebuis | drainagebuis |
+| gemengd riool | gemengdRiool |
+| hemelwaterriool | hemelwaterriool |
+| openLeiding | openLeiding |
+| overstortleiding | overstortleiding |
+| stuwrioolleiding | stuwrioolleiding |
+| transportrioolleiding | transportrioolleiding |
+| vuilwaterriool | vuilwaterriool |
+| zinker | zinker |

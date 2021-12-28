@@ -1,7 +1,8 @@
 ## GCR_NAAM
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -10,5 +11,5 @@
 | AD.A4DAA42CDC9140E78835429622F23D42 | Westfriesland |
 | AD.11A7D762D19844D68325805465C26E20 | Zaanstreek Waterland |
 | AD.53BCE6FBAFE94995AEAF22552FF7734E | Zuid-Kennemerland IJmond |
-| AD.1813803D9D5743FD994C2EC7D709E52F | Noord-Holland Zuid |
+| AD.1813803D9D5743FD994C2EC7D709E52F | Amstelland-Meerlanden |
 | AD.B59DF2B74FE94CECB6565E11CA08B422 | Gooi en Vechtstreek |

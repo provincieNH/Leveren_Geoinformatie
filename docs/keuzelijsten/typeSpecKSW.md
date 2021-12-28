@@ -1,11 +1,12 @@
-## typeSpecSSS
+## typeSpecKSW
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| BB | Basculebrug |
+| BAB | Basculebrug |
 | DB | Draaibrug |
 | HB | Hefbrug |
 | OB | Ophaalbrug |
@@ -15,7 +16,7 @@
 | SO | Spoorwegovergang |
 | OK | Overkluizing |
 | AD | Aquaduct |
-| FP | Faunapassage (ecoduct) |
+| AP | Faunatunnel |
 | SS | Schutsluis |
 | IS | Inlaatsluis |
 | KS | Keersluis |

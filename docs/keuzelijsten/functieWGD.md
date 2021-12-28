@@ -1,7 +1,8 @@
 ## functieWGD
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -21,7 +22,6 @@
 | woonerf | woonerf |
 | rijbaan lokale weg | rijbaan lokale weg |
 | rijbaan regionale weg:verkeersdrempel | rijbaan regionale weg: verkeersdrempel |
-| transitie | transitie |
 | OV-baan | OV-baan |
 | parkeervlak | parkeervlak |
 | inrit | inrit |

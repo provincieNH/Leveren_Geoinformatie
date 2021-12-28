@@ -1,7 +1,8 @@
 ## typeSpecLAM
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -56,6 +57,7 @@
 | TLMF65 | TLMF 65W |
 | TLS20 | TLS 20W |
 | LED 3000K | LED 3000K |
+| LED 1000mA | LED 1000mA |
 | LED 500mA | LED 500mA | 
 | LED 700mA | LED 700mA |
 | LED 350mA | LED 350mA |

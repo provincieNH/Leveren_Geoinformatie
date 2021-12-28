@@ -1,14 +1,17 @@
 ## typeSpecPALAfbakening
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| Bermplank: onbekend | Bermplank: onbekend |
+| Bermplank | Bermplank |
 | dijkpaal | dijkpaal |
 | grensmarkering | grensmarkering |
-| Indexeringspaal: onbekend | Indexeringspaal: onbekend |
+| Hectometerpaal | Hectometerpaal |
 | hectometerbord_scheepvaart | Hectometerbord_scheepvaart |
-| Paal: onbekend | Paal: onbekend |
+| Paal | Paal |
 | schamppaal | schamppaal |
+| Afsluiter | Afsluiter |
+| Poller | Poller |

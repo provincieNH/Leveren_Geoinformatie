@@ -1,7 +1,8 @@
 ## typeSpecPALDraagconstructie
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -9,26 +10,25 @@
 | Bordpaal | Bordpaal |
 | Bordpaal meervoudig | Bordpaal meervoudig |
 | Buispaal | Buispaal |
-| Combimast OVL/Bewegwijzering | Combimast OVL/Bewegwijzering |
-| Combimast OVL/VRI | Combimast OVL/VRI |
-| Combimast OVL/VRI/Bewegwijzering | Combimast OVL/VRI/Bewegwijzering |
-| Combimast portaal OVL/Bewegwijzering, eenzijdig | Combimast portaal OVL/Bewegwijzering, eenzijdig |
-| Combimast portaal OVL/VRI | Combimast portaal OVL/VRI |
-| Combimast portaal OVL/VRI, eenzijdig | Combimast portaal OVL/VRI, eenzijdig |
-| Combimast portaal OVL/VRI, tweezijdig | Combimast portaal OVL/VRI, tweezijdig |
-| Combimast portaal OVL/VRI/Bewegwijzering | Combimast portaal OVL/VRI/Bewegwijzering |
-| Combimast portaal OVL/VRI/Bewegwijzering, eenzijdig | Combimast portaal OVL/VRI/Bewegwijzering, eenzijdig |
-| Combimast portaal OVL/VRI/Bewegwijzering, tweezijdig | Combimast portaal OVL/VRI/Bewegwijzering, tweezijdig |
-| Combimast portaal VRI/Bewegwijzering, eenzijdig | Combimast portaal VRI/Bewegwijzering, eenzijdig |
+| Combimast Bewegwijzering portaal | Combimast Bewegwijzering portaal |
+| Combimast Bewegwijzering zweepmast | Combimast Bewegwijzering zweepmast |
+| Combimast Bewegwijzering/OVL | Combimast Bewegwijzering/OVL |
+| Combimast VRI/OVL | Combimast VRI/OVL |
+| Combimast VRI/Bewegwijzering/OVL | Combimast VRI/Bewegwijzering/OVL |
+| Combimast Bewegwijzering/portaal/OVL | Combimast Bewegwijzering/portaal/OVL |
+| Combimast VRI/portaal/OVL | Combimast VRI/portaal/OVL |
+| Combimast VRI/portaal/Bewegwijzering/OVL| Combimast VRI/portaal/Bewegwijzering/OVL |
+| Combimast VRI/portaal/Bewegwijzering | Combimast VRI/portaal/Bewegwijzering |
+| Combimast VRI/portaal | Combimast VRI/portaal |
+| Combimast VRI/zweepmast | Combimast VRI/zweepmast |
 | Combimast VRI/Bewegwijzering | Combimast VRI/Bewegwijzering |
-| Combimast zweepmast OVL/Bewegwijzering | Combimast zweepmast OVL/Bewegwijzering |
-| Combimast zweepmast OVL/VRI | Combimast zweepmast OVL/VRI |
-| Combimast zweepmast OVL/VRI/Bewegwijzering | Combimast zweepmast OVL/VRI/Bewegwijzering |
-| Combimast zweepmast VRI/Bewegwijzering | Combimast zweepmast VRI/Bewegwijzering |
+| Combimast Bewegwijzering/zweepmast/OVL | Combimast Bewegwijzering/zweepmast/OVL |
+| Combimast VRI/zweepmast/OVL | Combimast VRI/zweepmast/OVL |
+| Combimast VRI/zweepmast/Bewegwijzering/OVL | Combimast VRI/zweepmast/Bewegwijzering/OVL |
+| Combimast VRI/zweepmast/Bewegwijzering | Combimast VRI/zweepmast/Bewegwijzering |
 | Draagconstructie: onbekend | Draagconstructie: onbekend |
 | Drukknopmast | Drukknopmast |
 | Flessenpaal | Flessenpaal |
 | Lichtmast | Lichtmast |
 | Uni-mast | Uni-mast |
-| Verkeerslichtmast | Verkeerslichtmast |
 | Telpaal | Telpaal |

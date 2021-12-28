@@ -1,6 +1,7 @@
 ## PEILBUISEIGENAREN
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -9,7 +10,6 @@
 | 11 | PWN |
 | 12 | Waternet |
 | 13 | Voormalig WLZK, nu PWN |
-| 21 | Waternet |
 | 22 | Gem. Haarlem |
 | 23 | Gem. Hilversum afd. Civiele Techniek |
 | 25 | Gem. Den Helder, Geoinformatie |

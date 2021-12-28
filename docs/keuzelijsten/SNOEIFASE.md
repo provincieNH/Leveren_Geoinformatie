@@ -1,15 +1,20 @@
 ## SNOEIFASE
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| Begeleidingssnoei aanvaar | Begeleidingssnoei aanvaard |
-| Begeleidingssnoei achters | Begeleidingssnoei achterstallig |
-| Begeleidingssnoei verwaar | Begeleidingssnoei verwaarloosd |
 | Knotten | Knotten |
-| ONB | Onbekend |
-| Onderhoudssnoei aanvaard | Onderhoudssnoei aanvaard |
-| Onderhoudssnoei achtersta | Onderhoudssnoei achterstallig |
-| Rooien | Rooien |
+| Niet te beoordelen | Niet te beoordelen |
+| N.v.t. | N.v.t. |
+| Begeleidingssnoei | Begeleidingssnoei |
+| Onderhoudssnoei | Onderhoudssnoei |
+| Scheren/knippen | Scheren/knippen |
+| Terugzetten (intensief) | Terugzetten (intensief) |
+| Terugzetten (extensief) | Terugzetten (extensief) |
+| Kandelaberen | Kandelaberen |
+| Kandelaren | Kandelaren |
+| Innemen kroon | Innemen kroon |
+| Uitlichten kroonrand | Uitlichten kroonrand |

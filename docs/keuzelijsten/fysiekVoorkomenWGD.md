@@ -1,14 +1,14 @@
 ## fysiekVoorkomenWGD
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
 | onverhard:boomschors | onverhard: boomschors |
 | open verharding:betonstraatstenen | open verharding:betonstraatstenen |
 | open verharding | open verharding |
-| transitie | transitie |
 | onverhard:zand | onverhard: zand |
 | open verharding:beton element | open verharding: beton element |
 | half verhard:grind | half verhard: grind |

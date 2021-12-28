@@ -1,12 +1,11 @@
 ## typeSpecPUT
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
 | Brandput/kraan | Branput/kraan |
-| Inspectieput | Inspectieput |
 | Put algemeen | Put algemeen |
 | Put: onbekend | Put: onbekend |
-| Rioolleidingelement: onbekend | Rioolleidingelement: onbekend |

@@ -1,8 +1,8 @@
 ## MATERIAALSOORT
 
-*__Domeinlijst versie:__ d3*
-
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -11,3 +11,5 @@
 | Divers | Divers |
 | Elementenverharding | Elementenverharding |
 | Hout/Kunststof | Hout/Kunststof |
+| Geen informatie | Geen informatie |
+| Overig (vul opmerking) | Overig (vul opmerking) |

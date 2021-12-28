@@ -1,7 +1,8 @@
 ## TYPE_PLAAGSOORT_LAND
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -20,3 +21,7 @@
 | Sosnowsky's berenklauw (Heracleum sosnowskyi) | Sosnowsky's berenklauw (Heracleum sosnowskyi) |
 | Struikaster (Baccharis halimifolia) | Struikaster (Baccharis halimifolia) |
 | Waterteunisbloem (Ludwigia grandiflora) | Waterteunisbloem (Ludwigia grandiflora) |
+| Geen informatie | Geen informatie |
+| Nog in te winnen | Nog in te winnen |
+| Niet van toepassing | Niet van toepassing |
+| Overig (vul opmerking) | Overig (vul opmerking) |

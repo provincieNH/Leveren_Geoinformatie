@@ -1,7 +1,8 @@
 ## typeSpecWGILijn
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -12,3 +13,6 @@
 | GR | Geleiderail |
 | BIG | Biggenrug |
 | OPS | Opsluitband |
+| Molgoot | Molgoot |
+| Lijnafwatering | Lijnafwatering |
+| VRBS | Verhoogde rijbaanscheiding |

@@ -1,12 +1,24 @@
 ## typeSpecSTM
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| Meubilair: zitbank | Meubilair: zitbank |
-| Meubilair: bel | Meubilair: bel |
-| Meubilair: kunstobject | Meubilair: kunstobject |
-| Meubilair: verkeersspiegel | Meubilair: verkeersspiegel |
-| Meubilair: biggenrug | Meubilair: biggenrug |
+| zitbank | zitbank |
+| bel | bel |
+| kunstobject | kunstobject |
+| verkeersspiegel | verkeersspiegel |
+| monument | monument |
+| AED | AED |
+| Betaalautomaat | Betaalautomaat |
+| Bolder | Bolder |
+| Brievenbus | Brievenbus |
+| Fontein | Fontein |
+| Openbaar toilet | Openbaar toilet |
+| Picknick tafel | Picknick tafel |
+| Reclamezuil | Reclamezuil |
+| Speelvoorziening | Speelvoorziening |
+| Telefooncel | Telefooncel |
+| Herdenkingsmonument | Herdenkingsmonument |

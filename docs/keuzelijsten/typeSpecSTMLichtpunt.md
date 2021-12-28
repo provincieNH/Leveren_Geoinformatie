@@ -1,13 +1,13 @@
 ## typeSpecSTMLichtpunt
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
 | ARM | Armatuur |
-| ARMO | Armatuur: onbekend |
-| MUO | Markeringsunit: onbekend |
+| MU | Markeringsunit|
 | OVE | Overig |
 | VKL | Verkeerslantaarn |
 | AM | Actieve markering |

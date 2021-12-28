@@ -1,15 +1,16 @@
 ## typeSpecBTD
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| BTD:boomteelt | BTD: boomteelt |
-| BTD:bouwland | BTD: bouwland |
-| BTD:fruitteelt | BTD: fruitteelt |
-| BTD:grasland agrarisch | BTD: grasland agrarisch |
-| BTD:houtwal | BTD: houtwal |
-| BTD:kwelder | BTD: kwelder |
-| BTD:moeras | BTD: moeras |
-| BTD:transitie | BTD: transitie |
+| boomteelt | boomteelt |
+| bouwland | bouwland |
+| fruitteelt | fruitteelt |
+| grasland agrarisch | grasland agrarisch |
+| houtwal | houtwal |
+| kwelder | kwelder |
+| moeras | moeras |
+| natuurlijke oever | natuurlijke oever |

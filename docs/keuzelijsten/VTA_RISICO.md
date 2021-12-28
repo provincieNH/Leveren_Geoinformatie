@@ -1,11 +1,12 @@
 ## VTA_RISICO
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
 | attentieboom | attentieboom |
-| geen verhoogd  | geen verhoogd risico |
 | risicoboom | risicoboom |
-| tijdelijk verhoogd  | tijdelijk verhoogd risico |
+| boom zonder gebreken | boom zonder gebreken |
+

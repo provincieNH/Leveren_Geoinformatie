@@ -1,13 +1,26 @@
 ## typeSpecBRD
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| VB | Verklikkerbord |
-| IB | Informatiebord |
-| OB | Onderbord |
-| RVVV | RVV Verkeersbord |
-| ONB | Onbekend |
-| TS | Thematische Strokenbord |
+| Verklikkerbord | Verklikkerbord |
+| Informatiebord | Informatiebord |
+| Onderbord | Onderbord |
+| RVV Verkeersbord | RVV Verkeersbord |
+| Onbekend | Onbekend |
+| Thematische bewegwijzering | Thematische bewegwijzering |
+| Bewegwijzeringsbord | Bewegwijzeringsbord |
+| Drip | Drip |
+| Bord dynamische snelheidsindicator | Bord dynamische snelheidsindicator |
+| Bord plaatsnaam | Bord plaatsnaam |
+| Bord reclame | Bord reclame |
+| Bord straatnaam | Bord straatnaam |
+| Bord waarschuwingshek | Bord waarschuwingshek |
+| route verwijsbord | route verwijsbord |
+| U-bord | Uitwijk-bord |
+| Wegwijzer met kabel (1P) | Wegwijzer met kabel (1P) |
+| Wegwijzer op portaal (1P) | Wegwijzer op portaal (1P) |
+| Wegwijzer zonder kabel (1P) | Wegwijzer zonder kabel (1P) |

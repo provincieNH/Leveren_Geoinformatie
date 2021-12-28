@@ -1,7 +1,8 @@
 ## TYPE_PLAAGSOORT_WATER
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
@@ -14,3 +15,6 @@
 | Watercrassula (Crassula helmsii) | Watercrassula (Crassula helmsii) |
 | Waterteunisbloem (Ludwigia grandiflora) | Waterteunisbloem (Ludwigia grandiflora) |
 | Waterwaaier (Cabomba caroliniana) | Waterwaaier (Cabomba caroliniana) |
+| Geen informatie | Geen informatie |
+| Nog in te winnen | Nog in te winnen |
+| Overig (vul opmerking) | Overig (vul opmerking) |

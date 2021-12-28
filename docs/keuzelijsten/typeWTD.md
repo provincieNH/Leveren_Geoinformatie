@@ -1,12 +1,12 @@
 ## typeWTD
 
-*__Domeinlijst versie:__ d3*
+*__Domeinlijst versie:__ d4*
 *__Herkomst definitie:__ PNH*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
 | greppel, droge sloot | greppel, droge sloot |
-| transitie | transitie |
 | waterloop | waterloop |
 | waterloop:beek | waterloop: beek |
 | waterloop:bron | waterloop: bron |

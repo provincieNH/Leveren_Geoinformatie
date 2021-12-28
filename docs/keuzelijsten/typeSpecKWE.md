@@ -1,93 +1,75 @@
 ## typeSpecKWE
 
-*__Domeinlijst versie:__ d3*
-*__Herkomst definitie:__ PNH*
+*__Domeinlijst versie:__ d4*
+*__Herkomst definitie:__ NEN2767-4, versie1.5 met kleine PNH-specifieke wijzigingen*
+*__Type veld:__ Text*
 
 |__Code__ |__Description__	|
 |	---	|	---	|
-| ABE | Aandrijving en bewegingswerk, elektromechanisch Brug A |
-| ABB | Aandrijving en bewegingswerk, elektromechanisch Brug B |
-| Aandrijving en bewegingsw | Aandrijving en bewegingswerk; mechanisch |
-| Aarding- en bliksembeveil | Aarding- en bliksembeveiligingsinstallatie |
-| Afmeervoorziening | Afmeervoorziening |
-| Afmeervoorziening, binnen | Afmeervoorziening, binnenhoofd |
-| Afmeervoorziening, buiten | Afmeervoorziening, buitenhoofd west |
+| Aandrijving en bewegingswerk (elektrohydraulisch) | Aandrijving en bewegingswerk (elektrohydraulisch) |
+| Aandrijving en bewegingswerk (elektromechanisch) | Aandrijving en bewegingswerk (elektromechanisch) |
+| Aandrijving en bewegingswerk (mechanisch) | Aandrijving en bewegingswerk (mechanisch) |
+| Aanrijbalk | Aanrijbalk |
+| Aarding- en bliksembeveiligingsinstallatie | Aarding- en bliksembeveiligingsinstallatie |
+| Afmeervoorziening| Afmeervoorziening |
 | Afsluitboominstallatie | Afsluitboominstallatie |
-| 2078954 | Algemeen |
+| Ankergebied | Ankergebied |
+| Antivandalismevoorziening | Antivandalismevoorziening |
 | Basculekelder | Basculekelder |
-| Bebording/bewegwijzering  | Bebording/bewegwijzering (statisch) |
-| Bedienings- en besturings | Bedienings- en besturingssysteem |
-| 2147326 | Berm |
+| Bebording en bewegwijzering (statisch) | Bebording en bewegwijzering (statisch)|
+| Bedienings- en besturingsinstallatie | Bedienings- en besturingsinstallatie |
+| Berm | Berm |
 | Binnenverlichting | Binnenverlichting |
 | Bodem | Bodem |
-| Bodem B1 | Bodem B1 |
-| Bodem B2 | Bodem B2 |
-| Bodem xx | Bodem xx |
 | Bodembescherming | Bodembescherming |
-| Bodembescherming B1 | Bodembescherming B1 |
-| Bodembescherming B2 | Bodembescherming B2 |
-| Bodembescherming xx | Bodembescherming xx |
 | Borstwering | Borstwering |
-| Closed Circuit TeleVision | Closed Circuit TeleVision installatie (CCTV instal |
-| 1731778 | Closed Circuit TeleVision installatie (CCTV installatie) |
-| Debietmeetinstallatie | Debietmeetinstallatie |
+| Bovenbouwconstructie | Bovenbouwconstructie |
+| Brandblusinstallatie | Brandblusinstallatie |
+| Closed Circuit TeleVision installatie (CCTV) | Closed Circuit TeleVision installatie (CCTV) |
+| Dakconstructie | Dakconstructie |
+| Meetinstallatie | Meetinstallatie |
 | Doorlaatkoker | Doorlaatkoker |
-| 4929846 | Drainage |
+| Drainage | Drainage |
 | Duurzame energiebron | Duurzame energiebron |
-| Dynamische bewegwijzering | Dynamische bewegwijzering en informatie systemen |
-| 5755789 | Fauna uittreedplaats |
+| Dynamische bewegwijzering en informatie systemen | Dynamische bewegwijzering en informatie systemen |
+| Fauna uittreedplaats | Fauna uittreedplaats |
+| Faunadekking | Faunadekking |
 | Faunageleiding | Faunageleiding |
-| Faunastrook | Faunastrook |
+| Folieconstructie | Folieconstructie |
 | Fundering | Fundering |
 | Geleideconstructie | Geleideconstructie |
-| GWC | Geluidswerende constructie |
-| Gestrekte oever, natuurvr | Gestrekte oever, natuurvriendelijk |
-| Gestrekte oever, talud | Gestrekte oever, talud |
-| 6282854 | Grasvegetatie |
+| Grasvegetatie | Grasvegetatie |
 | Grendelinrichting | Grendelinrichting |
-| 3962340 | Heftoren 1* |
-| 1054837 | Heftoren 2* |
+| Heftoren | Heftoren |
 | Hemelwaterafvoer (HWA) | Hemelwaterafvoer (HWA) |
 | Hoofddraagconstructie | Hoofddraagconstructie |
-| Hoofddraagconstructie B1 | Hoofddraagconstructie B1 |
-| Hoofddraagconstructie B2 | Hoofddraagconstructie B2 |
 | Hoofddraaipunt | Hoofddraaipunt |
-| HDB | Hoofddraaipunt Brug A |
-| HBB | Hoofddraaipunt Brug B |
-| Hydro-/meteomeetinstallat | Hydro-/meteomeetinstallatie |
-| 3632404 | IJsmixer* |
-| Inbraakbeveiligingsinstal | Inbraakbeveiligingsinstallatie |
+| Hoogtedetectie-installatie | Hoogtedetectie-installatie |
+| meetinstallatie | meetinstallatie |
+| Inbraakbeveiligingsinstallatie | Inbraakbeveiligingsinstallatie |
+| Infiltratievoorziening | Infiltratievoorziening |
 | Intercominstallatie | Intercominstallatie |
 | Kabel | Kabel |
 | Kabel- en leidingtunnel | Kabel- en leidingtunnel |
-| Kabel- en leidingtunnel x | Kabel- en leidingtunnel xx |
-| 2213634 | Kabeldraagconstructie |
+| Kabeldraagconstructie | Kabeldraagconstructie |
+| Kathodische bescherminstallatie | Kathodische bescherminstallatie |
+| Keerplaats | Keerplaats |
 | Kelder | Kelder |
 | Kerende constructie | Kerende constructie |
-| Kerende constructie, binn | Kerende constructie, binnenhoofd |
-| Kerende constructie, buit | Kerende constructie, buitenhoofd |
+| Keringschuif | Keringschuif |
 | Klepconstructie | Klepconstructie |
-| Krooshek | Krooshek |
+| Roosterreinigingsinstallatie | Roosterreinigingsinstallatie |
 | Laagspanningsinstallatie | Laagspanningsinstallatie |
-| Leuning | Leuning |
+| Leuningconstructie | Leuningconstructie |
 | Loopbrug | Loopbrug |
-| Loopbrug, buitenhoofd | Loopbrug, buitenhoofd |
 | Mantelbuis | Mantelbuis |
 | Marifooninstallatie | Marifooninstallatie |
-| Niveaumeetinstallatie | Niveaumeetinstallatie |
 | Objectverlichting | Objectverlichting |
-| Oeverbescherming | Oeverbescherming |
-| Oeverbescherming xx | Oeverbescherming xx |
-| Oeverconstructie | Oeverconstructie |
 | Omroepinstallatie | Omroepinstallatie |
-| Openbare verlichting (OV) | Openbare verlichting (OV) xx |
+| Onderbouw | Onderbouw |
+| Onderhoudsvoorziening | Onderhoudsvoorziening |
+| Openbare verlichting (OV) | Openbare verlichting (OV) |
 | Oplegging | Oplegging |
-| Oplegging aanbrug | Oplegging aanbrug |
-| Oplegging B1 | Oplegging B1 |
-| Oplegging B2 | Oplegging B2 |
-| Oplegging val | Oplegging val |
-| Oplegging, landhoofd | Oplegging, landhoofd |
-| Oplegging, steunpunt | Oplegging, steunpunt |
 | Opstal | Opstal |
 | Opstal, bediening | Opstal, bediening |
 | Opstal, fietsen | Opstal, fietsen |
@@ -95,110 +77,100 @@
 | Opstal, reserve deuren | Opstal, reserve deuren |
 | Opstal, schotbalken | Opstal, schotbalken |
 | Overgangsconstructie | Overgangsconstructie |
-| Overgangsconstructie RVB  | Overgangsconstructie RVB xx |
-| Overgangsconstructie RVO  | Overgangsconstructie RVO xx |
-| Overgangsconstructie xx | Overgangsconstructie xx |
 | Pompinstallatie | Pompinstallatie |
-| PIB | Pompinstallatie Brug A |
-| PBB | Pompinstallatie Brug B |
 | Pompkelder | Pompkelder |
-| 1111385 | Portaal |
-| 4853368 | Put |
-| Put xx | Put xx |
-| Remming- en/of geleidewer | Remming- en/of geleidewerk, buitenhoofd |
+| Portaal | Portaal |
+| Reddingsmiddel | Reddingsmiddel |
+| Remming- en geleidewerk | Remming- en geleidewerk |
 | Schampkant | Schampkant |
-| Schampkant B1 | Schampkant B1 |
-| Schampkant B2 | Schampkant B2 |
-| Schampkant RVB | Schampkant RVB |
-| Schampkant RVO | Schampkant RVO |
-| Schampkant xx | Schampkant xx |
-| Scheepvaartvoorziening xx | Scheepvaartvoorziening xx |
 | Scheepverkeersbeseining | Scheepverkeersbeseining |
-| Schotbalken xx | Schotbalken xx |
+| Schoorsteen | Schoorsteen |
 | Schuifconstructie | Schuifconstructie |
 | Slijtlaag | Slijtlaag |
-| Slijtlaag, aanbrug | Slijtlaag, aanbrug |
-| Slijtlaag, val | Slijtlaag, val |
-| 2135290 | sloof |
-| Sluisdeur 1 (reserve deur | Sluisdeur 1 (reserve deur) |
-| Sluisdeur 1, binnenhoofd | Sluisdeur 1, binnenhoofd |
-| Sluisdeur 1, buitenhoofd | Sluisdeur 1, buitenhoofd |
-| Sluisdeur 10 (reserve deu | Sluisdeur 10 (reserve deur buitenhoofd) |
-| Sluisdeur 10, buitenhoofd | Sluisdeur 10, buitenhoofd |
-| Sluisdeur 11 (reserve deu | Sluisdeur 11 (reserve deur binnenhoofd) |
-| Sluisdeur 12 (reserve deu | Sluisdeur 12 (reserve deur binnenhoofd) |
-| Sluisdeur 2 (reserve deur | Sluisdeur 2 (reserve deur) |
-| Sluisdeur 2, binnenhoofd | Sluisdeur 2, binnenhoofd |
-| Sluisdeur 2, buitenhoofd | Sluisdeur 2, buitenhoofd |
-| Sluisdeur 3 (reserve deur | Sluisdeur 3 (reserve deur) |
-| Sluisdeur 3, buitenhoofd | Sluisdeur 3, buitenhoofd |
-| Sluisdeur 4, buitenhoofd | Sluisdeur 4, buitenhoofd |
-| Sluisdeur 5 (reserve) | Sluisdeur 5 (reserve) |
-| Sluisdeur 5, binnenhoofd | Sluisdeur 5, binnenhoofd |
-| Sluisdeur 6 (reserve) | Sluisdeur 6 (reserve) |
-| Sluisdeur 6, binnenhoofd | Sluisdeur 6, binnenhoofd |
-| Sluisdeur 7, binnenhoofd | Sluisdeur 7, binnenhoofd |
-| Sluisdeur 8, binnenhoofd | Sluisdeur 8, binnenhoofd |
-| Sluisdeur 9 (reserve deur | Sluisdeur 9 (reserve deur buitenhoofd) |
-| Sluisdeur 9, buitenhoofd | Sluisdeur 9, buitenhoofd |
-| 1646668 | Sluisdeur, Binnenhoofd* |
-| 3558679 | Sluisdeur, Buitenhoofd* |
-| 2712174 | Sluisdeur, Reserve* |
-| Sluishoofd | Sluishoofd |
-| Sluishoofd, binnen | Sluishoofd, binnen |
-| Sluishoofd, binnenhoofd | Sluishoofd, binnenhoofd |
-| 1505633 | Sluishoofd, Binnenhoofd |
-| Sluishoofd, buiten | Sluishoofd, buiten |
-| 3177737 | Sluishoofd, Buitenhoofd |
-| Sluishoofd, buitenhoofd | Sluishoofd, buitenhoofd |
+| Sluisdeur (hef, punt, rol) | Sluisdeur (hef, punt, rol) |
 | Sluiskolk | Sluiskolk |
+| Sluishoofd | Sluishoofd |
+| Sluismarkering | Sluismarkering |
 | Steiger | Steiger |
-| Steiger, wachtplaats binn | Steiger, wachtplaats binnenhoofd |
-| Steiger, wachtplaats buit | Steiger, wachtplaats buitenhoofd |
-| Steiger, wachtplaats, bin | Steiger, wachtplaats, binnenhoofd |
-| Steiger, wachtplaats, bui | Steiger, wachtplaats, buitenhoofd |
 | Steunpunt | Steunpunt |
-| 4094910 | Steunpunt 01* |
-| 3158162 | Steunpunt 02* |
-| 3228870 | Steunpunt 03* |
-| 3711130 | Steunpunt 04* |
-| 2966403 | Steunpunt 05* |
-| 2753289 | Steunpunt 06* |
-| 2537896 | Steunpunt 07* |
-| 3821061 | Steunpunt 08* |
-| 2570500 | Steunpunt 09* |
-| 3981084 | Steunpunt 10* |
-| 4083982 | Steunpunt 11* |
-| 5487160 | Steunpunt 12* |
-| 2689186 | Steunpunt 13* |
-| 6181954 | Steunpunt, Algemeen* |
 | Talud | Talud |
-| Talud, buitenhoofd | Talud, buitenhoofd |
 | Telefooninstallatie | Telefooninstallatie |
-| Terrein sluiskolk oost | Terrein sluiskolk oost |
-| Terrein sluiskolk west | Terrein sluiskolk west |
-| Terrein, buitenhoofd west | Terrein, buitenhoofd west |
-| Terrein, reserve deuren,  | Terrein, reserve deuren, buitenhoofd oost |
-| Terrein, sluiskolk noord | Terrein, sluiskolk noord |
-| Terrein, sluiskolk zuid | Terrein, sluiskolk zuid |
-| Terrein, sluiskolk, noord | Terrein, sluiskolk, noord |
-| Terrein, sluiskolk, oost | Terrein, sluiskolk, oost |
-| Terrein, sluiskolk, west | Terrein, sluiskolk, west |
-| Terrein, sluiskolk, zuid | Terrein, sluiskolk, zuid |
+| Terrein | Terrein |
+| Terrein, reserve deuren | Terrein, reserve deuren |
 | Terreinmeubilair | Terreinmeubilair |
-| 2545339 | Toegangshek |
+| Toegangscontrole-installatie | Toegangscontrole-installatie |
+| Toegangshek | Toegangshek |
+| Trambaan | Trambaan |
+| Trapconstructie | Trapconstructie |
 | Tunnelbuis | Tunnelbuis |
+| Vaarwegmarkering | Vaarwegmarkering |
 | Verankering | Verankering |
-| Verharding wegtype 1, Hoo | Verharding wegtype 1, Hoofdwegennet |
-| Verharding wegtype 2, Zwa | Verharding wegtype 2, Zwaarbelaste weg xx |
-| Verharding wegtype 3, Gem | Verharding wegtype 3, Gemiddeld belaste weg xx |
-| Verharding wegtype 4, Lic | Verharding wegtype 4, Licht belast |
-| Verharding wegtype 7, Fie | Verharding wegtype 7, Fietspaden xx |
-| Verkeersregelinstallatie  | Verkeersregelinstallatie (VRI) |
-| Vlonder, wachtplaats, bin | Vlonder, wachtplaats, binnenhoofd |
-| Vlonder, wachtplaats, bui | Vlonder, wachtplaats, buitenhoofd |
+| Verharding wegtype 1 (hoofdwegennet) | Verharding wegtype 1 (hoofdwegennet) |
+| Verharding wegtype 2 (zwaarbelaste weg) | Verharding wegtype 2 (zwaarbelaste weg) |
+| Verharding wegtype 3 (gemiddeld belaste weg) | Verharding wegtype 3 (gemiddeld belaste weg) |
+| Verharding wegtype 4 (licht belast) | Verharding wegtype 4 (licht belast) |
+| Verharding wegtype 5 (weg in woongebied) | Verharding wegtype 5 (weg in woongebied) |
+| Verharding wegtype 6 (weg in verblijfsgebied) | Verharding wegtype 6 (weg in verblijfsgebied) |
+| Verharding wegtype 7 (fietspaden) | Verharding wegtype 7 (fietspaden) |
+| Verkeersdetectie-installatie | Verkeersdetectie-installatie |
+| Verkeersregelinstallatie (VRI) | Verkeersregelinstallatie (VRI) |
+| Vispassage | Vispassage |
+| Vissluis | Vissluis | 
+| Vloerconstructie | Vloerconstructie |
 | Vluchtweginstallatie | Vluchtweginstallatie |
 | Voegovergang | Voegovergang |
-| Voegovergang xx | Voegovergang xx |
 | Wegmarkering | Wegmarkering |
 | Zinker | Zinker |
+| Wandconstructie | Wandconstructie |
+| Watervegetatie | Watervegetatie |
+| Weigh In Motion | Weigh In Motion |
+| Werk-spreekverbinding | Werk-spreekverbinding |
+| Wingebied | Wingebied |
+| Zonweringsinstallatie | Zonweringsinstallatie |
+| Vaargeul | Vaargeul |
+| Aanloopgebied | Aanloopgebied |
+| Afscheiderinstallatie (dynamisch) | Afscheiderinstallatie (dynamisch) |
+| Afscheiderinstallatie (statisch) | Afscheiderinstallatie (statisch) |
+| Afscheiding | Afscheiding |
+| Dataloginstallatie | Dataloginstallatie |
+| Hijs- en hefinstallatie | Hijs- en hefinstallatie |
+| Hoogspanningsinstallatie | Hoogspanningsinstallatie |
+| Klimaatinstallatie | Klimaatinstallatie |
+| Lift-installatie | Lift-installatie |
+| Nautofooninstallatie | Nautofooninstallatie |
+| Noodstroominstallatie (roterend) | Noodstroominstallatie (roterend) |
+| Noodstroominstallatie (statisch) | Noodstroominstallatie (statisch) |
+| Persinstallatie | Persinstallatie |
+| Radarinstallatie | Radarinstallatie |
+| Sproei-installatie | Sproei-installatie |
+| Telemetrie-installatie | Telemetrie-installatie |
+| Ventilatie-installatie | Ventilatie-installatie |
+| Verplaatsbare Vangrail installatie (VEVA) | Verplaatsbare Vangrail installatie (VEVA) |
+| Vijzelinstallatie | Vijzelinstallatie |
+| Watermistinstallatie (WMS) | Watermistinstallatie (WMS) |
+| Boomgroep | Boomgroep |
+| Brandmeld- en ontruimingsinstallatie (BMI) | Brandmeld- en ontruimingsinstallatie (BMI) |
+| Calamiteiten Doorsteek installatie (CADO) | Calamiteiten Doorsteek installatie (CADO) |
+| Centrale Antenne Installatie (CAI) | Centrale Antenne Installatie (CAI) |
+| Compressorinstallatie | Compressorinstallatie |
+| Drukluchtschuiminstallatie (DLS) | Drukluchtschuiminstallatie (DLS) |
+| Global System for Mobile communications installatie (GSM) | Global System for Mobile communications installatie (GSM) |
+| Hoog Frequent installatie (HF) | Hoog Frequent installatie (HF) |
+| Informatie en Volgsysteem Scheepvaart 1990 (IVS90) | Informatie en Volgsysteem Scheepvaart 1990 (IVS90) |
+| Over- en onderdrukinstallatie | Over- en onderdrukinstallatie |
+| Perron | Perron |
+| Personenzoekinstallatie (PZI) | Personenzoekinstallatie (PZI) |
+| Plafondconstructie | Plafondconstructie |
+| Roltrapinstallatie | Roltrapinstallatie |
+| Sanitaire installatie | Sanitaire installatie |
+| Scheepvaartdetectie-installatie | Scheepvaartdetectie-installatie |
+| Stuurstroomvoedingsinstallatie | Stuurstroomvoedingsinstallatie |
+| Tracing | Tracing |
+| Transmissie-installatie | Transmissie-installatie |
+| Transportinstallatie | Transportinstallatie |
+| Uithouder | Uithouder |
+| Vleermuiskelder | Vleermuiskelder |
+| Erf | Erf |
+| Gasdetectie-installatie (LEL) | Gasdetectie-installatie (LEL) |
+| Inspectiewagen | Inspectiewagen |
+| Sloot | Sloot |
