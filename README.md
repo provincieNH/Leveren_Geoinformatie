@@ -14,7 +14,7 @@ Op [https://provincienh.github.io/databeheer/mapping.html](https://provincienh.g
 __Toekomstige releases__
 
 Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
-In voorbereiding zijn de volgende releases:
+Plannen zijn er voor de volgende releases (grove inschattingen):
 * __4.3:d5__: Minor release:**eind 2022**.
 * __5:d6__: Major release: Implementatie IMBOR **eind 2023**.
 
