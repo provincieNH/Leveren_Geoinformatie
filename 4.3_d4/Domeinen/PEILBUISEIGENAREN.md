@@ -6,6 +6,7 @@
 |__Code__ |__Description__	|
 |	---	|	---	|
 | 1 | PNH Omgevingsbeleid |
+| 2 | PNH Bodem & Groen |
 | 4 | PNH Bodem en Afvalstoffen N-H |
 | 11 | PWN |
 | 12 | Waternet |
