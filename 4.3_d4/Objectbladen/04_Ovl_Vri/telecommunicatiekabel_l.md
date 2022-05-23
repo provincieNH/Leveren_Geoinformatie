@@ -34,7 +34,7 @@
 |OPMERKING                           |TEXT(3000,0,0)       |PNH; Opmerking; ; Nullable: True; Default: None; Visible: Yes|
 |VAN                                 |TEXT(255,0,0)        |PNH; Startlocatie van de kabel. Bijvoorbeeld 'MOF'// 'VRI522103' // 'LM 54304'; ; Nullable: True; Default: None; Visible: Yes|
 |HUIDIGESTATUS                       |TEXT(50,0,0)         |PNH; Huidige status; keuzelijst [ConditionOfFacilityValue]; Nullable: False; Default: functional; Visible: Yes|
-|GEONAUWKEURIGHEIDXY                 |TEXT(50,0,0)         |PNH; Nauwkeurigheid van de liggingsgegevens in het horizontale vlak in cm; ; Nullable: True; Default: None; Visible: No|
+|GEONAUWKEURIGHEIDXY                 |TEXT(50,0,0)         |PNH; Nauwkeurigheid van de liggingsgegevens in het horizontale vlak in cm; ; Nullable: False; Default: None; Visible: No|
 |VERTICALE_POSITIE                   |LONG(0,10,0)         |PNH; Verticale positie; keuzelijst [VerticalePositie]; Nullable: False; Default: 3; Visible: Yes|
 |DIEPTELEGGING                       |TEXT(255,0,0)        |PNH; Dieptelegging van de gehele kabel tov maaiveld in cm; ; Nullable: True; Default: None; Visible: Yes|
 |INDICATIEVELIGGING                  |TEXT(1,0,0)          |PNH; Is de geometrie indicatief ingetekend, ja of nee; keuzelijst [jaNee]; Nullable: false; Default: J; Visible: Yes|

@@ -43,7 +43,7 @@
 |DIEPTELEGGING                       |TEXT(255,0,0)           |PNH; Diepte van leidingelement; ; Nullable: True; Default: None; Visible: Yes|
 |INNETWERK                           |TEXT(255,0,0)           |PNH; Verwijzende sleutel naar utiliteitsNet_tbl (simpel); ; Nullable: True; Default: None; Visible: No|
 |BUIS                                |TEXT(255,0,0)           |PNH; Verwijzende sleutel naar buis_l (simpel); ; Nullable: True; Default: None; Visible: No|
-|GEONAUWKEURIGHEIDXY                 |TEXT(50,0,0)            |IMKL; Nauwkeurigheid van de liggingsgegevens in het horizontale vlak; ; Nullable: True; Default: False; Visible: No|
+|GEONAUWKEURIGHEIDXY                 |TEXT(50,0,0)            |IMKL; Nauwkeurigheid van de liggingsgegevens in het horizontale vlak; ; Nullable: False; Default: False; Visible: No|
 |DATALEVERANCIER                     |TEXT(255,0,0)           |PNH; Leverancier van de data; ; Nullable: True; Default: None; Visible: No|
 |CREATED_USER                        |TEXT(255,0,0)           |PNH; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
 |CREATED_DATE                        |DATE(8,0,0)             |PNH; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS; ; Nullable: True; Default: None; Visible: No|
