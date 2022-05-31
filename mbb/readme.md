@@ -1,6 +1,6 @@
-﻿# Objectdefinitie Meetnet Biodiversiteit Bermen versie 1.0
+﻿# Leveringsspecificatie Meetnet Biodiversiteit Bermen versie 1.0
 
-Hier staan de objectbladen en domeinlijsten die horen bij de objectdefinitie van Meetnet Biodiversiteit Bermen versie 1.0
+Hier staan de objectbladen en templates die horen bij het datamodel Meetnet Biodiversiteit Bermen versie 1.0
 
 Het datamodel kan in QGIS of ArcGIS worden geladen via templates.
 
