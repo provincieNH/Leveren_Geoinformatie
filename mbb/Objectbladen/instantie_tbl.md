@@ -1,8 +1,6 @@
 ## mbb.instantie
-*Feature dataset: geen*
 
-
-* __BUDATA model versie:__ nvt
+* __MBB model versie:__ 1.0
 * __BGT inhoud:__ Nee
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ nvt
@@ -11,14 +9,12 @@
 * __Inhoudelijke eigenaar:__ Ingenieursdiensten
 * __Technische eigenaar:__ Data & informatie
 
-ToDo: BESCHRIJVING
 ***
-
 
 
 |KOLOM                               |Alias*                             | TYPE (length, precision, scale) |DEFINITIE (oorsprong; beschrijving; keuzelijst; nullable; default)|
 |------                              |----                              |---------------------------------|----
-|OBJECTID                            |                                  | OID(0,10                        |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None|
+|OBJECTID                            |                                  | OID(0,10                        |PNH; Intern ArcGIS Identificatienummer; ; Nullable: False; Default: None|
 |INSTANTIE_ID                        |                                  | GUID                            |PNH; Identificatienummer van de instantie; ; Nullable: True; Default: None|
 |INSTANTIE_NAAM                      |                                  | TEXT(255)                       |PNH; Naam van de instantie; ; Nullable: True; Default: None|
 |INSTANTIE_ADRES                     |                                  | TEXT(255)                       |PNH; Adres van de instantie; ; Nullable: True; Default: None|

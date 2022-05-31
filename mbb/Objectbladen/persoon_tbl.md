@@ -1,8 +1,6 @@
 ## mbb.persoon
-*Feature dataset: geen*
 
-
-* __BUDATA model versie:__ nvt
+* __MBB model versie:__ 1.0
 * __BGT inhoud:__ Nee
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ nvt
@@ -11,14 +9,12 @@
 * __Inhoudelijke eigenaar:__ Ingenieursdiensten
 * __Technische eigenaar:__ Data & informatie
 
-ToDo: BESCHRIJVING
 ***
-
 
 
 |KOLOM                               |Alias*                             | TYPE (length, precision, scale) |DEFINITIE (oorsprong; beschrijving; keuzelijst; nullable; default)|
 |------                              |----                              |---------------------------------|----
-|OBJECTID                            |                                  | OID(0,10                        |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None|
+|OBJECTID                            |                                  | OID(0,10                        |PNH; Intern ArcGIS Identificatienummer; ; Nullable: False; Default: None|
 |PERSOON_ID                          |                                  | GUID                            |PNH; Identificatienummer van de persoon; ; Nullable: True; Default: None|
 |PERSOON_TITEL                       |                                  | TEXT(255)                       |PNH; Titel van de persoon; ; Nullable: True; Default: None|
 |PERSOON_VOORNAAM                    |                                  | TEXT(255)                       |PNH; Voornaam van de persoon; ; Nullable: True; Default: None|

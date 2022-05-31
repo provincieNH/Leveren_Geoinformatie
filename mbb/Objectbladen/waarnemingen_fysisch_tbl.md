@@ -1,8 +1,6 @@
 ## mbb.waarnemingen_fysisch
-*Feature dataset: geen*
 
-
-* __BUDATA model versie:__ nvt
+* __MBB model versie:__ 1.0
 * __BGT inhoud:__ Nee
 * __Herkomst Definitie:__ PNH
 * __Positionele nauwkeurigheid:__ nvt
@@ -11,14 +9,12 @@
 * __Inhoudelijke eigenaar:__ Ingenieursdiensten
 * __Technische eigenaar:__ Data & informatie
 
-ToDo: BESCHRIJVING
 ***
-
 
 
 |KOLOM                               |Alias                             | TYPE (length, precision, scale)       |DEFINITIE (oorsprong; beschrijving; keuzelijst; nullable; default)|
 |------                              |----                              |---------------------------------------|----
-|OBJECTID                            |OBJECTID                          | OID(0,10)                             |PNH; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS; ; Nullable: False; Default: None|
+|OBJECTID                            |OBJECTID                          | OID(0,10)                             |PNH; Intern ArcGIS Identificatienummer; ; Nullable: False; Default: None|
 |DATUM                               |                                  | DATE                                  |PNH; Datum van de waarneming; ; Nullable: True; Default: None|
 |TIJDSTIP                            |                                  | DATE                                  |PNH; Tijstip van de waarneming; ; Nullable: True; Default: None|
 |WAARNEMINGSSOORT                    |                                  | GUID                                  |PNH; Verwijzing naar waarnemingssoort; ; Nullable: True; Default: None|
