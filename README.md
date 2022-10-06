@@ -17,6 +17,3 @@ Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimal
 Plannen zijn er voor de volgende releases (grove inschattingen):
 
 * __5:d6__: Major release: Implementatie IMBOR **eind 2023**.
-
-
-![Globale rolverdeling doorontwikkeling Areaaldata binnen PNH/B&U](https://github.com/provincieNH/Leveren_Geoinformatie/blob/master/doorontwikkeling_areaaldata_4x_proces.png)
