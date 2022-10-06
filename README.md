@@ -3,7 +3,8 @@ Leveren Geoinformatie
 
 __Informatie Levering Specificatie voor Geoinformatie__
 
-In deze repository staan de mappen met documenten die samen de informatie levering specificatie vormen voor de Areaaldata database van de Provincie Noord-Holland:
+In deze repository staan de mappen met documenten die samen de informatie levering specificatie vormen voor de Areaaldata database van de Provincie Noord-Holland.
+Daarnaast is ook het datamodel voor het Meetnet Biologische Bermen opgenomen in Overige Datasets
 
 De courante versie is **4.3:d4** uit december 2021. Let op: sinds september 2018 worden de domeinlijsten met toegestane attribuutwaarden als aparte versies gereleased met indicatie '_d1', '_d2' etc.
 
