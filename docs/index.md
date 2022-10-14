@@ -8,16 +8,12 @@ De courante versie is **4.3:d4** uit december 2021. Let op: sinds september 2018
 
 [Hier](https://provincienh.github.io/databeheer/mapping.html) is een visualisatie te vinden hoe Areaaldata samenhangt met de BGT en met het beheerpakket Gisib.
 
+
 __Toekomstige releases__
 
 Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
-In voorbereiding zijn de volgende releases:
-* __4.3:d5__: Minor release:**midden 2022**.
-* __5:d6__: Major release: Implementatie IMBOR **eind 2022**.
+Plannen zijn er voor de volgende releases (grove inschattingen):
 
-Doorontwikkeling gaat volgens dit proces:
-
-
-![proces doorontwikkeling Areaaldata](doorontwikkeling_areaaldata_4x_proces.png)
+* __5:d6__: Major release: Implementatie IMBOR **eind 2023**.
 
 [comment]: <> ({:height="945px" width="810px"})
