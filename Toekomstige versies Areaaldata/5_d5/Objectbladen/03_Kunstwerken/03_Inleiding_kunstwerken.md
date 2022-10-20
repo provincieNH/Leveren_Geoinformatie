@@ -7,11 +7,11 @@ Kenmerkend voor het kunstwerkbeheer is dat het gaat om een verzameling van objec
 De NEN 2767-4 Decompositie wordt gevolgd voor Kunstwerken en Oeverconstructies. Tevens wordt afgeweken van de NEN2767-4 door ook geluidswerende voorzieningen als beheerobject te benaderen. Voor bevorderen van het assetmanagement worden van de genoemde typen beheerobjecten ook de elementen en bouwdelen vastgelegd.
 
 
-| | | | |
-|------          |----         |----                        |----|
-|__Beheerobject__ |	kunstwerk_p	| geluidwerendeVoorziening_l |	oevervak_v|
-|__Element__ |	kwElement_tbl |	scheidingGeluidsscherm_l |	scheidingWater_l|
-|__Bouwdeel__ |	bouwdeelKunstwerk_tbl |	bouwdeelGeluidscherm_tbl |	bouwdeelOevervak_tbl|
+|                  |                        |                            |                       |
+|------------------|------------------------|----------------------------|-----------------------|
+| __Beheerobject__ | 	kunstwerk_p	          | geluidwerendeVoorziening_l | 	oevervak_v           |
+| __Element__      | 	kwElement_tbl         | 	scheidingGeluidsscherm_l  | 	scheidingWater_l     |
+| __Bouwdeel__     | 	bouwdeelKunstwerk_tbl | 	bouwdeelGeluidscherm_tbl  | 	bouwdeelOevervak_tbl |
 
 Om te voldoen aan het vereiste van de BGT worden de objecten met een topografisch component ook in de vorm van opdelende en inrichtende features vastgelegd. Bijvoorbeeld een hek op een brug moet zowel in scheiding_l als in bouwdeelKunstwerk_tbl worden vastgelegd. Ook zijn er voor de BGT specifieke aan een kunstwerken gerelateerde objecten, welke hieronder bij het kopje ‘BGT’ worden benoemd. 
 
