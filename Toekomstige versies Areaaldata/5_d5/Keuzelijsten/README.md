@@ -1,3 +1,0 @@
-﻿# Keuzelijsten Areaaldata
-
-In ontwikkeling
