@@ -1,4 +1,4 @@
-﻿# Kunstwerken
+﻿# Kunstwerken - aangevuld t.b.v. MateriaalPaspoort
 
 Een kunstwerk is een samenhangende eenheid binnen een verkeersinfrastructuur voor het vervoeren van mensen en goederen. Het maakt een veilige en betrouwbare kruising tussen landverkeer, scheepvaartverkeer, voorzieningen en water mogelijk. Het kan ook de aanvoer, afvoer, kering en berging van water mogelijk maken. 
 
