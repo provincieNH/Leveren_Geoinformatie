@@ -1,7 +1,7 @@
 ## MONTAGEWIJZE
 
 *__Domeinlijst versie:__ d5 alpha*
-*__Herkomst definitie:__ PNH*
+*__Herkomst definitie:__ PNH/CB'23*
 *__Type veld:__ Text*
 
 | __Code__ | __Description__	                                                                                              |
