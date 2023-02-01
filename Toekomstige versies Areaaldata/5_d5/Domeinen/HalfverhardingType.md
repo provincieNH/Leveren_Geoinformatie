@@ -6,5 +6,5 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Samenhangend | Samenhangend | Type halfverharding |
 | Los | Los | Type halfverharding |
+| Samenhangend | Samenhangend | Type halfverharding |

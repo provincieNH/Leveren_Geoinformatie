@@ -6,9 +6,9 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
+| 1 | Enkelbaans | In hoeveel banen is de weg ingedeeld? |
 | 2 | Dubbelbaans | In hoeveel banen is de weg ingedeeld? |
 | 1x2 | 1x3 | In hoeveel banen is de weg ingedeeld? |
-| 2x3 | 2x3 | In hoeveel banen is de weg ingedeeld? |
-| 1 | Enkelbaans | In hoeveel banen is de weg ingedeeld? |
-| 2x2 | 2x2 | In hoeveel banen is de weg ingedeeld? |
 | 2x1 | 2x1 | In hoeveel banen is de weg ingedeeld? |
+| 2x2 | 2x2 | In hoeveel banen is de weg ingedeeld? |
+| 2x3 | 2x3 | In hoeveel banen is de weg ingedeeld? |

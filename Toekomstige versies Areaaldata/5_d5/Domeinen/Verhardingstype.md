@@ -9,5 +9,5 @@
 | KunststofverhardingType | KunststofverhardingType | Verhardingstype |
 | HalfverhardingType | HalfverhardingType | Verhardingstype |
 | ElementenverhardingType | ElementenverhardingType | Verhardingstype |
-| BetonverhardingType | BetonverhardingType | Verhardingstype |
 | AsfaltverhardingType | AsfaltverhardingType | Verhardingstype |
+| BetonverhardingType | BetonverhardingType | Verhardingstype |

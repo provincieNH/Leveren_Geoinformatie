@@ -6,8 +6,8 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Halfverhard | Halfverhard | Verhardingscategorie |
-| Bitumen | Bitumen | Verhardingscategorie |
-| Elementverhard | Elementverhard | Verhardingscategorie |
 | Kunststofverhard | Kunststofverhard | Verhardingscategorie |
+| Halfverhard | Halfverhard | Verhardingscategorie |
+| Elementverhard | Elementverhard | Verhardingscategorie |
+| Bitumen | Bitumen | Verhardingscategorie |
 | Betonverhard | Betonverhard | Verhardingscategorie |

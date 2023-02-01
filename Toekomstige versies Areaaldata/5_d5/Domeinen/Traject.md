@@ -6,21 +6,9 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| AD.B06B6A1086604368856A3D9E7AD6BB3F | N525a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.B2091E65BB3049B38C8CB64DA615AC0E | N417a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.B2242353AE70437B8ABF797ACED7AD74 | N508a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.B22D860A3A904928907316C7C794F401 | N523b: Erftoegangsweg (ETW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.B248912BE2BF4A1BBFC4F6E05EE2A75F | N207b: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.B2A551E965D649379BA9D8B9F1C8D1B8 | N415a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.B2ECD41DE0FB476999EB34B1A2A66B34 | N514a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.B345204756A041DAB179DBAF2280294C | K04/K05/K06_1: Vaarweg | Tranjectnummer met bijhorende AD_ID |
-| AD.B464167A3F054F419BC571D8148E3E04 | N247a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.B6594DB1D0CB4195BB27F53F2D012CF7 | N205a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.B973C550E5DE40298A641C0250C547E9 | N520a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.BA6C1524E4064BADB3D089D83C61DFAA | N242b_2: Stroomweg (D_SW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.BB3872F4A40B4A32BFE9903D105ADE4D | N417a: Erftoegangsweg (ETW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.BBCE2690AEF14BAA95AF9C77B3D0849E | N196b: Stroomweg (D_SW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.BBF0470462304D478FFFDBE58A8250CA | N205b: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.BDC1BFC7B9DC4183850AC35BD410A393 | K19n: Vaarweg | Tranjectnummer met bijhorende AD_ID |
 | AD.BE382C53F9854ED4A1B096683259C5AC | N232a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.BEC7ED1193084C089B502500A241629F | K19w: Vaarweg | Tranjectnummer met bijhorende AD_ID |
@@ -32,7 +20,6 @@
 | AD.C1FA16B1F35D430AAD7D4750D8D6CCBB | N246a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.C2495C65507A47AFA1F0360930C8D445 | N201a: Stroomweg (D_SW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.C37E0DDC055D4E688E51D5FBE6FCCB15 | N203c: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.B14F76C232B247D0ADFF6022EC328835 | N523a: Erftoegangsweg (ETW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.C449A71D7C9045C78DDBF21BBC908CC9 | N501a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.C64271B588EF41E3901C3DED043873DA | N200a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.C67841A22C6640A098EAD33F19680792 | N513a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
@@ -58,7 +45,6 @@
 | AD.E316851A49284CB191AEC4CC57FCDCAA | HOV1: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.E4F4FE9C10D34A8C8F5509B23D34EA2A | N508b: Erftoegangsweg (ETW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.E500ECEB0BB74F5B8C2EE8C432DFAE33 | N403a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.B1574F8F03E5462EBDE05A8FEC02BADE | K07/K08: Vaarweg | Tranjectnummer met bijhorende AD_ID |
 | AD.E5734E8D553E496D9421CE177745F82F | N243a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.E60C27C887F84CF0B0AEE849F49C8ADC | N203c: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.E6AB851D568B44A8BC5F440052C73058 | N502b: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
@@ -76,14 +62,25 @@
 | AD.F1E5EED0C6D64D7EBDD4C2A8B75E3F08 | N208b: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.F25EF383C2424B0290741D36F3BE2E02 | N510a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.F2795B56618B4A8EA9BBECF2FFA592F0 | N509a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.FE6F7D2B05FE494F9517C1E7BE8D7DA4 | N245a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.FE6DD282DB9C459E88D5AB45B6CCEE50 | NP7: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.FC9FE003B5424A42AE56A470688491E5 | N245b: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
-| AD.1CDABF9AE22E423B921ED9D487765E18 | N526a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.F95CC674380B417B86B191E786D5CD8B | N202a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.F806E681602C4F54A293C8D2AB2B66F3 | N505a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
-| AD.F46A777A9B6A44B89DC5EAA9E90B6D46 | N244a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.F2E477E7E1394DEA8BC86E875F4DB5B0 | N501a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.F46A777A9B6A44B89DC5EAA9E90B6D46 | N244a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.F806E681602C4F54A293C8D2AB2B66F3 | N505a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.F95CC674380B417B86B191E786D5CD8B | N202a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.1CDABF9AE22E423B921ED9D487765E18 | N526a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.FC9FE003B5424A42AE56A470688491E5 | N245b: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.FE6DD282DB9C459E88D5AB45B6CCEE50 | NP7: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.FE6F7D2B05FE494F9517C1E7BE8D7DA4 | N245a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.BBF0470462304D478FFFDBE58A8250CA | N205b: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.B2091E65BB3049B38C8CB64DA615AC0E | N417a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.B2242353AE70437B8ABF797ACED7AD74 | N508a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.B22D860A3A904928907316C7C794F401 | N523b: Erftoegangsweg (ETW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.B248912BE2BF4A1BBFC4F6E05EE2A75F | N207b: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.B2A551E965D649379BA9D8B9F1C8D1B8 | N415a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.B2ECD41DE0FB476999EB34B1A2A66B34 | N514a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.B345204756A041DAB179DBAF2280294C | K04/K05/K06_1: Vaarweg | Tranjectnummer met bijhorende AD_ID |
+| AD.B464167A3F054F419BC571D8148E3E04 | N247a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.B6594DB1D0CB4195BB27F53F2D012CF7 | N205a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
+| AD.B973C550E5DE40298A641C0250C547E9 | N520a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.028123EF7D2749379F1C3407B1033EC6 | K20n_1: Vaarweg | Tranjectnummer met bijhorende AD_ID |
 | AD.02CE48EE9BBA4EE7AFC52B413260CAEE | N244c: Stroomweg (D_SW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.0715A2FB28774541BA619F93A7D329EE | N244a: Stroomweg (D_SW_2) | Tranjectnummer met bijhorende AD_ID |
@@ -215,3 +212,6 @@
 | AD.AE601C8F3C634E14A557A3E99C8D7D14 | N517a: Fietspad (FP) | Tranjectnummer met bijhorende AD_ID |
 | AD.AE87C32A155E41838C0BB25DE0641D48 | N236a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
 | AD.AEF956A2210E487280AC1A42AECBBC6E | N520a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.B06B6A1086604368856A3D9E7AD6BB3F | N525a: Gebiedsontsluitingsweg (GOW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.B14F76C232B247D0ADFF6022EC328835 | N523a: Erftoegangsweg (ETW_2) | Tranjectnummer met bijhorende AD_ID |
+| AD.B1574F8F03E5462EBDE05A8FEC02BADE | K07/K08: Vaarweg | Tranjectnummer met bijhorende AD_ID |

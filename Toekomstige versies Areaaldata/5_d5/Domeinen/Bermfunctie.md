@@ -6,6 +6,6 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| BF3 | Overige bermen | Gradatie bermfunctie |
-| BF2 | Obstakel vrije zone | Gradatie bermfunctie |
 | BF1 | 1 meter strook | Gradatie bermfunctie |
+| BF2 | Obstakel vrije zone | Gradatie bermfunctie |
+| BF3 | Overige bermen | Gradatie bermfunctie |

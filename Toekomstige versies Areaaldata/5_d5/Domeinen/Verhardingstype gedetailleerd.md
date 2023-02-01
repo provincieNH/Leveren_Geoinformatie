@@ -6,8 +6,8 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
+| BetonverhardingTypeGedetailleerd | BetonverhardingTypeGedetailleerd | Detail voor betonverharding |
+| ElementenverhardingTypeGedetailleerd | ElementenverhardingTypeGedetailleerd | Detail voor elementverharding |
+| HalfverhardingTypeGedetailleerd | HalfverhardingTypeGedetailleerd | Detail voor halfverharding |
 | AsfaltverhardingTypeGedetailleerd | AsfaltverhardingTypeGedetailleerd | Detail voor asfaltverharding |
 | KunststofverhardingTypeGedetailleerd | KunststofverhardingTypeGedetailleerd | Detail voor kunststofverharding |
-| HalfverhardingTypeGedetailleerd | HalfverhardingTypeGedetailleerd | Detail voor halfverharding |
-| ElementenverhardingTypeGedetailleerd | ElementenverhardingTypeGedetailleerd | Detail voor elementverharding |
-| BetonverhardingTypeGedetailleerd | BetonverhardingTypeGedetailleerd | Detail voor betonverharding |
