@@ -6,11 +6,11 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| VASP | Vaste planten | Type plantsoorten in een berm (OWG) |
-| WISP | Wisselperken | Type plantsoorten in een berm (OWG) |
-| STRR | Struikrozen | Type plantsoorten in een berm (OWG) |
-| Onbekend | Onbekend | Type plantsoorten in een berm (OWG) |
-| KLIP | Klimplanten | Type plantsoorten in een berm (OWG) |
-| HEES | Heesters | Type plantsoorten in een berm (OWG) |
-| BOSP | Bosplantsoen | Type plantsoorten in een berm (OWG) |
 | BOD | Bodembedekkers | Type plantsoorten in een berm (OWG) |
+| BOSP | Bosplantsoen | Type plantsoorten in een berm (OWG) |
+| HEES | Heesters | Type plantsoorten in een berm (OWG) |
+| KLIP | Klimplanten | Type plantsoorten in een berm (OWG) |
+| Onbekend | Onbekend | Type plantsoorten in een berm (OWG) |
+| WISP | Wisselperken | Type plantsoorten in een berm (OWG) |
+| VASP | Vaste planten | Type plantsoorten in een berm (OWG) |
+| STRR | Struikrozen | Type plantsoorten in een berm (OWG) |

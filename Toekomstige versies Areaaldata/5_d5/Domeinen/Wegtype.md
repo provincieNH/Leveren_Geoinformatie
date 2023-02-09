@@ -6,6 +6,6 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
+| Erftoegangsweg | Erftoegangsweg | CROW wegtype |
 | Regionale stroomweg | Regionale stroomweg | CROW wegtype |
 | Gebiedsontsluitingsweg | Gebiedsontsluitingsweg | CROW wegtype |
-| Erftoegangsweg | Erftoegangsweg | CROW wegtype |

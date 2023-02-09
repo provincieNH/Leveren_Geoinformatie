@@ -1,4 +1,4 @@
-﻿## SoortVoeg
+﻿## VerhardingsTypeExtraDetail
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
@@ -6,5 +6,4 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Langsvoeg | Langsvoeg | Aangebracht in de stortrichting |
-| Dwarsvoeg | Dwarsvoeg | Aangebracht loodrecht op de stortrichting |
+| ElementenverhardingTypeExtraDetail | ElementenverhardingTypeExtraDetail | Extra detail voor elementverharding |

@@ -6,8 +6,8 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| KunststofverhardingType | KunststofverhardingType | Verhardingstype |
-| HalfverhardingType | HalfverhardingType | Verhardingstype |
 | ElementenverhardingType | ElementenverhardingType | Verhardingstype |
 | AsfaltverhardingType | AsfaltverhardingType | Verhardingstype |
+| KunststofverhardingType | KunststofverhardingType | Verhardingstype |
+| HalfverhardingType | HalfverhardingType | Verhardingstype |
 | BetonverhardingType | BetonverhardingType | Verhardingstype |
