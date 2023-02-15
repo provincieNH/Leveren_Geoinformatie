@@ -6,7 +6,7 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Waterpasserende en -doorlatende verharding | Waterpasserende en -doorlatende verharding | Gradatie van water doorlatenheid |
 | Geen | Geen | Gradatie van water doorlatenheid |
-| Waterpasserende | Waterpasserende | Gradatie van water doorlatenheid |
 | Waterdoorlatende verharding | Waterdoorlatende verharding | Gradatie van water doorlatenheid |
+| Waterpasserende en -doorlatende verharding | Waterpasserende en -doorlatende verharding | Gradatie van water doorlatenheid |
+| Waterpasserende | Waterpasserende | Gradatie van water doorlatenheid |

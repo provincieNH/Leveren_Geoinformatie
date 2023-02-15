@@ -6,8 +6,8 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
+| Aangetroffen | Aangetroffen | objecten die niet bekend zijn maar staan wel in de buitenruimte |
+| Actueel | Actueel | objecten zijn in AD5 en zijn ongewijzigd |
 | Nieuw | Nieuw | objecten die volledig nieuw zijn |
 | Gewijzigd | Gewijzigd | objecten in AD5 en zijn gewijzigd tov huidige staand |
-| Actueel | Actueel | objecten zijn in AD5 en zijn ongewijzigd |
-| Aangetroffen | Aangetroffen | objecten die niet bekend zijn maar staan wel in de buitenruimte |
 | Vervallen | Vervallen | objecten die volledig verwijderd zijn |

@@ -6,21 +6,6 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Den Helder | Den Helder | PNH gemeentenaam |
-| Castricum | Castricum | PNH gemeentenaam |
-| Bloemendaal | Bloemendaal | PNH gemeentenaam |
-| Beverwijk | Beverwijk | PNH gemeentenaam |
-| Bergen | Bergen | PNH gemeentenaam |
-| Amsterdam | Amsterdam | PNH gemeentenaam |
-| Amstelveen | Amstelveen | PNH gemeentenaam |
-| Alkmaar | Alkmaar | PNH gemeentenaam |
-| Aalsmeer | Aalsmeer | PNH gemeentenaam |
-| Blaricum | Blaricum | PNH gemeentenaam |
-| Diemen | Diemen | PNH gemeentenaam |
-| Drechterland | Drechterland | PNH gemeentenaam |
-| Edam-Volendam | Edam-Volendam | PNH gemeentenaam |
-| Velsen | Velsen | PNH gemeentenaam |
-| Enkhuizen | Enkhuizen | PNH gemeentenaam |
 | Gooise Meren | Gooise Meren | PNH gemeentenaam |
 | Haarlem | Haarlem | PNH gemeentenaam |
 | Haarlemmermeer | Haarlemmermeer | PNH gemeentenaam |
@@ -31,6 +16,7 @@
 | Hollandskroon | Hollandskroon | PNH gemeentenaam |
 | Hoorn | Hoorn | PNH gemeentenaam |
 | Huizen | Huizen | PNH gemeentenaam |
+| Koggenland | Koggenland | PNH gemeentenaam |
 | Lansdmeer | Lansdmeer | PNH gemeentenaam |
 | Laren | Laren | PNH gemeentenaam |
 | Medemblik | Medemblik | PNH gemeentenaam |
@@ -48,5 +34,19 @@
 | Wormerland | Wormerland | PNH gemeentenaam |
 | Zaanstad | Zaanstad | PNH gemeentenaam |
 | Zandvoort | Zandvoort | PNH gemeentenaam |
+| Aalsmeer | Aalsmeer | PNH gemeentenaam |
+| Alkmaar | Alkmaar | PNH gemeentenaam |
+| Amstelveen | Amstelveen | PNH gemeentenaam |
+| Amsterdam | Amsterdam | PNH gemeentenaam |
+| Bergen | Bergen | PNH gemeentenaam |
+| Beverwijk | Beverwijk | PNH gemeentenaam |
+| Blaricum | Blaricum | PNH gemeentenaam |
+| Bloemendaal | Bloemendaal | PNH gemeentenaam |
+| Castricum | Castricum | PNH gemeentenaam |
+| Den Helder | Den Helder | PNH gemeentenaam |
+| Diemen | Diemen | PNH gemeentenaam |
+| Velsen | Velsen | PNH gemeentenaam |
 | Dijk en Waard | Dijk en Waard | PNH gemeentenaam |
-| Koggenland | Koggenland | PNH gemeentenaam |
+| Drechterland | Drechterland | PNH gemeentenaam |
+| Edam-Volendam | Edam-Volendam | PNH gemeentenaam |
+| Enkhuizen | Enkhuizen | PNH gemeentenaam |

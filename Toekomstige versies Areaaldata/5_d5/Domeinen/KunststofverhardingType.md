@@ -6,5 +6,5 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Kunststof vloer | Kunststof vloer | Type kunststofverharding |
 | Kunstgras | Kunstgras | Type kunststofverharding |
+| Kunststof vloer | Kunststof vloer | Type kunststofverharding |

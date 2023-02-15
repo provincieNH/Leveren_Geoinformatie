@@ -6,6 +6,6 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Rijnland | Rijnland | Waterschappen in PNH |
 | Hollands Noorderkwartier | Hollands Noorderkwartier | Waterschappen in PNH |
+| Rijnland | Rijnland | Waterschappen in PNH |
 | Amstel Gooi en Vecht | Amstel Gooi en Vecht | Waterschappen in PNH |

@@ -1,4 +1,4 @@
-﻿## KOMgrens
+﻿## Typeondergrond
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ PNH*
@@ -6,5 +6,7 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| BiBeKOM | BinnenBebouwdeKOM | Komgrens |
-| BuBeKOM | BuitenBebouwdeKOM | Komgrens |
+| 1 | Klei | type ondergrond |
+| 3 | Veen | type ondergrond |
+| 0 | Zand | type ondergrond |
+| 2 | Klei/Veen | type ondergrond |

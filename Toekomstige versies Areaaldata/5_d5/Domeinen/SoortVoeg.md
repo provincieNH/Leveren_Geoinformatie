@@ -6,5 +6,5 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Langsvoeg | Langsvoeg | Aangebracht in de stortrichting |
 | Dwarsvoeg | Dwarsvoeg | Aangebracht loodrecht op de stortrichting |
+| Langsvoeg | Langsvoeg | Aangebracht in de stortrichting |

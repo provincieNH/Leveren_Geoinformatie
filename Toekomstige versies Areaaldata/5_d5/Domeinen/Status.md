@@ -6,6 +6,6 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| plan | plan | BGT status van object |
 | bestaand | bestaand | BGT status van object |
 | historisch | historisch | BGT status van object |
+| plan | plan | BGT status van object |

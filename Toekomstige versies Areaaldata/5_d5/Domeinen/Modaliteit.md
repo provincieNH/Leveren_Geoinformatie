@@ -6,6 +6,9 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
+| Zwaar ververkeer | Zwaar ververkeer | Verkeerstoestemming |
+| Autobus | Autobus | Verkeerstoestemming |
+| Bromfietser | Bromfietser | Verkeerstoestemming |
 | Bus | Bus | Verkeerstoestemming |
 | Exceptioneel transport | Exceptioneel transport | Verkeerstoestemming |
 | Fiets | Fiets | Verkeerstoestemming |
@@ -22,10 +25,7 @@
 | Motorfiets | Motorfiets | Verkeerstoestemming |
 | Personenauto | Personenauto | Verkeerstoestemming |
 | Tram | Tram | Verkeerstoestemming |
+| Trein | Trein | Verkeerstoestemming |
 | Voetganger | Voetganger | Verkeerstoestemming |
 | Vrachtauto | Vrachtauto | Verkeerstoestemming |
-| Zwaar ververkeer | Zwaar ververkeer | Verkeerstoestemming |
 | Zwar motorvoertuig | Zwar motorvoertuig | Verkeerstoestemming |
-| Trein | Trein | Verkeerstoestemming |
-| Autobus | Autobus | Verkeerstoestemming |
-| Bromfietser | Bromfietser | Verkeerstoestemming |

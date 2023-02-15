@@ -8,7 +8,7 @@
 |	---	|	---	|   ---	| 
 | Gemeente | Gemeente | Eigenaar van beheerobject |
 | Onbekend | Onbekend | Eigenaar van beheerobject |
+| Particular | Particular | Eigenaar van beheerobject |
 | Prorail | Prorail | Eigenaar van beheerobject |
 | Provincie | Provincie | Eigenaar van beheerobject |
 | Waterschap | Waterschap | Eigenaar van beheerobject |
-| Particular | Particular | Eigenaar van beheerobject |
