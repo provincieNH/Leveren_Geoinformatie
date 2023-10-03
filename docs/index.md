@@ -14,6 +14,6 @@ __Toekomstige releases__
 Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
 Plannen zijn er voor de volgende releases (grove inschattingen):
 
-* __5:d6__: Major release: Implementatie IMBOR **halverwege 2024**.
+* __5:d6__: Major release: Implementatie IMBOR **medio 2024**.
 
 [comment]: <> ({:height="945px" width="810px"})
