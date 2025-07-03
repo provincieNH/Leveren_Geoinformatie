@@ -1,11 +1,11 @@
-﻿## AREAALDATA.blok_p
+﻿## AREAALDATA.bordes_v
 
 * __Areaaldata model versie:__ 5
 * __Herkomst Definitie:__ IMBOR/NEN3610
 * __Positionele nauwkeurigheid:__ 7,5 cm (NB, groter dan BGT)
-* __Geometrie:__ Punt
-* __Definitie:__ Blokvormig element, meestal van beton of steen, bedoeld om een openbare ruimte te verfraaien, achterliggende gebieden te beschermen of te dienen als zit- of speelelement.
-* __MappingBGT:__ geen
+* __Geometrie:__ Vlak
+* __Definitie:__ Bordes valt onder GebouwInstallatie. Een verhard oppervlak, eventueel verhoogd en/of uitgevoerd met treden, grenzend aan een pand en primair bedoeld voor gebruik door voetgangers.
+* __MappingBGT:__ gebouwInstallatie_v
 * __Heeft Z-waarden:__ ENABLED
 * __Heeft M-waarden:__ DISABLED
 
@@ -25,23 +25,18 @@
 |verwerkingsstatus                         |verwerkingsstatus                                    |TEXT(255,0)                            |PNH; AREAALDATA; Enumeratie; keuzelijst [Verwerkingsstatus]; ; Default: None; Status van de gegevens.
 |dataleverancier                           |dataleverancier                                      |TEXT(255,0)                            |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Leverancier van de data.
 |opmerking                                 |opmerking                                            |TEXT(3000,0)                           |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Algemene opmerking voor het object, zoals een omschrijving of toelichting.
-|shape                                     |shape                                                |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Locatie van het beheerobject.
+|st_area(shape)                            |st_area                                              |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Oppervlakte van het beheerobject in m2.
+|st_perimeter(shape)                       |st_perimeter                                         |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Omtrek van het beheerobject in meters.
 |beheerder                                 |beheerder                                            |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectBeheerder]; ; Default: None; Een publiekrechtelijke instantie of (rechts)persoon die toeziet op de instandhouding van o.a. een object, kunstwerk of waterstaatswerk. De typen beheerder zijn conform de indeling in bronhouders (BGT).
-|beheerder_gedetailleerd                   |beheerder gedetailleerd                              |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectBeheerderGedetailleerd]; ; Default: None; Nadere aanduiding van de beheerder van het beheerobject.
-|beheergebied                              |beheergebied                                         |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [GCR_NAAM]; Verwijzende sleutel naar [gebiedscontractregio_v]; Default: None; Verwijzende sleutel naar gebiedscontractregio_v; Aanduiding van het beheergebied waarbinnen het beheerobject ligt. Indeling in beheergebieden is organisatiespecifiek.
-|bgt_objecttype                            |bgtplustype                                          |TEXT(255,0)                            |IMBOR; Geo-object; Enumeratie/Referentie; ; ; Default: None; Specificatie van het BGT/IMGeo-object.
-|bouwjaar                                  |bouwjaar                                             |SHORT(5,0)                             |IMBOR; Constructie; Vrij invoerveld; ; ; Default: None; Bouwjaar van het object. Deze kan afwijken van het jaar van aanleg, bijvoorbeeld wanneer een beheerobject hergebruikt wordt.
+|beheergebied                              |beheergebied                                         |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [GCR_NAAM]; Verwijzende sleutel naar [gebiedscontractregio_v]; Default: None; De provincie heeft haar gebied in 8 gebieden opgesplitst. Amsterdam (gebied 8) is zelfstandig. Aanduiding van het beheergebied waarbinnen het beheerobject ligt. Bevat een verwijzende sleutel naar gebiedscontractregio_v (simpel). AD_ID foreign key. 
 |eigenaar                                  |eigenaar                                             |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectEigenaar]; ; Default: None; (Rechts)persoon die het meest omvattend recht op een zaak heeft. De typen eigenaren zijn conform de indeling in bronhouders (BGT).
-|eigenaar_gedetailleerd                    |eigenaar gedetailleerd                               |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectEigenaarGedetailleerd]; ; Default: None; Nadere aanduiding van de eigenaar van het beheerobject.
-|fabrikant                                 |fabrikant                                            |TEXT(255,0)                            |IMBOR; Constructie; Vrij invoerveld; ; ; Default: None; Fabrikant van het beheerobject.
-|gisib_id                                  |gisib_id                                             |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; wordt aangemaakt in GISIB
-|hoofdroute                                |hoofdroute                                           |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie/Referentie; keuzelijst [Hoofdroute]; Verwijzende sleutel naar [weg_v]; Default: None; Verwijzende sleutel naar weg_v; AD_ID foreign key
-|leverancier                               |leverancier                                          |TEXT(255,0)                            |IMBOR; Constructie; Vrij invoerveld; ; ; Default: None; Leverancier van het beheerobject.
-|ligging                                   |ligging                                              |TEXT(255,0)                            |IMBOR; Gebiedsindeling; Enumeratie/Referentie; keuzelijst [GebiedsindelingLigging]; ; Default: None; Aanduiding van de ligging van het beheerobject binnen of buiten de bebouwde kom.
-|onderhoudsplichtige                       |onderhoudsplichtige                                  |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectOnderhoudsplichtige]; ; Default: None; Organisatie die verantwoordelijk is voor het onderhoud van het BeheerdObject.
-|plaatsorientatie                          |plaatsorientatie                                     |TEXT(255,0)                            |IMBOR; Asfaltverharding; Enumeratie/Referentie; keuzelijst [Plaatsorientatie]; ; Default: None; Positie van het wegobject binnen het wegvak.
-|theoretisch_eindjaar                      |theoretisch eindjaar                                 |SHORT(5,0)                             |IMBOR; Reëel object; Vrij invoerveld; ; ; Default: None; Jaar dat het beheerobject aan het theoretische einde van haar levensduur is.
-|type                                      |blok type                                            |TEXT(255,0)                            |IMBOR; Blok; Enumeratie/Referentie; keuzelijst [BlokType]; ; Default: None; Typering van het beheerobject.
+|gisib_id                                  |gisib id                                             |LONG(10,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer.
+|hoofdroute                                |hoofdroute                                           |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie/Referentie; keuzelijst [Hoofdroute]; Verwijzende sleutel naar [weg_v]; Default: None; Verwijzende sleutel naar weg_v (simpel); Naam van de hoofdroute waarbinnen het object ligt.
+|onderdeel_van_element                     |onderdeel van element                                |TEXT(255,0)                            |PNH; Decompositie; Vrij invoerveld; ; ; Default: None; Featureclass is een element van
+|onderhoudsplichtige                       |onderhouder                                          |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectOnderhoudsplichtige]; ; Default: None; Organisatie die verantwoordelijk is voor het onderhoud van het beheerobject.
+|plus_type                                 |bgt plustype                                         |TEXT(255,0)                            |IMBOR; Bordes; Enumeratie/Referentie; keuzelijst [typeGBI]; ; Default: niet-bgt:bordes; Nadere type omschrijving in de BGT.
+|relatieve_hoogteligging                   |bgt relatieve hoogteligging                          |SHORT(5,0)                             |IMBOR; Geo-object; Vrij invoerveld; ; ; Default: None; Aanduiding voor de relatieve hoogte van het beheerobject.
+|type_bordes                               |type bordes                                          |TEXT(255,0)                            |PNH; Bordes; Vrij invoerveld; ; ; Default: None; nader typernig van bgtplustype.
 
 ***
 

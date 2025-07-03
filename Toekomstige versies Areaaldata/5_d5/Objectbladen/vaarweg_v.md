@@ -1,12 +1,12 @@
-﻿## AREAALDATA.molgoot_l
+﻿## AREAALDATA.vaarweg_v
 
-* __Areaaldata model versie:__ 5
+* __Areaaldata model versie:__ 5.0
 * __Herkomst Definitie:__ IMBOR/NEN3610
 * __Positionele nauwkeurigheid:__ 7,5 cm (NB, groter dan BGT)
-* __Geometrie:__ Lijn
-* __Definitie:__ Een molgoot is een verdiept gedeelte aan de rand van de weg ten behoeve van de afwatering.
-* __MappingBGT:__ x
-* __Heeft Z-waarden:__ DISABLED
+* __Geometrie:__ Vlak
+* __Definitie:__ Vaarweg is een abstract functioneel gebied waarvan de afmetingen zijn bepaald aan de hand van het geografisch bereik van de geldende beperking en de geldende functie zoals die is aangegeven door de beheerder of vanuit het beheerplan. Het heeft geen vaste afmetingen maar past altijd binnen het vaarwegtraject.
+* __MappingBGT:__ n.v.t.
+* __Heeft Z-waarden:__ ENABLED
 * __Heeft M-waarden:__ DISABLED
 
 ***
@@ -25,30 +25,27 @@
 |verwerkingsstatus                         |verwerkingsstatus                                    |TEXT(255,0)                            |PNH; AREAALDATA; Enumeratie; keuzelijst [Verwerkingsstatus]; ; Default: None; Status van de gegevens.
 |dataleverancier                           |dataleverancier                                      |TEXT(255,0)                            |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Leverancier van de data.
 |opmerking                                 |opmerking                                            |TEXT(3000,0)                           |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Algemene opmerking voor het object, zoals een omschrijving of toelichting.
-|st_length(shape)                          |st_length                                            |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Lengte van het beheerobject in meters.
-|beginpunt                                 |kilometrering begin                                  |FLOAT(6,2)                             |IMBOR; Areaaldata; Vrij invoerveld; ; ; Default: None; Hectometrering begin
+|st_area(shape)                            |st_area                                              |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Oppervlakte van het beheerobject in m2.
+|st_perimeter(shape)                       |st_perimeter                                         |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Omtrek van het beheerobject in meters.
+|begin_linker_oever                        |begin linker oever (km)                              |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Begin Linker Oever
 |beheerder                                 |beheerder                                            |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectBeheerder]; ; Default: None; Een publiekrechtelijke instantie of (rechts)persoon die toeziet op de instandhouding van o.a. een object, kunstwerk of waterstaatswerk. De typen beheerder zijn conform de indeling in bronhouders (BGT).
-|beheerder_gedetailleerd                   |beheerder gedetailleerd                              |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectBeheerderGedetailleerd]; ; Default: None; Nadere aanduiding van de beheerder van het beheerobject.
 |beheergebied                              |beheergebied                                         |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [GCR_NAAM]; Verwijzende sleutel naar [gebiedscontractregio_v]; Default: None; Verwijzende sleutel naar gebiedscontractregio_v; Aanduiding van het beheergebied waarbinnen het beheerobject ligt. Indeling in beheergebieden is organisatiespecifiek.
-|bgt_objecttype                            |bgtplustype                                          |TEXT(255,0)                            |IMBOR; Molgoot; Vrij invoerveld; ; ; Default: molgoot; IMGeo plus populatie.
-|bouwjaar                                  |bouwjaar                                             |SHORT(5,0)                             |IMBOR; Constructie; Vrij invoerveld; ; ; Default: None; Bouwjaar van het object. Deze kan afwijken van het jaar van aanleg, bijvoorbeeld wanneer een beheerobject hergebruikt wordt.
-|breedte                                   |breedte (cm)                                         |FLOAT(6,2)                             |IMBOR; Leiding; Vrij invoerveld; ; ; Default: None; Breedte van het beheerobject.
+|beign_rechter_oever                       |begin rechter oever (km)                             |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Begin Rechter Oever
+|besluitnummer                             |besluitnummer                                        |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Besluitnummer waarde
 |eigenaar                                  |eigenaar                                             |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectEigenaar]; ; Default: None; (Rechts)persoon die het meest omvattend recht op een zaak heeft. De typen eigenaren zijn conform de indeling in bronhouders (BGT).
-|eigenaar_gedetailleerd                    |eigenaar gedetailleerd                               |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectEigenaarGedetailleerd]; ; Default: None; Nadere aanduiding van de eigenaar van het beheerobject.
-|eindpunt                                  |kilometrering eind                                   |FLOAT(6,2)                             |IMBOR; Areaaldata; Vrij invoerveld; ; ; Default: None; Hectometrering eind
-|fabrikant                                 |fabrikant                                            |TEXT(255,0)                            |IMBOR; Constructie; Vrij invoerveld; ; ; Default: None; Fabrikant van het beheerobject.
-|gisib_id                                  |gisib_id                                             |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; wordt aangemaakt in GISIB
+|eind_linker_oever                         |eind linker oever (km)                               |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Eind Linker Oever
+|eind_rechter_oever                        |eind rechter oever (km)                              |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Eind Rechter Oever
+|geldende_beperking                        |geldende beperking                                   |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Waar een vaarwegdeeltraject niet voldoet aan een streefbeeld worden beperking opgelegd qua gebruik
+|gewenste_bagger_kwaliteit                 |gewenste bagger kwaliteit                            |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Gewenste baggerkwaliteit
 |hoofdroute                                |hoofdroute                                           |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie/Referentie; keuzelijst [Hoofdroute]; Verwijzende sleutel naar [weg_v]; Default: None; Verwijzende sleutel naar weg_v; AD_ID foreign key
-|lengte                                    |lengte (m)                                           |DOUBLE(10,3)                           |IMBOR; Leiding; Vrij invoerveld; ; ; Default: None; Lengte van het beheerobject.
-|ligging                                   |ligging                                              |TEXT(255,0)                            |IMBOR; Gebiedsindeling; Enumeratie/Referentie; keuzelijst [GebiedsindelingLigging]; ; Default: None; Aanduiding van de ligging van het beheerobject binnen of buiten de bebouwde kom.
-|materiaal                                 |materiaal                                            |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie/Referentie; keuzelijst [Materiaaltype]; ; Default: None; Materiaal waaruit de gootstrook bestaat
-|onderdeel_van_element                     |onderdeel van element                                |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; Verwijzende sleutel naar [element_tbl]; Default: None; Verwijzende sleutel naar element_tbl; AD_ID foreign key
+|lengte_linker_oever                       |lengte linker oever (m)                              |FLOAT(6,2)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Lengte linkeroever (m)
+|lengte_rechter_oever                      |lengte rechter oever (m)                             |FLOAT(6,2)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Lengte rechteroever (m)
+|objectnaam                                |objectnaam                                           |TEXT(255,0)                            |IMBOR; ReëelObject; Vrij invoerveld; ; ; Default: None; Naam van het beheerobject; Deeltraject-naam, bijvoorbeeld k20n-d
+|objectnummer                              |deeltrajectnummer                                    |SHORT(5,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Deeltraject nummer
+|omtrek                                    |omtrek (m)                                           |DOUBLE(10,3)                           |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Omtrek
 |onderhoudsplichtige                       |onderhoudsplichtige                                  |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectOnderhoudsplichtige]; ; Default: None; Organisatie die verantwoordelijk is voor het onderhoud van het beheerobject.
-|plaatsorientatie                          |plaatsorientatie                                     |TEXT(255,0)                            |IMBOR; Asfaltverharding; Enumeratie/Referentie; keuzelijst [Plaatsorientatie]; ; Default: None; Positie van het wegobject binnen het wegvak.
-|plus_type                                 |type molgoot                                         |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: molgoot; AD4 typepsec
-|relatieve_hoogteligging                   |relatieve hoogteligging                              |SHORT(5,0)                             |IMBOR; Geo-object; Vrij invoerveld; ; ; Default: None; Aanduidiing voor de relatieve hoogte van het beheerobject
-|restlevensduur                            |restlevensduur                                       |SHORT(5,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Restlevensduur in maanden
-|theoretisch_eindjaar                      |theoretisch eindjaar                                 |SHORT(5,0)                             |IMBOR; Reëel object; Vrij invoerveld; ; ; Default: None; Jaar dat het beheerobject aan het theoretische einde van haar levensduur is.
+|oppervlakte                               |oppervlakte (m2)                                     |DOUBLE(10,3)                           |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Oppervlakte
+|waterschapnaam                            |waterschapnaam                                       |TEXT(255,0)                            |IMBOR; Gebiedsindeling; Enumeratie/Referentie; keuzelijst [Waterschap]; ; Default: None; Aanduiding van het beheergebied waarbinnen het beheerobject ligt. Indeling in beheergebieden is organisatiespecifiek.
 
 ***
 

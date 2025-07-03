@@ -1,11 +1,11 @@
-﻿## AREAALDATA.wegas_l
+﻿## AREAALDATA.profiellijn_l
 
 * __Areaaldata model versie:__ 5
 * __Herkomst Definitie:__ IMBOR/NEN3610
 * __Positionele nauwkeurigheid:__ 7,5 cm (NB, groter dan BGT)
 * __Geometrie:__ Lijn
-* __Definitie:__ Functioneel; Wegverkeerruimte die de verkeerskundige inrichting van een weg beschrijft tussen twee knopen. De hartlijn van een weg. De ‘as’ van de verschillende wegen zoals tot standgekomen in de iNHi(richtingonafhankelijke trajecten), en volgen de rechter rijbaan. De lijn wordt in de richting van de oplopende hectometrering getekend. Het startpunt is altijd bij de laagste hectometerwaarde. Het eindpunt altijd bij de hoogste. Measure values zijn van toepassing, en zijn gedefinieerd in meters.
-* __MappingBGT:__ x
+* __Definitie:__ Hulplijn voor het vastleggen van contouren, profielen of andere lijnen in het landschap
+* __MappingBGT:__ ondersteunendWegdeelKruin_l
 * __Heeft Z-waarden:__ ENABLED
 * __Heeft M-waarden:__ DISABLED
 
@@ -26,11 +26,9 @@
 |dataleverancier                           |dataleverancier                                      |TEXT(255,0)                            |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Leverancier van de data.
 |opmerking                                 |opmerking                                            |TEXT(3000,0)                           |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Algemene opmerking voor het object, zoals een omschrijving of toelichting.
 |st_length(shape)                          |st_length                                            |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Lengte van het beheerobject in meters.
-|beheerder                                 |beheerder                                            |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectBeheerder]; ; Default: None; Een publiekrechtelijke instantie of (rechts)persoon die toeziet op de instandhouding van o.a. een object, kunstwerk of waterstaatswerk. De typen beheerder zijn conform de indeling in bronhouders (BGT).
+|bgt_objecttype                            |bgt classificatie                                    |TEXT(255,0)                            |IMBOR; Areaaldata; Enumeratie/Referentie; keuzelijst [BGTclassificatie]; ; Default: None; Classificatie uit de BGT
 |gisib_id                                  |gisib_id                                             |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; wordt aangemaakt in GISIB
-|kilometrering_begin                       |kilometrering begin                                  |FLOAT(6,2)                             |IMBOR; Ligging; Vrij invoerveld; ; ; Default: None; hectometrering begin berm
-|kilometrering_eind                        |kilometrering eind                                   |FLOAT(6,2)                             |IMBOR; Ligging; Vrij invoerveld; ; ; Default: None; hectorering eind berm
-|wegnummer                                 |wegnummer                                            |TEXT(255,0)                            |IMBOR; Wegas; Enumeratie/Referentie; keuzelijst [Wegnummer]; ; Default: None; traject; N+ of K+routenummer
+|identificatie                             |bgt identificatie                                    |TEXT(255,0)                            |PNH; Areaaldata; GUID; ; ; Default: None; SVB identificatie
 
 ***
 
