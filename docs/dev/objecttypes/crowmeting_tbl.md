@@ -22,7 +22,7 @@
 |last_edited_date                          |last_edited_date                                     |DATE(15,0)                             |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; Datum van de laatste mutatie, gegenereerd door ArcGIS.
 |objectbegintijd                           |objectbegintijd                                      |DATE(9,0)                              |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Datum waarop het object bij de bronhouder is ontstaan.
 |objecteindtijd                            |objecteindtijd                                       |DATE(9,0)                              |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Datum waarop het object bij de bronhouder niet meer geldig is.
-|verwerkingsstatus                         |verwerkingsstatus                                    |TEXT(255,0)                            |PNH; AREAALDATA; Enumeratie; keuzelijst [Verwerkingsstatus]; ; Default: None; Status van de gegevens.
+|verwerkingsstatus                         |verwerkingsstatus                                    |TEXT(255,0)                            |PNH; AREAALDATA; Enumeratie; keuzelijst [Verwerkingsstatus](../domeinen/Verwerkingsstatus.html); ; Default: None; Status van de gegevens.
 |dataleverancier                           |dataleverancier                                      |TEXT(255,0)                            |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Leverancier van de data.
 |opmerking                                 |opmerking                                            |TEXT(3000,0)                           |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; Algemene opmerking voor het object, zoals een omschrijving of toelichting.
 |asfaltverharding                          |asfaltverharding                                     |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; Verwijzende sleutel naar [asfaltverharding_v]; Default: None; Verwijzende sleutel naar asfaltverharding_v (simpel)
@@ -30,7 +30,7 @@
 |elementenverharding                       |elementenverharding                                  |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; Verwijzende sleutel naar [elementenverharding_v]; Default: None; Verwijzende sleutel naar elementenverharding_v (simpel)
 |gisib_id                                  |gisib_id                                             |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; wordt aangemaakt in GISIB
 |metingdatum                               |metingdatum                                          |DATE(9,0)                              |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Datum van de Meting
-|metingtype                                |metingtype                                           |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie/Referentie; keuzelijst [CROWMetingType]; ; Default: None; Soort Meting
+|metingtype                                |metingtype                                           |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie/Referentie; keuzelijst [CROWMetingType](../domeinen/CROWMetingType.html); ; Default: None; Soort Meting
 |metingwaarde                              |metingwaarde                                         |FLOAT(6,2)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; Waarde van de Meting
 
 ***
