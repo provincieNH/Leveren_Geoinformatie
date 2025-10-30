@@ -1,1 +1,5 @@
-Deze map bevat documentatie in ontwikkeling. GD-7552
+__Informatie Levering Specificatie voor Geoinformatie Areaaldata 5d4 DEV__
+
+[objectdefinities](objecttypes)<br/>
+[keuzelijsten](domeinen)
+ 
