@@ -1,6 +1,6 @@
 ﻿## AREAALDATA.wegmarkering_tbl
 
-* __Areaaldata model versie:__ 5
+* __Areaaldata model versie:__ [5](https://provincienh.github.io/Leveren_Geoinformatie/dev/)
 * __Herkomst Definitie:__ IMBOR/NEN3610
 * __Positionele nauwkeurigheid:__ 7,5 cm (NB, groter dan BGT)
 * __Geometrie:__ n.v.t.
