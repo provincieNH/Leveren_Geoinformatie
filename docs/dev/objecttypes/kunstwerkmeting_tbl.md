@@ -1,6 +1,6 @@
 ﻿## AREAALDATA.kunstwerkmeting_tbl
 
-* __Areaaldata model versie:__ [5](https://provincienh.github.io/Leveren_Geoinformatie/dev/)
+* [__Areaaldata model versie:__ 5](https://provincienh.github.io/Leveren_Geoinformatie/dev/)
 * __Herkomst Definitie:__ NEN 2767-4
 * __Positionele nauwkeurigheid:__ n.v.t.
 * __Geometrie:__ n.v.t.
