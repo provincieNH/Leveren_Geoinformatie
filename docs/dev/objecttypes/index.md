@@ -1,4 +1,4 @@
-## Objecttypes van Areaaldata versie 5d4<br>
+## Objecttypes van het Areaaldata model<br>
 [adres_tbl](adres_tbl.html)<br>
 [aquaduct_p](aquaduct_p.html)<br>
 [asfaltverharding_v](asfaltverharding_v.html)<br>

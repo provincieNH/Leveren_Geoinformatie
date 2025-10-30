@@ -1,4 +1,4 @@
-## Keuzelijsten van het Areaaldata versie 5d4<br>
+## Keuzelijsten van het Areaaldata model<br>
 [AanleginrichtingType](AanleginrichtingType.html)<br>
 [AanleginrichtingTypeBediening](AanleginrichtingTypeBediening.html)<br>
 [AansluitingType](AansluitingType.html)<br>
