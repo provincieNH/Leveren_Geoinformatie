@@ -6,7 +6,7 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| 360 graden fotografie | 361 graden fotografie | Het meetinstrument waarmee de meting verricht is, is 360 graden fotografie, een methode van fotografie die de omgeving langs een volledige cirkel aan horizontale rotatie vastlegt. |
+| 360 graden fotografie | 360 graden fotografie | Het meetinstrument waarmee de meting verricht is, is 360 graden fotografie, een methode van fotografie die de omgeving langs een volledige cirkel aan horizontale rotatie vastlegt. |
 | Apps | Apps | Het instrument waarmee de meting is verricht is een (mobiele) applicatie. |
 | Beeldopname (camera) | Beeldopname (camera) | Het instrument waar de meting mee verricht wordt, is een vorm van het vastleggen van bewegende beelden, oftewel een camera. |
 | Bluetooth-meetinstrument | Bluetooth-meetinstrument | Het instrument waarmee de meting is verricht is een instrument dat gebruikmaakt van een bluetooth verbinding, een draadloze verbinding voor apparaten die zich op korte afstand van elkaar bevinden. |

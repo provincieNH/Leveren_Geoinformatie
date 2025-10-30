@@ -6,8 +6,8 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Amsterdam-Amstelland | Amsterdam-Amstelland | Veiligheidsregio |
-| Gooi en Vechtstreek | Gooi en Vechtstreek | Veiligheidsregio |
-| Kennemerland | Kennemerland | Veiligheidsregio |
-| Noord-Holland Noord | Noord-Holland Noord | Veiligheidsregio |
-| Zaanstreek-Waterland | Zaanstreek-Waterland | Veiligheidsregio |
+| Amsterdam-Amstelland | Amsterdam-Amstelland | Noord-Holland is verdeeld in 5 veiligheidsregio’s. |
+| Gooi en Vechtstreek | Gooi en Vechtstreek | Noord-Holland is verdeeld in 5 veiligheidsregio’s. |
+| Kennemerland | Kennemerland | Noord-Holland is verdeeld in 5 veiligheidsregio’s. |
+| Noord-Holland Noord | Noord-Holland Noord | Noord-Holland is verdeeld in 5 veiligheidsregio’s. |
+| Zaanstreek-Waterland | Zaanstreek-Waterland | Noord-Holland is verdeeld in 5 veiligheidsregio’s. |

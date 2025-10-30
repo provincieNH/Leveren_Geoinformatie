@@ -7,5 +7,5 @@
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
 | Geen | Geen | er is geen meubel aanwezig |
-| Leunbank  | Leunbank  | een meubel waaraan men kan leunen |
+| Leunbank | Leunbank | een meubel waaraan men kan leunen |
 | Zitmeubel | Zitmeubel | een zitmeubel - bijv. bank of poef |

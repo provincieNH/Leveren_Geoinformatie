@@ -6,20 +6,21 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| AD | Aquaduct | x |
-| BR | Brug | x |
-| DK | Duiker | x |
-| FC | Folieconstructie | x |
-| FP | Faunapassage (ecoduct) | x |
-| FV | Fiets/voetgangers | x |
-| GM | Gemaal | x |
-| GV | Gemengd verkeer | x |
-| HA | Halte | x |
-| IS | Inlaatsluis | x |
-| KS | Keersluis | x |
-| Niet van toepassing | Niet van toepassing | x |
-| OD | Onderdoorgang | x |
-| OK | Overkluizing | x |
-| OV | Overig | x |
-| SS | Schutsluis | x |
-| VD | Viaduct | x |
+| Aquaduct | Aquaduct | Aquaduct |
+| Brug | Brug | Brug |
+| Duiker | Duiker | Duiker |
+| Faunapassage (ecoduct) | Faunapassage (ecoduct) | Faunapassage (ecoduct) |
+| Fiets/voetgangers | Fiets/voetgangers | Fiets/voetgangers |
+| Flyover | Flyover | Flyover |
+| Folieconstructie | Folieconstructie | Folieconstructie |
+| Gemaal | Gemaal | Gemaal |
+| Gemengd verkeer | Gemengd verkeer | Gemengd verkeer |
+| Halte | Halte | Halte |
+| Inlaatsluis | Inlaatsluis | Inlaatsluis |
+| Keersluis | Keersluis | Keersluis |
+| Niet van toepassing | Niet van toepassing | Niet van toepassing |
+| Onderdoorgang | Onderdoorgang | Onderdoorgang |
+| Overig | Overig | Overig |
+| Overkluizing | Overkluizing | Overkluizing |
+| Schutsluis | Schutsluis | Schutsluis |
+| Viaduct | Viaduct | Viaduct |

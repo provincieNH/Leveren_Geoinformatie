@@ -14,8 +14,7 @@
 | G0361 | Gemeente Alkmaar | BGT; bronhouder |
 | G0362 | Gemeente Amstelveen | BGT; bronhouder |
 | G0363 | Gemeente Amsterdam | BGT; bronhouder |
-| G0370 | Gemeente Beemster | BGT; bronhouder |
-| G0373 | Gemeente Bergen (NH.) | BGT; bronhouder |
+| G0373 | Gemeente Bergen (NH) | BGT; bronhouder |
 | G0375 | Gemeente Beverwijk | BGT; bronhouder |
 | G0376 | Gemeente Blaricum | BGT; bronhouder |
 | G0377 | Gemeente Bloemendaal | BGT; bronhouder |
@@ -27,14 +26,12 @@
 | G0394 | Gemeente Haarlemmermeer | BGT; bronhouder |
 | G0396 | Gemeente Heemskerk | BGT; bronhouder |
 | G0397 | Gemeente Heemstede | BGT; bronhouder |
-| G0398 | Gemeente Heerhugowaard | BGT; bronhouder |
 | G0399 | Gemeente Heiloo | BGT; bronhouder |
 | G0400 | Gemeente Den Helder | BGT; bronhouder |
 | G0402 | Gemeente Hilversum | BGT; bronhouder |
 | G0405 | Gemeente Hoorn | BGT; bronhouder |
 | G0406 | Gemeente Huizen | BGT; bronhouder |
 | G0415 | Gemeente Landsmeer | BGT; bronhouder |
-| G0416 | Gemeente Langedijk | BGT; bronhouder |
 | G0417 | Gemeente Laren | BGT; bronhouder |
 | G0420 | Gemeente Medemblik | BGT; bronhouder |
 | G0431 | Gemeente Oostzaan | BGT; bronhouder |
@@ -46,7 +43,6 @@
 | G0450 | Gemeente Uitgeest | BGT; bronhouder |
 | G0451 | Gemeente Uithoorn | BGT; bronhouder |
 | G0453 | Gemeente Velsen | BGT; bronhouder |
-| G0457 | Gemeente Weesp | BGT; bronhouder |
 | G0473 | Gemeente Zandvoort | BGT; bronhouder |
 | G0479 | Gemeente Zaanstad | BGT; bronhouder |
 | G0498 | Gemeente Drechterland | BGT; bronhouder |
@@ -55,7 +51,6 @@
 | G0553 | Gemeente Lisse | BGT; bronhouder |
 | G0569 | Gemeente Nieuwkoop | BGT; bronhouder |
 | G0575 | Gemeente Noordwijk | BGT; bronhouder |
-| G0576 | Gemeente Noordwijkerhout | BGT; bronhouder |
 | G0736 | Gemeente De Ronde Venen | BGT; bronhouder |
 | G0852 | Gemeente Waterland | BGT; bronhouder |
 | G0880 | Gemeente Wormerland | BGT; bronhouder |
@@ -67,6 +62,8 @@
 | G1904 | Gemeente Stichtse Vecht | BGT; bronhouder |
 | G1911 | Gemeente Hollands Kroon | BGT; bronhouder |
 | G1942 | Gemeente Gooise Meren | BGT; bronhouder |
+| G1980 | Gemeente Dijk en Waard | BGT; bronhouder |
+| K0001 | Kadaster | BGT; bronhouder |
 | L0001 | Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV) | BGT; bronhouder |
 | L0002 | Ministerie van Infrastructuur en Waterstaat (IenW) | BGT; bronhouder |
 | L0003 | Ministerie van Defensie | BGT; bronhouder |
@@ -75,6 +72,6 @@
 | P0026 | Provincie Utrecht | BGT; bronhouder |
 | P0027 | Provincie Noord-Holland | BGT; bronhouder |
 | P0028 | Provincie Zuid-Holland | BGT; bronhouder |
-| W0155 | Hoogheemraadschap Amstel, Gooi en Vecht | BGT; bronhouder |
+| W0155 | Waterschap Amstel, Gooi en Vecht | BGT; bronhouder |
 | W0616 | Hoogheemraadschap van Rijnland | BGT; bronhouder |
 | W0651 | Hoogheemraadschap Hollands Noorderkwartier | BGT; bronhouder |

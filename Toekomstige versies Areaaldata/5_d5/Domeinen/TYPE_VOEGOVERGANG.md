@@ -13,7 +13,7 @@
 | EVSVB | Enkelvoudig, staalvezelbeton | x |
 | Geen | Geen | x |
 | MVSR | Meervoudig, staal/rubber | x |
-| NVT | Niet van toepassing | x |
+| NVT | Niet van toepassing | Niet van toepassing |
 | OV | Overig | x |
 | Onbekend | Onbekend | x |
 | SV | Schijnvoeg | x |

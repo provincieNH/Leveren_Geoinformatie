@@ -7,6 +7,4 @@
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
 | Los | Los | Type halfverharding |
-| Onbekend | Onbekend | Onbekend |
-| Overige (vul opmerking) | Overige (vul opmerking) | Komt niet voor in domeinljst |
 | Samenhangend | Samenhangend | Type halfverharding |

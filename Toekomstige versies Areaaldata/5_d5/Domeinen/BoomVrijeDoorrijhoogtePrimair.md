@@ -6,7 +6,7 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| 0 m. | 1 m. | De afgemeten, ruimtelijk strekkende hoeveelheid van nul meter. |
+| 0 m. | 0 m. | De afgemeten, ruimtelijk strekkende hoeveelheid van nul meter. |
 | 2,5 m. en groter | 2,5 m. en groter | Klasse in ondergrens voorzien door de ruimtelijk strekkende hoeveelheid van tweeënhalve meter. |
 | 4,5 m. en groter | 4,5 m. en groter | Klasse in ondergrens voorzien door de ruimtelijk strekkende hoeveelheid van vierenhalve meter. |
 | 6,5 m. en groter | 6,5 m. en groter | Klasse in ondergrens voorzien door de ruimtelijk strekkende hoeveelheid van zesenhalve meter. |

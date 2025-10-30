@@ -14,8 +14,8 @@
 | Grondwater | Grondwater | Al het water dat zich in de ondergrond bevindt. |
 | Milieuzone | Milieuzone | Een gebied in de stedelijke omgeving waar motorvoertuigen van een bepaalde graad aan vervuiling verboden zijn of geweerd worden. |
 | Neerslag | Neerslag | Wat de sensor meet is de hoeveelheid hemelwater die op een bepaalde plek is gevallen gedurende een bepaalde tijdsperiode. |
-| PM10 | PM11 | Wat de sensor meet is de actuele fijnstofconcentratie in de eenheid Particulate Matter 10 micrometer; hoeveelheid in de lucht zwevende deeltjes kleiner dan 10 micrometer. |
-| PM2,5 | PM2,6 | Wat de sensor meet is de actuele fijnstofconcentratie in de eenheid Particulate Matter 2,5 micrometer; hoeveelheid in de lucht zwevende deeltjes kleiner dan 2,5 micrometer. |
+| PM10 | PM10 | Wat de sensor meet is de actuele fijnstofconcentratie in de eenheid Particulate Matter 10 micrometer; hoeveelheid in de lucht zwevende deeltjes kleiner dan 10 micrometer. |
+| PM2,5 | PM2,5 | Wat de sensor meet is de actuele fijnstofconcentratie in de eenheid Particulate Matter 2,5 micrometer; hoeveelheid in de lucht zwevende deeltjes kleiner dan 2,5 micrometer. |
 | Stikstof | Stikstof | Wat de sensor meet is de hoeveelheid stikstof - een niet-metaal waarvan de atomen zeer reactief zijn en een belangrijk bestanddeel is van kunstmest - in het object waar de sensor aan is bevestigd of in het water of de grond in de omgeving van de sensor. |
 | Temperatuur | Temperatuur | Wat de sensor meet is de temperatuur van het object zelf of van de omgeving rondom het object. |
 | Veiligheid bruggen | Veiligheid bruggen | Wat de sensor meet is de veiligheid van een brug voor bepaalde weggebruikers op basis van vastgestelde criteria. |

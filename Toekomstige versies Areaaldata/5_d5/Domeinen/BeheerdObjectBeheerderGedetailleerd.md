@@ -8,6 +8,7 @@
 |	---	|	---	|   ---	| 
 | Aalsmeer | Aalsmeer | Detail beheerder van beheerobject |
 | Alkmaar | Alkmaar | Detail beheerder van beheerobject |
+| Amstel-, Gooi- en Vechtstreek | Amstel-, Gooi- en Vechtstreek | Detail beheerder van beheerobject |
 | Amstelveen | Amstelveen | Detail beheerder van beheerobject |
 | Amsterdam | Amsterdam | Detail beheerder van beheerobject |
 | Bergen | Bergen | Detail beheerder van beheerobject |
@@ -22,7 +23,6 @@
 | Edam-Volendam | Edam-Volendam | Detail beheerder van beheerobject |
 | Enkhuizen | Enkhuizen | Detail beheerder van beheerobject |
 | Gooise Meren | Gooise Meren | Detail beheerder van beheerobject |
-| HHNK | HHNK | Detail beheerder van beheerobject |
 | Haarlem | Haarlem | Detail beheerder van beheerobject |
 | Haarlemmermeer | Haarlemmermeer | Detail beheerder van beheerobject |
 | Havenschap | Havenschap | Publiekrechtelijk lichaam belast met het besturen van een havencomplex. |
@@ -31,6 +31,8 @@
 | Heiloo | Heiloo | Detail beheerder van beheerobject |
 | Hilversum | Hilversum | Detail beheerder van beheerobject |
 | Hollandskroon | Hollandskroon | Detail beheerder van beheerobject |
+| Hoogheemraadschap Hollands Noorderkwartier | Hoogheemraadschap Hollands Noorderkwartier | Detail beheerder van beheerobject |
+| Hoogheemraadschap Rijnland | Hoogheemraadschap Rijnland | Detail beheerder van beheerobject |
 | Hoorn | Hoorn | Detail beheerder van beheerobject |
 | Huizen | Huizen | Detail beheerder van beheerobject |
 | Koggenland | Koggenland | Detail beheerder van beheerobject |
@@ -47,7 +49,7 @@
 | Oostzaan | Oostzaan | Detail beheerder van beheerobject |
 | Opmeer | Opmeer | Detail beheerder van beheerobject |
 | Ouder-Amstel | Ouder-Amstel | Detail beheerder van beheerobject |
-| PNHGrondzaken | PNHGrondzaken | Detail beheerder van beheerobject |
+| PNH Grondzaken | PNH Grondzaken | Detail beheerder van beheerobject |
 | Purmerend | Purmerend | Detail beheerder van beheerobject |
 | Recreatieschap | Recreatieschap | Een samenwerkingsverband tussen gemeenten en provincies conform de Wet gemeenschappelijke regelingen met als doel het ontwikkelen, beheren en exploiteren van voorzieningen voor openluchtrecreatie buiten de bebouwde kom zoals (zwem)plassen, picknickplaatsen, fiets- en wandelpaden en kanoroutes. |
 | Rijksvastgoedbedrijf | Rijksvastgoedbedrijf | Een vastgoedorganisatie van de Nederlandse Rijksoverheid die verantwoordelijk is voor het beheer van vastgoedobjecten in gebruik door de Nederlandse staat. |
@@ -62,7 +64,6 @@
 | Universiteit | Universiteit | Een onderwijsinstelling in het hoger onderwijs die ingericht is om wetenschappelijk onderwijs te bieden en wetenschappelijk onderzoek te verrichten. |
 | Velsen | Velsen | Detail beheerder van beheerobject |
 | Waterland | Waterland | Detail beheerder van beheerobject |
-| Waternet | Waternet | Detail beheerder van beheerobject |
 | Wijdemeren | Wijdemeren | Detail beheerder van beheerobject |
 | Woningcorporatie | Woningcorporatie | Een organisatie die zich richt op het bouwen, beheren en verhuren van kwalitatief goede woonruimte met een betaalbare huur voor mensen met een smalle beurs. |
 | Wormerland | Wormerland | Detail beheerder van beheerobject |

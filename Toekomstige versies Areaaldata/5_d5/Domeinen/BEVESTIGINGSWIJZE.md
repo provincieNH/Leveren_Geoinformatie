@@ -6,13 +6,13 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| BP | Bordpaal | x |
-| BWM | Bewegwijzeringsmast | x |
-| KW | Kunstwerk | x |
-| LM | Lichtmast | x |
+| Bewegwijzeringsmast | Bewegwijzeringsmast | x |
+| Bordpaal | Bordpaal | x |
+| Kunstwerk | Kunstwerk | x |
+| Lichtmast | Lichtmast | x |
 | Niet van toepassing | Niet van toepassing | x |
-| ONB | Onbekend | x |
-| OV | Overig | x |
-| UM | Uni-mast | x |
-| UP | Uitlegger-portaal bord | x |
-| VRI | Portaal- of uitleggermast VRI | x |
+| Onbekend | Onbekend | x |
+| Overig | Overig | x |
+| Portaal- of uitleggermast VRI | Portaal- of uitleggermast VRI | x |
+| Uitlegger-portaal bord | Uitlegger-portaal bord | x |
+| Uni-mast | Uni-mast | x |

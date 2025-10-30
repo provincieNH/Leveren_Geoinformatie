@@ -6,15 +6,12 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Betonelement | Betonelement | Type elementverahrding |
-| Betonstraatsteen | Betonstraatsteen | Type elementverahrding |
-| Gebakken materiaal | Gebakken materiaal | Type elementverahrding |
-| Glaselement | Glaselement | Type elementverahrding |
-| Houten element | Houten element | Type elementverahrding |
-| Metalen element | Metalen element | Type elementverahrding |
-| Natuursteen | Natuursteen | Type elementverahrding |
-| Onbekend | Onbekend | Onbekend |
-| Overige (vul opmerking) | Overige (vul opmerking) | Komt niet voor in domeinljst |
-| Sierbestrating | Sierbestrating | Type elementverahrding |
-| Straatbaksteen | Straatbaksteen | Type elementverahrding |
-| Tegels | Tegels | Type elementverahrding |
+| Betonelement | Betonelement | Type elementverharding |
+| Betonstraatsteen | Betonstraatsteen | Type elementverharding |
+| Glaselement | Glaselement | Type elementverharding |
+| Houten element | Houten element | Type elementverharding |
+| Metalen element | Metalen element | Type elementverharding |
+| Natuursteen | Natuursteen | Type elementverharding |
+| Sierbestrating | Sierbestrating | Type elementverharding |
+| Straatbaksteen | Straatbaksteen | Type elementverharding |
+| Tegel | Tegel | Type elementverharding |

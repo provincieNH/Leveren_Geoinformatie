@@ -7,17 +7,16 @@
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
 | Basaltblok | Basaltblok | Detail elementverharding |
+| Betonplaat | Betonplaat | Detail elementverharding |
 | Betonsteen | Betonsteen | Detail elementverharding |
-| Betonstraatstenen | Betonstraatstenen | Betonstraatstenen |
 | Betontegel | Betontegel | Detail elementverharding |
 | Blindengeleidetegel | Blindengeleidetegel | Detail elementverharding |
-| Diverse | Diverse | Diverse |
 | Drempelblok | Drempelblok | Detail elementverharding |
 | Elementen | Elementen | Elementen |
-| Gebakken klinkers | Gebakken klinkers | Gebakken klinkers |
 | Gebakken steen | Gebakken steen | Detail elementverharding |
-| Geen | Geen | Geen |
 | Gemengde bestrating | Gemengde bestrating | Detail elementverharding |
+| Gras- en grindtegel | Gras- en grindtegel | Detail elementverharding |
+| Grasbetonsteen | Grasbetonsteen | Detail elementverharding |
 | Grindtegel | Grindtegel | Detail elementverharding |
 | Hardsteen | Hardsteen | Detail elementverharding |
 | Inritblok | Inritblok | Detail elementverharding |
@@ -25,8 +24,7 @@
 | Leisteen | Leisteen | Detail elementverharding |
 | Natuursteenkei | Natuursteenkei | Detail elementverharding |
 | Natuursteentegel | Natuursteentegel | Detail elementverharding |
-| Niet van toepassing | Niet van toepassing | Detail elementverharding |
-| Onbekend | Onbekend | Onbekend |
+| Onbekend | Onbekend | Detail elementverharding |
 | Rubber grastegel | Rubber grastegel | Detail van halfverharding |
 | Rubbertegel | Rubbertegel | Detail van halfverharding |
 | Voegsteen | Voegsteen | Detail elementverharding |

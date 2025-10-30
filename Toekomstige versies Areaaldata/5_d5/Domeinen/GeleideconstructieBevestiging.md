@@ -6,6 +6,8 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
+| barrier op wegdek | barrier op wegdek | barrier op wegdek |
+| beton element op wegdek | beton element op wegdek | beton element op wegdek |
 | onbekend | onbekend | bevestiging is onbekend |
 | paal in aardebaan | paal in aardebaan | paal in aardebaan |
 | paal in verharding | paal in verharding | paal in verharding |

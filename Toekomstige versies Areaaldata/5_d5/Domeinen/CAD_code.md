@@ -19,10 +19,9 @@
 | BRM | Brandmelder | x |
 | BSK | Besturingskast | x |
 | CAM | Camera | x |
-| DKN | DKN | x |
 | DLU | Detectielus | x |
 | DRK | Drukknop | x |
-| ESK | ESK | x |
+| ESK | E-Schakelaar | x |
 | FLS | Flow switch | x |
 | GBA | Geluidsbaken | x |
 | HYG | Hygrostaat / vochtmeting | x |

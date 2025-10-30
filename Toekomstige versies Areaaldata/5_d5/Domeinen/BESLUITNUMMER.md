@@ -6,5 +6,5 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| NVW | Niet in veld waarneembaar | x |
-| ONB | Onbekend | x |
+| Niet in veld waarneembaar | Niet in veld waarneembaar | x |
+| Onbekend | Onbekend | x |

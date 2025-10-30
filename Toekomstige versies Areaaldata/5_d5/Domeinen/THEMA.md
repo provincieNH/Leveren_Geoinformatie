@@ -6,18 +6,18 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| buisleidingGevaarlijkeInhoud | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/buisleidingGevaarlijkeInhoud | x |
-| datatransport | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/datatransport | x |
-| gasHogeDruk | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/gasHogeDruk | x |
-| gasLageDruk | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/gasLageDruk | x |
-| hoogspanning | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/hoogspanning | x |
-| laagspanning | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/laagspanning | x |
-| landelijkHoogspanningsnet | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/landelijkHoogspanningsnet | x |
-| middenspanning | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/middenspanning | x |
-| overig | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/overig | x |
-| petrochemie | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/petrochemie | x |
-| rioolOnderOverOfOnderdruk | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/rioolOnderOverOfOnderdruk | x |
-| rioolVrijverval | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/rioolVrijverval | x |
-| warmte | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/warmte | x |
-| water | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/water | x |
-| wees | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/wees | x |
+| buisleidingGevaarlijkeInhoud | buisleidingGevaarlijkeInhoud | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/buisleidingGevaarlijkeInhoud |
+| datatransport | datatransport | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/datatransport |
+| gasHogeDruk | gasHogeDruk | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/gasHogeDruk |
+| gasLageDruk | gasLageDruk | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/gasLageDruk |
+| hoogspanning | hoogspanning | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/hoogspanning |
+| laagspanning | laagspanning | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/laagspanning |
+| landelijkHoogspanningsnet | landelijkHoogspanningsnet | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/landelijkHoogspanningsnet |
+| middenspanning | middenspanning | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/middenspanning |
+| overig | overig | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/overig |
+| petrochemie | petrochemie | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/petrochemie |
+| rioolOnderOverOfOnderdruk | rioolOnderOverOfOnderdruk | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/rioolOnderOverOfOnderdruk |
+| rioolVrijverval | rioolVrijverval | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/rioolVrijverval |
+| warmte | warmte | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/warmte |
+| water | water | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/water |
+| wees | wees | http://definities.geostandaarden.nl/imkl2015/id/waarde/Thema/wees |

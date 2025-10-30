@@ -8,8 +8,6 @@
 |	---	|	---	|   ---	| 
 | Cementbeton | Cementbeton | Cementbeton |
 | Gewapend beton | Gewapend beton | Type betonverharding |
-| Onbekend | Onbekend | Onbekend |
 | Ongewapend beton | Ongewapend beton | Type betonverharding |
-| Oppervlakbehandeling | Oppervlakbehandeling | Type betonverharding |
-| Overige (vul opmerking) | Overige (vul opmerking) | Komt niet voor in domeinljst |
+| Oppervlakbehandeling beton | Oppervlakbehandeling beton | Type betonverharding |
 | Printbeton | Printbeton | Type betonverharding |

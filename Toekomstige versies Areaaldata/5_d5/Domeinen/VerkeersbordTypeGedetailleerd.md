@@ -10,10 +10,10 @@
 | A01100 | A01100 | Maximumsnelheid 100 km per uur. |
 | A01100f | A01100f | Maximumsnelheid 100 km per uur, fluorescerend. |
 | A01100s | A01100s | Maximumsnelheid 100 km per uur, zwarte achtergrond. |
-| A01120 | A01121 | Maximumsnelheid 120 km per uur. |
+| A01120 | A01120 | Maximumsnelheid 120 km per uur. |
 | A01120fs | A01120fs | Maximumsnelheid 120 km per uur, fluorescerend en zwarte achtergrond. |
 | A01120s | A01120s | Maximumsnelheid 120 km per uur, zwarte achtergrond. |
-| A01130 | A01131 | Maximumsnelheid 130 km per uur. |
+| A01130 | A01130 | Maximumsnelheid 130 km per uur. |
 | A01130fs | A01130fs | Maximumsnelheid 130 km per uur, fluorescerend en zwarte achtergrond. |
 | A01130s | A01130s | Maximumsnelheid 130 kilometer per uur, tegen een vierkante, zwarte achtergrond. |
 | A0115 | A0115 | Maximumsnelheid 15 km per uur. |
@@ -26,18 +26,18 @@
 | A0150 | A0150 | Maximumsnelheid 50 km per uur. |
 | A0150fs | A0150fs | Maximumsnelheid 50 km per uur, fluorescerend en zwarte achtergrond. |
 | A0150s | A0150s | Maximumsnelheid 50 km per uur, zwarte achtergrond. |
-| A0160 | A0161 | Maximumsnelheid 60 km per uur. |
+| A0160 | A0160 | Maximumsnelheid 60 km per uur. |
 | A0160fs | A0160fs | Maximumsnelheid 60 km per uur, fluorescerend en zwarte achtergrond. |
 | A0160s | A0160s | Maximumsnelheid 60 km per uur, zwarte achtergrond. |
 | A0160zb | A0160zb | Zone met maximum snelheid. |
 | A0160zbh | A0160zbh | Herhaling zone met maximumsnelheid. |
-| A0170 | A0171 | Maximumsnelheid 70 km per uur. |
+| A0170 | A0170 | Maximumsnelheid 70 km per uur. |
 | A0170fs | A0170fs | Maximumsnelheid 70 km per uur, fluorescerend en zwarte achtergrond. |
 | A0170s | A0170s | Maximumsnelheid 70 km per uur, zwarte achtergrond. |
-| A0180 | A0181 | Maximumsnelheid 80 km per uur. |
+| A0180 | A0180 | Maximumsnelheid 80 km per uur. |
 | A0180fs | A0180fs | Maximumsnelheid 80 km per uur, fluorescerend en zwarte achtergrond. |
 | A0180s | A0180s | Maximumsnelheid 80 km per uur, zwarte achtergrond. |
-| A0190 | A0191 | Maximumsnelheid 90 km per uur. |
+| A0190 | A0190 | Maximumsnelheid 90 km per uur. |
 | A0190fs | A0190fs | Maximumsnelheid 90 km per uur, fluorescerend en zwarte achtergrond. |
 | A0190s | A0190s | Maximumsnelheid 90 km per uur. |
 | A02100 | A02100 | Einde maximumsnelheid 100 km per uur. |
@@ -70,7 +70,7 @@
 | A0560 | A0560 | Einde adviessnelheid 60 km per uur. |
 | A0570 | A0570 | Einde adviessnelheid 70 km per uur. |
 | A0580 | A0580 | Einde adviessnelheid 80 km per uur. |
-| AB10 | AB11 | Blauw strookbord; De verwijzing naar algemene objecten vindt plaats door blauwe strookborden. Elk strookbord wordt voorzien van de naam van het object, het kenmerkend symbool van het object en de rijrichting. |
+| AB10 | AB10 | Blauw strookbord; De verwijzing naar algemene objecten vindt plaats door blauwe strookborden. Elk strookbord wordt voorzien van de naam van het object, het kenmerkend symbool van het object en de rijrichting. |
 | AB10bSymboolWaarde | AB10bSymboolWaarde | Blauw strookbord met symbool en tekst en pijl rechtdoor. |
 | AB10lSymboolWaarde | AB10lSymboolWaarde | Blauw strookbord met symbool en tekst en pijl naar links. |
 | AB10rSymboolWaarde | AB10rSymboolWaarde | Blauw strookbord met symbool en tekst en pijl naar rechts. |
@@ -82,7 +82,7 @@
 | B06 | B06 | Verleen voorrang aan bestuurders op kruisende weg. |
 | B06_OB503_OB02f | B06_OB503_OB02f | Verleen voorrang aan fietsers (in 2 richtingen) op kruisende weg. |
 | B06f | B06f | Verleen voorrang aan bestuurders op kruisende weg, fluorescerend. |
-| B07 | B08 | Stop en verleen voorrang aan bestuurders op de kruisende weg. |
+| B07 | B07 | Stop en verleen voorrang aan bestuurders op de kruisende weg. |
 | B07f | B07f | Stop en verleen voorrang aan bestuurders op de kruisende weg, fluorescerend. |
 | BB01r | BB01r | Uit-bord; Uitgang / afrit autosnelweg (snelwegennet wordt verlaten Woord Uit + Pijl. |
 | BB01ra | BB01ra | Bord dat de weggebruiker aanduidt dat de rechts splitsende weg de stroomweg verlaat voor een weg van een onderliggend niveau (hoekige pijl). |
@@ -93,14 +93,14 @@
 | BB04 | BB04 | Onderbroken vluchtstrook of smalle vluchtstrook. |
 | BB05 | BB05 | Korte invoegstrook (korter dan 200 meter). |
 | BB06 | BB06 | (Nood)vluchthaven; Niet parkeren of stilstaan. |
-| BB06-300 | BB06-301 | (Nood)vluchthaven na 300 meter; Niet parkeren of stilstaan. |
-| BB07 | BB08 | Hectometerbord. |
+| BB06-300 | BB06-300 | (Nood)vluchthaven na 300 meter; Niet parkeren of stilstaan. |
+| BB07 | BB07 | Hectometerbord. |
 | BB07a | BB07a | Bord dat de hectometerwaarde van het plaatsingspunt aangeeft, gevolgd door een letter 'a'. |
 | BB08-01l | BB08-01l | Hectometerbord links. |
-| BB08-01l-100 | BB08-01l-101 | Hectometerbord links met maximale snelheid. |
+| BB08-01l-100 | BB08-01l-100 | Hectometerbord links met maximale snelheid. |
 | BB08-01r | BB08-01r | Hectometerbord rechts. |
-| BB08-01r-100 | BB08-01r-101 | Hectometerbord rechts met maximale snelheid. |
-| BB10 | BB11 | Radiofrequenties. |
+| BB08-01r-100 | BB08-01r-100 | Hectometerbord rechts met maximale snelheid. |
+| BB10 | BB10 | Radiofrequenties. |
 | BB100l | BB100l | Doorgaand verkeer algemeen links. |
 | BB100r | BB100r | Doorgaand verkeer algemeen rechts. |
 | BB11l | BB11l | Bochtschild met dubbele pijlfiguratie naar links. |
@@ -135,14 +135,14 @@
 | BB23-2r | BB23-2r | Waarschuwingsbaken rechts van rijbaan op 160 m voor beweegbare brug of spoorwegovergang. |
 | BB23-3l | BB23-3l | Waarschuwingsbaken links van rijbaan op 240 m voor beweegbare brug of spoorwegovergang. |
 | BB23-3r | BB23-3r | Waarschuwingsbaken rechts van rijbaan op 240 m voor beweegbare brug of spoorwegovergang. |
-| BB23-3r_J11 | BB23-3r_J12 | Overweg zonder slagbomen aan rechterzijde nadering overweg op 80 meter. |
-| BB24 | BB25 | Attentiebebakening groen. |
+| BB23-3r_J11 | BB23-3r_J11 | Overweg zonder slagbomen aan rechterzijde nadering overweg op 80 meter. |
+| BB24 | BB24 | Attentiebebakening groen. |
 | BB24-T | BB24-T | Attentiebebakening rood. |
 | BB24lT | BB24lT | Attentiebebakening rood strepen naar links. |
 | BB24rT | BB24rT | Attentiebebakening rood strepen naar rechts. |
 | BB26 | BB26 | Attentiebebakening rood-witte paal. |
 | BB34 | BB34 | Geleidebaak. |
-| BB34-2 | BB34-3 | Geleidebaak (klein). |
+| BB34-2 | BB34-2 | Geleidebaak (klein). |
 | BB34-2l | BB34-2l | Geleidebaak links (klein). |
 | BB34-2r | BB34-2r | Geleidebaak rechts (klein). |
 | BB35l | BB35l | Geleidebaak links. |
@@ -186,15 +186,15 @@
 | BW08rb | BW08rb | Bromfietsers oversteken rechtsboven. |
 | BW100l | BW100l | Route doorgaand gemotoriseerd verkeer; Volg pijl naar links. |
 | BW100r | BW100r | Route doorgaand gemotoriseerd verkeer; Volg pijl naar rechts. |
-| BW101-3lbSV15 | BW101-3lbSV16 | Vrachtauto's van categorie drie worden verwezen naar richting van de linksboven wijzende pijl. |
-| BW101S104 | BW101S105 | Aanduiding dat een informatiepunt zich een bepaalde afstand hiervandaan bevindt. |
-| BW101S104-400 | BW101S104-401 | Aanduiding dat een informatiepunt zich vierhonderd meter hiervandaan bevindt. |
-| BW101SP03-400 | BW101SP03-401 | Park en ride over 400 m. |
-| BW101SP06-400 | BW101SP06-401 | Carpoolplaats over 400 m. |
-| BW101Sv14 | BW101Sv15 | Aanduiding van de aanwezigheid van een vestiging van de Vereniging voor Vreemdelingenverkeer (VVV). |
+| BW101-3lbSV15 | BW101-3lbSV15 | Vrachtauto's van categorie drie worden verwezen naar richting van de linksboven wijzende pijl. |
+| BW101S104 | BW101S104 | Aanduiding dat een informatiepunt zich een bepaalde afstand hiervandaan bevindt. |
+| BW101S104-400 | BW101S104-400 | Aanduiding dat een informatiepunt zich vierhonderd meter hiervandaan bevindt. |
+| BW101SP03-400 | BW101SP03-400 | Park en ride over 400 m. |
+| BW101SP06-400 | BW101SP06-400 | Carpoolplaats over 400 m. |
+| BW101Sv14 | BW101Sv14 | Aanduiding van de aanwezigheid van een vestiging van de Vereniging voor Vreemdelingenverkeer (VVV). |
 | BW101b | BW101b | Volg pijl naar boven. |
 | BW101bSK100 | BW101bSK100 | Kiss en Ride strook; Volg pijl. |
-| BW101bSO03 | BW101bSO04 | Overdekte parkeergarage; Volg pijl. |
+| BW101bSO03 | BW101bSO03 | Overdekte parkeergarage; Volg pijl. |
 | BW101bSP03 | BW101bSP03 | Parkeergelegenheid op transferium voor overstappers op het openbaar vervoer (bus); volg pijl. |
 | BW101bSP05 | BW101bSP05 | Parkeergelegenheid bij restaurant; Volg pijl. |
 | BW101bSP06 | BW101bSP06 | Carpoolplaats boven. |
@@ -204,26 +204,26 @@
 | BW101lSP03 | BW101lSP03 | Park en ride links. |
 | BW101lSP06 | BW101lSP06 | Carpoolplaats links. |
 | BW101lSP14 | BW101lSP14 | Aanduiding van de aanwezigheid van een benzinepomp met lpg in de richting van de links wijzende pijl. |
-| BW101lSk02 | BW101lSk03 | Aanduiding dat een camping zich in de richting van de links wijzende pijl bevindt. |
+| BW101lSk02 | BW101lSk02 | Aanduiding dat een camping zich in de richting van de links wijzende pijl bevindt. |
 | BW101lSp10 | BW101lSp10 | Aanduiding van de aanwezigheid van een parkeerautomaat in de richting van de links wijzende pijl. |
 | BW101lbSP06 | BW101lbSP06 | Carpoolplaats linksboven. |
 | BW101lbSp03 | BW101lbSp03 | Park en ride linksboven. |
 | BW101lhSP03 | BW101lhSP03 | Park en ride Links om de hoek. |
 | BW101lhSP06 | BW101lhSP06 | Carpoolplaats links af om de hoek. |
-| BW101lhSk02 | BW101lhSk03 | Aanduiding dat een camping zich linksaf om de hoek bevindt. |
+| BW101lhSk02 | BW101lhSk02 | Aanduiding dat een camping zich linksaf om de hoek bevindt. |
 | BW101loSP03 | BW101loSP03 | Park en ride links onder. |
 | BW101loSP06 | BW101loSP06 | Carpoolplaats linksonder. |
 | BW101lrSP03 | BW101lrSP03 | Park en ride Links, rechts. |
 | BW101lrSP06 | BW101lrSP06 | Carpoolplaats links en rechtsaf. |
 | BW101oSP03 | BW101oSP03 | Park en ride onder. |
 | BW101oSP06 | BW101oSP06 | Carpoolplaats onder. |
-| BW101r2R20 | BW101r2R21 | Verkeersbord Parkeer + Reis aanduiding met pijl naar rechts en toevoeging 2R20 |
+| BW101r2R20 | BW101r2R20 | Verkeersbord Parkeer + Reis aanduiding met pijl naar rechts en toevoeging 2R20 |
 | BW101rSP03 | BW101rSP03 | Park en ride rechts. |
 | BW101rSP06 | BW101rSP06 | Carpoolplaats rechtsaf. |
 | BW101rSP11 | BW101rSP11 | Aanduiding van de aanwezigheid van een benzinepomp in de richting van de rechts wijzende pijl. |
 | BW101rSP14 | BW101rSP14 | Aanduiding van de aanwezigheid van een benzinepomp met lpg in de richting van de rechts wijzende pijl. |
-| BW101rSR03 | BW101rSR04 | Aanduiding van de aanwezigheid van een restaurant in de richting van de rechts wijzende pijl. |
-| BW101rSk02 | BW101rSk03 | Aanduiding dat een camping zich in de richting van de rechts wijzende pijl bevindt. |
+| BW101rSR03 | BW101rSR03 | Aanduiding van de aanwezigheid van een restaurant in de richting van de rechts wijzende pijl. |
+| BW101rSk02 | BW101rSk02 | Aanduiding dat een camping zich in de richting van de rechts wijzende pijl bevindt. |
 | BW101rSp10 | BW101rSp10 | Aanduiding van de aanwezigheid van een parkeerautomaat in de richting van de rechts wijzende pijl. |
 | BW101rbSP03 | BW101rbSP03 | Park en ride rechtsboven. |
 | BW101rbSP06 | BW101rbSP06 | Carpoolplaats rechtsboven. |
@@ -231,11 +231,11 @@
 | BW101rbSp10 | BW101rbSp10 | Politie rechtsboven. |
 | BW101rhSP03 | BW101rhSP03 | Park en ride rechts om de hoek. |
 | BW101rhSP06 | BW101rhSP06 | Carpoolplaats rechtsaf om de hoek. |
-| BW101rhSk02 | BW101rhSk03 | Aanduiding dat een camping zich rechtsaf om de hoek bevindt. |
-| BW101rhSr02 | BW101rhSr03 | Aanduiding dat een eetgelegenheid zich rechtsaf bevindt. |
+| BW101rhSk02 | BW101rhSk02 | Aanduiding dat een camping zich rechtsaf om de hoek bevindt. |
+| BW101rhSr02 | BW101rhSr02 | Aanduiding dat een eetgelegenheid zich rechtsaf bevindt. |
 | BW101roSP03 | BW101roSP03 | Park en ride rechtsonder. |
 | BW101roSP06 | BW101roSP06 | Carpoolplaats rechtsonder. |
-| BW111 | BW112 | Aanduiding van de aanwezigheid van een betaalautomaat (die muntgeld accepteert). |
+| BW111 | BW111 | Aanduiding van de aanwezigheid van een betaalautomaat (die muntgeld accepteert). |
 | BW111b | BW111b | Aanduiding van de aanwezigheid van een betaalautomaat (die muntgeld accepteert) in doorgaande richting. |
 | BW111l | BW111l | Aanduiding van de aanwezigheid van een betaalautomaat (die muntgeld accepteert) in links wijzende richting. |
 | BW111lr | BW111lr | Aanduiding van de aanwezigheid van een betaalautomaat (die muntgeld accepteert) in de links en rechts wijzende richtingen. |
@@ -246,12 +246,12 @@
 | BW111zbhk | BW111zbhk | Het bord duidt de herhaling van een zone aan waar betaald parkeren van toepassing is en het toepassen van een wielklem in geval van wanbetaling. |
 | BW111zbhs | BW111zbhs | Het bord duidt de herhaling van een zone aan waar betaald parkeren van toepassing is en het toepassen van wegslepen in geval van wanbetaling. |
 | BW111ze | BW111ze | Aanduiding van het einde van een zone waar betaald parkeren van toepassing is. |
-| BW112 | BW113 | Aanduiding van de aanwezigheid van een betaalautomaat (die pinpassen accepteert). |
+| BW112 | BW112 | Aanduiding van de aanwezigheid van een betaalautomaat (die pinpassen accepteert). |
 | BW112zb | BW112zb | Aanduiding van het begin van een zone waar betaald parkeren op basis van pinnen van toepassing is. |
 | BW112zbh | BW112zbh | Het bord duidt de herhaling van een zone aan waar betaald parkeren op basis van pinnen van toepassing is. |
 | BW112zbhks | BW112zbhks | Het bord duidt de herhaling van een zone aan waar betaald parkeren op basis van pinnen van toepassing is en het toepassen van wegslepen of een wielklem in geval van wanbetaling. |
 | BW112ze | BW112ze | Aanduiding van het einde van een zone waar betaald parkeren op basis van pinnen van toepassing is. |
-| BW113 | BW114 | Aanduiding van de aanwezigheid van de betaalautomaat (die muntgeld accepteert) van de op het bord geschreven nummeraanduiding. |
+| BW113 | BW113 | Aanduiding van de aanwezigheid van de betaalautomaat (die muntgeld accepteert) van de op het bord geschreven nummeraanduiding. |
 | BW13A | BW13A | Nooduitgang voetganger rechtdoor voetganger rechts. |
 | BW13B | BW13B | Nooduitgang voetganger rechtdoor voetganger links. |
 | BW13C | BW13C | Nooduitgang voetganger naar beneden voetganger links. |
@@ -267,7 +267,7 @@
 | BW200b | BW200b | Doorgaand verkeer fietser rechtdoor. |
 | BW200lb | BW200lb | Doorgaand verkeer fietser naar links. |
 | BW200rb | BW200rb | Doorgaand verkeer fietser naar rechts. |
-| BW201 | BW202 | Fietsers oversteken. |
+| BW201 | BW201 | Fietsers oversteken. |
 | BW201b | BW201b | Niet RVV1990-borden; parkeergelegenheid. |
 | BW201l | BW201l | Fietsers oversteken links. |
 | BW201lb | BW201lb | Fietsers links oversteken. |
@@ -277,7 +277,7 @@
 | BW201rb | BW201rb | Fietsers rechts oversteken. |
 | BW201rh | BW201rh | Niet RVV1990-borden; parkeergelegenheid. |
 | BW201rw | BW201rw | Niet RVV1990-borden; parkeergelegenheid. |
-| BW202 | BW203 | (Brom)fietsers oversteken. |
+| BW202 | BW202 | (Brom)fietsers oversteken. |
 | BW202b | BW202b | Niet RVV1990-borden; parkeergelegenheid. |
 | BW202lb | BW202lb | (Brom)fietsers links oversteken. |
 | BW202lh | BW202lh | Niet RVV1990-borden; parkeergelegenheid. |
@@ -310,7 +310,7 @@
 | BW205rb | BW205rb | Niet RVV1990-borden; parkeergelegenheid. |
 | BW205rh | BW205rh | Niet RVV1990-borden; parkeergelegenheid. |
 | BW205rw | BW205rw | Niet RVV1990-borden; parkeergelegenheid. |
-| BW210 | BW211 | Verwijzing naar een fietsenstalling in rechtdoor gaande richting. |
+| BW210 | BW210 | Verwijzing naar een fietsenstalling in rechtdoor gaande richting. |
 | BW405Symbool | BW405Symbool | Blauw vierkant informatiebord met symbool zonder pijl. |
 | BW405bSymbool | BW405bSymbool | Blauw vierkant informatiebord met symbool en pijl rechtdoor. |
 | BW405lSymbool | BW405lSymbool | Blauw vierkant informatiebord met symbool en pijl naar links. |
@@ -323,7 +323,7 @@
 | BW405rbSymbool | BW405rbSymbool | Blauw vierkant informatiebord met symbool en pijl rechtsboven. |
 | BW405rhSymbool | BW405rhSymbool | Blauw vierkant informatiebord met symbool en pijl rechtsaf. |
 | BW405roSymbool | BW405roSymbool | Blauw vierkant informatiebord met symbool en pijl rechtsonder. |
-| BW501 | BW502 | Uitwijkroute. |
+| BW501 | BW501 | Uitwijkroute. |
 | BW501b | BW501b | Uitwijkroute pijl naar boven met routenummer. |
 | BW501l | BW501l | Uitwijkroute pijl naar links met routenummer. |
 | BW501lb | BW501lb | Uitwijkroute pijl naar linksboven met routenummer. |
@@ -368,17 +368,17 @@
 | C15 | C15 | Gesloten voor fietsen, bromfietsen en voor gehandicaptenvoertuigen. |
 | C16 | C16 | Gesloten voor voetgangers. |
 | C17 | C17 | Gesloten voor voertuigen en samenstellen van voertuigen die, met inbegrip van lading, langer zijn dan op het bord is aangegeven. |
-| C17-10 | C17-11 | Gesloten voor voertuigen en samenstellen van voertuigen die, met inbegrip van lading, langer zijn dan tien meter. |
-| C18 | C19 | Gesloten voor voertuigen die, met inbegrip van lading, breder zijn dan op het bord is aangegeven. |
-| C18-23 | C18-24 | Gesloten voor voertuigen die, met inbegrip van lading, breder zijn dan twee en drie tienden meter. |
-| C19 | C20 | Gesloten voor voertuigen die, met inbegrip van lading, hoger zijn dan op het bord is aangegeven. |
-| C19-31 | C19-32 | Gesloten voor voertuigen die, met inbegrip van lading, hoger zijn dan drie en een tiende meter. |
-| C20 | C21 | Gesloten voor voertuigen waarvan de aslast hoger is dan op het bord is aangegeven. |
+| C17-10 | C17-10 | Gesloten voor voertuigen en samenstellen van voertuigen die, met inbegrip van lading, langer zijn dan tien meter. |
+| C18 | C18 | Gesloten voor voertuigen die, met inbegrip van lading, breder zijn dan op het bord is aangegeven. |
+| C18-23 | C18-23 | Gesloten voor voertuigen die, met inbegrip van lading, breder zijn dan twee en drie tienden meter. |
+| C19 | C19 | Gesloten voor voertuigen die, met inbegrip van lading, hoger zijn dan op het bord is aangegeven. |
+| C19-31 | C19-31 | Gesloten voor voertuigen die, met inbegrip van lading, hoger zijn dan drie en een tiende meter. |
+| C20 | C20 | Gesloten voor voertuigen waarvan de aslast hoger is dan op het bord is aangegeven. |
 | C20-48 | C20-49 | Gesloten voor voertuigen waarvan de aslast hoger is dan vier en acht tienden ton. |
-| C21 | C22 | Gesloten voor voertuigen en samenstellen van voertuigen waarvan de totale massa hoger is dan op het bord is aangegeven. |
+| C21 | C21 | Gesloten voor voertuigen en samenstellen van voertuigen waarvan de totale massa hoger is dan op het bord is aangegeven. |
 | C21-35 | C21-35 | Gesloten voor voertuigen en samenstellen van voertuigen waarvan de totaalmassa hoger is dan 3,5 ton. |
 | C21-54 | C21-54 | Gesloten voor voertuigen en samenstellen van voertuigen waarvan de totaalmassa hoger is dan vijf en vier tienden ton. |
-| C22 | C23 | Gesloten voor voertuigen met bepaalde gevaarlijke stoffen. |
+| C22 | C22 | Gesloten voor voertuigen met bepaalde gevaarlijke stoffen. |
 | C22a | C22a | Gesloten voor vrachtauto's die niet voldoen aan de gestelde milieueisen. |
 | C22azb | C22azb | Het bordt duidt het begin aan van een zone die gesloten is voor vrachtauto's die niet voldoen aan de gestelde milieueisen. |
 | C22b | C22b | Einde gesloten verklaring voor vrachtauto's die niet voldoen aan de gestelde milieueisen. |
@@ -387,23 +387,23 @@
 | C23-02 | C23-02 | Spitsstrook vrijmaken. |
 | C23-03 | C23-03 | Einde spitsstrook. |
 | C23-04 | C23-04 | Spitsstrook vrijmaken. |
-| D01 | D02 | Rotonde, verplichte rijrichting. |
+| D01 | D01 | Rotonde, verplichte rijrichting. |
 | D01_BB12r | D01_BB12r | Rotonde, verplichte rijrichting. |
-| D01_BB16 | D01_BB17 | Schrikhek 2 smalle planken 3 palen plus bord D01. |
+| D01_BB16 | D01_BB16 | Schrikhek 2 smalle planken 3 palen plus bord D01. |
 | D01_BB18-2r | D01_BB18-2r | Schrikhek 2 planken 2 palen pijlen naar rechts en bord D01. |
 | D01f | D01f | Rotonde, verplichte rijrichting. |
 | D01f_BB12r | D01f_BB12r | Fluorescerende versie van D01 in rotondeportaal D01_BB12r. |
 | D02lb | D02lb | Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft. |
 | D02lo | D02lo | Verkeerszuil met bord. |
-| D02lo_BB22 | D02lo_BB23 | Uitzonderlijke pijl naar links variant van D02ro_BB22. |
+| D02lo_BB22 | D02lo_BB22 | Uitzonderlijke pijl naar links variant van D02ro_BB22. |
 | D02rb | D02rb | Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft. |
 | D02ro | D02ro | Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft. |
-| D02ro_BB22 | D02ro_BB23 | Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft op een zeskantig gele zuil. |
+| D02ro_BB22 | D02ro_BB22 | Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft op een zeskantig gele zuil. |
 | D02ro_BB22_lolly | D02ro_BB22_lolly | Een gele verkeerszuil waarbij het bordmontagedeel samen met de stam een gestroomlijnde vorm heeft. Met het bord D02ro (Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft (rechts)). |
 | D02ro_BB22_paneel | D02ro_BB22_paneel | Een gele verkeerszuil waarbij het bordmontagedeel samen met de stam een bestaat uit een platte plaat. Met het bord D02ro (Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft (rechts)). |
-| D03 | D04 | Bord mag aan beide zijden worden voorbijgegaan. |
-| D03_BB22 | D03_BB23 | Bord dat aangeeft dat het aan beide zijden voorbij mag worden gegaan op een zeskantig gele zuil. |
-| D04 | D05 | Gebod tot het volgen van de rijrichting die op het bord is aangegeven. |
+| D03 | D03 | Bord mag aan beide zijden worden voorbijgegaan. |
+| D03_BB22 | D03_BB22 | Bord dat aangeeft dat het aan beide zijden voorbij mag worden gegaan op een zeskantig gele zuil. |
+| D04 | D04 | Gebod tot het volgen van de rijrichting die op het bord is aangegeven. |
 | D05l | D05l | Gebod tot het volgen van de rijrichting die op het bord is aangegeven. |
 | D05r | D05r | Gebod tot het volgen van de rijrichting die op het bord is aangegeven. |
 | D06l | D06l | Gebod tot het volgen van de rijrichting die op het bord is aangegeven, naar links. |
@@ -432,7 +432,7 @@
 | E04 | E04 | Parkeergelegenheid. |
 | E05 | E05 | Parkeergelegenheid alleen bestemd voor taxi's. |
 | E06 | E06 | Gehandicaptenparkeerplaats. |
-| E06_OB309 | E06_OB310 | Aanduiding voor de aanwezigheid van een mindervalidenparkeerplaats met specificatie van kenteken. |
+| E06_OB309 | E06_OB309 | Aanduiding voor de aanwezigheid van een mindervalidenparkeerplaats met specificatie van kenteken. |
 | E07 | E07 | Aanduiding voor de aanwezigheid van een parkeerplaats voor ladende en lossende vrachtauto's. |
 | E08 | E08 | Parkeergelegenheid alleen bestemd voor auto's. |
 | E08a | E08a | Parkeergelegenheid voor auto's door gedeeltelijk op het trottoir te parkeren. |
@@ -582,8 +582,8 @@
 | J03 | J03 | Waarschuwing voor bocht naar links. |
 | J04 | J04 | Waarschuwing voor S-bocht(en), eerst naar rechts. |
 | J05 | J05 | Waarschuwing voor S-bocht(en), eerst naar links. |
-| J06-10 | J06-11 | Waarschuwing voor steile helling, 10%. |
-| J07-10 | J07-11 | Waarschuwing voor gevaarlijke daling, 10%. |
+| J06-10 | J06-10 | Waarschuwing voor steile helling, 10%. |
+| J07-10 | J07-10 | Waarschuwing voor gevaarlijke daling, 10%. |
 | J08 | J08 | Waarschuwing voor gevaarlijk kruispunt. |
 | J09 | J09 | Waarschuwing voor rotonde. |
 | J10 | J10 | Waarschuwing voor overweg met slagbomen. |
@@ -632,8 +632,8 @@
 | J30 | J30 | Waarschuwing voor laagvliegende vliegtuigen. |
 | J31 | J31 | Waarschuwing voor zijwind. |
 | J32 | J32 | Waarschuwing voor verkeers- lichten. |
-| J32_OB401-200_VR21 | J32_OB401-200_VR22 | Een combinatiebord met knipperlicht dat waarschuwt voor verkeerslichten over 200 meter. |
-| J32_OB401-300_VR21 | J32_OB401-300_VR22 | Een combinatiebord met knipperlicht dat waarschuwt voor verkeerslichten over 300 meter. |
+| J32_OB401-200_VR21 | J32_OB401-200_VR21 | Een combinatiebord met knipperlicht dat waarschuwt voor verkeerslichten over 200 meter. |
+| J32_OB401-300_VR21 | J32_OB401-300_VR21 | Een combinatiebord met knipperlicht dat waarschuwt voor verkeerslichten over 300 meter. |
 | J33 | J33 | Waarschuwing voor file. |
 | J34 | J34 | Waarschuwing voor ongeval. |
 | J35 | J35 | Waarschuwing voor slecht zicht door sneeuw, regen of mist. |
@@ -678,17 +678,17 @@
 | K15rh | K15rh | Leeg bewijzeringsbord rechtsaf om de hoek. |
 | K15rl | K15rl | Leeg bewijzeringsbord linksaf op de rotonde. |
 | K15rr | K15rr | Leeg bewijzeringsbord rechts op de rotonde. |
-| L01 | L02 | Hoogte onderdoorgang . |
-| L01-42 | L01-43 | Hoogte onderdoorgang 4,2 m. |
-| L02 | L03 | Voetgangersoversteekplaats. |
+| L01 | L01 | Hoogte onderdoorgang . |
+| L01-42 | L01-42 | Hoogte onderdoorgang 4,2 m. |
+| L02 | L02 | Voetgangersoversteekplaats. |
 | L02_OB1003f | L02_OB1003f | Bord L02 en onderbord 'Drempel' met fluorescerende achtergrond. |
 | L02_OB15f | L02_OB15f | Voetgangersoversteekplaats op drempel, fluorescerend bord. |
 | L02f | L02f | Bord L02 met fluorescerende achtergrond. |
-| L03 | L04 | Bushalte/tramhalte. |
+| L03 | L03 | Bushalte/tramhalte. |
 | L03a | L03a | Tramhalte/bushalte. |
 | L03b | L03b | Bushalte. |
 | L03c | L03c | Tramhalte. |
-| L04 | L05 | Voorsorteren. |
+| L04 | L04 | Voorsorteren. |
 | L04-2a | L04-2a | Informatiebord dat aangeeft dat de linkerrijstrook van de rechts liggende, doorgaande rijstrook afsplitst. |
 | L04-2b | L04-2b | Informatiebord dat aangeeft dat de kort hiervoor ontstane linkerrijstrook van de rechts liggende, doorgaande rijstrook afsplitst. |
 | L04-3a | L04-3a | Informatiebord dat aangeeft dat de linkerrijstrook afsplitst van twee doorgaande rijstroken en dat de rechterrijstrook vertakt in een doorgaande en een naar rechts afsplitsende rijstrook. |
@@ -711,13 +711,13 @@
 | L04l | L04l | Pijl rechtdoor en linksaf slaan. |
 | L04m | L04m | Pijl rechtdoor en rechtsaf slaan. |
 | L05-2a | L05-2a | Informatiebord dat aangeeft dat de linkerrijstrook invoegt in de enige doorgaande rijstrook. |
-| L05-3 | L05-4 | Einde rijstrook. |
+| L05-3 | L05-3 | Einde rijstrook. |
 | L05-3a | L05-3a | Informatiebord dat aangeeft dat de linkerrijstrook invoegt in twee doorgaande rijstroken. |
-| L05-4 | L05-5 | Informatiebord dat aangeeft dat zowel de linker- als de rechterrijstrook invoegen in de twee doorgaande rijstroken. |
-| L06-4 | L06-5 | Splitsing. |
-| L07-2 | L07-3 | 2 doorgaande rijstroken. |
+| L05-4 | L05-4 | Informatiebord dat aangeeft dat zowel de linker- als de rechterrijstrook invoegen in de twee doorgaande rijstroken. |
+| L06-4 | L06-4 | Splitsing. |
+| L07-2 | L07-2 | 2 doorgaande rijstroken. |
 | L07-2-01t | L07-2-01t | 2 tijdelijke doorgaande rijstroken. |
-| L07-3 | L07-4 | Aantal doorgaande rijstroken. |
+| L07-3 | L07-3 | Aantal doorgaande rijstroken. |
 | L07-3-01t | L07-3-01t | 3 tijdelijke doorgaande rijstroken. |
 | L07-4-01t | L07-4-01t | 4 tijdelijke doorgaande rijstroken. |
 | L07t | L07t | Tijdelijke doorgaande rijstroken. |
@@ -725,17 +725,17 @@
 | L09 | L09 | Vooraanduiding doodlopende weg. |
 | L09-01l | L09-01l | Vooraanduiding doodlopende weg 1 afslag links. |
 | L09-01r | L09-01r | Vooraanduiding doodlopende weg 1 afslag rechts. |
-| L09-02 | L09-03 | Vooraanduiding doodlopende weg. |
+| L09-02 | L09-02 | Vooraanduiding doodlopende weg. |
 | L09-02l | L09-02l | Vooraanduiding doodlopende weg linksaf. |
 | L09-02r | L09-02r | Vooraanduiding doodlopende weg rechtsaf. |
 | L09-04lt | L09-04lt | Tijdelijk informatiebord voor een aanduiding van twee linksaf slaande wegen waarbij de tweede doodlopend is. |
 | L09-04rt | L09-04rt | Tijdelijk informatiebord voor een aanduiding van twee rechtsaf slaande wegen waarbij de tweede doodlopend is. |
-| L09-11 | L09-12 | Een informatiebord dat gericht is op de plaatselijke buurt dat nieuws, berichten over activiteiten en andere informatie gericht aan kinderen toont. |
+| L09-11 | L09-11 | Een informatiebord dat gericht is op de plaatselijke buurt dat nieuws, berichten over activiteiten en andere informatie gericht aan kinderen toont. |
 | L10 | L10 | Verkeersbord 'Gesloten voor vrachtauto’s' geldt voor aangegeven rijstrook. |
 | L10-01l_C01t | L10-01l_C01t | Rijstrook rechtdoor afgesloten afslag naar links. |
 | L10-01r_C01t | L10-01r_C01t | Rijstrook rechtdoor afgesloten afslag naar rechts. |
 | L10-02l_C01t | L10-02l_C01t | Rijstrook rechtdoor en linksaf afgesloten. |
-| L10-02r_C07 | L10-02r_C08 | Vooraanduiding verkeersmaatregel voor de aangegeven richting . |
+| L10-02r_C07 | L10-02r_C07 | Vooraanduiding verkeersmaatregel voor de aangegeven richting . |
 | L10-02rl_C01t | L10-02rl_C01t | Rijstrook rechtdoor en rechtsaf afgesloten. |
 | L10-04l_C01t | L10-04l_C01t | Rijstrook rechtsaf doorgaand en linksaf afgesloten. |
 | L10-04r_C01t | L10-04r_C01t | Rijstrook linksaf doorgaand en rechtsaf afgesloten. |
@@ -764,7 +764,7 @@
 | L10-32l_C01t | L10-32l_C01t | Rotonde, rechtsaf vrij, linksaf afgesloten rechtdoor doorgaand. |
 | L10-32r_C01t | L10-32r_C01t | Rotonde, linksaf vrij, rechtsaf afgesloten rechtdoor doorgaand. |
 | L10-34l_C01t | L10-34l_C01t | Rotonde, rechtdoor vrij, linksaf afgesloten rechtsaf doorgaand. |
-| L10-34r_C01 | L10-34r_C02 | Rotonde, rechtdoor vrij, linksaf doorgaand rechtsaf afgesloten. |
+| L10-34r_C01 | L10-34r_C01 | Rotonde, rechtdoor vrij, linksaf doorgaand rechtsaf afgesloten. |
 | L1000 | L1000 | Let op! Drempels. |
 | L1001 | L1001 | Verkeersbord geldt alleen voor aangegeven rijstrook. |
 | L1002 | L1002 | Fietsstraat, auto te gast. |
@@ -774,8 +774,8 @@
 | L1006 | L1006 | Landbouwvoertuigen eerst a.u.b. |
 | L1009 | L1009 | Camper, caravan of tent niet toegestaan tussen 20.00 en 8.00 uur. |
 | L101 | L101 | Informatiebord dat aangeeft dat de twee doorgaande rijstroken invoegen op de twee meest rechtse rijstroken van een weg met een bepaald aantal rijstroken. |
-| L101-3 | L101-4 | Informatiebord dat aangeeft dat de twee doorgaande rijstroken invoegen op de twee meest rechtse rijstroken van een weg met drie doorgaande rijstroken. |
-| L101-4 | L101-5 | Informatiebord dat aangeeft dat de twee doorgaande rijstroken van invoegen op de twee meest rechtse rijstroken van een weg met vier doorgaande rijstroken. |
+| L101-3 | L101-3 | Informatiebord dat aangeeft dat de twee doorgaande rijstroken invoegen op de twee meest rechtse rijstroken van een weg met drie doorgaande rijstroken. |
+| L101-4 | L101-4 | Informatiebord dat aangeeft dat de twee doorgaande rijstroken van invoegen op de twee meest rechtse rijstroken van een weg met vier doorgaande rijstroken. |
 | L1010 | L1010 | Rustgebied voor wild. |
 | L1011 | L1011 | Nationaal Park. Duinen van Texel. |
 | L1012 | L1012 | Kwetsbaar duingebied. Geen toegang. |
@@ -787,7 +787,7 @@
 | L1022 | L1022 | Parkeren verboden. |
 | L1023 | L1023 | Verboden toegang. |
 | L1024 | L1024 | Privéterrein. Betreden op eigen risico. |
-| L1025 | L1026 | AED. |
+| L1025 | L1025 | AED. |
 | L1030 | L1030 | Verboden voor honden. |
 | L1031 | L1031 | Verboden voor honden. |
 | L1032 | L1032 | Verboden voor honden. |
@@ -823,7 +823,7 @@
 | L10t | L10t | 1 of meerdere afgesloten rijstroken. |
 | L11 | L11 | Verkeersbord 'Gesloten voor voertuigen, die breder zijn dan 2 meter (met inbegrip van lading)' geldt voor aangegeven rijstrook. |
 | L11-2-01_C18-2t | L11-2-01_C18-2t | 2 rijstroken, linkerrijstrook met breedtebeperking. |
-| L11-3-01_C18-2 | L11-3-01_C18-3 | Verkeersbord geldt alleen voor de aangegeven rijstrook/rijstroken. |
+| L11-3-01_C18-2 | L11-3-01_C18-2 | Verkeersbord geldt alleen voor de aangegeven rijstrook/rijstroken. |
 | L11-3-01_C18-2t | L11-3-01_C18-2t | 3 rijstroken, linkerrijstrook met breedtebeperking. |
 | L11-4-02_C18-2t | L11-4-02_C18-2t | 3 rijstroken, linker- en middelste rijstrook met breedtebeperking. |
 | L1100 | L1100 | Verboden te roken. |
@@ -838,7 +838,7 @@
 | L1201 | L1201 | Verboden te vissen. |
 | L1202 | L1202 | Verboden te vissen. |
 | L1203 | L1203 | Verboden te vissen voor onbevoegden. |
-| L12_C18-2 | L12_C18-3 | Verkeersbord geldt alleen voor de aangegeven rijstrook. |
+| L12_C18-2 | L12_C18-2 | Verkeersbord geldt alleen voor de aangegeven rijstrook. |
 | L13 | L13 | Verkeerstunnel. |
 | L1300 | L1300 | Cameratoezicht. |
 | L1301 | L1301 | Cameratoezicht. |
@@ -897,11 +897,11 @@
 | L213t | L213t | Zwaailicht? Maak ruimte (tijdelijk). |
 | L214a | L214a | VVV-kantoor. |
 | L214b | L214b | Navigatiesysteem uitzetten. |
-| L215 | L216 | Controle. |
+| L215 | L215 | Controle. |
 | L215-100 | L215-100 | Snelheidscontrole 100 km per uur. |
 | L215-80 | L215-80 | Snelheidscontrole 80 km per uur. |
-| L215-A12 | L215-A13 | Controle. |
-| L216 | L217 | Gordelcontrole. |
+| L215-A12 | L215-A12 | Controle. |
+| L216 | L216 | Gordelcontrole. |
 | L217a | L217a | Gordelcontrole. |
 | L217b | L217b | Trajectcontrole. |
 | L301a | L301a | Trap naar beneden . |
@@ -919,17 +919,17 @@
 | L401 | L401 | Algemene snelheidslimieten in Nederland. |
 | L402 | L402 | Welkom in Nederland, welcome, willkomen, bienvenue. |
 | L403B | L403B | Grensbord met België (EU-lidstaat). |
-| L403B_OB401 | L403B_OB402 | Grensbord met België na 1 kilometer. |
+| L403B_OB401 | L403B_OB401 | Grensbord met België na 1 kilometer. |
 | L403D | L403D | Grensbord met Duitsland (EU-lidstaat). |
-| L403D_OB401-1 | L403D_OB401-2 | Grensbord met Duitsland na 1 kilometer. |
+| L403D_OB401-1 | L403D_OB401-1 | Grensbord met Duitsland na 1 kilometer. |
 | L403NL | L403NL | Grensbord met Nederland (EU-lidstaat). |
-| L403NL_OB401 | L403NL_OB402 | Grensbord met Nederland na 1 kilometer. |
+| L403NL_OB401 | L403NL_OB401 | Grensbord met Nederland na 1 kilometer. |
 | L404 | L404 | Europese gemeente. |
 | L51 | L51 | Informatiebord dat aangeeft dat de huidige weg een fietsstraat is en dat fietsers daarmee de hoofdweggebruikers zijn en niet mogen worden ingehaald. |
 | L51a | L51a | Informatiebord dat aangeeft dat de huidige weg niet langer een fietsstraat is en dat fietsers daarmee niet meer de hoofdweggebruikers zijn en weer mogen worden ingehaald. |
 | L51c | L51c | Informatiebord dat aangeeft dat de fietsstraat een verplicht fietspad is. |
 | L51d | L51d | Informatiebord dat het einde aangeeft van de fietsstraat die een verplicht fietspad is. |
-| L52 | L53 | Kiss and Ride. |
+| L52 | L52 | Kiss and Ride. |
 | L52e | L52e | Einde Kiss and Ride. |
 | N01 | N01 | Straatnaambord met 1 tekstregel. |
 | N01l | N01l | Straatnaambord met 1 tekstregel. |
@@ -940,7 +940,7 @@
 | N04l | N04l | Een straatnaambord met aanduiding van de buurtcode en een links wijzende pijl naar de locatie van de straat. |
 | N04lr | N04lr | Een straatnaambord met aanduiding van de buurtcode en links en rechts wijzende pijlen naar de locatie van de straat. |
 | N04r | N04r | Een straatnaambord met aanduiding van de buurtcode en een rechts wijzende pijl naar de locatie van de straat. |
-| N05 | N06 | Straatnaambord dat de straatnaam weergeeft met daarboven de naam van de wijk- of buurtindeling. |
+| N05 | N05 | Straatnaambord dat de straatnaam weergeeft met daarboven de naam van de wijk- of buurtindeling. |
 | N06l | N06l | Straatnaambord dat de straatnaam weergeeft met daaronder een links wijzende huisnummeraanduiding. |
 | N06r | N06r | Straatnaambord dat de straatnaam weergeeft met daaronder een rechts wijzende huisnummeraanduiding. |
 | N07l-WAARDE | N07l-WAARDE | Straatnaambord dat de straatnaam weergeeft met daaronder de afstand die de waarnemer van het bord van de straat verwijderd is in links wijzende richting. |
@@ -977,7 +977,7 @@
 | OB17r | OB17r | Overhangende takken rechts. |
 | OB18l | OB18l | Zachte berm links. |
 | OB18r | OB18r | Zachte berm rechts. |
-| OB19 | OB20 | Geldt alleen voor elektrische voertuigen. |
+| OB19 | OB19 | Geldt alleen voor elektrische voertuigen. |
 | OB201p | OB201p | Onderbord met vrij in te vullen tekst voor periode (datum van - datum tot). |
 | OB202p | OB202p | Onderbord met vrij in te vullen tekst voor periode (weekdagen). |
 | OB203p | OB203p | Onderbord dat een tijdsbestek van de geldigheid van het hoofdbord aangeeft, bestaande uit een aanduiding van een weekdag en een aantal uren op de dag genoteerd als: xx.xx-xx.xx h. |
@@ -1010,12 +1010,12 @@
 | OB311 | OB311 | Herhaling. |
 | OB313 | OB313 | Verhoogde rijbaanscheiding. |
 | OB320 | OB320 | Tekst: schoolzone. |
-| OB401-1.5 | OB401-1.6 | Afstandsaanduiding. |
-| OB401-500 | OB401-501 | Onderbord dat aangeeft dat het hoofdbord over vijfhonderd meter van toepassing is. |
+| OB401-1.5 | OB401-1.5 | Afstandsaanduiding. |
+| OB401-500 | OB401-500 | Onderbord dat aangeeft dat het hoofdbord over vijfhonderd meter van toepassing is. |
 | OB401-Waarde | OB401-Waarde | Onderbord dat aangeeft dat het hoofdbord over het aantal meter van toepassing is dat is aangeduid door de variabele waarde. |
 | OB401m | OB401m | Algemene aanduiding voor een onderbord met een afstandsaanduiding waarbij de afstand (met tekst) als afzonderlijke tekst geregistreerd wordt. |
 | OB402SymboolWaarde | OB402SymboolWaarde | Blauw bord met symbool en afstandsaanduiding. |
-| OB411-500 | OB411-501 | Afstandsaanduiding met richting. |
+| OB411-500 | OB411-500 | Afstandsaanduiding met richting. |
 | OB411-Waarde | OB411-Waarde | Algemene aanduiding voor een onderbord met een afstandsaanduiding waarbij de afstand (met tekst) als afzonderlijke tekst geregistreerd wordt. |
 | OB411m | OB411m | Algemene aanduiding voor een onderbord met een afstandsaanduiding waarbij de afstand (met tekst) als afzonderlijke tekst geregistreerd wordt. |
 | OB501l | OB501l | Pijl naar links op bord. |
@@ -1094,113 +1094,113 @@
 | OB805-T | OB805-T | Tijdelijk bord, tekst: strepen trekken. |
 | OB806-T | OB806-T | Tijdelijk bord, tekst: opmetingen. |
 | OB807-T | OB807-T | Tijdelijk bord, tekst: weginspectie. |
-| OB901 | OB902 | Onderbord met hoofdletter A, B of C. |
+| OB901 | OB901 | Onderbord met hoofdletter A, B of C. |
 | OB901-A | OB901-A | Onderbord - A. |
 | OB901-B | OB901-B | Onderbord - B. |
 | OB901-C | OB901-C | Onderbord - C. |
-| OB902 | OB903 | Onderbord categorie + nummer. |
+| OB902 | OB902 | Onderbord categorie + nummer. |
 | OB902-1 | OB902-1 | Tekst: categorie 1. |
 | OB902-2 | OB902-2 | Tekst: categorie 2. |
-| OB903 | OB904 | Onderbord sector + hoofdletter. |
+| OB903 | OB903 | Onderbord sector + hoofdletter. |
 | OB903-A | OB903-A | Tekst: sector A. |
 | T-actieraam | T-actieraam | Het inklapbare actieraam bestaat uit een aluminium frame voorzien van rood/wit diagonale markering. Het frame is voorzien van ronde knipperlampen. |
-| T01 | T02 | Voorwaarschuwingsborden bij werk in uitvoering. |
+| T01 | T01 | Voorwaarschuwingsborden bij werk in uitvoering. |
 | T01-2l | T01-2l | Voorwaarschuwingsborden bij werk in uitvoering 2 banen asverlegging naar links. |
-| T01-2l_C19-2 | T01-2l_C19-3 | Voorwaarschuwingsborden bij werk in uitvoering 2 banen asverlegging naar links met breedtebeperking. |
+| T01-2l_C19-2 | T01-2l_C19-2 | Voorwaarschuwingsborden bij werk in uitvoering 2 banen asverlegging naar links met breedtebeperking. |
 | T01-2r | T01-2r | Voorwaarschuwingsborden bij werk in uitvoering 2 banen asverlegging naar rechts. |
-| T01-2r_C18-2 | T01-2r_C18-3 | Voorwaarschuwingsborden bij werk in uitvoering 2 banen asverlegging naar rechts met breedtebeperking. |
+| T01-2r_C18-2 | T01-2r_C18-2 | Voorwaarschuwingsborden bij werk in uitvoering 2 banen asverlegging naar rechts met breedtebeperking. |
 | T02-2r | T02-2r | rijstrook met tegemoetkomend verkeer, asverlegging naar links. |
 | T03-2l | T03-2l | rijstrook met tegemoetkomend verkeer, asverlegging naar rechts. |
-| T04 | T05 | Voorwaarschuwingsborden bij werk in uitvoering, rijstrook met asverlegging en geen tegemoetkomend verkeer. |
+| T04 | T04 | Voorwaarschuwingsborden bij werk in uitvoering, rijstrook met asverlegging en geen tegemoetkomend verkeer. |
 | T04-1l | T04-1l | Voorwaarschuwingsborden bij werk in uitvoering, 1 rijstrook met asverlegging naar rechts en geen tegemoetkomend verkeer. |
 | T04-1lr | T04-1lr | Voorwaarschuwingsborden bij werk in uitvoering, 1 rijstrook met asverlegging naar links en geen tegemoetkomend verkeer. |
 | T04-2l | T04-2l | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken met asverlegging naar links en 1 rijstrook met breedtebeperking en geen tegemoetkomend verkeer. |
-| T04-2l_C18-2 | T04-2l_C18-3 | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken met asverlegging naar links en geen tegemoetkomend verkeer. |
+| T04-2l_C18-2 | T04-2l_C18-2 | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken met asverlegging naar links en geen tegemoetkomend verkeer. |
 | T04-2r | T04-2r | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken met asverlegging naar rechts en 1 rijstrook met breedtebeperking en geen tegemoetkomend verkeer. |
-| T04-2r_C18-2 | T04-2r_C18-3 | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken met asverlegging naar rechts en geen tegemoetkomend verkeer. |
-| T05 | T06 | Voorwaarschuwingsborden bij werk in uitvoering, rijstrook met korte omleiding. |
+| T04-2r_C18-2 | T04-2r_C18-2 | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken met asverlegging naar rechts en geen tegemoetkomend verkeer. |
+| T05 | T05 | Voorwaarschuwingsborden bij werk in uitvoering, rijstrook met korte omleiding. |
 | T05-1l | T05-1l | Voorwaarschuwingsborden bij werk in uitvoering, rijstrook naar links met korte omleiding. |
 | T05-1r | T05-1r | Voorwaarschuwingsborden bij werk in uitvoering, rijstrook naar rechts met korte omleiding. |
 | T05-2l | T05-2l | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken naar links met korte omleiding. |
 | T05-2r | T05-2r | Voorwaarschuwingsborden bij werk in uitvoering, 2 rijstroken naar rechts met korte omleiding. |
 | T05-3l | T05-3l | Voorwaarschuwingsborden bij werk in uitvoering, 3 rijstroken naar links met korte omleiding. |
 | T05-3r | T05-3r | Voorwaarschuwingsborden bij werk in uitvoering, 3 rijstroken naar rechts met korte omleiding. |
-| T101 | T102 | Omleiding. |
+| T101 | T101 | Omleiding. |
 | T101e | T101e | Einde omleiding. |
-| T102 | T103 | Omleiding met rijrichting. |
+| T102 | T102 | Omleiding met rijrichting. |
 | T102l | T102l | Omleiding pijl naar links. |
 | T102r | T102r | Omleiding pijl naar rechts. |
-| T104 | T105 | Plaatsnaambord met of zonder rijrichting. |
-| T104-1 | T104-2 | Plaatsnaambord. |
+| T104 | T104 | Plaatsnaambord met of zonder rijrichting. |
+| T104-1 | T104-1 | Plaatsnaambord. |
 | T104l | T104l | Plaatsnaambord pijl naar links. |
 | T104r | T104r | Plaatsnaambord pijl naar rechts. |
 | T11 | T11 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging naar de naastliggende rijstrook. |
 | T11-1l | T11-1l | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van rijstrook naar links naar de naastliggende rijstrook. |
 | T11-1r | T11-1r | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van rijstrook naar rechts naar de naastliggende rijstrook. |
 | T11-2l | T11-2l | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken naar links naar de naastliggende rijstrook met voor 1 rijstrook een breedtebeperking. |
-| T11-2l_C18-2 | T11-2l_C18-3 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken naar links naar de naastliggende rijstrook. |
+| T11-2l_C18-2 | T11-2l_C18-2 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken naar links naar de naastliggende rijstrook. |
 | T11-2r | T11-2r | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken naar rechts naar de naastliggende rijstrook met 1 rijstrook met breedtebeperking. |
-| T11-2r_C18-2 | T11-2r_C18-3 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken naar rechts naar de naastliggende rijstrook. |
+| T11-2r_C18-2 | T11-2r_C18-2 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken naar rechts naar de naastliggende rijstrook. |
 | T113 | T113 | Plaatsnaam + volg + routenummer. |
 | T12 | T12 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken met 1 rijstrook naar de naastliggende rijstrook. |
 | T12-2l | T12-2l | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken met 1 rijstrook naar links naar de naastliggende rijstrook met breedtebeperking. |
-| T12-2l_C18-2 | T12-2l_C18-3 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken met 1 rijstrook naar links naar de naastliggende rijstrook. |
+| T12-2l_C18-2 | T12-2l_C18-2 | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 2 rijstroken met 1 rijstrook naar links naar de naastliggende rijstrook. |
 | T13-3l | T13-3l | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 3 rijstroken met 2 rijstroken naar links naar de naastliggende rijstrook. |
 | T14-3l | T14-3l | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van 3 rijstroken met 1 rijstrook naar links naar de naastliggende rijstrook. |
 | T15-1r | T15-1r | Voorwaarschuwingsborden bij werk in uitvoering, asverlegging van tegemoetkomend verkeer op dezelfde rijstrook naar de naastliggende rijstrook. |
-| T201 | T202 | Lege pijlconfiguratie met of zonder richting. |
-| T201-4 | T201-5 | Omleidingsbord met nummer. |
+| T201 | T201 | Lege pijlconfiguratie met of zonder richting. |
+| T201-4 | T201-4 | Omleidingsbord met nummer. |
 | T201-4e | T201-4e | Einde omleidingsbord met nummer. |
 | T201-nummer | T201-nummer | Omleidingsborden met nummer en richting. |
 | T201a | T201a | Omleidingsbord met letter. |
 | T201ae | T201ae | Einde omleidingsbord met letter. |
 | T201b | T201b | Lege pijlconfiguratie pijl rechtdoor. |
-| T201b-4 | T201b-5 | Omleidingsbord met nummer pijl rechtdoor. |
+| T201b-4 | T201b-4 | Omleidingsbord met nummer pijl rechtdoor. |
 | T201b-4e | T201b-4e | Einde omleidingsbord met nummer pijl rechtdoor. |
 | T201b-A | T201b-A | Omleidingsbord met letter pijl rechtdoor. |
 | T201b-Ae | T201b-Ae | Einde omleidingsbord met letter pijl rechtdoor. |
 | T201be | T201be | Einde lege pijlconfiguratie pijl rechtdoor. |
 | T201e | T201e | Einde lege pijlconfiguratie. |
 | T201l | T201l | Lege pijlconfiguratie pijl naar links. |
-| T201l-4 | T201l-5 | Omleidingsbord met nummer pijl naar links. |
+| T201l-4 | T201l-4 | Omleidingsbord met nummer pijl naar links. |
 | T201l-4e | T201l-4e | Einde omleidingsbord met nummer pijl naar links. |
 | T201l-A | T201l-A | Omleidingsbord met letter pijl naar links. |
 | T201l-Ae | T201l-Ae | Einde omleidingsbord met letter pijl naar links. |
 | T201le | T201le | Einde lege pijlconfiguratie pijl naar links. |
 | T201letter | T201letter | Omleidingsborden met letter en richting. |
 | T201r | T201r | Lege pijlconfiguratie pijl naar rechts. |
-| T201r-4 | T201r-5 | Omleidingsbord met nummer pijl naar rechts. |
+| T201r-4 | T201r-4 | Omleidingsbord met nummer pijl naar rechts. |
 | T201r-4e | T201r-4e | Einde omleidingsbord met nummer pijl naar rechts. |
 | T201r-A | T201r-A | Omleidingsbord met letter pijl naar rechts. |
 | T201r-Ae | T201r-Ae | Einde omleidingsbord met letter pijl naar rechts. |
 | T201re | T201re | Einde lege pijlconfiguratie pijl naar rechts. |
-| T21 | T22 | Einde rijstrook met asverlegging naar rechts. |
+| T21 | T21 | Einde rijstrook met asverlegging naar rechts. |
 | T21-1r | T21-1r | Einde rijstrook met asverlegging van 1 rijstrook naar rechts. |
 | T21-2r | T21-2r | Einde rijstrook met asverlegging van 2 rijstroken naar rechts. |
-| T21-2r_C18-2 | T21-2r_C18-3 | Einde rijstrook met asverlegging van 2 rijstroken naar rechts met voor 1 rijstrook breedtebeperking. |
-| T22 | T23 | 1 rijstrook rechtdoor en einde rijstrook voor de naastliggende rijstrook met asverlegging. |
+| T21-2r_C18-2 | T21-2r_C18-2 | Einde rijstrook met asverlegging van 2 rijstroken naar rechts met voor 1 rijstrook breedtebeperking. |
+| T22 | T22 | 1 rijstrook rechtdoor en einde rijstrook voor de naastliggende rijstrook met asverlegging. |
 | T22-2r | T22-2r | 1 rijstrook rechtdoor en einde rijstrook voor de naastliggende rechter rijstrook met asverlegging. |
-| T22-2r_C18-2 | T22-2r_C18-3 | 1 rijstrook rechtdoor met breedte beperking en einde rijstrook voor de naastliggende rechter rijstrook met asverlegging. |
-| T23 | T24 | 1 rijstrook rechtdoor en einde rijstrook voor de 2 naastliggende rijstroken met asverlegging. |
+| T22-2r_C18-2 | T22-2r_C18-2 | 1 rijstrook rechtdoor met breedte beperking en einde rijstrook voor de naastliggende rechter rijstrook met asverlegging. |
+| T23 | T23 | 1 rijstrook rechtdoor en einde rijstrook voor de 2 naastliggende rijstroken met asverlegging. |
 | T23-3r | T23-3r | 1 rijstrook rechtdoor en einde rijstrook voor de 2 naastliggende rijstroken met asverlegging. |
-| T23-3r_C18-2 | T23-3r_C18-3 | 1 rijstrook rechtdoor met breedtebeperking en einde rijstrook voor de 2 naastliggende rijstroken met asverlegging. |
-| T24 | T25 | 2 rijstroken rechtdoor en einde rijstrook voor de naastliggende rijstrook met asverlegging. |
+| T23-3r_C18-2 | T23-3r_C18-2 | 1 rijstrook rechtdoor met breedtebeperking en einde rijstrook voor de 2 naastliggende rijstroken met asverlegging. |
+| T24 | T24 | 2 rijstroken rechtdoor en einde rijstrook voor de naastliggende rijstrook met asverlegging. |
 | T24-3r | T24-3r | 2 rijstroken rechtdoor en einde rijstrook voor de naastliggende rijstrook met asverlegging. |
-| T24-3r-01_C18-2 | T24-3r-01_C18-3 | 2 rijstroken met 1 rijstrook met breedtebeperking rechtdoor en einde rijstrook voor de naastliggende rijstrook met asverlegging. |
-| T25 | T26 | Einde rijstroken met asverlegging. |
+| T24-3r-01_C18-2 | T24-3r-01_C18-2 | 2 rijstroken met 1 rijstrook met breedtebeperking rechtdoor en einde rijstrook voor de naastliggende rijstrook met asverlegging. |
+| T25 | T25 | Einde rijstroken met asverlegging. |
 | T25-1l | T25-1l | Einde rijstroken met asverlegging 1 rijstrook naar links. |
 | T25-2l | T25-2l | Einde rijstroken met asverlegging 2 rijstroken naar links. |
-| T26 | T27 | Einde afsluiting rechter rijstrook. |
+| T26 | T26 | Einde afsluiting rechter rijstrook. |
 | T26-2l | T26-2l | Einde afsluiting rechter rijstrook, 2 rijstroken. |
-| T26-2l_C18-2 | T26-2l_C18-3 | Einde afsluiting rechter rijstrook, 2 rijstroken, breedtebeperking voor linker rijstrook. |
+| T26-2l_C18-2 | T26-2l_C18-2 | Einde afsluiting rechter rijstrook, 2 rijstroken, breedtebeperking voor linker rijstrook. |
 | T26-3l | T26-3l | Einde afsluiting rechter rijstrook, 3 rijstroken. |
-| T26-3l-01_C18-2 | T26-3l-01_C18-3 | Einde afsluiting rechter rijstrook, 3 rijstroken, breedtebeperking voor linker rijstrook. |
-| T27 | T28 | Einde obstakel rechter rijstrook. |
+| T26-3l-01_C18-2 | T26-3l-01_C18-2 | Einde afsluiting rechter rijstrook, 3 rijstroken, breedtebeperking voor linker rijstrook. |
+| T27 | T27 | Einde obstakel rechter rijstrook. |
 | T27-3l | T27-3l | Einde obstakel rechter rijstrook, 3 rijstroken. |
-| T27-3l-01_C18-2 | T27-3l-01_C18-3 | Einde obstakel rechter rijstrook, 3 rijstroken, breedtebeperking voor linker rijstrook. |
-| T28 | T29 | Einde obstakel einde asverlegging middelste en rechter rijstrook. |
+| T27-3l-01_C18-2 | T27-3l-01_C18-2 | Einde obstakel rechter rijstrook, 3 rijstroken, breedtebeperking voor linker rijstrook. |
+| T28 | T28 | Einde obstakel einde asverlegging middelste en rechter rijstrook. |
 | T28-3l | T28-3l | Einde obstakel einde asverlegging middelste en rechter rijstrook. |
-| T28-3l-01_C18-2 | T28-3l-01_C18-3 | Einde obstakel einde asverlegging middelste en rechter rijstrook, breedtebeperking voor linker rijstrook. |
+| T28-3l-01_C18-2 | T28-3l-01_C18-2 | Einde obstakel einde asverlegging middelste en rechter rijstrook, breedtebeperking voor linker rijstrook. |
 | T301 | T301 | Actieraam. |
 | T302 | T302 | Actieraam. |
 | T303 | T303 | Actieraam verlicht. |
@@ -1211,18 +1211,18 @@
 | T31 | T31 | Omleiding rond obstakel. |
 | T31-2l | T31-2l | Omleiding rond obstakel naar links. |
 | T31-2r | T31-2r | Omleiding rond obstakel naar rechts. |
-| T32 | T33 | Verdrijvingsvlak. |
+| T32 | T32 | Verdrijvingsvlak. |
 | T32-2l | T32-2l | 2 rijstroken verdrijvingsvlak links uitrijstrook naar rechts. |
 | T32-2r | T32-2r | 2 rijstroken verdrijvingsvlak rechts uitrijstrook naar links. |
 | T32-3l | T32-3l | 3 rijstroken verdrijvingsvlak links uitrijstrook naar rechts. |
 | T32-3r | T32-3r | 3 rijstroken verdrijvingsvlak rechts uitrijstrook naar links. |
-| T41 | T42 | Afgesloten rijstrook uitgezonderd werkverkeer. |
+| T41 | T41 | Afgesloten rijstrook uitgezonderd werkverkeer. |
 | T41-1l | T41-1l | Afgesloten rijstrook uitgezonderd werkverkeer naar links. |
 | T41-1r | T41-1r | Afgesloten rijstrook uitgezonderd werkverkeer naar rechts. |
 | T41-2l | T41-2l | Afgesloten rijstrook uitgezonderd werkverkeer naar links, 2 rijstroken. |
 | T41-2r | T41-2r | Afgesloten rijstrook uitgezonderd werkverkeer naar rechts, 2 rijstroken. |
-| T42 | T43 | Niet naast elkaar rijden. |
-| T43l213 | T43l214 | Zwaailicht? Maak ruimte! - geel. |
+| T42 | T42 | Niet naast elkaar rijden. |
+| T43l213 | T43l213 | Zwaailicht? Maak ruimte! - geel. |
 | TB02 | TB02 | Gecombineerde objectbewegwijzering met toeristische, recreatieve en lokale object verwijzingen en afritnummer langs autosnelweg. |
 | TB03 | TB03 | Gebiedsbord voor nationale landschappen, nationale parken, Unescogebieden en kerngebieden van de Ecologische Hoofdstructuur. |
 | TB04 | TB04 | Provinciegrens of gemeentegrens. |

@@ -7,6 +7,7 @@
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
 | baan voor vliegverkeer | baan voor vliegverkeer | Baan voor vliegverkeer |
+| berm | berm | berm |
 | fietspad | fietspad | Fietspad |
 | inrit | inrit | Inrit |
 | ov-baan | ov-baan | OV-baan |

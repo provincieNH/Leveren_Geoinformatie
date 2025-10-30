@@ -1,0 +1,48 @@
+﻿## AREAALDATA.fontein_p
+
+* __Areaaldata model versie:__ 5
+* __Herkomst Definitie:__ IMBOR/NEN3610
+* __Positionele nauwkeurigheid:__ 7,5 cm (NB, groter dan BGT)
+* __Geometrie:__ Punt
+* __Definitie:__ Een fontein is een natuurlijke of kunstmatige installatie die water spuit.
+* __MappingBGT:__ n.v.t.
+* __Heeft Z-waarden:__ ENABLED
+* __Heeft M-waarden:__ DISABLED
+
+***
+
+|__ATTRIBUUT__                             |__ALIAS__                                   |__DATATYPE (length, precision)__       |__DEFINITIE__ (Oorsprong; Superklasse; Attribuuttype; Enumeratie/Referentie; Verwijzende sleutel; Standaard waarde; Nullable; Definitie)|
+|------                                    |------                                      |------                                 |-----    |
+|objectid                                  |objectid                                    |OID(0,0)                               |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS.
+|globalid                                  |globalid                                    |Globalid(38,0)                         |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken.
+|ad_id                                     |ad_id                                       |TEXT(255,0)                            |PNH; AREAALDATA; GUID; ; ; Default: None; NON_NULLABLE; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer.
+|created_user                              |created_user                                |TEXT(255,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Naam van gebruiker die de rij heeft aangemaakt, gegenereerd door ArcGIS.
+|created_date                              |created_date                                |DATE(15,0)                             |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Datum waarop de rij aan de database is toegevoegd, gegenereerd door ArcGIS.
+|last_edited_user                          |last_edited_user                            |TEXT(255,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Naam van gebruiker die de laatste mutatie heeft doorgevoerd, gegenereerd door ArcGIS.
+|last_edited_date                          |last_edited_date                            |DATE(15,0)                             |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Datum van de laatste mutatie, gegenereerd door ArcGIS.
+|objectbegintijd                           |objectbegintijd                             |DATE(9,0)                              |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; NON_NULLABLE; Datum waarop het object bij de bronhouder is ontstaan.
+|objecteindtijd                            |objecteindtijd                              |DATE(9,0)                              |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; NULLABLE; Datum waarop het object bij de bronhouder niet meer geldig is.
+|verwerkingsstatus                         |verwerkingsstatus                           |TEXT(255,0)                            |PNH; AREAALDATA; Enumeratie; keuzelijst [Verwerkingsstatus]; ; Default: None; NON_NULLABLE; Status van de gegevens.
+|dataleverancier                           |dataleverancier                             |TEXT(255,0)                            |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; NULLABLE; Leverancier van de data.
+|opmerking                                 |opmerking                                   |TEXT(3000,0)                           |PNH; AREAALDATA; Vrij invoerveld; ; ; Default: None; NULLABLE; Algemene opmerking voor het object, zoals een omschrijving of toelichting.
+|shape                                     |shape                                       |DOUBLE(0,0)                            |PNH; AREAALDATA; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Locatie van het beheerobject.
+|beheerder                                 |beheerder                                   |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectBeheerder]; ; Default: None; NULLABLE; Een publiekrechtelijke instantie of (rechts)persoon die toeziet op de instandhouding van o.a. een object, kunstwerk of waterstaatswerk. De typen beheerder zijn conform de indeling in bronhouders (BGT).
+|beheergebied                              |beheergebied                                |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [GCR_NAAM]; Verwijzende sleutel naar [gebiedscontractregio_v]; Default: None; NULLABLE; De provincie heeft haar gebied in 8 gebieden opgesplitst. Amsterdam (gebied 8) is zelfstandig. Aanduiding van het beheergebied waarbinnen het beheerobject ligt. Bevat een verwijzende sleutel naar gebiedscontractregio_v (simpel). AD_ID foreign key. 
+|bouwjaar                                  |bouwjaar                                    |SHORT(5,0)                             |IMBOR; Constructie; Vrij invoerveld; ; ; Default: None; NULLABLE; Bouwjaar van het object. Deze kan afwijken van het jaar van aanleg, bijvoorbeeld wanneer een beheerobject hergebruikt wordt.
+|breedte                                   |breedte (m)                                 |DOUBLE(10,3)                           |IMBOR; Kunstwerk; Vrij invoerveld; ; ; Default: None; NULLABLE; Breedte van het beheerobject in meters.
+|eigenaar                                  |eigenaar                                    |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectEigenaar]; ; Default: None; NULLABLE; (Rechts)persoon die het meest omvattend recht op een zaak heeft. De typen eigenaren zijn conform de indeling in bronhouders (BGT).
+|fabrikanttypecode                         |fabrikanttypecode                           |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Fabrikanttypecode.
+|gisib_id                                  |gisib id                                    |LONG(10,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer.
+|hoofdroute                                |hoofdroute                                  |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie/Referentie; keuzelijst [Hoofdroute]; Verwijzende sleutel naar [weg_v]; Default: None; NULLABLE; Verwijzende sleutel naar weg_v (simpel); Naam van de hoofdroute waarbinnen het object ligt.
+|hoogte                                    |hoogte (m)                                  |DOUBLE(10,3)                           |IMBOR; Kunstwerk; Vrij invoerveld; ; ; Default: None; NULLABLE; Hoogte van het beheerobject in meters.
+|kilometrering                             |kilometrering                               |FLOAT(6,2)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Waarde op hectometerbord. De hectometrering staat achter de komma.
+|lengte                                    |lengte (m)                                  |FLOAT(6,2)                             |IMBOR; Kunstwerk; Vrij invoerveld; ; ; Default: None; NULLABLE; Lengte van het beheerobject in meters.
+|onderhoudsplichtige                       |onderhoudsplichtige                         |TEXT(255,0)                            |IMBOR; Beheerd object; Enumeratie/Referentie; keuzelijst [BeheerdObjectOnderhoudsplichtige]; ; Default: None; NULLABLE; Organisatie die verantwoordelijk is voor het onderhoud van het beheerobject.
+|orientatie                                |orientatie                                  |TEXT(255,0)                            |PNH; Kunstwerk; Enumeratie/Referentie; keuzelijst [Orientatie]; ; Default: None; NULLABLE; Oriëntatie van het beheerobject t.o.v. een weg, vaarweg, etc.
+|plus_type                                 |bgt plustype                                |TEXT(255,0)                            |IMBOR; Fontein; Enumeratie/Referentie; keuzelijst [typeSTM]; ; Default: niet-bgt:fontein; NON_NULLABLE; IMGeo plus populatie.
+|recreatieplek                             |recreatieplek                               |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; Verwijzende sleutel naar [recreatieplek_v]; Default: None; NULLABLE; Verwijzende sleutel naar recreatieplek_v (simpel)
+|restlevensduur                            |restlevensduur                              |SHORT(5,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Restlevensduur in maanden.
+|theoretisch_eindjaar                      |theoretisch eindjaar                        |SHORT(5,0)                             |IMBOR; Reëel object; Vrij invoerveld; ; ; Default: None; NULLABLE; Jaar dat het beheerobject aan het theoretische einde van haar levensduur is.
+
+***
+

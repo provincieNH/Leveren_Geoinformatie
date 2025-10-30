@@ -6,15 +6,15 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| 1 x per 10 jaar | 2 x per 10 jaar | Eenmaal om een periode van honderdtwintig kalendermaanden. |
-| 1 x per 2 jaar | 2 x per 2 jaar | Eenmaal om een periode van vierentwintig kalendermaanden. |
-| 1 x per 3 jaar | 2 x per 3 jaar | Eenmaal om een periode van zesendertig kalendermaanden. |
-| 1 x per 4 jaar | 2 x per 4 jaar | Eenmaal om een periode van achtenveertig kalendermaanden. |
-| 1 x per 5 jaar | 2 x per 5 jaar | Eenmaal om een periode van zestig kalendermaanden. |
-| 1 x per 6 jaar | 2 x per 6 jaar | Eenmaal om een periode van tweeënzeventig kalendermaanden. |
-| 1 x per 7 jaar | 2 x per 7 jaar | Eenmaal om een periode van vierentachtig kalendermaanden. |
-| 1 x per 8 jaar | 2 x per 8 jaar | Eenmaal om een periode van zesennegentig kalendermaanden. |
-| 1 x per 9 jaar | 2 x per 9 jaar | Eenmaal om een periode van honderdacht kalendermaanden. |
+| 1 x per 10 jaar | 1 x per 10 jaar | Eenmaal om een periode van honderdtwintig kalendermaanden. |
+| 1 x per 2 jaar | 1 x per 2 jaar | Eenmaal om een periode van vierentwintig kalendermaanden. |
+| 1 x per 3 jaar | 1 x per 3 jaar | Eenmaal om een periode van zesendertig kalendermaanden. |
+| 1 x per 4 jaar | 1 x per 4 jaar | Eenmaal om een periode van achtenveertig kalendermaanden. |
+| 1 x per 5 jaar | 1 x per 5 jaar | Eenmaal om een periode van zestig kalendermaanden. |
+| 1 x per 6 jaar | 1 x per 6 jaar | Eenmaal om een periode van tweeënzeventig kalendermaanden. |
+| 1 x per 7 jaar | 1 x per 7 jaar | Eenmaal om een periode van vierentachtig kalendermaanden. |
+| 1 x per 8 jaar | 1 x per 8 jaar | Eenmaal om een periode van zesennegentig kalendermaanden. |
+| 1 x per 9 jaar | 1 x per 9 jaar | Eenmaal om een periode van honderdacht kalendermaanden. |
 | 1 x per jaar | 1 x per jaar | Eenmaal om een periode van twaalf kalendermaanden. |
 | 12 x per jaar | 12 x per jaar | Twaalfmaal in een periode van twaalf kalendermaanden, oftewel eenmaal in een periode van een kalendermaand. |
 | 2 x per jaar | 2 x per jaar | Tweemaal in een periode van twaalf kalendermaanden. |

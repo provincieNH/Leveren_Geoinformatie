@@ -15,5 +15,5 @@
 | Gebiedsontsluitingsweg: 70 km/h | Gebiedsontsluitingsweg: 70 km/h | Altijd bibeko (binnen de bebouwde kom). |
 | Gebiedsontsluitingsweg: type I | Gebiedsontsluitingsweg: type I | Altijd bubeko (buiten de bebouwde kom). |
 | Gebiedsontsluitingsweg: type II | Gebiedsontsluitingsweg: type II | Altijd bubeko (buiten de bebouwde kom). |
-| Regionale stroomweg: type I - 1x2 | Regionale stroomweg: type I - 1x3 | Altijd bubeko (buiten de bebouwde kom). |
-| Regionale stroomweg: type I - 2x1 | Regionale stroomweg: type I - 2x2 | Altijd bubeko (buiten de bebouwde kom). |
+| Regionale stroomweg: type I - 1x2 | Regionale stroomweg: type I - 1x2 | Altijd bubeko (buiten de bebouwde kom). |
+| Regionale stroomweg: type I - 2x1 | Regionale stroomweg: type I - 2x1 | Altijd bubeko (buiten de bebouwde kom). |

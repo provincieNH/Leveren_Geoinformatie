@@ -6,4 +6,4 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| 360 graden camera | 361 graden camera | Een 360 graden camera legt de hele omgeving in één keer vast. |
+| 360 graden camera | 360 graden camera | Een 360 graden camera legt de hele omgeving in één keer vast. |

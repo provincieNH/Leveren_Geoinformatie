@@ -17,6 +17,7 @@
 | Bussluis | Bussluis | Een hindernis, meestal een vierkant gat of een blokvormige verhoging van de rijbaan, bedoeld om het gebruik van busbanen uitsluitend voor bussen mogelijk te maken. |
 | Busstrook | Busstrook | Rijstrook aangeduid door de tekst BUS of LIJNBUS op het verhardingsoppervlak en bestemd voor autobussen, ten behoeve van het openbaar vervoer en andere erop toegelaten motorvoertuigen. |
 | Calamiteitendoorsteek | Calamiteitendoorsteek | Doorsteek voor motorvoertuigen van hulpdiensten tussen twee rijbanen van de auto(snel)weg of tussen de auto(snel)weg en het onderliggende wegennet, uitsluitend te gebruiken om calamiteiten en incidenten tijdig te bereiken en af te voeren. |
+| Deksloof | Deksloof | Gebruiksfunctie van een wegdeel |
 | Doorgang onder pand | Doorgang onder pand | Het object wordt gebruikt als kunstmatig aangelegde passage onder een pand in de openbare ruimte. |
 | Doorsteek op rotonde | Doorsteek op rotonde | Het object wordt gebruikt als verharde doorgang in het verlengde van een rijrichting dwars over en rotonde. |
 | Doorsteek | Doorsteek | Doorsteek tussen twee rijbanen van een auto(snel)weg of tussen de auto(snel)weg en het onderliggende wegennet om het verkeer gedurende een langere periode langs een wegvak te leiden waar werkzaamheden worden uitgevoerd in het kader van beheer en onderhoud. |
@@ -48,6 +49,7 @@
 | OV-baan | OV-baan | Wegdeel dat uitsluitend is bestemd en gemarkeerd voor openbaar vervoer en afgescheiden is van de andere wegdelen niet uitsluitend door markering. |
 | Oever | Oever | De oppervlakte tussen het wateroppervlak en de insteek, begroeid. Indien er geen water aanwezig is in de watergang wordt de gehele oppervlakte tot de insteek van de watergang als oever beschouwd (inclusief de bodem van de watergang). |
 | Onbegroeid terreindeel | Onbegroeid terreindeel | Kleinste functioneel onafhankelijk stukje van een terrein, dat er binnen het objecttype Terrein van NEN 3610 wordt onderscheiden, zonder aaneengesloten vegetatie. (Bron: Basisregistratie Grootschalige Topografie) |
+| Onbekend | Onbekend | Onbekend |
 | Onverplicht fietspad | Onverplicht fietspad | Fietspad, aangeduid door bord G13 (RVV 1990), en toegestaan voor fietsers en voor snor- en bromfietsers met uitgeschakelde motor. |
 | Oversteekplaats | Oversteekplaats | Het object wordt gebruikt als locatie waar weggebruikers een kruisende (auto)weg over kunnen steken. |
 | Overweg | Overweg | Een gebruiksfunctie van een verhard object, een gelijkvloerse kruising van een weg met een spoorweg. |

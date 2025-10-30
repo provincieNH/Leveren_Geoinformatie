@@ -6,7 +6,7 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| DRD | Derden | x |
+| DRD | Derden | Derden; bedrijfachtig en geen particulier |
 | GEM | Gemeente | De bestuurslaag onder de Nederlandse provincie bestaande uit een verzameling woonkernen met het bijbehorende gebied. |
 | MRD | Meerdere | x |
 | NVT | Niet van toepassing | Waarde waarmee aangegeven kan worden dat een attribuut niet van toepassing is op een object. |

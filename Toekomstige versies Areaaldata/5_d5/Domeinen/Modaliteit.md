@@ -14,7 +14,7 @@
 | Gehandicaptenvoertuig | Gehandicaptenvoertuig | Verkeerstoestemming |
 | Hulpverleningsvoertuig | Hulpverleningsvoertuig | Verkeerstoestemming |
 | Landbouw- of bosbouwtrekker | Landbouw- of bosbouwtrekker | Verkeerstoestemming |
-| Langere en Zwardere vrachtwachtautocombinatie | Langere en Zwardere vrachtwachtautocombinatie | Verkeerstoestemming |
+| Langere en Zwaardere Vrachtautocombinatie (LZV) | Langere en Zwaardere Vrachtautocombinatie (LZV) | Verkeerstoestemming |
 | Licht motorvoertuig | Licht motorvoertuig | Verkeerstoestemming |
 | Licht wegverkeer | Licht wegverkeer | Verkeerstoestemming |
 | Middelzwaar motorvoertuig | Middelzwaar motorvoertuig | Verkeerstoestemming |
@@ -24,4 +24,4 @@
 | Voetganger | Voetganger | Verkeerstoestemming |
 | Vrachtauto | Vrachtauto | Verkeerstoestemming |
 | Zwaar motorvoertuig | Zwaar motorvoertuig | Verkeerstoestemming |
-| Zwaar ververkeer | Zwaar ververkeer | Verkeerstoestemming |
+| Zwaar wegverkeer | Zwaar wegverkeer | Verkeerstoestemming |

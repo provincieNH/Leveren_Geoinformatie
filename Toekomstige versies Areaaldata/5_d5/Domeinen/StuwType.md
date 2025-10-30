@@ -22,4 +22,5 @@
 | Schotbalkstuw | Schotbalkstuw | Een stuw waarvan het schut, een kunstwerkdeel dat het waterniveau aan een zijde van de stuw, wordt bepaald door schotbalken. |
 | Schuifstuw | Schuifstuw | Een stuw met een beweegbare schuif, die dient om de waterstand boven- en benedenstrooms van de constructie of een debiet te regelen. (Bron: Aquo) |
 | Segmentstuw | Segmentstuw | Een stuw die twee of meer kleppen of openingen heeft die afzonderlijk bediend of gesloten kunnen worden. |
+| Stuw | Stuw | stuw, algemeen |
 | Trommelstuw | Trommelstuw | Een stuw bestaande uit een klep, een tegenklep en een nis, waarbij de klep het water tegenhoudt, maar de nis vult en de tegenklep activeert. |

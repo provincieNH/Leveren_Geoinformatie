@@ -6,7 +6,7 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Gemiddele constructie | Gemiddele constructie | Gradatie van type wegdeel constructie |
-| Lichte contstructie | Lichte contstructie | Gradatie van type wegdeel constructie |
+| Gemiddelde constructie | Gemiddelde constructie | Gradatie van type wegdeel constructie |
+| Lichte constructie | Lichte constructie | Gradatie van type wegdeel constructie |
 | Onbekend | Onbekend | Gradatie van type wegdeel constructie |
 | Zware constructie | Zware constructie | Gradatie van type wegdeel constructie |

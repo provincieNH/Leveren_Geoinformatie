@@ -34,11 +34,11 @@
 | N03-5 | N03-5 | Straatnaambord met 1 tekstregel, ondertekst en pijl links en huisnummerbereik. |
 | N03-6 | N03-6 | Straatnaambord met 1 tekstregel, ondertekst en pijl rechts en huisnummerbereik. |
 | N03-7 | N03-7 | Straatnaambord met 1 tekstregel, ondertekst en pijl links en rechts en huisnummerbereik op 2 regels. |
-| N04-1 | N04-2 | Straatnaambord met 2 tekstregels en ondertekst. |
+| N04-1 | N04-1 | Straatnaambord met 2 tekstregels en ondertekst. |
 | N04-1-(99) | N04-1-(99) | Straatnaambord met 2 tekstregels, ondertekst en met gebiedsnummer in wit vlak boven de straatnaam. |
-| N04-7 | N04-8 | Straatnaambord met 2 tekstregels, ondertekst, pijl links en rechts en huisnummerbereik op 2 regels. |
+| N04-7 | N04-7 | Straatnaambord met 2 tekstregels, ondertekst, pijl links en rechts en huisnummerbereik op 2 regels. |
 | N04l-2 | N04l-2 | Straatnaambord met 2 tekstregels, ondertekst en pijl links. |
 | N04l-5 | N04l-5 | Straatnaambord met 2 tekstregels, ondertekst en pijl links en huisnummerbereik. |
-| N04lr-4 | N04lr-5 | Straatnaambord met 2 tekstregels, ondertekst en pijl links en rechts. |
+| N04lr-4 | N04lr-4 | Straatnaambord met 2 tekstregels, ondertekst en pijl links en rechts. |
 | N04r-3 | N04r-3 | Straatnaambord met 2 tekstregels, ondertekst en pijl rechts. |
 | N04r-6 | N04r-6 | Straatnaambord met 2 tekstregels, ondertekst en pijl rechts en huisnummerbereik. |

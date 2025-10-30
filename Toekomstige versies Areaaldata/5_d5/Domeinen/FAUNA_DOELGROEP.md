@@ -6,22 +6,22 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Amfibieën en reptielen | Amfibieën en reptielen | x |
-| Amfibieën | Amfibieën | x |
-| Bunzing, egel | Bunzing, egel | x |
-| Bunzing, egel, noordse woelmuis | Bunzing, egel, noordse woelmuis | x |
-| Bunzing, egel, noordse woelmuis, pad | Bunzing, egel, noordse woelmuis, pad | x |
-| Bunzing, egel, pad | Bunzing, egel, pad | x |
-| Bunzing, egel, ringslang | Bunzing, egel, ringslang | x |
-| Dassen | Dassen | x |
-| Grote zoogdieren | Grote zoogdieren | x |
-| Klein wild | Klein wild | x |
-| Onbekend | Onbekend | x |
-| Otters | Otters | x |
-| Overig (vul opmerking) | Overig (vul opmerking) | x |
-| Pad en das | Pad en das | x |
-| Pad | Pad | x |
-| Vee | Vee | x |
-| Vleermuizen | Vleermuizen | x |
-| Watervogels | Watervogels | x |
-| Zoogdieren algemeen | Zoogdieren algemeen | x |
+| Amfibieën en reptielen | Amfibieën en reptielen | Aanduiden type fauna |
+| Amfibieën | Amfibieën | Aanduiden type fauna |
+| Bunzing, egel | Bunzing, egel | Aanduiden type fauna |
+| Bunzing, egel, noordse woelmuis | Bunzing, egel, noordse woelmuis | Aanduiden type fauna |
+| Bunzing, egel, noordse woelmuis, pad | Bunzing, egel, noordse woelmuis, pad | Aanduiden type fauna |
+| Bunzing, egel, pad | Bunzing, egel, pad | Aanduiden type fauna |
+| Bunzing, egel, ringslang | Bunzing, egel, ringslang | Aanduiden type fauna |
+| Dassen | Dassen | Aanduiden type fauna |
+| Grote zoogdieren | Grote zoogdieren | Aanduiden type fauna |
+| Klein wild | Klein wild | Aanduiden type fauna |
+| Onbekend | Onbekend | Aanduiden type fauna |
+| Otters | Otters | Aanduiden type fauna |
+| Overig (vul opmerking) | Overig (vul opmerking) | Aanduiden type fauna |
+| Pad en das | Pad en das | Aanduiden type fauna |
+| Pad | Pad | Aanduiden type fauna |
+| Vee | Vee | Aanduiden type fauna |
+| Vleermuizen | Vleermuizen | Aanduiden type fauna |
+| Watervogels | Watervogels | Aanduiden type fauna |
+| Zoogdieren algemeen | Zoogdieren algemeen | Aanduiden type fauna |

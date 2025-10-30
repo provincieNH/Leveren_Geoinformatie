@@ -6,4 +6,5 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
+| Veerpont | Veerpont | Aanleginrichting specifiek voor de veerpont. |
 | Waterbushalte | Waterbushalte | Aanleginrichting specifiek voor de waterbus. |

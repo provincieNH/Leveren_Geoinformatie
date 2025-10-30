@@ -59,7 +59,7 @@
 | SD08 | SD08 | Dierentuin. |
 | SD09 | SD09 | Distributiecentrum. |
 | SD10 | SD10 | Douche. |
-| SE01 | SE02 | EHBO. |
+| SE01 | SE01 | EHBO. |
 | SF01 | SF01 | Fiets. |
 | SF02 | SF02 | Fietsenstalling. |
 | SF03 | SF03 | Fietskarverhuur. |
@@ -261,4 +261,4 @@
 | SZ05A | SZ05A | Zwembad. |
 | SZ05B | SZ05B | Zwemmen/duiken. |
 | SZ05C | SZ05C | Zwembad. |
-| SZ06 | SZ07 | Zandbak. |
+| SZ06 | SZ06 | Zandbak. |

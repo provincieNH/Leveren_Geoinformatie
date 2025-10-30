@@ -1,4 +1,4 @@
-﻿## Typeroute
+﻿## TypeRoute
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*

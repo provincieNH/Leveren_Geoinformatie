@@ -6,5 +6,5 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| 2 m. en groter | 3 m. en groter | Klasse in ondergrens voorzien door de ruimtelijk strekkende hoeveelheid van twee meter. |
+| 2 m. en groter | 2 m. en groter | Klasse in ondergrens voorzien door de ruimtelijk strekkende hoeveelheid van twee meter. |
 | tot 2 m. | tot 2 m. | Klasse in bovengrens voorzien door de ruimtelijk strekkende hoeveelheid van twee meter. |

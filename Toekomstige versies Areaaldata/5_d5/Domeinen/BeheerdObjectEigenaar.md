@@ -7,12 +7,11 @@
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
 | ANWB | ANWB | Eigenaar van beheerobject |
-| De Aangedijktelanden | De Aangedijktelanden | Eigenaar van beheerobject |
+| Derden | Derden | Derden; bedrijfachtig en geen particulier |
 | Gemeente | Gemeente | Eigenaar van beheerobject |
-| NS | NS | Eigenaar van beheerobject |
+| Natuurorganisatie | Natuurorganisatie | Een organisatie die de instaat voor het beschermen van bepaalde elementen van de natuur, in het bijzonder cultuur-historisch belangrijke of oorspronkelijke landschappen, bedreigde levensgemeenschappen, dier- en plantensoorten, biodiversiteit en natuurlijke hulpbronnen. |
 | Onbekend | Onbekend | Eigenaar van beheerobject |
 | PNH | PNH | Eigenaar van beheerobject |
-| PNH/ProRail | PNH/ProRail | Eigenaar van beheerobject |
 | Particulier | Particulier | Eigenaar van beheerobject |
 | ProRail | ProRail | Eigenaar van beheerobject |
 | Provincie | Provincie | Eigenaar van beheerobject |

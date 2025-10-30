@@ -6,6 +6,6 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| BF1 | 1 meter strook | x |
-| BF2 | Obstakel vrije zone | x |
-| BF3 | Overige bermen | x |
+| 1 meter strook | 1 meter strook | 1 meter strook |
+| Obstakel vrije zone | Obstakel vrije zone | Obstakel vrije zone |
+| Overige bermen | Overige bermen | Overige bermen |

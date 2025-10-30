@@ -8,6 +8,7 @@
 |	---	|	---	|   ---	| 
 | Aalsmeer | Aalsmeer | Detail eigenaar van beheerobject |
 | Alkmaar | Alkmaar | Detail eigenaar van beheerobject |
+| Amstel-, Gooi- en Vechtstreek | Amstel-, Gooi- en Vechtstreek | Detail beheerder van beheerobject |
 | Amstelveen | Amstelveen | Detail eigenaar van beheerobject |
 | Amsterdam | Amsterdam | Detail eigenaar van beheerobject |
 | Bergen | Bergen | Detail eigenaar van beheerobject |
@@ -22,7 +23,6 @@
 | Edam-Volendam | Edam-Volendam | Detail eigenaar van beheerobject |
 | Enkhuizen | Enkhuizen | Detail eigenaar van beheerobject |
 | Gooise Meren | Gooise Meren | Detail eigenaar van beheerobject |
-| HHNK | HHNK | Detail eigenaar van beheerobject |
 | Haarlem | Haarlem | Detail eigenaar van beheerobject |
 | Haarlemmermeer | Haarlemmermeer | Detail eigenaar van beheerobject |
 | Havenschap | Havenschap | Publiekrechtelijk lichaam belast met het besturen van een havencomplex. |
@@ -31,6 +31,8 @@
 | Heiloo | Heiloo | Detail eigenaar van beheerobject |
 | Hilversum | Hilversum | Detail eigenaar van beheerobject |
 | Hollandskroon | Hollandskroon | Detail eigenaar van beheerobject |
+| Hoogheemraadschap Hollands Noorderkwartier | Hoogheemraadschap Hollands Noorderkwartier | Detail beheerder van beheerobject |
+| Hoogheemraadschap Rijnland | Hoogheemraadschap Rijnland | Detail beheerder van beheerobject |
 | Hoorn | Hoorn | Detail eigenaar van beheerobject |
 | Huizen | Huizen | Detail eigenaar van beheerobject |
 | Koggenland | Koggenland | Detail eigenaar van beheerobject |
@@ -53,6 +55,7 @@
 | Rijksvastgoedbedrijf | Rijksvastgoedbedrijf | Een vastgoedorganisatie van de Nederlandse Rijksoverheid die verantwoordelijk is voor het beheer van vastgoedobjecten in gebruik door de Nederlandse staat. |
 | Rijkswaterstaat | Rijkswaterstaat | Het uitvoerende agentschap van het Ministerie van Infrastructuur en Waterstaat. |
 | Schagen | Schagen | Detail eigenaar van beheerobject |
+| Staatsbosbeheer | Staatsbosbeheer | Staatsbosbeheer |
 | Stichting | Stichting | Een rechtspersoon zonder leden die het doel nastreeft waartoe het door de stichter is opgericht. |
 | Strede Broec | Strede Broec | Detail eigenaar van beheerobject |
 | Texel | Texel | Detail eigenaar van beheerobject |
@@ -60,7 +63,6 @@
 | Uithoorn | Uithoorn | Detail eigenaar van beheerobject |
 | Velsen | Velsen | Detail eigenaar van beheerobject |
 | Waterland | Waterland | Detail eigenaar van beheerobject |
-| Waternet | Waternet | Detail eigenaar van beheerobject |
 | Wijdemeren | Wijdemeren | Detail eigenaar van beheerobject |
 | Woningcorporatie | Woningcorporatie | Een organisatie die zich richt op het bouwen, beheren en verhuren van kwalitatief goede woonruimte met een betaalbare huur voor mensen met een smalle beurs. |
 | Wormerland | Wormerland | Detail eigenaar van beheerobject |

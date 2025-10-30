@@ -6,7 +6,11 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| Noord | Noord | x |
-| Oost | Oost | x |
-| West | West | x |
-| Zuid | Zuid | x |
+| Noord | Noord | Windrichting |
+| Noordoost | Noordoost | Windrichting |
+| Noordwest | Noordwest | Windrichting |
+| Oost | Oost | Windrichting |
+| West | West | Windrichting |
+| Zuid | Zuid | Windrichting |
+| Zuidoost | Zuidoost | Windrichting |
+| Zuidwest | Zuidwest | Windrichting |

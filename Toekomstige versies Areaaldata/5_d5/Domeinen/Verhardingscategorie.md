@@ -12,4 +12,5 @@
 | Erf | Erf | Gradatie van verhardingscategorieen. Dit is de eerste afsplitsting naar verhardingstype |
 | Halfverhard | Halfverhard | Gradatie van verhardingscategorieen. Dit is de eerste afsplitsting naar verhardingstype |
 | Kunststof | Kunststof | Gradatie van verhardingscategorieen. Dit is de eerste afsplitsting naar verhardingstype |
+| Onbekend | Onbekend | Onbekend |
 | Onverhard | Onverhard | Gradatie van verhardingscategorieen. Dit is de eerste afsplitsting naar verhardingstype |

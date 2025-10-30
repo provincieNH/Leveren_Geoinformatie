@@ -6,16 +6,16 @@
 
 |__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-| 1 | 1 | x |
-| 10 | 10 | x |
-| 11 | 11 | x |
-| 12 | 12 | x |
-| 13 | 13 | x |
-| 2 | 2 | x |
-| 3 | 3 | x |
-| 4 | 4 | x |
-| 5 | 5 | x |
-| 6 | 6 | x |
-| 7 | 7 | x |
-| 8 | 8 | x |
-| 9 | 9 | x |
+| 1 | 1 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 10 | 10 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 11 | 11 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 12 | 12 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 13 | 13 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 2 | 2 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 3 | 3 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 4 | 4 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 5 | 5 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 6 | 6 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 7 | 7 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 8 | 8 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+| 9 | 9 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |

@@ -21,9 +21,9 @@
 | A.20 | A.20 | Verboden voor waterscooters. |
 | A.3 | A.3 | Voorbijlopen verboden voor samenstellen onderling. |
 | A.4 | A.4 | Ontmoeten en voorbijlopen verboden. |
-| A.4.1 | A.4.2 | Ontmoeten en voorbijlopen verboden voor samenstellingen onderling. |
+| A.4.1 | A.4.1 | Ontmoeten en voorbijlopen verboden voor samenstellingen onderling. |
 | A.5 | A.5 | Verboden ligplaats te nemen (ankeren èn afmeren). |
-| A.5.1 | A.5.2 | Verboden ligplaats te nemen (ankeren èn meren) binnen de in meters aangegeven breedte te rekenen vanaf het bord. |
+| A.5.1 | A.5.1 | Verboden ligplaats te nemen (ankeren èn meren) binnen de in meters aangegeven breedte te rekenen vanaf het bord. |
 | A.6 | A.6 | Verboden te ankeren en ankers, kabels en kettingen te laten slepen. |
 | A.7 | A.7 | Verboden af te meren. |
 | A.8 | A.8 | Verboden te keren. |
@@ -57,7 +57,7 @@
 | E.1 | E.1 | In , uit of doorvaren toegestaan. |
 | E.10 | E.10 | Aanduiding neven- en hoofdvaarwater(s). Het gevolgde vaarwater, de dunne lijn, geldt als nevenvaarwater ten opzichte van het vaarwater waarin het uitmondt, aangegeven met een dikke lijn. De scheepvaart op het hoofdvaarwater heeft voorrang op de op de vaart komende schepen. |
 | E.11 | E.11 | Einde van een verbod of een gebod geldend voor één richting of einde van een beperking. |
-| E.11.1 | E.11.2 | Einde van een verbod of een gebod geldend voor één richting of einde van een beperking. |
+| E.11.1 | E.11.1 | Einde van een verbod of een gebod geldend voor één richting of einde van een beperking. |
 | E.13 | E.13 | Drinkwater voor schepen. Ter plaatse van het bord bevindt zich een drinkwaterpunt voor de scheepvaart. |
 | E.14 | E.14 | Met teken E.14 is de aanwezigheid van een publieke telefooncel aangeduid. Met de komst van de mobiele telefonie is het aantal publieke telefooncellen sterk afgenomen. |
 | E.15 | E.15 | Motorschepen toegestaan. |
@@ -94,10 +94,10 @@
 | E.5.9 | E.5.9 | Scheepvaartbord Ligplaatsen voor schepen met één kegel, geen duwvaart zijnde. |
 | E.6 | E.6 | Toestemming te ankeren geldt aan de zijde van de vaarweg waar het bord is geplaatst voor alle categorieën schepen. Spudpalen zijn gelijk gesteld met ankeren. |
 | E.7 | E.7 | Toestemming af te meren. |
-| E.7.1 | E.7.2 | Toestemming te meren voor het van of op aan boord zetten van een auto. |
+| E.7.1 | E.7.1 | Toestemming te meren voor het van of op aan boord zetten van een auto. |
 | E.8 | E.8 | scheepslengte aangeven, waarmee ter plaatse keren mogelijk is. |
 | E.9 | E.9 | Aanduiding hoofd- en nevenvaarwater(s). Het gevolgde vaarwater, de dikke lijn, geldt als hoofdvaarwater ten opzichte van het vaarwater dat daarin uitmondt, aangegeven met een dunne lijn. De scheepvaart op het hoofdvaarwater heeft voorrang op de op de vaart komende schepen. |
-| F.1 | F.2 | Afstandsaanduiding. |
+| F.1 | F.1 | Afstandsaanduiding. |
 | F.2a links | F.2a links | Richting aanduiding met zijborden - links. |
 | F.2a rechts | F.2a rechts | Richting aanduiding met zijborden - rechts. |
 | F.3 - 2 regels | F.3 - 2 regels | 2 regelige aanvullende aanduiding. |
@@ -112,7 +112,7 @@
 | G.5.1 - zwart - rechts - liggend | G.5.1 - zwart - rechts - liggend | Hoogteschaal, hoogteaanduiding rechts van de vaarweg. Zwart bord met gele opdruk. Bordpositie is liggend. |
 | G.5.1 - zwart - rechts - staand | G.5.1 - zwart - rechts - staand | Hoogteschaal, hoogteaanduiding rechts van de vaarweg. Zwart bord met gele opdruk. Bordpositie is staand. |
 | G.5.1c | G.5.1c | Aanduiding onderhoogte. |
-| G.5.2 | G.5.3 | Aanduiding doorvaarthoogte. |
+| G.5.2 | G.5.2 | Aanduiding doorvaarthoogte. |
 | H.1a | H.1a | Kilometeraanduiding 2 karakters. |
 | H.1b | H.1b | Hectometeraanduiding. |
 | H.2.1b | H.2.1b | Beslissingsaanduiding voor vaarweg of plaats. |
