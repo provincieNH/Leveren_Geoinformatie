@@ -16,4 +16,7 @@ Plannen zijn er voor de volgende releases (grove inschattingen):
 
 * __5:d6__: Major release: Implementatie IMBOR & invulling informatiebehoefte rondom programma assetmanagement: ***2026***
 
+* [Areaaldata 5d4 ontwikkelversie](dev)<br/>
+
+
 [comment]: <> ({:height="945px" width="810px"})
