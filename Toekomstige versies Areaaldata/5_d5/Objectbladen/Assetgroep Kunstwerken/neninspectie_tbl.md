@@ -1,10 +1,10 @@
-﻿## AREAALDATA.adres_tbl
+﻿## AREAALDATA.neninspectie_tbl
 
-* [__Areaaldata model versie:__ 5](https://provincienh.github.io/Leveren_Geoinformatie/dev/)
-* __Herkomst Definitie:__ IMBOR/NEN3610
+* __Areaaldata model versie:__ 5
+* __Herkomst Definitie:__ NEN 2767-4
 * __Positionele nauwkeurigheid:__ n.v.t
 * __Geometrie:__ n.v.t
-* __Definitie:__ Een object met adresgegevens, om naar te verwijzen vanuit kunstwerken, vri_; en ovl_kasten
+* __Definitie:__ Condititescore conform NEN 2767-4
 * __MappingBGT:__ n.v.t
 * __Heeft Z-waarden:__ ENABLED
 * __Heeft M-waarden:__ DISABLED
@@ -22,16 +22,16 @@
 |last_edited_date                          |last_edited_date                            |DATE(15,0)                             |PNH; Areaaldata; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Datum van de laatste mutatie, gegenereerd door ArcGIS.
 |objectbegintijd                           |objectbegintijd                             |DATE(9,0)                              |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NON_NULLABLE; Datum waarop het object bij de bronhouder is ontstaan.
 |objecteindtijd                            |objecteindtijd                              |DATE(9,0)                              |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Datum waarop het object bij de bronhouder niet meer geldig is.
-|verwerkingsstatus                         |verwerkingsstatus                           |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie; keuzelijst [Verwerkingsstatus](../domeinen/Verwerkingsstatus.html); ; Default: None; NON_NULLABLE; Status van de gegevens.
+|verwerkingsstatus                         |verwerkingsstatus                           |TEXT(255,0)                            |PNH; Areaaldata; Enumeratie; keuzelijst [Verwerkingsstatus]; ; Default: None; NON_NULLABLE; Status van de gegevens.
 |dataleverancier                           |dataleverancier                             |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Leverancier van de data.
 |opmerking                                 |opmerking                                   |TEXT(3000,0)                           |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Algemene opmerking voor het object, zoals een omschrijving of toelichting.
-|gisib_id                                  |gisib id                                    |LONG(10,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Uniek Identificatienummer beheer openbare ruimte (GISIB), wordt aangemaakt in GISIB en mag niet worden ingevuld door de aannemer.
-|huisnummer                                |huisnummer                                  |LONG(10,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Huisnummer
-|locatieomschrijving                       |locatieomschrijving                         |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Beschrijving van de locatie indien geen specifiek adres
-|plaats                                    |plaats                                      |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Plaatsnaam
-|postcode                                  |postcode                                    |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; NL postcode
-|straat                                    |straat                                      |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Straatnaam
-|toevoeging                                |toevoeging                                  |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Toevoeging; i.a. Rood of Zwaart of A, B, C….
+|bouwdeel_kunstwerk                        |bouwdeel kunstwerk                          |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Indicatieve foreign key van een object op bouwdeel niveau
+|conditiescore                             |conditiescore                               |LONG(10,0)                             |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Conditiescore conform NEN 2767-4
+|conditiescore_datum                       |conditiescore datum                         |DATE(9,0)                              |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Datum opname Conditiescore.
+|conditiescore_opmerking                   |conditiescore opmerking                     |TEXT(3000,0)                           |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Opmerking bij conditiescore conform NEN 2767-4
+|element_kunstwerk                         |element kunstwerk                           |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Indicatieve foreign key van een object op element niveau
+|gisib_id                                  |gisib id                                    |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Wordt aangemaakt in GISIB
+|kunstwerk                                 |kunstwerk                                   |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Indicatieve foreign key van een object op kunstwerk niveau
 
 ***
 
