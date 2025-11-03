@@ -1,125 +1,119 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## Hoofdroute deelcode
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ PNH*
 *__Type veld:__ TEXT*
 
-<table class="sortable">
-<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
-</table>
+|__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-<table class="sortable">
-<tr><th>HOV1</th><th>HOV1</th><th>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</th></tr>
-<tr><td>HOV2</td><td>HOV2</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>HOV3</td><td>HOV3</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>HOV5</td><td>HOV5</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K01/K02/K03/K18</td><td>K01/K02/K03/K18</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K04/K05/K06_1</td><td>K04/K05/K06_1</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K04/K05/K06_2</td><td>K04/K05/K06_2</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K04/K05/K06_3</td><td>K04/K05/K06_3</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K07/K08</td><td>K07/K08</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K09</td><td>K09</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K11</td><td>K11</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K16</td><td>K16</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K17</td><td>K17</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K19n</td><td>K19n</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K19w</td><td>K19w</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K19z/K19o</td><td>K19z/K19o</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K20/K10/K09</td><td>K20/K10/K09</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K20m/K20z</td><td>K20m/K20z</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K20n_1</td><td>K20n_1</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>K20n_2</td><td>K20n_2</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N194a</td><td>N194a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N196a</td><td>N196a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N196b</td><td>N196b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N197a</td><td>N197a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N200a</td><td>N200a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N201a</td><td>N201a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N201b</td><td>N201b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N201c</td><td>N201c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N202a</td><td>N202a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N203a</td><td>N203a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N203b</td><td>N203b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N203c</td><td>N203c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N205a</td><td>N205a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N205b</td><td>N205b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N205c</td><td>N205c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N206a</td><td>N206a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N206b</td><td>N206b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N207a</td><td>N207a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N207b</td><td>N207b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N208a</td><td>N208a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N208b</td><td>N208b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N231a</td><td>N231a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N231b</td><td>N231b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N232a</td><td>N232a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N232b</td><td>N232b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N232c</td><td>N232c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N232d</td><td>N232d</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N235a</td><td>N235a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N236a</td><td>N236a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N239a</td><td>N239a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N239b</td><td>N239b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N240a</td><td>N240a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N240b</td><td>N240b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N240c</td><td>N240c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N241a</td><td>N241a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N241b</td><td>N241b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N242a</td><td>N242a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N242b_1</td><td>N242b_1</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N242b_2</td><td>N242b_2</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N243a</td><td>N243a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N244a</td><td>N244a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N244b</td><td>N244b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N244c</td><td>N244c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N245a</td><td>N245a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N245b</td><td>N245b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N246a</td><td>N246a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N247a</td><td>N247a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N247b</td><td>N247b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N248a</td><td>N248a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N248b</td><td>N248b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N249a</td><td>N249a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N250a</td><td>N250a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N307</td><td>N307</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N307a</td><td>N307a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N307b</td><td>N307b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N307c</td><td>N307c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N403a</td><td>N403a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N415a</td><td>N415a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N417a</td><td>N417a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N501a</td><td>N501a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N502a</td><td>N502a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N502b</td><td>N502b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N502c</td><td>N502c</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N504a</td><td>N504a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N505a</td><td>N505a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N506a</td><td>N506a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N508a</td><td>N508a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N508b</td><td>N508b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N509a</td><td>N509a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N510a</td><td>N510a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N510b</td><td>N510b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N511a</td><td>N511a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N512a</td><td>N512a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N513a</td><td>N513a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N514a</td><td>N514a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N515a</td><td>N515a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N515b</td><td>N515b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N516a</td><td>N516a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N517a</td><td>N517a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N518a</td><td>N518a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N519a</td><td>N519a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N520a</td><td>N520a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N520b</td><td>N520b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N521a</td><td>N521a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N522a</td><td>N522a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N523a</td><td>N523a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N523b</td><td>N523b</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N525a</td><td>N525a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N526a</td><td>N526a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>N527a</td><td>N527a</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-<tr><td>NP7</td><td>NP7</td><td>Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel)</td></tr>
-</table>
+| HOV1 | HOV1 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| HOV2 | HOV2 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| HOV3 | HOV3 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| HOV5 | HOV5 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K01/K02/K03/K18 | K01/K02/K03/K18 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K04/K05/K06_1 | K04/K05/K06_1 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K04/K05/K06_2 | K04/K05/K06_2 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K04/K05/K06_3 | K04/K05/K06_3 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K07/K08 | K07/K08 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K09 | K09 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K11 | K11 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K16 | K16 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K17 | K17 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K19n | K19n | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K19w | K19w | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K19z/K19o | K19z/K19o | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K20/K10/K09 | K20/K10/K09 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K20m/K20z | K20m/K20z | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K20n_1 | K20n_1 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| K20n_2 | K20n_2 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N194a | N194a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N196a | N196a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N196b | N196b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N197a | N197a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N200a | N200a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N201a | N201a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N201b | N201b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N201c | N201c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N202a | N202a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N203a | N203a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N203b | N203b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N203c | N203c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N205a | N205a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N205b | N205b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N205c | N205c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N206a | N206a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N206b | N206b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N207a | N207a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N207b | N207b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N208a | N208a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N208b | N208b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N231a | N231a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N231b | N231b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N232a | N232a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N232b | N232b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N232c | N232c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N232d | N232d | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N235a | N235a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N236a | N236a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N239a | N239a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N239b | N239b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N240a | N240a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N240b | N240b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N240c | N240c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N241a | N241a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N241b | N241b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N242a | N242a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N242b_1 | N242b_1 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N242b_2 | N242b_2 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N243a | N243a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N244a | N244a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N244b | N244b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N244c | N244c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N245a | N245a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N245b | N245b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N246a | N246a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N247a | N247a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N247b | N247b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N248a | N248a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N248b | N248b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N249a | N249a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N250a | N250a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N307 | N307 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N307a | N307a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N307b | N307b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N307c | N307c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N403a | N403a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N415a | N415a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N417a | N417a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N501a | N501a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N502a | N502a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N502b | N502b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N502c | N502c | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N504a | N504a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N505a | N505a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N506a | N506a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N508a | N508a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N508b | N508b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N509a | N509a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N510a | N510a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N510b | N510b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N511a | N511a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N512a | N512a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N513a | N513a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N514a | N514a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N515a | N515a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N515b | N515b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N516a | N516a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N517a | N517a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N518a | N518a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N519a | N519a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N520a | N520a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N520b | N520b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N521a | N521a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N522a | N522a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N523a | N523a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N523b | N523b | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N525a | N525a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N526a | N526a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| N527a | N527a | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |
+| NP7 | NP7 | Aanduiding van de traject met een toegevoegde letter of nummer (dit is een deel van het geheel) |

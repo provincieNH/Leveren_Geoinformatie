@@ -1,16 +1,10 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## KunststofverhardingType
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-<table class="sortable">
-<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
-</table>
+|__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-<table class="sortable">
-<tr><th>Kunstgras</th><th>Kunstgras</th><th>Type kunststofverharding</th></tr>
-<tr><td>Kunststof vloer</td><td>Kunststof vloer</td><td>Type kunststofverharding</td></tr>
-</table>
+| Kunstgras | Kunstgras | Type kunststofverharding |
+| Kunststof vloer | Kunststof vloer | Type kunststofverharding |

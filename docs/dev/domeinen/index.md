@@ -1,140 +1,136 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>## Keuzelijsten versie d1
-
-<table class="sortable">
-<tr><th>Naam</th></tr>
-<tr><td><a href='AquaductType.html'>AquaductType</a></td></tr>
-<tr><td><a href='AsfaltverhardingType.html'>AsfaltverhardingType</a></td></tr>
-<tr><td><a href='AsfaltverhardingTypeDetail.html'>AsfaltverhardingTypeDetail</a></td></tr>
-<tr><td><a href='AsfaltverhardingVoegvulling.html'>AsfaltverhardingVoegvulling</a></td></tr>
-<tr><td><a href='BEHEER_OBJECT_SUBTYPE.html'>BEHEER_OBJECT_SUBTYPE</a></td></tr>
-<tr><td><a href='BGTPlusType.html'>BGTPlusType</a></td></tr>
-<tr><td><a href='BGTclassificatie.html'>BGTclassificatie</a></td></tr>
-<tr><td><a href='BGTfunctie.html'>BGTfunctie</a></td></tr>
-<tr><td><a href='BGTfunctiePlus.html'>BGTfunctiePlus</a></td></tr>
-<tr><td><a href='BGTstatus.html'>BGTstatus</a></td></tr>
-<tr><td><a href='BandType.html'>BandType</a></td></tr>
-<tr><td><a href='Beeldkwaliteit.html'>Beeldkwaliteit</a></td></tr>
-<tr><td><a href='BeheerdObjectBeheerder.html'>BeheerdObjectBeheerder</a></td></tr>
-<tr><td><a href='BeheerdObjectBeheerderGedetailleerd.html'>BeheerdObjectBeheerderGedetailleerd</a></td></tr>
-<tr><td><a href='BeheerdObjectEigenaar.html'>BeheerdObjectEigenaar</a></td></tr>
-<tr><td><a href='BeheerdObjectEigenaarGedetailleerd.html'>BeheerdObjectEigenaarGedetailleerd</a></td></tr>
-<tr><td><a href='BeheerdObjectOnderhoudsplichtige.html'>BeheerdObjectOnderhoudsplichtige</a></td></tr>
-<tr><td><a href='BetonverhardingType.html'>BetonverhardingType</a></td></tr>
-<tr><td><a href='BetonverhardingTypeDetail.html'>BetonverhardingTypeDetail</a></td></tr>
-<tr><td><a href='BetonverhardingVoegvulling.html'>BetonverhardingVoegvulling</a></td></tr>
-<tr><td><a href='BeweegbareBrugHerbeoordeeldeBelastingklasse.html'>BeweegbareBrugHerbeoordeeldeBelastingklasse</a></td></tr>
-<tr><td><a href='BeweegbareBrugModaliteit.html'>BeweegbareBrugModaliteit</a></td></tr>
-<tr><td><a href='BeweegbareBrugOrigineleBelastingklasse.html'>BeweegbareBrugOrigineleBelastingklasse</a></td></tr>
-<tr><td><a href='BeweegbareBrugType.html'>BeweegbareBrugType</a></td></tr>
-<tr><td><a href='BeweegbareBrugTypeBediening.html'>BeweegbareBrugTypeBediening</a></td></tr>
-<tr><td><a href='BlokType.html'>BlokType</a></td></tr>
-<tr><td><a href='Bronhouder.html'>Bronhouder</a></td></tr>
-<tr><td><a href='CAD_code.html'>CAD_code</a></td></tr>
-<tr><td><a href='CROWInspectieMethode.html'>CROWInspectieMethode</a></td></tr>
-<tr><td><a href='CROWMetingType.html'>CROWMetingType</a></td></tr>
-<tr><td><a href='CROWSchadesoorten.html'>CROWSchadesoorten</a></td></tr>
-<tr><td><a href='CROWschadecode.html'>CROWschadecode</a></td></tr>
-<tr><td><a href='Cemt klasse.html'>Cemt klasse</a></td></tr>
-<tr><td><a href='ConstructieKleur.html'>ConstructieKleur</a></td></tr>
-<tr><td><a href='ConstructieTypeConservering.html'>ConstructieTypeConservering</a></td></tr>
-<tr><td><a href='DamwandType.html'>DamwandType</a></td></tr>
-<tr><td><a href='DamwandTypeWaterkerendeConstructie.html'>DamwandTypeWaterkerendeConstructie</a></td></tr>
-<tr><td><a href='DuikerModaliteit.html'>DuikerModaliteit</a></td></tr>
-<tr><td><a href='DuikerOrigineleBelastingklasse.html'>DuikerOrigineleBelastingklasse</a></td></tr>
-<tr><td><a href='DuikerType.html'>DuikerType</a></td></tr>
-<tr><td><a href='ElementenverhardingType.html'>ElementenverhardingType</a></td></tr>
-<tr><td><a href='ElementenverhardingTypeDetail.html'>ElementenverhardingTypeDetail</a></td></tr>
-<tr><td><a href='FAUNA_DOELGROEP.html'>FAUNA_DOELGROEP</a></td></tr>
-<tr><td><a href='FlyoverHerbeoordeeldeBelastingklasse.html'>FlyoverHerbeoordeeldeBelastingklasse</a></td></tr>
-<tr><td><a href='FlyoverModaliteit.html'>FlyoverModaliteit</a></td></tr>
-<tr><td><a href='FlyoverOrigineleBelastingklasse.html'>FlyoverOrigineleBelastingklasse</a></td></tr>
-<tr><td><a href='FunderingType.html'>FunderingType</a></td></tr>
-<tr><td><a href='FysiekvoorkomenVerharding.html'>FysiekvoorkomenVerharding</a></td></tr>
-<tr><td><a href='FysiekvoorkomenVerhardingPlus.html'>FysiekvoorkomenVerhardingPlus</a></td></tr>
-<tr><td><a href='GCR_NAAM.html'>GCR_NAAM</a></td></tr>
-<tr><td><a href='GebiedsindelingLigging.html'>GebiedsindelingLigging</a></td></tr>
-<tr><td><a href='GeluidsschermType.html'>GeluidsschermType</a></td></tr>
-<tr><td><a href='Gemeentenaam.html'>Gemeentenaam</a></td></tr>
-<tr><td><a href='Geo-ObjectStatus.html'>Geo-ObjectStatus</a></td></tr>
-<tr><td><a href='GrondsoortType.html'>GrondsoortType</a></td></tr>
-<tr><td><a href='HalfverhardingType.html'>HalfverhardingType</a></td></tr>
-<tr><td><a href='HalfverhardingTypeDetail.html'>HalfverhardingTypeDetail</a></td></tr>
-<tr><td><a href='Haltestatus.html'>Haltestatus</a></td></tr>
-<tr><td><a href='Haltetype.html'>Haltetype</a></td></tr>
-<tr><td><a href='Hoofdroute.html'>Hoofdroute</a></td></tr>
-<tr><td><a href='Hoofdroute deelcode.html'>Hoofdroute deelcode</a></td></tr>
-<tr><td><a href='HoortBijTypeOverbrugging.html'>HoortBijTypeOverbrugging</a></td></tr>
-<tr><td><a href='JaNeeOnbekend.html'>JaNeeOnbekend</a></td></tr>
-<tr><td><a href='KademuurTypeBovenkantKademuur.html'>KademuurTypeBovenkantKademuur</a></td></tr>
-<tr><td><a href='KademuurTypeVerankering.html'>KademuurTypeVerankering</a></td></tr>
-<tr><td><a href='KademuurTypeWaterkerendeConstructie.html'>KademuurTypeWaterkerendeConstructie</a></td></tr>
-<tr><td><a href='KruispuntType.html'>KruispuntType</a></td></tr>
-<tr><td><a href='KruispuntTypeGedetailleerd.html'>KruispuntTypeGedetailleerd</a></td></tr>
-<tr><td><a href='KunststofverhardingType.html'>KunststofverhardingType</a></td></tr>
-<tr><td><a href='KunststofverhardingTypeDetail.html'>KunststofverhardingTypeDetail</a></td></tr>
-<tr><td><a href='KunstwerkOppervlaktebehandeling.html'>KunstwerkOppervlaktebehandeling</a></td></tr>
-<tr><td><a href='KunstwerkVorm.html'>KunstwerkVorm</a></td></tr>
-<tr><td><a href='Locatieaanduiding.html'>Locatieaanduiding</a></td></tr>
-<tr><td><a href='Materiaaltype.html'>Materiaaltype</a></td></tr>
-<tr><td><a href='NENBEHEEROBJECT.html'>NENBEHEEROBJECT</a></td></tr>
-<tr><td><a href='ObjectTweedeBeheerder.html'>ObjectTweedeBeheerder</a></td></tr>
-<tr><td><a href='ObjectTweedeEigenaar.html'>ObjectTweedeEigenaar</a></td></tr>
-<tr><td><a href='ObjectZettingsgevoeligheid.html'>ObjectZettingsgevoeligheid</a></td></tr>
-<tr><td><a href='OnderdoorgangModaliteit.html'>OnderdoorgangModaliteit</a></td></tr>
-<tr><td><a href='OnderdoorgangOrigineleBelastingklasse.html'>OnderdoorgangOrigineleBelastingklasse</a></td></tr>
-<tr><td><a href='OnverhardverhardingType.html'>OnverhardverhardingType</a></td></tr>
-<tr><td><a href='OnverhardverhardingTypeDetail.html'>OnverhardverhardingTypeDetail</a></td></tr>
-<tr><td><a href='Orientatie.html'>Orientatie</a></td></tr>
-<tr><td><a href='OverbruggingsdeelType.html'>OverbruggingsdeelType</a></td></tr>
-<tr><td><a href='Plaatsorientatie.html'>Plaatsorientatie</a></td></tr>
-<tr><td><a href='RoosterBelastingklasse.html'>RoosterBelastingklasse</a></td></tr>
-<tr><td><a href='RoosterType.html'>RoosterType</a></td></tr>
-<tr><td><a href='SluisType.html'>SluisType</a></td></tr>
-<tr><td><a href='SluisTypeBediening.html'>SluisTypeBediening</a></td></tr>
-<tr><td><a href='SluisdeurType.html'>SluisdeurType</a></td></tr>
-<tr><td><a href='SteigerType.html'>SteigerType</a></td></tr>
-<tr><td><a href='StuwType.html'>StuwType</a></td></tr>
-<tr><td><a href='TunnelModaliteit.html'>TunnelModaliteit</a></td></tr>
-<tr><td><a href='TunnelType.html'>TunnelType</a></td></tr>
-<tr><td><a href='VAARWEGBERMSLOOT.html'>VAARWEGBERMSLOOT</a></td></tr>
-<tr><td><a href='VOLGNUMMER.html'>VOLGNUMMER</a></td></tr>
-<tr><td><a href='Vaarwegdeeltraject.html'>Vaarwegdeeltraject</a></td></tr>
-<tr><td><a href='VasteBrugHerbeoordeeldeBelastingklasse.html'>VasteBrugHerbeoordeeldeBelastingklasse</a></td></tr>
-<tr><td><a href='VasteBrugModaliteit.html'>VasteBrugModaliteit</a></td></tr>
-<tr><td><a href='VasteBrugOrigineleBelastingklasse.html'>VasteBrugOrigineleBelastingklasse</a></td></tr>
-<tr><td><a href='VasteBrugType.html'>VasteBrugType</a></td></tr>
-<tr><td><a href='VeerverbindingModaliteit.html'>VeerverbindingModaliteit</a></td></tr>
-<tr><td><a href='VeerverbindingType.html'>VeerverbindingType</a></td></tr>
-<tr><td><a href='VerhardingTypeRijstrook.html'>VerhardingTypeRijstrook</a></td></tr>
-<tr><td><a href='VerhardingWegcategorieDuurzaamVeilig.html'>VerhardingWegcategorieDuurzaamVeilig</a></td></tr>
-<tr><td><a href='VerhardingWegcategorieDuurzaamVeiligGedetailleerd.html'>VerhardingWegcategorieDuurzaamVeiligGedetailleerd</a></td></tr>
-<tr><td><a href='VerhardingWegtypeBestaand.html'>VerhardingWegtypeBestaand</a></td></tr>
-<tr><td><a href='VerhardingsGebruiksfunctie.html'>VerhardingsGebruiksfunctie</a></td></tr>
-<tr><td><a href='Verhardingscategorie.html'>Verhardingscategorie</a></td></tr>
-<tr><td><a href='Verwerkingsstatus.html'>Verwerkingsstatus</a></td></tr>
-<tr><td><a href='ViaductHerbeoordeeldeBelastingklasse.html'>ViaductHerbeoordeeldeBelastingklasse</a></td></tr>
-<tr><td><a href='ViaductModaliteit.html'>ViaductModaliteit</a></td></tr>
-<tr><td><a href='ViaductOrigineleBelastingklasse.html'>ViaductOrigineleBelastingklasse</a></td></tr>
-<tr><td><a href='ViaductType.html'>ViaductType</a></td></tr>
-<tr><td><a href='VoegovergangType.html'>VoegovergangType</a></td></tr>
-<tr><td><a href='VuilvangReinigingsfrequentie.html'>VuilvangReinigingsfrequentie</a></td></tr>
-<tr><td><a href='VuilvangType.html'>VuilvangType</a></td></tr>
-<tr><td><a href='WINDRICHTING.html'>WINDRICHTING</a></td></tr>
-<tr><td><a href='Waterschap.html'>Waterschap</a></td></tr>
-<tr><td><a href='Wegindeling.html'>Wegindeling</a></td></tr>
-<tr><td><a href='WegmarkeringMarkeringToepassing.html'>WegmarkeringMarkeringToepassing</a></td></tr>
-<tr><td><a href='WegmarkeringMarkeringsbreedte.html'>WegmarkeringMarkeringsbreedte</a></td></tr>
-<tr><td><a href='WegmarkeringMarkeringspatroon.html'>WegmarkeringMarkeringspatroon</a></td></tr>
-<tr><td><a href='WegmarkeringType.html'>WegmarkeringType</a></td></tr>
-<tr><td><a href='WegmarkeringTypeExtraGedetailleerd.html'>WegmarkeringTypeExtraGedetailleerd</a></td></tr>
-<tr><td><a href='WegmarkeringTypeGedetailleerd.html'>WegmarkeringTypeGedetailleerd</a></td></tr>
-<tr><td><a href='Wegnummer.html'>Wegnummer</a></td></tr>
-<tr><td><a href='Zitmeubel.html'>Zitmeubel</a></td></tr>
-<tr><td><a href='typeGBI.html'>typeGBI</a></td></tr>
-<tr><td><a href='typeKWDVlak.html'>typeKWDVlak</a></td></tr>
-<tr><td><a href='typeKWElement.html'>typeKWElement</a></td></tr>
-<tr><td><a href='typeKWbouwdeel.html'>typeKWbouwdeel</a></td></tr>
-<tr><td><a href='typeSHDGeluid.html'>typeSHDGeluid</a></td></tr>
-<tr><td><a href='typeSHDLijn.html'>typeSHDLijn</a></td></tr>
-<tr><td><a href='typeSTM.html'>typeSTM</a></td></tr>
-</table>
+## Keuzelijsten versie d1<br>
+[AquaductType](AquaductType.html)<br>
+[AsfaltverhardingType](AsfaltverhardingType.html)<br>
+[AsfaltverhardingTypeDetail](AsfaltverhardingTypeDetail.html)<br>
+[AsfaltverhardingVoegvulling](AsfaltverhardingVoegvulling.html)<br>
+[BEHEER_OBJECT_SUBTYPE](BEHEER_OBJECT_SUBTYPE.html)<br>
+[BGTPlusType](BGTPlusType.html)<br>
+[BGTclassificatie](BGTclassificatie.html)<br>
+[BGTfunctie](BGTfunctie.html)<br>
+[BGTfunctiePlus](BGTfunctiePlus.html)<br>
+[BGTstatus](BGTstatus.html)<br>
+[BandType](BandType.html)<br>
+[Beeldkwaliteit](Beeldkwaliteit.html)<br>
+[BeheerdObjectBeheerder](BeheerdObjectBeheerder.html)<br>
+[BeheerdObjectBeheerderGedetailleerd](BeheerdObjectBeheerderGedetailleerd.html)<br>
+[BeheerdObjectEigenaar](BeheerdObjectEigenaar.html)<br>
+[BeheerdObjectEigenaarGedetailleerd](BeheerdObjectEigenaarGedetailleerd.html)<br>
+[BeheerdObjectOnderhoudsplichtige](BeheerdObjectOnderhoudsplichtige.html)<br>
+[BetonverhardingType](BetonverhardingType.html)<br>
+[BetonverhardingTypeDetail](BetonverhardingTypeDetail.html)<br>
+[BetonverhardingVoegvulling](BetonverhardingVoegvulling.html)<br>
+[BeweegbareBrugHerbeoordeeldeBelastingklasse](BeweegbareBrugHerbeoordeeldeBelastingklasse.html)<br>
+[BeweegbareBrugModaliteit](BeweegbareBrugModaliteit.html)<br>
+[BeweegbareBrugOrigineleBelastingklasse](BeweegbareBrugOrigineleBelastingklasse.html)<br>
+[BeweegbareBrugType](BeweegbareBrugType.html)<br>
+[BeweegbareBrugTypeBediening](BeweegbareBrugTypeBediening.html)<br>
+[BlokType](BlokType.html)<br>
+[Bronhouder](Bronhouder.html)<br>
+[CAD_code](CAD_code.html)<br>
+[CROWInspectieMethode](CROWInspectieMethode.html)<br>
+[CROWMetingType](CROWMetingType.html)<br>
+[CROWSchadesoorten](CROWSchadesoorten.html)<br>
+[CROWschadecode](CROWschadecode.html)<br>
+[Cemt klasse](Cemt klasse.html)<br>
+[ConstructieKleur](ConstructieKleur.html)<br>
+[ConstructieTypeConservering](ConstructieTypeConservering.html)<br>
+[DamwandType](DamwandType.html)<br>
+[DamwandTypeWaterkerendeConstructie](DamwandTypeWaterkerendeConstructie.html)<br>
+[DuikerModaliteit](DuikerModaliteit.html)<br>
+[DuikerOrigineleBelastingklasse](DuikerOrigineleBelastingklasse.html)<br>
+[DuikerType](DuikerType.html)<br>
+[ElementenverhardingType](ElementenverhardingType.html)<br>
+[ElementenverhardingTypeDetail](ElementenverhardingTypeDetail.html)<br>
+[FAUNA_DOELGROEP](FAUNA_DOELGROEP.html)<br>
+[FlyoverHerbeoordeeldeBelastingklasse](FlyoverHerbeoordeeldeBelastingklasse.html)<br>
+[FlyoverModaliteit](FlyoverModaliteit.html)<br>
+[FlyoverOrigineleBelastingklasse](FlyoverOrigineleBelastingklasse.html)<br>
+[FunderingType](FunderingType.html)<br>
+[FysiekvoorkomenVerharding](FysiekvoorkomenVerharding.html)<br>
+[FysiekvoorkomenVerhardingPlus](FysiekvoorkomenVerhardingPlus.html)<br>
+[GCR_NAAM](GCR_NAAM.html)<br>
+[GebiedsindelingLigging](GebiedsindelingLigging.html)<br>
+[GeluidsschermType](GeluidsschermType.html)<br>
+[Gemeentenaam](Gemeentenaam.html)<br>
+[Geo-ObjectStatus](Geo-ObjectStatus.html)<br>
+[GrondsoortType](GrondsoortType.html)<br>
+[HalfverhardingType](HalfverhardingType.html)<br>
+[HalfverhardingTypeDetail](HalfverhardingTypeDetail.html)<br>
+[Haltestatus](Haltestatus.html)<br>
+[Haltetype](Haltetype.html)<br>
+[Hoofdroute](Hoofdroute.html)<br>
+[Hoofdroute deelcode](Hoofdroute deelcode.html)<br>
+[HoortBijTypeOverbrugging](HoortBijTypeOverbrugging.html)<br>
+[JaNeeOnbekend](JaNeeOnbekend.html)<br>
+[KademuurTypeBovenkantKademuur](KademuurTypeBovenkantKademuur.html)<br>
+[KademuurTypeVerankering](KademuurTypeVerankering.html)<br>
+[KademuurTypeWaterkerendeConstructie](KademuurTypeWaterkerendeConstructie.html)<br>
+[KruispuntType](KruispuntType.html)<br>
+[KruispuntTypeGedetailleerd](KruispuntTypeGedetailleerd.html)<br>
+[KunststofverhardingType](KunststofverhardingType.html)<br>
+[KunststofverhardingTypeDetail](KunststofverhardingTypeDetail.html)<br>
+[KunstwerkOppervlaktebehandeling](KunstwerkOppervlaktebehandeling.html)<br>
+[KunstwerkVorm](KunstwerkVorm.html)<br>
+[Locatieaanduiding](Locatieaanduiding.html)<br>
+[Materiaaltype](Materiaaltype.html)<br>
+[NENBEHEEROBJECT](NENBEHEEROBJECT.html)<br>
+[ObjectTweedeBeheerder](ObjectTweedeBeheerder.html)<br>
+[ObjectTweedeEigenaar](ObjectTweedeEigenaar.html)<br>
+[ObjectZettingsgevoeligheid](ObjectZettingsgevoeligheid.html)<br>
+[OnderdoorgangModaliteit](OnderdoorgangModaliteit.html)<br>
+[OnderdoorgangOrigineleBelastingklasse](OnderdoorgangOrigineleBelastingklasse.html)<br>
+[OnverhardverhardingType](OnverhardverhardingType.html)<br>
+[OnverhardverhardingTypeDetail](OnverhardverhardingTypeDetail.html)<br>
+[Orientatie](Orientatie.html)<br>
+[OverbruggingsdeelType](OverbruggingsdeelType.html)<br>
+[Plaatsorientatie](Plaatsorientatie.html)<br>
+[RoosterBelastingklasse](RoosterBelastingklasse.html)<br>
+[RoosterType](RoosterType.html)<br>
+[SluisType](SluisType.html)<br>
+[SluisTypeBediening](SluisTypeBediening.html)<br>
+[SluisdeurType](SluisdeurType.html)<br>
+[SteigerType](SteigerType.html)<br>
+[StuwType](StuwType.html)<br>
+[TunnelModaliteit](TunnelModaliteit.html)<br>
+[TunnelType](TunnelType.html)<br>
+[VAARWEGBERMSLOOT](VAARWEGBERMSLOOT.html)<br>
+[VOLGNUMMER](VOLGNUMMER.html)<br>
+[Vaarwegdeeltraject](Vaarwegdeeltraject.html)<br>
+[VasteBrugHerbeoordeeldeBelastingklasse](VasteBrugHerbeoordeeldeBelastingklasse.html)<br>
+[VasteBrugModaliteit](VasteBrugModaliteit.html)<br>
+[VasteBrugOrigineleBelastingklasse](VasteBrugOrigineleBelastingklasse.html)<br>
+[VasteBrugType](VasteBrugType.html)<br>
+[VeerverbindingModaliteit](VeerverbindingModaliteit.html)<br>
+[VeerverbindingType](VeerverbindingType.html)<br>
+[VerhardingTypeRijstrook](VerhardingTypeRijstrook.html)<br>
+[VerhardingWegcategorieDuurzaamVeilig](VerhardingWegcategorieDuurzaamVeilig.html)<br>
+[VerhardingWegcategorieDuurzaamVeiligGedetailleerd](VerhardingWegcategorieDuurzaamVeiligGedetailleerd.html)<br>
+[VerhardingWegtypeBestaand](VerhardingWegtypeBestaand.html)<br>
+[VerhardingsGebruiksfunctie](VerhardingsGebruiksfunctie.html)<br>
+[Verhardingscategorie](Verhardingscategorie.html)<br>
+[Verwerkingsstatus](Verwerkingsstatus.html)<br>
+[ViaductHerbeoordeeldeBelastingklasse](ViaductHerbeoordeeldeBelastingklasse.html)<br>
+[ViaductModaliteit](ViaductModaliteit.html)<br>
+[ViaductOrigineleBelastingklasse](ViaductOrigineleBelastingklasse.html)<br>
+[ViaductType](ViaductType.html)<br>
+[VoegovergangType](VoegovergangType.html)<br>
+[VuilvangReinigingsfrequentie](VuilvangReinigingsfrequentie.html)<br>
+[VuilvangType](VuilvangType.html)<br>
+[WINDRICHTING](WINDRICHTING.html)<br>
+[Waterschap](Waterschap.html)<br>
+[Wegindeling](Wegindeling.html)<br>
+[WegmarkeringMarkeringToepassing](WegmarkeringMarkeringToepassing.html)<br>
+[WegmarkeringMarkeringsbreedte](WegmarkeringMarkeringsbreedte.html)<br>
+[WegmarkeringMarkeringspatroon](WegmarkeringMarkeringspatroon.html)<br>
+[WegmarkeringType](WegmarkeringType.html)<br>
+[WegmarkeringTypeExtraGedetailleerd](WegmarkeringTypeExtraGedetailleerd.html)<br>
+[WegmarkeringTypeGedetailleerd](WegmarkeringTypeGedetailleerd.html)<br>
+[Wegnummer](Wegnummer.html)<br>
+[Zitmeubel](Zitmeubel.html)<br>
+[typeGBI](typeGBI.html)<br>
+[typeKWDVlak](typeKWDVlak.html)<br>
+[typeKWElement](typeKWElement.html)<br>
+[typeKWbouwdeel](typeKWbouwdeel.html)<br>
+[typeSHDGeluid](typeSHDGeluid.html)<br>
+[typeSHDLijn](typeSHDLijn.html)<br>
+[typeSTM](typeSTM.html)<br>

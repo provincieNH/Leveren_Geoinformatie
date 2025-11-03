@@ -1,17 +1,11 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## BetonverhardingTypeDetail
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-<table class="sortable">
-<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
-</table>
+|__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-<table class="sortable">
-<tr><th>Cementbeton</th><th>Cementbeton</th><th>Cementbeton</th></tr>
-<tr><td>Ongewapend nietverdeuveld beton</td><td>Ongewapend nietverdeuveld beton</td><td>Detail betonverharding</td></tr>
-<tr><td>Ongewapend verdeuveld beton</td><td>Ongewapend verdeuveld beton</td><td>Detail betonverharding</td></tr>
-</table>
+| Cementbeton | Cementbeton | Cementbeton |
+| Ongewapend nietverdeuveld beton | Ongewapend nietverdeuveld beton | Detail betonverharding |
+| Ongewapend verdeuveld beton | Ongewapend verdeuveld beton | Detail betonverharding |

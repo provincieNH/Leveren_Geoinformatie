@@ -1,76 +1,70 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## BeheerdObjectEigenaarGedetailleerd
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-<table class="sortable">
-<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
-</table>
+|__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-<table class="sortable">
-<tr><th>Aalsmeer</th><th>Aalsmeer</th><th>Detail eigenaar van beheerobject</th></tr>
-<tr><td>Alkmaar</td><td>Alkmaar</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Amstel-, Gooi- en Vechtstreek</td><td>Amstel-, Gooi- en Vechtstreek</td><td>Detail beheerder van beheerobject</td></tr>
-<tr><td>Amstelveen</td><td>Amstelveen</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Amsterdam</td><td>Amsterdam</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Bergen</td><td>Bergen</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Beverwijk</td><td>Beverwijk</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Blaricum</td><td>Blaricum</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Bloemendaal</td><td>Bloemendaal</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Castricum</td><td>Castricum</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Den Helder</td><td>Den Helder</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Diemen</td><td>Diemen</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Dijk en Waard</td><td>Dijk en Waard</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Drechterland</td><td>Drechterland</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Edam-Volendam</td><td>Edam-Volendam</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Enkhuizen</td><td>Enkhuizen</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Gooise Meren</td><td>Gooise Meren</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Haarlem</td><td>Haarlem</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Haarlemmermeer</td><td>Haarlemmermeer</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Havenschap</td><td>Havenschap</td><td>Publiekrechtelijk lichaam belast met het besturen van een havencomplex.</td></tr>
-<tr><td>Heemskerk</td><td>Heemskerk</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Heemstede</td><td>Heemstede</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Heiloo</td><td>Heiloo</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Hilversum</td><td>Hilversum</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Hollandskroon</td><td>Hollandskroon</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Hoogheemraadschap Hollands Noorderkwartier</td><td>Hoogheemraadschap Hollands Noorderkwartier</td><td>Detail beheerder van beheerobject</td></tr>
-<tr><td>Hoogheemraadschap Rijnland</td><td>Hoogheemraadschap Rijnland</td><td>Detail beheerder van beheerobject</td></tr>
-<tr><td>Hoorn</td><td>Hoorn</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Huizen</td><td>Huizen</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Koggenland</td><td>Koggenland</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Landgoed</td><td>Landgoed</td><td>Aaneengesloten en samenhangend gebied met akkerlanden, graslanden, bossen en of tuinen en gebouwen.</td></tr>
-<tr><td>Lansdmeer</td><td>Lansdmeer</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Laren</td><td>Laren</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Medemblik</td><td>Medemblik</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Ministerie van Defensie</td><td>Ministerie van Defensie</td><td>Ministerie dat verantwoordelijk is voor de verdediging van het Nederlandse grondgebied.</td></tr>
-<tr><td>Ministerie van Economische Zaken</td><td>Ministerie van Economische Zaken</td><td>Het Nederlandse ministerie dat instaat voor het beleid inzake de landelijke economie.</td></tr>
-<tr><td>Ministerie van Infrastructuur en Waterstaat</td><td>Ministerie van Infrastructuur en Waterstaat</td><td>Het overkoepelende ministerie voor de volgende taakdomeinen: Weginfrastructuur, Water, Scheepvaart (maritieme zaken), Luchtvaart, Milieu (behalve Klimaat), Circulaire economie, duurzaam vervoer, verkeersemissies en brandstoffen, Bodem, Fietsbeleid, Openbaar vervoer en spoor, KNMI, Autoriteit Nucleaire Veiligheid en Stralingsbescherming en Planbureau voor de Leefomgeving.</td></tr>
-<tr><td>Ministerie van Landbouw, Natuur en Voedselkwaliteit</td><td>Ministerie van Landbouw, Natuur en Voedselkwaliteit</td><td>Het Nederlandse ministerie met de beleidsterreinen landbouw, natuurbeheer, bosbouw, visserij en voedsel.</td></tr>
-<tr><td>Natuurorganisatie</td><td>Natuurorganisatie</td><td>Een organisatie die de instaat voor het beschermen van bepaalde elementen van de natuur, in het bijzonder cultuur-historisch belangrijke of oorspronkelijke landschappen, bedreigde levensgemeenschappen, dier- en plantensoorten, biodiversiteit en natuurlijke hulpbronnen.</td></tr>
-<tr><td>Netbeheerder</td><td>Netbeheerder</td><td>Een nutsbedrijf dat het transportnetwerk voor verschillende soorten energie beheert.</td></tr>
-<tr><td>Oostzaan</td><td>Oostzaan</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Opmeer</td><td>Opmeer</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Ouder-Amstel</td><td>Ouder-Amstel</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>PNHGrondzaken</td><td>PNHGrondzaken</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Purmerend</td><td>Purmerend</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Recreatieschap</td><td>Recreatieschap</td><td>Een samenwerkingsverband tussen gemeenten en provincies conform de Wet gemeenschappelijke regelingen met als doel het ontwikkelen, beheren en exploiteren van voorzieningen voor openluchtrecreatie buiten de bebouwde kom zoals (zwem)plassen, picknickplaatsen, fiets- en wandelpaden en kanoroutes.</td></tr>
-<tr><td>Rijksvastgoedbedrijf</td><td>Rijksvastgoedbedrijf</td><td>Een vastgoedorganisatie van de Nederlandse Rijksoverheid die verantwoordelijk is voor het beheer van vastgoedobjecten in gebruik door de Nederlandse staat.</td></tr>
-<tr><td>Rijkswaterstaat</td><td>Rijkswaterstaat</td><td>Het uitvoerende agentschap van het Ministerie van Infrastructuur en Waterstaat.</td></tr>
-<tr><td>Schagen</td><td>Schagen</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Staatsbosbeheer</td><td>Staatsbosbeheer</td><td>Staatsbosbeheer</td></tr>
-<tr><td>Stichting</td><td>Stichting</td><td>Een rechtspersoon zonder leden die het doel nastreeft waartoe het door de stichter is opgericht.</td></tr>
-<tr><td>Strede Broec</td><td>Strede Broec</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Texel</td><td>Texel</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Uitgeest</td><td>Uitgeest</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Uithoorn</td><td>Uithoorn</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Velsen</td><td>Velsen</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Waterland</td><td>Waterland</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Wijdemeren</td><td>Wijdemeren</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Woningcorporatie</td><td>Woningcorporatie</td><td>Een organisatie die zich richt op het bouwen, beheren en verhuren van kwalitatief goede woonruimte met een betaalbare huur voor mensen met een smalle beurs.</td></tr>
-<tr><td>Wormerland</td><td>Wormerland</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Zaanstad</td><td>Zaanstad</td><td>Detail eigenaar van beheerobject</td></tr>
-<tr><td>Zandvoort</td><td>Zandvoort</td><td>Detail eigenaar van beheerobject</td></tr>
-</table>
+| Aalsmeer | Aalsmeer | Detail eigenaar van beheerobject |
+| Alkmaar | Alkmaar | Detail eigenaar van beheerobject |
+| Amstel-, Gooi- en Vechtstreek | Amstel-, Gooi- en Vechtstreek | Detail beheerder van beheerobject |
+| Amstelveen | Amstelveen | Detail eigenaar van beheerobject |
+| Amsterdam | Amsterdam | Detail eigenaar van beheerobject |
+| Bergen | Bergen | Detail eigenaar van beheerobject |
+| Beverwijk | Beverwijk | Detail eigenaar van beheerobject |
+| Blaricum | Blaricum | Detail eigenaar van beheerobject |
+| Bloemendaal | Bloemendaal | Detail eigenaar van beheerobject |
+| Castricum | Castricum | Detail eigenaar van beheerobject |
+| Den Helder | Den Helder | Detail eigenaar van beheerobject |
+| Diemen | Diemen | Detail eigenaar van beheerobject |
+| Dijk en Waard | Dijk en Waard | Detail eigenaar van beheerobject |
+| Drechterland | Drechterland | Detail eigenaar van beheerobject |
+| Edam-Volendam | Edam-Volendam | Detail eigenaar van beheerobject |
+| Enkhuizen | Enkhuizen | Detail eigenaar van beheerobject |
+| Gooise Meren | Gooise Meren | Detail eigenaar van beheerobject |
+| Haarlem | Haarlem | Detail eigenaar van beheerobject |
+| Haarlemmermeer | Haarlemmermeer | Detail eigenaar van beheerobject |
+| Havenschap | Havenschap | Publiekrechtelijk lichaam belast met het besturen van een havencomplex. |
+| Heemskerk | Heemskerk | Detail eigenaar van beheerobject |
+| Heemstede | Heemstede | Detail eigenaar van beheerobject |
+| Heiloo | Heiloo | Detail eigenaar van beheerobject |
+| Hilversum | Hilversum | Detail eigenaar van beheerobject |
+| Hollandskroon | Hollandskroon | Detail eigenaar van beheerobject |
+| Hoogheemraadschap Hollands Noorderkwartier | Hoogheemraadschap Hollands Noorderkwartier | Detail beheerder van beheerobject |
+| Hoogheemraadschap Rijnland | Hoogheemraadschap Rijnland | Detail beheerder van beheerobject |
+| Hoorn | Hoorn | Detail eigenaar van beheerobject |
+| Huizen | Huizen | Detail eigenaar van beheerobject |
+| Koggenland | Koggenland | Detail eigenaar van beheerobject |
+| Landgoed | Landgoed | Aaneengesloten en samenhangend gebied met akkerlanden, graslanden, bossen en of tuinen en gebouwen. |
+| Lansdmeer | Lansdmeer | Detail eigenaar van beheerobject |
+| Laren | Laren | Detail eigenaar van beheerobject |
+| Medemblik | Medemblik | Detail eigenaar van beheerobject |
+| Ministerie van Defensie | Ministerie van Defensie | Ministerie dat verantwoordelijk is voor de verdediging van het Nederlandse grondgebied. |
+| Ministerie van Economische Zaken | Ministerie van Economische Zaken | Het Nederlandse ministerie dat instaat voor het beleid inzake de landelijke economie. |
+| Ministerie van Infrastructuur en Waterstaat | Ministerie van Infrastructuur en Waterstaat | Het overkoepelende ministerie voor de volgende taakdomeinen: Weginfrastructuur, Water, Scheepvaart (maritieme zaken), Luchtvaart, Milieu (behalve Klimaat), Circulaire economie, duurzaam vervoer, verkeersemissies en brandstoffen, Bodem, Fietsbeleid, Openbaar vervoer en spoor, KNMI, Autoriteit Nucleaire Veiligheid en Stralingsbescherming en Planbureau voor de Leefomgeving. |
+| Ministerie van Landbouw, Natuur en Voedselkwaliteit | Ministerie van Landbouw, Natuur en Voedselkwaliteit | Het Nederlandse ministerie met de beleidsterreinen landbouw, natuurbeheer, bosbouw, visserij en voedsel. |
+| Natuurorganisatie | Natuurorganisatie | Een organisatie die de instaat voor het beschermen van bepaalde elementen van de natuur, in het bijzonder cultuur-historisch belangrijke of oorspronkelijke landschappen, bedreigde levensgemeenschappen, dier- en plantensoorten, biodiversiteit en natuurlijke hulpbronnen. |
+| Netbeheerder | Netbeheerder | Een nutsbedrijf dat het transportnetwerk voor verschillende soorten energie beheert. |
+| Oostzaan | Oostzaan | Detail eigenaar van beheerobject |
+| Opmeer | Opmeer | Detail eigenaar van beheerobject |
+| Ouder-Amstel | Ouder-Amstel | Detail eigenaar van beheerobject |
+| PNHGrondzaken | PNHGrondzaken | Detail eigenaar van beheerobject |
+| Purmerend | Purmerend | Detail eigenaar van beheerobject |
+| Recreatieschap | Recreatieschap | Een samenwerkingsverband tussen gemeenten en provincies conform de Wet gemeenschappelijke regelingen met als doel het ontwikkelen, beheren en exploiteren van voorzieningen voor openluchtrecreatie buiten de bebouwde kom zoals (zwem)plassen, picknickplaatsen, fiets- en wandelpaden en kanoroutes. |
+| Rijksvastgoedbedrijf | Rijksvastgoedbedrijf | Een vastgoedorganisatie van de Nederlandse Rijksoverheid die verantwoordelijk is voor het beheer van vastgoedobjecten in gebruik door de Nederlandse staat. |
+| Rijkswaterstaat | Rijkswaterstaat | Het uitvoerende agentschap van het Ministerie van Infrastructuur en Waterstaat. |
+| Schagen | Schagen | Detail eigenaar van beheerobject |
+| Staatsbosbeheer | Staatsbosbeheer | Staatsbosbeheer |
+| Stichting | Stichting | Een rechtspersoon zonder leden die het doel nastreeft waartoe het door de stichter is opgericht. |
+| Strede Broec | Strede Broec | Detail eigenaar van beheerobject |
+| Texel | Texel | Detail eigenaar van beheerobject |
+| Uitgeest | Uitgeest | Detail eigenaar van beheerobject |
+| Uithoorn | Uithoorn | Detail eigenaar van beheerobject |
+| Velsen | Velsen | Detail eigenaar van beheerobject |
+| Waterland | Waterland | Detail eigenaar van beheerobject |
+| Wijdemeren | Wijdemeren | Detail eigenaar van beheerobject |
+| Woningcorporatie | Woningcorporatie | Een organisatie die zich richt op het bouwen, beheren en verhuren van kwalitatief goede woonruimte met een betaalbare huur voor mensen met een smalle beurs. |
+| Wormerland | Wormerland | Detail eigenaar van beheerobject |
+| Zaanstad | Zaanstad | Detail eigenaar van beheerobject |
+| Zandvoort | Zandvoort | Detail eigenaar van beheerobject |

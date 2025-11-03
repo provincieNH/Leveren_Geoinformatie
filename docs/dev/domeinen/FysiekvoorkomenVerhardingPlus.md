@@ -1,36 +1,30 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## FysiekvoorkomenVerhardingPlus
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-<table class="sortable">
-<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
-</table>
+|__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-<table class="sortable">
-<tr><th>asfalt</th><th>asfalt</th><th>BGT; fysiekvoorkomen-plus informatie</th></tr>
-<tr><td>beton element</td><td>beton element</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>betonstraatstenen</td><td>betonstraatstenen</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>boomschors</td><td>boomschors</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>cementbeton</td><td>cementbeton</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>erf</td><td>erf</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>gebakken klinkers</td><td>gebakken klinkers</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>gesloten verharding</td><td>gesloten verharding</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>grasklinkers</td><td>grasklinkers</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>gravel</td><td>gravel</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>grind</td><td>grind</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>half verhard</td><td>half verhard</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>kunststof</td><td>kunststof</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>onverhard</td><td>onverhard</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>open verharding</td><td>open verharding</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>puin</td><td>puin</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>schelpen</td><td>schelpen</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>sierbestrating</td><td>sierbestrating</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>strand en strandwal</td><td>strand en strandwal</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>tegels</td><td>tegels</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>zand</td><td>zand</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-<tr><td>zandverstuiving</td><td>zandverstuiving</td><td>BGT; fysiekvoorkomen-plus informatie</td></tr>
-</table>
+| asfalt | asfalt | BGT; fysiekvoorkomen-plus informatie |
+| beton element | beton element | BGT; fysiekvoorkomen-plus informatie |
+| betonstraatstenen | betonstraatstenen | BGT; fysiekvoorkomen-plus informatie |
+| boomschors | boomschors | BGT; fysiekvoorkomen-plus informatie |
+| cementbeton | cementbeton | BGT; fysiekvoorkomen-plus informatie |
+| erf | erf | BGT; fysiekvoorkomen-plus informatie |
+| gebakken klinkers | gebakken klinkers | BGT; fysiekvoorkomen-plus informatie |
+| gesloten verharding | gesloten verharding | BGT; fysiekvoorkomen-plus informatie |
+| grasklinkers | grasklinkers | BGT; fysiekvoorkomen-plus informatie |
+| gravel | gravel | BGT; fysiekvoorkomen-plus informatie |
+| grind | grind | BGT; fysiekvoorkomen-plus informatie |
+| half verhard | half verhard | BGT; fysiekvoorkomen-plus informatie |
+| kunststof | kunststof | BGT; fysiekvoorkomen-plus informatie |
+| onverhard | onverhard | BGT; fysiekvoorkomen-plus informatie |
+| open verharding | open verharding | BGT; fysiekvoorkomen-plus informatie |
+| puin | puin | BGT; fysiekvoorkomen-plus informatie |
+| schelpen | schelpen | BGT; fysiekvoorkomen-plus informatie |
+| sierbestrating | sierbestrating | BGT; fysiekvoorkomen-plus informatie |
+| strand en strandwal | strand en strandwal | BGT; fysiekvoorkomen-plus informatie |
+| tegels | tegels | BGT; fysiekvoorkomen-plus informatie |
+| zand | zand | BGT; fysiekvoorkomen-plus informatie |
+| zandverstuiving | zandverstuiving | BGT; fysiekvoorkomen-plus informatie |

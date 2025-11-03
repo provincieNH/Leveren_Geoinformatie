@@ -1,21 +1,15 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## WegmarkeringMarkeringsbreedte
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-<table class="sortable">
-<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
-</table>
+|__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-<table class="sortable">
-<tr><th>10</th><th>10</th><th>breedte</th></tr>
-<tr><td>15</td><td>15</td><td>breedte</td></tr>
-<tr><td>20</td><td>20</td><td>breedte</td></tr>
-<tr><td>30</td><td>30</td><td>breedte</td></tr>
-<tr><td>3x10</td><td>3x10</td><td>breedte</td></tr>
-<tr><td>3x15</td><td>3x15</td><td>breedte</td></tr>
-<tr><td>45</td><td>45</td><td>breedte</td></tr>
-</table>
+| 10 | 10 | breedte |
+| 15 | 15 | breedte |
+| 20 | 20 | breedte |
+| 30 | 30 | breedte |
+| 3x10 | 3x10 | breedte |
+| 3x15 | 3x15 | breedte |
+| 45 | 45 | breedte |

@@ -1,5 +1,3 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## AREAALDATA.neninspectie_tbl
 
 * [__Areaaldata model versie:__ 5](https://provincienh.github.io/Leveren_Geoinformatie/dev/)
@@ -13,9 +11,8 @@
 
 ***
 
-<table class="sortable">
-<tr><th>__ATTRIBUUT__</th><th>__ALIAS__</th><th>__DATATYPE (length, precision)__</th><th>__DEFINITIE__ (Oorsprong; Superklasse; Attribuuttype; Enumeratie/Referentie; Verwijzende sleutel; Standaard waarde; Nullable; Definitie)</th></tr>
-</table>
+|__ATTRIBUUT__                             |__ALIAS__                                   |__DATATYPE (length, precision)__       |__DEFINITIE__ (Oorsprong; Superklasse; Attribuuttype; Enumeratie/Referentie; Verwijzende sleutel; Standaard waarde; Nullable; Definitie)|
+|------                                    |------                                      |------                                 |-----    |
 |objectid                                  |objectid                                    |OID(0,0)                               |PNH; Areaaldata; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Intern ArcGIS Identificatienummer, aangemaakt door ArcGIS.
 |globalid                                  |globalid                                    |Globalid(38,0)                         |PNH; Areaaldata; Waarde wordt automatisch bepaald; ; ; Default: None; NON_NULLABLE; Elk object heeft een unieke GlobalID (Global Unique Identifier). Dit is een systeemveld van de ArcGIS software welke noodzakelijk is om een aantal functionaliteiten binnen deze software te kunnen gebruiken.
 |ad_id                                     |ad_id                                       |TEXT(255,0)                            |PNH; Areaaldata; GUID; ; ; Default: None; NON_NULLABLE; Uniek identificatienummer voor het object dat onveranderlijk is zolang het object bestaat in Areaaldata: in format 'AD.[GUID]'. Dit moet worden ingevuld door de aannemer.
@@ -37,3 +34,4 @@
 |kunstwerk                                 |kunstwerk                                   |TEXT(255,0)                            |PNH; Areaaldata; Vrij invoerveld; ; ; Default: None; NULLABLE; Indicatieve foreign key van een object op kunstwerk niveau
 
 ***
+

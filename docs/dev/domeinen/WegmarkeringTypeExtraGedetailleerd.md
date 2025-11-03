@@ -1,76 +1,70 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-
 ﻿## WegmarkeringTypeExtraGedetailleerd
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-<table class="sortable">
-<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
-</table>
+|__Code__ |__Description__ |__Definitie__	|
 |	---	|	---	|   ---	| 
-<table class="sortable">
-<tr><th>Anti-spookrijpijl</th><th>Anti-spookrijpijl</th><th>belijning type extra gedetailleerd</th></tr>
-<tr><td>Asymmetrische verkeersdruppel met kantstrepen</td><td>Asymmetrische verkeersdruppel met kantstrepen</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Asymmetrische verkeersdruppel zonder kantstrepen</td><td>Asymmetrische verkeersdruppel zonder kantstrepen</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Bajonetpijl</td><td>Bajonetpijl</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Bol gestrate verkeersdruppel, overrijdbaar</td><td>Bol gestrate verkeersdruppel, overrijdbaar</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Containermarkering</td><td>Containermarkering</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Dubbele afbuigende pijl links</td><td>Dubbele afbuigende pijl links</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Dubbele afbuigende pijl rechts</td><td>Dubbele afbuigende pijl rechts</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Fietssymbool</td><td>Fietssymbool</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Gebogen rechtuitpijl</td><td>Gebogen rechtuitpijl</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Getalmarkering: 30</td><td>Getalmarkering: 30</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Getalmarkering: 50</td><td>Getalmarkering: 50</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Getalmarkering: 60</td><td>Getalmarkering: 60</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Getalmarkering: 80</td><td>Getalmarkering: 80</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Gevuld</td><td>Gevuld</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Leeg</td><td>Leeg</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl gebogen links</td><td>Pijl gebogen links</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl gebogen rechts</td><td>Pijl gebogen rechts</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl links met brugsymbool</td><td>Pijl links met brugsymbool</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl links met hamerkopsymbook</td><td>Pijl links met hamerkopsymbook</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl links/rechtdoor</td><td>Pijl links/rechtdoor</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl links/rechtdoor/rechts</td><td>Pijl links/rechtdoor/rechts</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl links/rechts</td><td>Pijl links/rechts</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl linksaf</td><td>Pijl linksaf</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl rechtdoor</td><td>Pijl rechtdoor</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl rechts met brugsymbool</td><td>Pijl rechts met brugsymbool</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl rechts met hamerkopsymbook</td><td>Pijl rechts met hamerkopsymbook</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl rechts/rechtdoor</td><td>Pijl rechts/rechtdoor</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Pijl rechtsaf</td><td>Pijl rechtsaf</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Symmetrische verkeersdruppel zonder kantstrepen</td><td>Symmetrische verkeersdruppel zonder kantstrepen</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Turborotonde linksaf en rechtdoor</td><td>Turborotonde linksaf en rechtdoor</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Turborotonde linksaf</td><td>Turborotonde linksaf</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Turborotonde linksaf, rechtdoor en rechtsaf</td><td>Turborotonde linksaf, rechtdoor en rechtsaf</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Turborotonde rechtdoor en rechtsaf</td><td>Turborotonde rechtdoor en rechtsaf</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Turborotonde rechtdoor</td><td>Turborotonde rechtdoor</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Turborotonde rechtsaf</td><td>Turborotonde rechtsaf</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verdrijfpijl links</td><td>Verdrijfpijl links</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verdrijfpijl rechts</td><td>Verdrijfpijl rechts</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: A0130zb</td><td>Verkeersbord: A0130zb</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: A0150</td><td>Verkeersbord: A0150</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: C20-100</td><td>Verkeersbord: C20-100</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: E01</td><td>Verkeersbord: E01</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: E03</td><td>Verkeersbord: E03</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: E07</td><td>Verkeersbord: E07</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: J21f</td><td>Verkeersbord: J21f</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: J24</td><td>Verkeersbord: J24</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbord: L51</td><td>Verkeersbord: L51</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Verkeersbordmarkering</td><td>Verkeersbordmarkering</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Vishaakpijl</td><td>Vishaakpijl</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Voorwaarschuwingsdriehoek: bibeko</td><td>Voorwaarschuwingsdriehoek: bibeko</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Voorwaarschuwingsdriehoek: bubeko</td><td>Voorwaarschuwingsdriehoek: bubeko</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Voorwaarschuwingsdriehoek: fietspad</td><td>Voorwaarschuwingsdriehoek: fietspad</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Woordmarkering: NP</td><td>Woordmarkering: NP</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Woordmarkering: bus</td><td>Woordmarkering: bus</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Woordmarkering: laad los zone</td><td>Woordmarkering: laad los zone</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Woordmarkering: lijnbus</td><td>Woordmarkering: lijnbus</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Woordmarkering: stop</td><td>Woordmarkering: stop</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Woordmarkering: taxi</td><td>Woordmarkering: taxi</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Zinloos geweld markering</td><td>Zinloos geweld markering</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Zonemarkering: schoolzone</td><td>Zonemarkering: schoolzone</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Zonemarkering: woonzone</td><td>Zonemarkering: woonzone</td><td>belijning type extra gedetailleerd</td></tr>
-<tr><td>Zonemarkering: zone</td><td>Zonemarkering: zone</td><td>belijning type extra gedetailleerd</td></tr>
-</table>
+| Anti-spookrijpijl | Anti-spookrijpijl | belijning type extra gedetailleerd |
+| Asymmetrische verkeersdruppel met kantstrepen | Asymmetrische verkeersdruppel met kantstrepen | belijning type extra gedetailleerd |
+| Asymmetrische verkeersdruppel zonder kantstrepen | Asymmetrische verkeersdruppel zonder kantstrepen | belijning type extra gedetailleerd |
+| Bajonetpijl | Bajonetpijl | belijning type extra gedetailleerd |
+| Bol gestrate verkeersdruppel, overrijdbaar | Bol gestrate verkeersdruppel, overrijdbaar | belijning type extra gedetailleerd |
+| Containermarkering | Containermarkering | belijning type extra gedetailleerd |
+| Dubbele afbuigende pijl links | Dubbele afbuigende pijl links | belijning type extra gedetailleerd |
+| Dubbele afbuigende pijl rechts | Dubbele afbuigende pijl rechts | belijning type extra gedetailleerd |
+| Fietssymbool | Fietssymbool | belijning type extra gedetailleerd |
+| Gebogen rechtuitpijl | Gebogen rechtuitpijl | belijning type extra gedetailleerd |
+| Getalmarkering: 30 | Getalmarkering: 30 | belijning type extra gedetailleerd |
+| Getalmarkering: 50 | Getalmarkering: 50 | belijning type extra gedetailleerd |
+| Getalmarkering: 60 | Getalmarkering: 60 | belijning type extra gedetailleerd |
+| Getalmarkering: 80 | Getalmarkering: 80 | belijning type extra gedetailleerd |
+| Gevuld | Gevuld | belijning type extra gedetailleerd |
+| Leeg | Leeg | belijning type extra gedetailleerd |
+| Pijl gebogen links | Pijl gebogen links | belijning type extra gedetailleerd |
+| Pijl gebogen rechts | Pijl gebogen rechts | belijning type extra gedetailleerd |
+| Pijl links met brugsymbool | Pijl links met brugsymbool | belijning type extra gedetailleerd |
+| Pijl links met hamerkopsymbook | Pijl links met hamerkopsymbook | belijning type extra gedetailleerd |
+| Pijl links/rechtdoor | Pijl links/rechtdoor | belijning type extra gedetailleerd |
+| Pijl links/rechtdoor/rechts | Pijl links/rechtdoor/rechts | belijning type extra gedetailleerd |
+| Pijl links/rechts | Pijl links/rechts | belijning type extra gedetailleerd |
+| Pijl linksaf | Pijl linksaf | belijning type extra gedetailleerd |
+| Pijl rechtdoor | Pijl rechtdoor | belijning type extra gedetailleerd |
+| Pijl rechts met brugsymbool | Pijl rechts met brugsymbool | belijning type extra gedetailleerd |
+| Pijl rechts met hamerkopsymbook | Pijl rechts met hamerkopsymbook | belijning type extra gedetailleerd |
+| Pijl rechts/rechtdoor | Pijl rechts/rechtdoor | belijning type extra gedetailleerd |
+| Pijl rechtsaf | Pijl rechtsaf | belijning type extra gedetailleerd |
+| Symmetrische verkeersdruppel zonder kantstrepen | Symmetrische verkeersdruppel zonder kantstrepen | belijning type extra gedetailleerd |
+| Turborotonde linksaf en rechtdoor | Turborotonde linksaf en rechtdoor | belijning type extra gedetailleerd |
+| Turborotonde linksaf | Turborotonde linksaf | belijning type extra gedetailleerd |
+| Turborotonde linksaf, rechtdoor en rechtsaf | Turborotonde linksaf, rechtdoor en rechtsaf | belijning type extra gedetailleerd |
+| Turborotonde rechtdoor en rechtsaf | Turborotonde rechtdoor en rechtsaf | belijning type extra gedetailleerd |
+| Turborotonde rechtdoor | Turborotonde rechtdoor | belijning type extra gedetailleerd |
+| Turborotonde rechtsaf | Turborotonde rechtsaf | belijning type extra gedetailleerd |
+| Verdrijfpijl links | Verdrijfpijl links | belijning type extra gedetailleerd |
+| Verdrijfpijl rechts | Verdrijfpijl rechts | belijning type extra gedetailleerd |
+| Verkeersbord: A0130zb | Verkeersbord: A0130zb | belijning type extra gedetailleerd |
+| Verkeersbord: A0150 | Verkeersbord: A0150 | belijning type extra gedetailleerd |
+| Verkeersbord: C20-100 | Verkeersbord: C20-100 | belijning type extra gedetailleerd |
+| Verkeersbord: E01 | Verkeersbord: E01 | belijning type extra gedetailleerd |
+| Verkeersbord: E03 | Verkeersbord: E03 | belijning type extra gedetailleerd |
+| Verkeersbord: E07 | Verkeersbord: E07 | belijning type extra gedetailleerd |
+| Verkeersbord: J21f | Verkeersbord: J21f | belijning type extra gedetailleerd |
+| Verkeersbord: J24 | Verkeersbord: J24 | belijning type extra gedetailleerd |
+| Verkeersbord: L51 | Verkeersbord: L51 | belijning type extra gedetailleerd |
+| Verkeersbordmarkering | Verkeersbordmarkering | belijning type extra gedetailleerd |
+| Vishaakpijl | Vishaakpijl | belijning type extra gedetailleerd |
+| Voorwaarschuwingsdriehoek: bibeko | Voorwaarschuwingsdriehoek: bibeko | belijning type extra gedetailleerd |
+| Voorwaarschuwingsdriehoek: bubeko | Voorwaarschuwingsdriehoek: bubeko | belijning type extra gedetailleerd |
+| Voorwaarschuwingsdriehoek: fietspad | Voorwaarschuwingsdriehoek: fietspad | belijning type extra gedetailleerd |
+| Woordmarkering: NP | Woordmarkering: NP | belijning type extra gedetailleerd |
+| Woordmarkering: bus | Woordmarkering: bus | belijning type extra gedetailleerd |
+| Woordmarkering: laad los zone | Woordmarkering: laad los zone | belijning type extra gedetailleerd |
+| Woordmarkering: lijnbus | Woordmarkering: lijnbus | belijning type extra gedetailleerd |
+| Woordmarkering: stop | Woordmarkering: stop | belijning type extra gedetailleerd |
+| Woordmarkering: taxi | Woordmarkering: taxi | belijning type extra gedetailleerd |
+| Zinloos geweld markering | Zinloos geweld markering | belijning type extra gedetailleerd |
+| Zonemarkering: schoolzone | Zonemarkering: schoolzone | belijning type extra gedetailleerd |
+| Zonemarkering: woonzone | Zonemarkering: woonzone | belijning type extra gedetailleerd |
+| Zonemarkering: zone | Zonemarkering: zone | belijning type extra gedetailleerd |
