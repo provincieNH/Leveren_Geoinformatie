@@ -1,9 +1,15 @@
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 ﻿## CROWInspectieMethode
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ PNH*
 *__Type veld:__ TEXT*
 
-|__Code__ |__Description__ |__Definitie__	|
+<table class="sortable">
+<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
+</table>
 |	---	|	---	|   ---	| 
-| 146B visueel | 146B visueel | CROW 146B visueel |
+<table class="sortable">
+<tr><th>146B visueel</th><th>146B visueel</th><th>CROW 146B visueel</th></tr>
+</table>

@@ -1,11 +1,17 @@
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 ﻿## OnverhardverhardingType
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-|__Code__ |__Description__ |__Definitie__	|
+<table class="sortable">
+<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
+</table>
 |	---	|	---	|   ---	| 
-| Open grond | Open grond | verharding van onverhard |
-| Zand | Zand | verharding van onverhard |
-| Zwarte grond | Zwarte grond | verharding van onverhard |
+<table class="sortable">
+<tr><th>Open grond</th><th>Open grond</th><th>verharding van onverhard</th></tr>
+<tr><td>Zand</td><td>Zand</td><td>verharding van onverhard</td></tr>
+<tr><td>Zwarte grond</td><td>Zwarte grond</td><td>verharding van onverhard</td></tr>
+</table>

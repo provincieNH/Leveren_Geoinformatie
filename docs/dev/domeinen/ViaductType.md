@@ -1,10 +1,16 @@
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 ﻿## ViaductType
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-|__Code__ |__Description__ |__Definitie__	|
+<table class="sortable">
+<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
+</table>
 |	---	|	---	|   ---	| 
-| Dalviaduct | Dalviaduct | Een dalviaduct is een groot viaduct dat een dal overspant. |
-| Maaiveldviaduct | Maaiveldviaduct | Bij een maaiveldviaducten kruisen ondergrondse leidingen een (autosnel)weg. |
+<table class="sortable">
+<tr><th>Dalviaduct</th><th>Dalviaduct</th><th>Een dalviaduct is een groot viaduct dat een dal overspant.</th></tr>
+<tr><td>Maaiveldviaduct</td><td>Maaiveldviaduct</td><td>Bij een maaiveldviaducten kruisen ondergrondse leidingen een (autosnel)weg.</td></tr>
+</table>

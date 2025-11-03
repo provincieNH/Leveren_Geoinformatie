@@ -1,19 +1,25 @@
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 ﻿## KunststofverhardingTypeDetail
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-|__Code__ |__Description__ |__Definitie__	|
+<table class="sortable">
+<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
+</table>
 |	---	|	---	|   ---	| 
-| Doorlopende synthetische oppervlakteafwerking | Doorlopende synthetische oppervlakteafwerking | Detail van kunststofverharding |
-| Gesmeerde insitu rubbervloer | Gesmeerde insitu rubbervloer | Detail van kunststofverharding |
-| Gesmeerde rubberschorsvloer | Gesmeerde rubberschorsvloer | Detail van kunststofverharding |
-| Hybride kunstgras | Hybride kunstgras | Detail van kunststofverharding |
-| Kunstgras semi-water | Kunstgras semi-water | Detail van kunststofverharding |
-| Kunstgras water | Kunstgras water | Detail van kunststofverharding |
-| Niet van toepassing | Niet van toepassing | Detail van kunststofverharding |
-| Rubber gietvloer | Rubber gietvloer | Detail van kunststofverharding |
-| Rubberen mat | Rubberen mat | Detail van kunststofverharding |
-| Rubberen plaat | Rubberen plaat | Detail van kunststofverharding |
-| Valdempend kunstgras | Valdempend kunstgras | Detail van kunststofverharding |
+<table class="sortable">
+<tr><th>Doorlopende synthetische oppervlakteafwerking</th><th>Doorlopende synthetische oppervlakteafwerking</th><th>Detail van kunststofverharding</th></tr>
+<tr><td>Gesmeerde insitu rubbervloer</td><td>Gesmeerde insitu rubbervloer</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Gesmeerde rubberschorsvloer</td><td>Gesmeerde rubberschorsvloer</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Hybride kunstgras</td><td>Hybride kunstgras</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Kunstgras semi-water</td><td>Kunstgras semi-water</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Kunstgras water</td><td>Kunstgras water</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Niet van toepassing</td><td>Niet van toepassing</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Rubber gietvloer</td><td>Rubber gietvloer</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Rubberen mat</td><td>Rubberen mat</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Rubberen plaat</td><td>Rubberen plaat</td><td>Detail van kunststofverharding</td></tr>
+<tr><td>Valdempend kunstgras</td><td>Valdempend kunstgras</td><td>Detail van kunststofverharding</td></tr>
+</table>

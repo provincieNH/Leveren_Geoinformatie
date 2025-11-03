@@ -1,13 +1,19 @@
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 ﻿## Beeldkwaliteit
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ PNH*
 *__Type veld:__ TEXT*
 
-|__Code__ |__Description__ |__Definitie__	|
+<table class="sortable">
+<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
+</table>
 |	---	|	---	|   ---	| 
-| A | A | CROW beeldkwaliteit |
-| A+ | A+ | CROW beeldkwaliteit |
-| B | B | CROW beeldkwaliteit |
-| C | C | CROW beeldkwaliteit |
-| D | D | CROW beeldkwaliteit |
+<table class="sortable">
+<tr><th>A</th><th>A</th><th>CROW beeldkwaliteit</th></tr>
+<tr><td>A+</td><td>A+</td><td>CROW beeldkwaliteit</td></tr>
+<tr><td>B</td><td>B</td><td>CROW beeldkwaliteit</td></tr>
+<tr><td>C</td><td>C</td><td>CROW beeldkwaliteit</td></tr>
+<tr><td>D</td><td>D</td><td>CROW beeldkwaliteit</td></tr>
+</table>

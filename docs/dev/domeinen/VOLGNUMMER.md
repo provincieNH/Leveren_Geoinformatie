@@ -1,21 +1,27 @@
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 ﻿## VOLGNUMMER
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ PNH*
 *__Type veld:__ TEXT*
 
-|__Code__ |__Description__ |__Definitie__	|
+<table class="sortable">
+<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
+</table>
 |	---	|	---	|   ---	| 
-| 1 | 1 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 10 | 10 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 11 | 11 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 12 | 12 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 13 | 13 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 2 | 2 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 3 | 3 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 4 | 4 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 5 | 5 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 6 | 6 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 7 | 7 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 8 | 8 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
-| 9 | 9 | Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.  |
+<table class="sortable">
+<tr><th>1</th><th>1</th><th>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</th></tr>
+<tr><td>10</td><td>10</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>11</td><td>11</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>12</td><td>12</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>13</td><td>13</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>2</td><td>2</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>3</td><td>3</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>4</td><td>4</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>5</td><td>5</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>6</td><td>6</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>7</td><td>7</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>8</td><td>8</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+<tr><td>9</td><td>9</td><td>Indien een reeks van dezelfde elementen voorkomen dan dienen deze worden met een volgnummer te worden geduid.</td></tr>
+</table>

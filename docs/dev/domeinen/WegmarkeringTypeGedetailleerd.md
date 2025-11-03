@@ -1,24 +1,30 @@
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 ﻿## WegmarkeringTypeGedetailleerd
 
 *__Domeinlijst versie:__ d5*
 *__Herkomst definitie:__ IMBOR*
 *__Type veld:__ TEXT*
 
-|__Code__ |__Description__ |__Definitie__	|
+<table class="sortable">
+<tr><th>__Code__</th><th>__Description__</th><th>__Definitie__</th></tr>
+</table>
 |	---	|	---	|   ---	| 
-| Combinatie van een smalle doorgetrokken en een smalle onderbroken streep | Combinatie van een smalle doorgetrokken en een smalle onderbroken streep | belijning type gedetailleerd |
-| Doorgetrokken brede stre(e)p(en) | Doorgetrokken brede stre(e)p(en) | belijning type gedetailleerd |
-| Doorgetrokken brede streep | Doorgetrokken brede streep | belijning type gedetailleerd |
-| Doorgetrokken en onderbroken dubbele smalle strepen | Doorgetrokken en onderbroken dubbele smalle strepen | belijning type gedetailleerd |
-| Doorgetrokken smalle streep | Doorgetrokken smalle streep | belijning type gedetailleerd |
-| Doorgetrokken strepen in lengte- of dwarsrichting of scheef op de wegas | Doorgetrokken strepen in lengte- of dwarsrichting of scheef op de wegas | belijning type gedetailleerd |
-| Driehoeksmarkeringen | Driehoeksmarkeringen | belijning type gedetailleerd |
-| Letters, cijfers en zones | Letters, cijfers en zones | belijning type gedetailleerd |
-| Onderbroken brede streep | Onderbroken brede streep | belijning type gedetailleerd |
-| Onderbroken brede strepen | Onderbroken brede strepen | belijning type gedetailleerd |
-| Onderbroken smalle streep | Onderbroken smalle streep | belijning type gedetailleerd |
-| Onderbroken smalle strepen | Onderbroken smalle strepen | belijning type gedetailleerd |
-| Pijlmarkering | Pijlmarkering | belijning type gedetailleerd |
-| Puntstukken en witte vlakken | Puntstukken en witte vlakken | belijning type gedetailleerd |
-| Symboolmarkering | Symboolmarkering | belijning type gedetailleerd |
-| Verdrijfstrepen | Verdrijfstrepen | belijning type gedetailleerd |
+<table class="sortable">
+<tr><th>Combinatie van een smalle doorgetrokken en een smalle onderbroken streep</th><th>Combinatie van een smalle doorgetrokken en een smalle onderbroken streep</th><th>belijning type gedetailleerd</th></tr>
+<tr><td>Doorgetrokken brede stre(e)p(en)</td><td>Doorgetrokken brede stre(e)p(en)</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Doorgetrokken brede streep</td><td>Doorgetrokken brede streep</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Doorgetrokken en onderbroken dubbele smalle strepen</td><td>Doorgetrokken en onderbroken dubbele smalle strepen</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Doorgetrokken smalle streep</td><td>Doorgetrokken smalle streep</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Doorgetrokken strepen in lengte- of dwarsrichting of scheef op de wegas</td><td>Doorgetrokken strepen in lengte- of dwarsrichting of scheef op de wegas</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Driehoeksmarkeringen</td><td>Driehoeksmarkeringen</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Letters, cijfers en zones</td><td>Letters, cijfers en zones</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Onderbroken brede streep</td><td>Onderbroken brede streep</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Onderbroken brede strepen</td><td>Onderbroken brede strepen</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Onderbroken smalle streep</td><td>Onderbroken smalle streep</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Onderbroken smalle strepen</td><td>Onderbroken smalle strepen</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Pijlmarkering</td><td>Pijlmarkering</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Puntstukken en witte vlakken</td><td>Puntstukken en witte vlakken</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Symboolmarkering</td><td>Symboolmarkering</td><td>belijning type gedetailleerd</td></tr>
+<tr><td>Verdrijfstrepen</td><td>Verdrijfstrepen</td><td>belijning type gedetailleerd</td></tr>
+</table>
