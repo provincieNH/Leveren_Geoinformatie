@@ -14,7 +14,7 @@ Op [https://provincienh.github.io/databeheer/mapping.html](https://provincienh.g
 
 __Toekomstige releases__
 
-Om aan te blijven sluiten op andere informatie-systemen en het beheer te optimaliseren, is het Areaaldata model steeds in ontwikkeling. 
-Plannen zijn er voor de volgende releases (grove inschattingen):
+* __5:d6__: Major release: Implementatie IMBOR & invulling informatiebehoefte rondom programma assetmanagement: ***2026***
 
-* __5:d6__: Major release: Implementatie IMBOR & invulling informatiebehoefte rondom programma assetmanagement: **2026**.
+* [Areaaldata 5d4 ontwikkelversie](https://provincienh.github.io/Leveren_Assetdata/static/objecttypes/)
+* [Voorgestelde mapping van AD4 naar AD5](https://provincienh.github.io/databeheer/mapping-ad4-ad5-alles.html)
