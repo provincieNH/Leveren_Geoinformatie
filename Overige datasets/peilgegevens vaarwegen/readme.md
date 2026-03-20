@@ -6,7 +6,7 @@ Deze repository bevat de eisen van de Provincie Noord-Holland voor het aanlevere
 
 De volledige specificatie is beschikbaar in het volgende document:
 
-- [Eisen aan inwinning en aanlevering peilgegeven vaarwegen PNH](Eisen%20aan%20inwinning%20en%20aanlevering%20peilgegeven%20vaarwegen%20PNH.docx)
+- [Eisen aan inwinning en aanlevering peilgegeven vaarwegen PNH](Eisen%20aan%20inwinning%20en%20aanlevering%20peilgegeven%20vaarwegen%20PNH.pdf)
 
 Dit document beschrijft onder andere:
 - de eisen voor het inwinnen van multibeam peilgegevens
