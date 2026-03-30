@@ -16,5 +16,4 @@ __Toekomstige releases__
 
 * __5:d6__: Major release: Implementatie IMBOR & invulling informatiebehoefte rondom programma assetmanagement: ***2026***
 
-* [Areaaldata 5d6 ontwikkelversie](https://provincienh.github.io/Leveren_Assetdata/static/objecttypes/)
-* [Voorgestelde mapping van AD4 naar AD5](https://provincienh.github.io/databeheer/mapping-ad4-ad5-alles.html)
+* [Areaaldata 5d6 ontwikkelversie](https://provincienh.github.io/ils-assetdata/)

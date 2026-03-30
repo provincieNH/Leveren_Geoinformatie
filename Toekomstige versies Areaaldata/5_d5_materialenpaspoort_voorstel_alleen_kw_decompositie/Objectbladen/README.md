@@ -1,3 +1,0 @@
-﻿# Objectbladen Areaaldata
-
-In ontwikkeling
