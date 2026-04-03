@@ -12,14 +12,14 @@
 ***
 
 
-|KOLOM                               |Alias*                             |TYPE (length, precision, scale)               |DEFINITIE (oorsprong; beschrijving; keuzelijst; nullable; default)|
-|------                              |----                              |-----                                          |----
-|OBJECTID                            |                                  |OID(0,10)                                      |PNH; Intern ArcGIS Identificatienummer; ; Nullable: False; Default: None|
-|SHAPE                               |                                  |GEOMETRY                                       |PNH; Geometrie; ; Nullable: True; Default: None|
-|WEGNR                               |wegnr                             |TEXT(255)                                      |PNH; Wegnummer; ; Nullable: True; Default: None|
-|HMNR                                |hmnr                              |LONG(0,10)                                     |PNH; ; ; Nullable: True; Default: None|
-|WEGZIJDE                            |wegzijde                          |TEXT(255)                                      |PNH; ; ; Nullable: True; Default: None|
-|GEBIEDSCONTRACTREGIO                |gebiedscontractregio (ad_id)      |TEXT(255)                                      |PNH; AD id van de gebiedscontractregio; ; Nullable: True; Default: None|
-|MONSTERPUNT_ID                      |                                  |GUID                                           |PNH; Identificatienummer van het monsterpunt; ; Nullable: False; Default: None|
+|KOLOM                               | ALIAS*                       |TYPE (length, precision, scale)               |DEFINITIE (oorsprong; beschrijving; keuzelijst; nullable; default)|
+|------                              |------------------------------|-----                                          |----|
+|OBJECTID                            |                              |OID(0,10)                                      |PNH; Intern ArcGIS Identificatienummer; ; Nullable: False; Default: None|
+|SHAPE                               |                              |GEOMETRY                                       |PNH; Geometrie; ; Nullable: True; Default: None|
+|WEGNR                               | wegnr                        |TEXT(255)                                      |PNH; Wegnummer; ; Nullable: True; Default: None|
+|HMNR                                | hmnr                         |LONG(0,10)                                     |PNH; ; ; Nullable: True; Default: None|
+|WEGZIJDE                            | wegzijde                     |TEXT(255)                                      |PNH; ; ; Nullable: True; Default: None|
+|GEBIEDSCONTRACTREGIO                | gebiedscontractregio (ad_id) |TEXT(255)                                      |PNH; AD id van de gebiedscontractregio; ; Nullable: True; Default: None|
+|MONSTERPUNT_ID                      |                              |GUID                                           |PNH; Identificatienummer van het monsterpunt; ; Nullable: False; Default: None|
 ***
 
