@@ -8,4 +8,4 @@ Publicatiedatum: 01-02-2026
 
 Let op: dit is de eerste versie van het datamodel en model en definities kunnen nog veranderen.
 
-Bij vragen kunt u zich wenden tot monneb@noord-holland.nl
+Bij vragen kunt u zich wenden tot areaaldata@noord-holland.nl
