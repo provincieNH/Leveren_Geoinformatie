@@ -1,8 +1,8 @@
 ﻿# Leveringsspecificatie Meetnet Biodiversiteit versie 1.1
 
-Hier staan de objectbladen en templates die horen bij het datamodel Meetnet Biodiversiteit versie 1.1
+Hier staan de objectbladen en een template die hoort bij het datamodel Meetnet Biodiversiteit versie 1.1
 
-Het datamodel kan in QGIS of ArcGIS worden geladen via templates.
+Het datamodel kan in QGIS of ArcGIS worden geladen via de template.
 
 Publicatiedatum: 19-11-2026
 
