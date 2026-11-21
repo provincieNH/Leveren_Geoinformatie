@@ -1,4 +1,4 @@
-## mbb.waarnemingen_insecten
+## mbb.waarnemingen_fauna
 
 * __MBB model versie:__ 1.0
 * __BGT inhoud:__ Nee
